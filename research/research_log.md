@@ -84,3 +84,31 @@
 - Result: HTTP 429 bot-checkpoint; unsuccessful.
 - Limitations: Retry with different source (Encyclopedia Astronautica / Space Launch Report)
 
+### 13. 2026-11-15 — Reading (follow-up): Ch7 (5356-6120), Ch12 (11026-11307), Ch13 (11308-12551), Ch14 (12552-12770), Ch15 (12771-12986)
+- Reason: User requested full read + extraction + verification of these chapters
+- Tool: Read tool
+- Query/target: offsets as listed
+- Result: All lines of these chapters read verbatim (2,585 lines).
+- Limitations: Ch15 ends at line 12986; chapter 16 begins 12987 (not read)
+
+### 14. 2026-11-15 — WebSearch: Minot 24 Oct 1968 / Krause letter / Cox column / Condon / Frazier-Oberg
+- Reason: Verify claims in newly read chapters
+- Tool: WebSearch standard
+- Query/target: 5 parallel queries
+- Result: Found Tulien report, Cox column copy, Condon & Frazier pages; Krause letter not found.
+- Limitations: Search summaries are discovery only
+
+### 15. 2026-11-15 — Fetch + read: minotb52ufo.com investigation; Patrick Gross Cox column; Wikipedia Condon, Frazier, SM-65 Atlas, Walker AFB
+- Reason: Primary/secondary checking
+- Tool: curl via proxy
+- Query/target: see SRC017-SRC021
+- Result: Quintanilla text and Oscar-7 break-in confirmed; Cox column matches; Atlas deployment partly differs; Frazier Sandia 1983-2006.
+- Limitations: Original Blue Book PDFs not opened
+
+### 16. 2026-11-15 — Unsuccessful search: Krause letter NICAP 20 Dec 1964
+- Reason: Locate the letter
+- Tool: WebSearch
+- Query/target: Barry Krause letter NICAP ...
+- Result: Not found.
+- Limitations: Absence of search hit is not evidence of absence; try CUFOS/NICAP archive
+

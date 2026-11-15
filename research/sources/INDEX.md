@@ -18,3 +18,9 @@
 | SRC014 | Rendlesham Forest incident | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/Rendlesham_Forest_incident |
 | SRC015 | Chadwell memo reference (CIA FOIA Reading Room node 415717) | PRIMARY | DISCOVERED | SOURCE_UNAVAILABLE | https://www.cia.gov/readingroom/node/415717 |
 | SRC016 | Ufology-side summary pages for Dec 1952 CIA/ DCI materials (CIA Reading Room docs 0005515935/0985329 listed in search) | SECONDARY | DISCOVERED | INSUFFICIENT_EVIDENCE | https://www.ufoscans.com/c05515935/ |
+| SRC017 | Investigation of UFO Events at Minot AFB on 24 October 1968 | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/investigation/investigation-full.php |
+| SRC018 | UFOs haunt missile crew (Florida Today column, Patrick Gross copy) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://ufologie.patrickgross.org/htm/floridatoday01.htm |
+| SRC019 | Condon Committee | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://www.wikipedia.org/wiki/Condon_Report |
+| SRC020 | Kendrick Frazier | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://www.wikipedia.org/wiki/Kendrick_Frazier |
+| SRC021 | SM-65 Atlas | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/SM-65_Atlas |
+| SRC022 | Search for Krause letter to NICAP (20 Dec 1964) | UNKNOWN | DISCOVERED | SOURCE_UNAVAILABLE |  |

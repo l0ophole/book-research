@@ -46,9 +46,9 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC040 | Chapter 5 | The Savannah River Plant | 5042 | 5058 | 180 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC041 | Chapter 6 | 6. The Crisis | 5059 | 5165 | 965 | 100.0 | FULL_READ |
 | SEC042 | Chapter 6 | Witness to a Limited Intervention? | 5166 | 5355 | 1911 | 100.0 | FULL_READ |
-| SEC043 | Chapter 7 | 7. The Arrows of Armageddon | 5356 | 5514 | 1399 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC044 | Chapter 7 | The Other Roswell Incidents | 5515 | 6021 | 5003 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC045 | Chapter 7 | UFO Sightings at Other Atlas ICBM Sites | 6022 | 6120 | 979 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC043 | Chapter 7 | 7. The Arrows of Armageddon | 5356 | 5514 | 1399 | 100.0 | FULL_READ |
+| SEC044 | Chapter 7 | The Other Roswell Incidents | 5515 | 6021 | 5003 | 100.0 | FULL_READ |
+| SEC045 | Chapter 7 | UFO Sightings at Other Atlas ICBM Sites | 6022 | 6120 | 979 | 100.0 | FULL_READ |
 | SEC046 | Chapter 8 | 8. Visitors | 6121 | 6280 | 1474 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC047 | Chapter 8 | The Key Questions | 6281 | 6301 | 112 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC048 | Chapter 8 | Who Are They? | 6302 | 6358 | 505 | 0.0 | PATTERN_SCAN_ONLY |
@@ -80,10 +80,10 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC074 | Chapter 11 | Picking Up the Pieces | 10259 | 10936 | 6978 | 3.5 | PARTIAL_READ |
 | SEC075 | Chapter 11 | The Reluctant Source | 10937 | 10990 | 509 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC076 | Chapter 11 | “A Lot Like the UFO Night” | 10991 | 11025 | 321 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC077 | Chapter 12 | 12. Leaving Tracks | 11026 | 11307 | 2732 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC078 | Chapter 13 | 13. Science, Sort of | 11308 | 12551 | 11034 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC079 | Chapter 14 | 14. Launch in Progress! | 12552 | 12770 | 2249 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC080 | Chapter 15 | 15. “Someone is seeing flying saucers again.” | 12771 | 12986 | 2034 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC077 | Chapter 12 | 12. Leaving Tracks | 11026 | 11307 | 2732 | 100.0 | FULL_READ |
+| SEC078 | Chapter 13 | 13. Science, Sort of | 11308 | 12551 | 11034 | 100.0 | FULL_READ |
+| SEC079 | Chapter 14 | 14. Launch in Progress! | 12552 | 12770 | 2249 | 100.0 | FULL_READ |
+| SEC080 | Chapter 15 | 15. “Someone is seeing flying saucers again.” | 12771 | 12986 | 2034 | 100.0 | FULL_READ |
 | SEC081 | Chapter 16 | 16. Look Over Here, Not Over There! | 12987 | 13288 | 2798 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC082 | Chapter 17 | 17. Into the Seventies | 13289 | 13992 | 6605 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC083 | Chapter 18 | 18. The Northern Tier Incursions | 13993 | 14120 | 1080 | 100.0 | FULL_READ |

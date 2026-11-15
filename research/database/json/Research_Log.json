@@ -118,5 +118,45 @@
   "query": "outrocket.com atlas-abres-lorv-3",
   "result": "HTTP 429 bot-checkpoint; unsuccessful.",
   "limitations": "Retry with different source (Encyclopedia Astronautica / Space Launch Report)"
+ },
+ {
+  "log_id": 13,
+  "log_date": "2026-11-15",
+  "action": "Reading (follow-up): Ch7 (5356-6120), Ch12 (11026-11307), Ch13 (11308-12551), Ch14 (12552-12770), Ch15 (12771-12986)",
+  "reason": "User requested full read + extraction + verification of these chapters",
+  "tool": "Read tool",
+  "query": "offsets as listed",
+  "result": "All lines of these chapters read verbatim (2,585 lines).",
+  "limitations": "Ch15 ends at line 12986; chapter 16 begins 12987 (not read)"
+ },
+ {
+  "log_id": 14,
+  "log_date": "2026-11-15",
+  "action": "WebSearch: Minot 24 Oct 1968 / Krause letter / Cox column / Condon / Frazier-Oberg",
+  "reason": "Verify claims in newly read chapters",
+  "tool": "WebSearch standard",
+  "query": "5 parallel queries",
+  "result": "Found Tulien report, Cox column copy, Condon & Frazier pages; Krause letter not found.",
+  "limitations": "Search summaries are discovery only"
+ },
+ {
+  "log_id": 15,
+  "log_date": "2026-11-15",
+  "action": "Fetch + read: minotb52ufo.com investigation; Patrick Gross Cox column; Wikipedia Condon, Frazier, SM-65 Atlas, Walker AFB",
+  "reason": "Primary/secondary checking",
+  "tool": "curl via proxy",
+  "query": "see SRC017-SRC021",
+  "result": "Quintanilla text and Oscar-7 break-in confirmed; Cox column matches; Atlas deployment partly differs; Frazier Sandia 1983-2006.",
+  "limitations": "Original Blue Book PDFs not opened"
+ },
+ {
+  "log_id": 16,
+  "log_date": "2026-11-15",
+  "action": "Unsuccessful search: Krause letter NICAP 20 Dec 1964",
+  "reason": "Locate the letter",
+  "tool": "WebSearch",
+  "query": "Barry Krause letter NICAP ...",
+  "result": "Not found.",
+  "limitations": "Absence of search hit is not evidence of absence; try CUFOS/NICAP archive"
  }
 ]

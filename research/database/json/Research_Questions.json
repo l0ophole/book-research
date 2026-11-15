@@ -128,5 +128,57 @@
   "verification_criteria": "Section coverage = 100% FULL_READ",
   "status": "IN_PROGRESS",
   "next_action": "Select next chapter with user"
+ },
+ {
+  "question_id": "RQ011",
+  "question": "What do the primary Blue Book case 12,548 documents show for Minot 24 Oct 1968, and do aircraft/star explanations account for the ground and radar observations?",
+  "priority": "CRITICAL",
+  "related_entities": "INC052;GOV014;GOV015;GOV016;EXP024;EXP025",
+  "existing_evidence": "Tulien report; Quintanilla statement; dispatcher log",
+  "missing_evidence": "Radarscope prints and film; SAC (Werlich) investigation; Oscar-7 break-in report; B-52 flight track",
+  "potential_sources": "NARA Blue Book; Tulien; AFHRA",
+  "recommended_methods": "Download file; compare book narrative with documents; reconstruct B-52 track/star positions",
+  "verification_criteria": "Independent radar-speed recalculation; documented intrusion explanation",
+  "status": "IN_PROGRESS",
+  "next_action": "Pull Tulien PDF and verify against NARA roll"
+ },
+ {
+  "question_id": "RQ012",
+  "question": "Can the Walker AFB (579th SMS) sightings be corroborated by contemporaneous records, and did the Krause letter exist as quoted?",
+  "priority": "HIGH",
+  "related_entities": "INC037;INC038;INC041;INC042;GOV013",
+  "existing_evidence": "Recollections 40 years later; Cox column",
+  "missing_evidence": "Krause letter original; 579th SMS history; AFOSI records",
+  "potential_sources": "CUFOS; AFHRA; NICAP",
+  "recommended_methods": "Locate letter; check unit histories",
+  "verification_criteria": "Original letter text; unit log",
+  "status": "NOT_STARTED",
+  "next_action": "Contact CUFOS/Aldrich"
+ },
+ {
+  "question_id": "RQ013",
+  "question": "Is Schuur's Minot \"Launch in Progress\" account compatible with Minuteman I/II launch-control design and fault history?",
+  "priority": "CRITICAL",
+  "related_entities": "INC050;CLM077;CLM079",
+  "existing_evidence": "Single-witness interview (2007)",
+  "missing_evidence": "Minuteman launch-control technical orders; Minot fault logs; PAS tapes; other crew testimony",
+  "potential_sources": "Boeing/AF technical manuals; AFHRA; AAFM",
+  "recommended_methods": "Technical review with former missileers; compare with Echo/Alpha spurious indications",
+  "verification_criteria": "Documented fault or second witness",
+  "status": "NOT_STARTED",
+  "next_action": "Find Minuteman LCC indicator documentation"
+ },
+ {
+  "question_id": "RQ014",
+  "question": "Do the claims about Condon Committee and skeptics' affiliations (Ch13) hold up against primary documents?",
+  "priority": "MEDIUM",
+  "related_entities": "CLM065;CLM066;CLM067;CLM068;CLM071;CLM072;CLM073",
+  "existing_evidence": "Wikipedia comparison",
+  "missing_evidence": "Condon Report vol. text; Low memo; Frazier/Oberg resumes",
+  "potential_sources": "Project1947; CU Boulder archive",
+  "recommended_methods": "Document-by-document check; separate factual from ad hominem points",
+  "verification_criteria": "Original quotations located",
+  "status": "IN_PROGRESS",
+  "next_action": "Fetch Condon Report summary and Low memo from Project1947"
  }
 ]

@@ -11,7 +11,7 @@ SQLite file `evidence.sqlite` is authoritative; CSV and JSON files in sibling fo
 **Provenance:** every record carrying `line_ref` points to a line number in the supplied markdown file (`f3ff02a2-hastings-2008-ufos-and-nukes.md`); the markdown has no page numbers. `section_id` joins to Document_Sections.
 
 ## Claims
-Rows: 56
+Rows: 86
 
 | name | type | pk |
 |---|---|---|
@@ -29,7 +29,7 @@ Rows: 56
 Foreign keys: section_id → Document_Sections
 
 ## Competing_Explanations
-Rows: 20
+Rows: 25
 
 | name | type | pk |
 |---|---|---|
@@ -45,7 +45,7 @@ Rows: 20
 Foreign keys: section_id → Document_Sections
 
 ## Document_Claim_Links
-Rows: 56
+Rows: 86
 
 | name | type | pk |
 |---|---|---|
@@ -95,7 +95,7 @@ Rows: 1
 | access_limitations | TEXT | 0 |
 
 ## Evidence_Records
-Rows: 13
+Rows: 22
 
 | name | type | pk |
 |---|---|---|
@@ -113,7 +113,7 @@ Rows: 13
 Foreign keys: section_id → Document_Sections
 
 ## Government_Documents
-Rows: 13
+Rows: 17
 
 | name | type | pk |
 |---|---|---|
@@ -132,7 +132,7 @@ Rows: 13
 Foreign keys: section_id → Document_Sections
 
 ## Incidents
-Rows: 36
+Rows: 54
 
 | name | type | pk |
 |---|---|---|
@@ -151,7 +151,7 @@ Rows: 36
 Foreign keys: section_id → Document_Sections
 
 ## Missing_Records
-Rows: 23
+Rows: 33
 
 | name | type | pk |
 |---|---|---|
@@ -183,7 +183,7 @@ Rows: 196
 Foreign keys: first_section_id → Document_Sections
 
 ## Pattern_Scan_Leads
-Rows: 194
+Rows: 160
 
 | name | type | pk |
 |---|---|---|
@@ -214,7 +214,7 @@ Rows: 358
 Foreign keys: section_id → Document_Sections
 
 ## Relationships
-Rows: 203
+Rows: 330
 
 | name | type | pk |
 |---|---|---|
@@ -225,7 +225,7 @@ Rows: 203
 | note | TEXT | 0 |
 
 ## Research_Log
-Rows: 12
+Rows: 16
 
 | name | type | pk |
 |---|---|---|
@@ -239,7 +239,7 @@ Rows: 12
 | limitations | TEXT | 0 |
 
 ## Research_Questions
-Rows: 10
+Rows: 14
 
 | name | type | pk |
 |---|---|---|
@@ -264,7 +264,7 @@ Rows: 4
 | value | TEXT | 0 |
 
 ## Sources
-Rows: 16
+Rows: 22
 
 | name | type | pk |
 |---|---|---|
@@ -286,7 +286,7 @@ Rows: 16
 | examination_level | TEXT | 0 |
 
 ## Technical_Evidence
-Rows: 5
+Rows: 9
 
 | name | type | pk |
 |---|---|---|
@@ -302,7 +302,7 @@ Rows: 5
 Foreign keys: section_id → Document_Sections
 
 ## Witness_Incidents
-Rows: 33
+Rows: 68
 
 | name | type | pk |
 |---|---|---|
@@ -312,7 +312,7 @@ Rows: 33
 Foreign keys: incident_id → Incidents; witness_id → Witnesses
 
 ## Witnesses
-Rows: 33
+Rows: 65
 
 | name | type | pk |
 |---|---|---|

@@ -35,3 +35,35 @@
 | WIT030 | Jack Acuff | NICAP president; received leaked NORAD/NMCC docs from DIA analyst "Deep Throat" (1976) | INVESTIGATOR | NAMED |
 | WIT031 | Col. Charles I. Halt (ret.) | Deputy Base Commander RAF Bentwaters 1980; author of memo; present in forest | YES (forest sightings); SECONDHAND for WSA | NAMED |
 | WIT032 | James McGaha | Skeptic; proposed Orford Ness lighthouse explanation | CRITIC | NAMED |
+| WIT033 | Jerry C. Nelson | Deputy Missile Combat Crew Commander, 579th SMS Site 9; retired pharmacist (per Florida Today) | NO (heard guards by phone) | NAMED |
+| WIT034 | Bob Caplan | Missile facilities technician, 579th SMS | YES (INC038); HEARSAY (INC039 radar/jets) | NAMED |
+| WIT035 | Thomas (Tom) Kaminski | A1C, Atlas missile facilities technician, 579th SMS | YES | NAMED |
+| WIT036 | Gene Lamb | Deputy crew commander, 579th SMS (Oklahoma City) | NO (heard from crew commander) | NAMED |
+| WIT037 | Lt. Col. Philip E. Moore (ret.) | DMCCC, 579th SMS Site 7, late 1964 | YES (partly; did not see UFO himself) | NAMED |
+| WIT038 | Jack Nevins | TSgt, Site 7 crew 1964 | YES | NAMED |
+| WIT039 | Maj. Dan Gilbert; A1C Bob Garner; A1C Mike Rundag | Site 7 crew 1964 | YES (per Moore) | NAMED |
+| WIT040 | Roger T. Goss | Airman, 6th Combat Defense Sq, guard at Site 9 (Jun 1963-Jun 1964) | YES | NAMED |
+| WIT041 | A2C Barry L. Krause (d. Sept 1973) | Missile facilities technician, 579th SMS; letter to NICAP 20 Dec 1964 | YES (contemporaneous, partly hearsay) | NAMED |
+| WIT042 | Jan Aldrich | Researcher; supplied copy of Krause letter | INVESTIGATOR | NAMED |
+| WIT043 | Billy Cox | Florida Today columnist, wrote June 2001 piece "UFOs Haunt Missile Crew" | INVESTIGATOR (journalist) | NAMED |
+| WIT044 | Harold J. Renninger | MSgt (ret.), launch facilities tech, 564th SMS 1958-61 | YES | NAMED |
+| WIT045 | Arthur McEnaney | A1C, Air Policeman, 809th Combat Defense Sq (Warren) | YES | NAMED |
+| WIT046 | SSgt Fred Coffer | NCOIC (per McEnaney) | NO | NAMED |
+| WIT047 | Grover Austad | FAA controller at Malmstrom SAGE building late 1960s; earlier Salt Lake ATC Center | YES | NAMED |
+| WIT048 | Dean Goodman | Retired FAA controller, Great Falls | NO (overheard) | NAMED |
+| WIT049 | Paul Selley | Retired FAA RAPCON controller, Malmstrom | YES | NAMED |
+| WIT050 | Bob Grasser (deceased) | RAPCON supervisor, probably the controller who showed author the radar scope in 1967 (identification by Selley from description) | YES (per author) | NAMED |
+| WIT051 | O.P. "Pote" Morrow | RAPCON supervisor 1967-1980 | PARTIAL (recalls only after prompt) | NAMED |
+| WIT052 | "Bud" Kittleson | FAA Planning & Procedures Officer / AF-FAA liaison, Malmstrom | PARTIAL | NAMED |
+| WIT053 | Tim Mullen; Louis Nagey | Retired controllers | NO | NAMED |
+| WIT054 | Joe Weinzetl; Jerry Webster | RAPCON controllers (Weinzetl 1958-78) | YES | NAMED |
+| WIT055 | David H. Schuur | 1st Lt, DMCCC, 455th/91st SMW Minot, Dec 1963-Nov 1967 (Echo LCC) | YES | NAMED |
+| WIT056 | Larry Johnson | Capt, Missile Combat Crew Commander, F.E. Warren (India Flight), 1967/68 | YES (not first-hand sight: heard SAT) | NAMED |
+| WIT057 | Tom Tulien | Researcher (Sign Oral History Project) of Minot 1968 case; also Jim Klotz per book | INVESTIGATOR | NAMED |
+| WIT058 | Maj. Patrick McCaslin | B-52 navigator, 5th Bomb Wing | YES (radar; did not see object) | NAMED |
+| WIT059 | Maj. Chuck Ritchey | B-52 radar navigator; took radarscope film | YES | NAMED |
+| WIT060 | Richard Clark | 5th BW intelligence officer; computed UFO speed from film | SECONDHAND (film analysis) | NAMED |
+| WIT061 | Capt. Bradford Runyon; Maj. James Partin | B-52 co-pilot; Instructor Pilot | YES (visual) | NAMED |
+| WIT062 | A1C Lloyd Isley; A1C Robert O'Connor | 91st MIMS technicians who saw light en route to N-7 | YES | NAMED |
+| WIT063 | Maj. Hector Quintanilla Jr. | Chief, Project Blue Book (evaluator) | EVALUATOR | NAMED |
+| WIT064 | Larry Manross | Launch crew commander at Minot 1966-70 (Yahoo missile_talk post to Hastings 2005) | YES (heard security; was in capsule) | NAMED |

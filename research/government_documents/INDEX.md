@@ -15,3 +15,7 @@
 | GOV010 | NMCC message(s) re Northern Tier sightings; initially withheld | NMCC / JCS | 1975-10/11 | AVAILABLE? (declassified later per author) | NOT_YET_INVESTIGATED |
 | GOV011 | Project Blue Book Officer-on-Duty memorandum/log re F.E. Warren sightings 1 Aug 1965 (published by J.A. Hynek 1972) | USAF Project Blue Book | 1965-08-01 | AVAILABLE? | NOT_YET_INVESTIGATED |
 | GOV012 | Lt. Col. Charles I. Halt memorandum "Unexplained Lights" (to RAF/CC) | USAF (81st Tactical Fighter Wing) | 1981-01-13 | AVAILABLE | CORROBORATED |
+| GOV013 | Krause letter to NICAP, 20 Dec 1964 (copy supplied by Jan Aldrich) | NICAP (recipient); A2C Barry L. Krause (author) | 1964-12-20 | NOT LOCATED online (search unsuccessful) | NOT_YET_INVESTIGATED |
+| GOV014 | Project Blue Book case file 12,548 (Minot AFB, 24 Oct 1968; 24 Oct-14 Nov 1968) | USAF Project Blue Book / FTD | 1968-10-24..11-14 | AVAILABLE (130-145 pp) | PARTIALLY_VERIFIED |
+| GOV015 | Quintanilla/FTD statement on Minot UFO reports | USAF FTD | 1968-11-13 | AVAILABLE | VERIFIED |
+| GOV016 | Base Operations Dispatcher log 24 Oct 1968 (Minot) | USAF 91st SMW / Minot AFB | 1968-10-24 | AVAILABLE? | PARTIALLY_VERIFIED |

@@ -228,5 +228,105 @@
   "status": "OPEN",
   "section_id": "SEC087",
   "line_ref": 15953
+ },
+ {
+  "missing_id": "MIS024",
+  "description": "579th Strategic Missile Squadron / 6th Combat Defense Sq histories 1962-65; Walker AFB command post and AFOSI incident records",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "AFHRA (Maxwell); NARA; AFOSI",
+  "acquisition_method": "FOIA/MDR; AFHRA unit history call numbers",
+  "status": "OPEN",
+  "section_id": "SEC044",
+  "line_ref": 5575
+ },
+ {
+  "missing_id": "MIS025",
+  "description": "Krause letter in NICAP archive (original, with envelope/date) and NICAP reply",
+  "existence_status": "REFERENCED (copy said to exist)",
+  "potential_repository": "CUFOS; Jan Aldrich collection; NICAP files",
+  "acquisition_method": "Contact CUFOS; check nicap.org docs",
+  "status": "OPEN",
+  "section_id": "SEC044",
+  "line_ref": 5958
+ },
+ {
+  "missing_id": "MIS026",
+  "description": "Billy Cox, \"UFOs Haunt Missile Crew\", Florida Today (June 2001) full original",
+  "existence_status": "KNOWN",
+  "potential_repository": "Florida Today archives; Patrick Gross copy (partial)",
+  "acquisition_method": "Library database search",
+  "status": "OPEN",
+  "section_id": "SEC044",
+  "line_ref": 5531
+ },
+ {
+  "missing_id": "MIS027",
+  "description": "FAA RAPCON/ATC logs and ADC SAGE radar logs, Malmstrom/Great Falls, 1960s",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "FAA records (NARA RG 237); NARA Air Defense Command records",
+  "acquisition_method": "FOIA/NARA search",
+  "status": "OPEN",
+  "section_id": "SEC077",
+  "line_ref": 11078
+ },
+ {
+  "missing_id": "MIS028",
+  "description": "Original Condon Report case files (University of Colorado archive) and Low memo of 9 Aug 1966; AF contract records",
+  "existence_status": "KNOWN",
+  "potential_repository": "University of Colorado Boulder Libraries (Condon papers); Project1947/Sign Historical Group",
+  "acquisition_method": "Retrieve Condon Report volumes and Low memo from Project1947",
+  "status": "OPEN",
+  "section_id": "SEC078",
+  "line_ref": 11701
+ },
+ {
+  "missing_id": "MIS029",
+  "description": "91st SMW Command Post logs and capsule PAS tapes (24-hr), Echo/Alpha flights, 1965-67",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "AFHRA; NARA; 91st SMW history (Minot)",
+  "acquisition_method": "FOIA/MDR",
+  "status": "OPEN",
+  "section_id": "SEC079",
+  "line_ref": 12678
+ },
+ {
+  "missing_id": "MIS030",
+  "description": "AAFM Newsletter (Sept 2002, June 2007) with Hastings requests",
+  "existence_status": "KNOWN",
+  "potential_repository": "Association of Air Force Missileers",
+  "acquisition_method": "Request from AAFM",
+  "status": "OPEN",
+  "section_id": "SEC079",
+  "line_ref": 12559
+ },
+ {
+  "missing_id": "MIS031",
+  "description": "Blue Book case 12,548 complete file incl. 14 radarscope prints, RAPCON transcript, dispatcher log, SAC investigation (Werlich)",
+  "existence_status": "KNOWN",
+  "potential_repository": "NARA Blue Book microfilm; Tulien/Sign Oral History Project; Fold3/Blue Book Archive",
+  "acquisition_method": "Download from Tulien site; verify with NARA roll",
+  "status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12788
+ },
+ {
+  "missing_id": "MIS032",
+  "description": "Original B-52 radarscope film (35 mm) and any SAC photo analysis report",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "AFHRA; NARA; Tulien collection",
+  "acquisition_method": "Inquire with Tulien/ SOHP",
+  "status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12860
+ },
+ {
+  "missing_id": "MIS033",
+  "description": "91st SMW wing history Oct-Dec 1968 incl. Oscar-7 break-in investigation (OSI/Security Police)",
+  "existence_status": "REFERENCED",
+  "potential_repository": "AFHRA; NARA",
+  "acquisition_method": "Request via AFHRA",
+  "status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12805
  }
 ]

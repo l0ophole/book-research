@@ -38,3 +38,21 @@
 | INC033 | 1965-08-01 | F.E. Warren AFB, WY (90th SMW): LCFs Echo, Golf, Quebec; LFs B-4, E-2, G-1, H-2 | HIGH | PARTIALLY_VERIFIED | 3 | 8814 |
 | INC034 | 1980-12-26 to 1980-12-28 | RAF Woodbridge / Rendlesham Forest / RAF Bentwaters, Suffolk, UK | HIGH | PARTIALLY_VERIFIED | 3 | 15951 |
 | INC035 | 1980-12 (late Dec) | RAF Bentwaters Weapons Storage Area | HIGH | UNVERIFIED | 1 | 16043 |
+| INC036 | 1959-10/11 | Vandenberg AFB area, CA | LOW | NOT_YET_INVESTIGATED | 0 | 5440 |
+| INC037 | 1962-63 or winter 1963/64 | Walker AFB, NM - 579th SMS Atlas Site 9 (west of Roswell) | HIGH | UNVERIFIED | 1 | 5538 |
+| INC038 | 1963 (Caplan estimate) | Walker AFB Atlas Site 9 perimeter fence | MEDIUM | UNVERIFIED | 1 | 5587 |
+| INC039 | 1963-64 | Walker AFB (on base) | MEDIUM | UNVERIFIED | 1 | 5639 |
+| INC040 | 1964 or 1965 | Atlas site NE of Walker AFB | MEDIUM | UNVERIFIED | 1 | 5672 |
+| INC041 | 1964-10 to 1964-12 (Moore estimate) | Walker AFB Atlas Sites 6, 7, 8 (SSE of Roswell) | MEDIUM | UNVERIFIED | 1 | 5732 |
+| INC042 | 1964 (letter dated 1964-12-20) | Walker AFB Atlas Site 8 (Route 285 south of Roswell) and other sites | HIGH | UNVERIFIED | 1 | 5958 |
+| INC043 | 1960-03/04 | F.E. Warren AFB Atlas Site 1 (564th SMS) | LOW | UNVERIFIED | 1 | 6028 |
+| INC044 | 1964-08 | F.E. Warren AFB Site 1 Pad 1 (566th SMS area) | LOW | UNVERIFIED | 1 | 6084 |
+| INC045 | late 1960s (year unspecified) | FAA/Air Force SAGE building, Malmstrom AFB | MEDIUM | UNVERIFIED | 1 | 11058 |
+| INC046 | undated (mid-1950s?) | Salt Lake ATC Center / Burley, Idaho / Hill AFB | MEDIUM | UNVERIFIED | 1 | 11084 |
+| INC047 | 1954-06-26 | National Reactor Testing Station, Idaho | LOW | NOT_YET_INVESTIGATED | 0 | 11108 |
+| INC048 | 1960s (unspecified) | Malmstrom RAPCON, Great Falls MT | MEDIUM | UNVERIFIED | 1 | 11145 |
+| INC049 | 1960s-70s (unspecified) | Malmstrom RAPCON / SAGE | MEDIUM | UNVERIFIED | 1 | 11237 |
+| INC050 | 1965-07 to 1967-07 (Schuur; likely 1966/67) | Minot AFB, Echo LCC (91st SMW), flights Alpha through Oscar | CRITICAL | UNVERIFIED | 1 | 12554 |
+| INC051 | 1967 or 1968 | F.E. Warren AFB, India Flight LCC area | LOW | UNVERIFIED | 1 | 12722 |
+| INC052 | 1968-10-24 | Minot AFB, ND: LFs O-6, N-7, Oscar/November LCFs, Bowbells area; B-52 inbound (5th BW) | CRITICAL | PARTIALLY_VERIFIED | 3 | 12773 |
+| INC053 | 1966-1970 (Manross; 1967/68 for buzzing) | Minot AFB missile field | LOW | UNVERIFIED | 1 | 12945 |

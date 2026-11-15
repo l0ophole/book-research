@@ -100,3 +100,43 @@
 - **Status:** IN_PROGRESS
 - **Next action:** Select next chapter with user
 
+## RQ011 [CRITICAL] — What do the primary Blue Book case 12,548 documents show for Minot 24 Oct 1968, and do aircraft/star explanations account for the ground and radar observations?
+- **Related:** INC052;GOV014;GOV015;GOV016;EXP024;EXP025
+- **Existing evidence:** Tulien report; Quintanilla statement; dispatcher log
+- **Missing evidence:** Radarscope prints and film; SAC (Werlich) investigation; Oscar-7 break-in report; B-52 flight track
+- **Potential sources:** NARA Blue Book; Tulien; AFHRA
+- **Methods:** Download file; compare book narrative with documents; reconstruct B-52 track/star positions
+- **Verification criteria:** Independent radar-speed recalculation; documented intrusion explanation
+- **Status:** IN_PROGRESS
+- **Next action:** Pull Tulien PDF and verify against NARA roll
+
+## RQ012 [HIGH] — Can the Walker AFB (579th SMS) sightings be corroborated by contemporaneous records, and did the Krause letter exist as quoted?
+- **Related:** INC037;INC038;INC041;INC042;GOV013
+- **Existing evidence:** Recollections 40 years later; Cox column
+- **Missing evidence:** Krause letter original; 579th SMS history; AFOSI records
+- **Potential sources:** CUFOS; AFHRA; NICAP
+- **Methods:** Locate letter; check unit histories
+- **Verification criteria:** Original letter text; unit log
+- **Status:** NOT_STARTED
+- **Next action:** Contact CUFOS/Aldrich
+
+## RQ013 [CRITICAL] — Is Schuur's Minot "Launch in Progress" account compatible with Minuteman I/II launch-control design and fault history?
+- **Related:** INC050;CLM077;CLM079
+- **Existing evidence:** Single-witness interview (2007)
+- **Missing evidence:** Minuteman launch-control technical orders; Minot fault logs; PAS tapes; other crew testimony
+- **Potential sources:** Boeing/AF technical manuals; AFHRA; AAFM
+- **Methods:** Technical review with former missileers; compare with Echo/Alpha spurious indications
+- **Verification criteria:** Documented fault or second witness
+- **Status:** NOT_STARTED
+- **Next action:** Find Minuteman LCC indicator documentation
+
+## RQ014 [MEDIUM] — Do the claims about Condon Committee and skeptics' affiliations (Ch13) hold up against primary documents?
+- **Related:** CLM065;CLM066;CLM067;CLM068;CLM071;CLM072;CLM073
+- **Existing evidence:** Wikipedia comparison
+- **Missing evidence:** Condon Report vol. text; Low memo; Frazier/Oberg resumes
+- **Potential sources:** Project1947; CU Boulder archive
+- **Methods:** Document-by-document check; separate factual from ad hominem points
+- **Verification criteria:** Original quotations located
+- **Status:** IN_PROGRESS
+- **Next action:** Fetch Condon Report summary and Low memo from Project1947
+

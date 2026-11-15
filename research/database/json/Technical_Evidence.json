@@ -48,5 +48,45 @@
   "notes": "Log summarises: 10-13,000 ft; 18 kt, 9,500 ft; stationary/7 kt at 12,000 ft.",
   "section_id": "SEC083",
   "line_ref": 14078
+ },
+ {
+  "tech_id": "TEC006",
+  "evidence_type": "Radar tracking claims (hearsay): Walker AFB base-wide star-like light; Site capsules told \"we have them on radar\" (Kaminski)",
+  "originating_system": "Walker AFB radar / unspecified",
+  "evidence_date": "1963-65",
+  "raw_data_availability": "No records identified",
+  "notes": "All hearsay; fighters not stationed at Walker.",
+  "section_id": "SEC044",
+  "line_ref": 5639
+ },
+ {
+  "tech_id": "TEC007",
+  "evidence_type": "FAA/ADC logs of unknown radar targets, Malmstrom RAPCON/SAGE",
+  "originating_system": "FAA RAPCON, ADC SAGE radar",
+  "evidence_date": "1960s",
+  "raw_data_availability": "Not identified (FAA logs per Austad; records retention unknown)",
+  "notes": "Estimated speeds 1,700-2,400 mph and \"thousands\" per controllers.",
+  "section_id": "SEC077",
+  "line_ref": 11078
+ },
+ {
+  "tech_id": "TEC008",
+  "evidence_type": "B-52 airborne radarscope film (14 frames)",
+  "originating_system": "B-52 bombardment/navigation radar with scope camera",
+  "evidence_date": "1968-10-24",
+  "raw_data_availability": "Blue Book file contains prints; original film availability unknown",
+  "notes": "Speed estimate 3900 mph by Clark; analysis disputed by Poher (2005 radar analysis) per search summary.",
+  "section_id": "SEC080",
+  "line_ref": 12860
+ },
+ {
+  "tech_id": "TEC009",
+  "evidence_type": "Minot AFB weather radar track near Bowbells; RAPCON radio transcript",
+  "originating_system": "Minot weather radar/RAPCON",
+  "evidence_date": "1968-10-24",
+  "raw_data_availability": "Transcript in Blue Book file (per book)",
+  "notes": "",
+  "section_id": "SEC080",
+  "line_ref": 12850
  }
 ]

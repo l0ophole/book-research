@@ -154,5 +154,113 @@
   "confidence": 3,
   "section_id": "SEC019",
   "line_ref": 1725
+ },
+ {
+  "evidence_id": "EVD014",
+  "description": "Quintanilla's 13 Nov 1968 statement is verbatim in the Tulien report; it ALSO states 'The physical violation of the lock of OSCAR 7 does not seem to be related to UFOs'. The book's summary of the Minot case omits the Oscar-7 intrusion.",
+  "evidence_type": "DOCUMENT_TRANSCRIPT",
+  "provenance": "SRC017 (Tulien 2011) section 2.4/5.5",
+  "related_entities": "INC052;GOV015",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12916
+ },
+ {
+  "evidence_id": "EVD015",
+  "description": "Base Ops dispatcher entries: 'LATER SIGHTINGS OF BRIGHT LIGHTS AND FLASHING GREEN AND WHITE LIGHTS ACCOMPANIED BY A LOW JET ENGINE SOUND CORRELATES WITH THE B-52 MAKING A VOR PENETRATION, LOW APPROACH AND MISSED APPROACH' (Col. Werlich comment, per Tulien). Supports a conventional-aircraft explanation for part of the ground sightings; book does not mention it.",
+  "evidence_type": "DOCUMENT_TRANSCRIPT",
+  "provenance": "SRC017",
+  "related_entities": "INC052;EXP024",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12811
+ },
+ {
+  "evidence_id": "EVD016",
+  "description": "RAPCON line: 'Somebody is seeing flying saucers again' (Tulien transcript) vs book 'Someone is seeing flying saucers again' — minor quotation variance.",
+  "evidence_type": "QUOTATION_VARIANCE",
+  "provenance": "SRC017 vs book 12846",
+  "related_entities": "INC052;CLM082",
+  "significance": "LOW",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12846
+ },
+ {
+  "evidence_id": "EVD017",
+  "description": "Arithmetic: two miles in one 3-second sweep = 2,400 mph, not 3,900 mph; Tulien states the 3,900 mph figure came from the 14-frame sequence. The book's stated derivation is internally inconsistent.",
+  "evidence_type": "INTERNAL_INCONSISTENCY",
+  "provenance": "Book 12862-12866; SRC017",
+  "related_entities": "INC052;CLM083",
+  "significance": "MEDIUM",
+  "verification_status": "DISPUTED",
+  "confidence": 2,
+  "section_id": "SEC080",
+  "line_ref": 12862
+ },
+ {
+  "evidence_id": "EVD018",
+  "description": "Florida Today column text (Gross copy) matches the book on Nelson (Site 9, 'guards were scared', could not leave post), Caplan (dimmed lights, OSI interrogation) and Lamb (did not see anything). Column notes three Atlas silos were destroyed by fuel explosions at Walker, a stressful context. Hastings dates the column June 2001; copy index says Oct 2001 — date unresolved.",
+  "evidence_type": "SECONDARY_CONFIRMATION",
+  "provenance": "SRC018",
+  "related_entities": "INC037;INC038;WIT033",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC044",
+  "line_ref": 5531
+ },
+ {
+  "evidence_id": "EVD019",
+  "description": "Atlas deployment facts: Wikipedia lists 579th SMS at Walker AFB (12 Atlas F, 30 Nov 1962-5 Jan 1965) — consistent with book; but states first operational Atlas squadron went on alert at F.E. Warren in Sept 1959 with 6 Atlas D; Warren total 15 (6+9) and Offutt 9 match book; the book's '31 Oct 1959 at Vandenberg' and '6 at Vandenberg' do not match this source.",
+  "evidence_type": "TERTIARY_COMPARISON",
+  "provenance": "SRC021",
+  "related_entities": "CLM058;CLM059",
+  "significance": "LOW",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC043",
+  "line_ref": 5396
+ },
+ {
+  "evidence_id": "EVD020",
+  "description": "Condon Report comparison: Wikipedia confirms quoted Low memo text and committee members (incl. Hartmann, Wertheimer, Levine); report 965 pp paperback/1,485 hardcover; also notes consultant Rothberg 'about 100 cases, three or four puzzling' and critics that enigmatic cases were 'buried'. Book's '91 sightings' and 'nearly 30%' not confirmed here.",
+  "evidence_type": "TERTIARY_COMPARISON",
+  "provenance": "SRC019",
+  "related_entities": "CLM065;CLM066;CLM067",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC078",
+  "line_ref": 11688
+ },
+ {
+  "evidence_id": "EVD021",
+  "description": "Frazier: Wikipedia says he worked full-time at Sandia 1983-2006 writing about its research and editing the Sandia Lab News for the last 11 years; consistent with book's 'two decades'; Wikipedia biography itself discloses Sandia, though the SI masthead may not.",
+  "evidence_type": "TERTIARY_COMPARISON",
+  "provenance": "SRC020",
+  "related_entities": "CLM071",
+  "significance": "LOW",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC078",
+  "line_ref": 12143
+ },
+ {
+  "evidence_id": "EVD022",
+  "description": "Hastings' Ch13 argues the identity/affiliation of skeptics undermines their conclusions (genetic/ad hominem reasoning). It contains no new incident evidence; its value is argumentative.",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "book lines 12116-12510",
+  "related_entities": "CLM074;CLM076",
+  "significance": "MEDIUM",
+  "verification_status": "NOT_YET_INVESTIGATED",
+  "confidence": 0,
+  "section_id": "SEC078",
+  "line_ref": 12116
  }
 ]

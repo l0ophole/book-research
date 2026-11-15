@@ -167,5 +167,57 @@
   "notes": "Contains incorrect dates per Hastings and other researchers.",
   "section_id": "SEC087",
   "line_ref": 15953
+ },
+ {
+  "gov_doc_id": "GOV013",
+  "title": "Krause letter to NICAP, 20 Dec 1964 (copy supplied by Jan Aldrich)",
+  "agency": "NICAP (recipient); A2C Barry L. Krause (author)",
+  "doc_date": "1964-12-20",
+  "document_number": "",
+  "repository": "NICAP files (CUFOS/Aldrich collection)",
+  "availability": "NOT LOCATED online (search unsuccessful)",
+  "verification_status": "NOT_YET_INVESTIGATED",
+  "notes": "Quoted at book lines 5972-6006; book refs 5-9 (Ch.7).",
+  "section_id": "SEC044",
+  "line_ref": 5958
+ },
+ {
+  "gov_doc_id": "GOV014",
+  "title": "Project Blue Book case file 12,548 (Minot AFB, 24 Oct 1968; 24 Oct-14 Nov 1968)",
+  "agency": "USAF Project Blue Book / FTD",
+  "doc_date": "1968-10-24..11-14",
+  "document_number": "Case 12,548",
+  "repository": "NARA Blue Book microfilm; Tulien site reproduces key documents",
+  "availability": "AVAILABLE (130-145 pp)",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "notes": "Book: \"over 130 pages\"; Tulien site: 145 pp per search summary.",
+  "section_id": "SEC080",
+  "line_ref": 12788
+ },
+ {
+  "gov_doc_id": "GOV015",
+  "title": "Quintanilla/FTD statement on Minot UFO reports",
+  "agency": "USAF FTD",
+  "doc_date": "1968-11-13",
+  "document_number": "",
+  "repository": "Project Blue Book file; transcribed on minotb52ufo.com",
+  "availability": "AVAILABLE",
+  "verification_status": "VERIFIED",
+  "notes": "Text matches book except book omits the Oscar-7 lock sentence: \"The physical violation of the lock of OSCAR 7 does not seem to be related to UFOs in any way.\"",
+  "section_id": "SEC080",
+  "line_ref": 12916
+ },
+ {
+  "gov_doc_id": "GOV016",
+  "title": "Base Operations Dispatcher log 24 Oct 1968 (Minot)",
+  "agency": "USAF 91st SMW / Minot AFB",
+  "doc_date": "1968-10-24",
+  "document_number": "",
+  "repository": "Blue Book file 12,548",
+  "availability": "AVAILABLE?",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "notes": "Quoted at book 12813-12819; Tulien notes later entries correlate with B-52 VOR penetration, low approach and missed approach.",
+  "section_id": "SEC080",
+  "line_ref": 12811
  }
 ]

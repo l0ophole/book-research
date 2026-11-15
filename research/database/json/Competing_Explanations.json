@@ -198,5 +198,55 @@
   "evaluation_status": "OPEN",
   "section_id": "SEC073",
   "line_ref": 10099
+ },
+ {
+  "explanation_id": "EXP021",
+  "target_entities": "INC037;INC038;INC041;INC042",
+  "explanation": "Aircraft lights/helicopters, security-flight overflights, stars/planets, light projected on ground, ground vehicle headlights; heightened expectations of frightened guards; Site 9 context of three Atlas fuel explosions (per Cox) raising stress",
+  "supporting_evidence": "Nevins: only a light; Renninger: helicopters-like lights; launch commanders told guards \"military aircraft\"; Krause letter notes KC-135",
+  "contradicting_evidence": "Nevins: night crystal clear with no clouds; Goss: abrupt direction changes; Caplan: ground light not projected from sky (his view)",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC044",
+  "line_ref": 5820
+ },
+ {
+  "explanation_id": "EXP022",
+  "target_entities": "INC045;INC048;INC049",
+  "explanation": "Anomalous propagation, ground clutter, birds/insects, wind-farm-like returns (n/a 1960s), tracking noise or false targets; ADC told controllers they were false targets (Selley)",
+  "supporting_evidence": "ADC reportedly dismissed as false targets; speeds derived from short scope tracks (20 s) are imprecise",
+  "contradicting_evidence": "Multiple controllers over several years; ADC controller said \"Yeah, I see it\"",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC077",
+  "line_ref": 11226
+ },
+ {
+  "explanation_id": "EXP023",
+  "target_entities": "INC050",
+  "explanation": "Electrical/EMI noise or maintenance fault causing spurious indications; false alarms from security system; storm/power anomaly; later conflation of memory (Schuur admits fog)",
+  "supporting_evidence": "Spurious indicators are known fault pattern (cf. 1966-67 Echo/Alpha events in wing history); Schuur says \"I honestly don't know\"",
+  "contradicting_evidence": "Described object-following timeline via PAS; \"never\" saw a Launch in Progress before/after",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC079",
+  "line_ref": 12663
+ },
+ {
+  "explanation_id": "EXP024",
+  "target_entities": "INC052",
+  "explanation": "Misidentification of Sirius, Vega, and the B-52 itself (Base Ops dispatcher log: lights correlate with B-52 VOR penetration, low approach, missed approach); anomalous propagation/ball-lightning-like plasma (Blue Book); radar scope artefacts",
+  "supporting_evidence": "Quintanilla statement; dispatcher log correlation noted in Tulien report (SRC017)",
+  "contradicting_evidence": "Radarscope film 14 frames; several independent ground observers; B-52 radar paced object 20 mi; pilots saw object near ground",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12916
+ },
+ {
+  "explanation_id": "EXP025",
+  "target_entities": "INC052",
+  "explanation": "Unrelated physical intrusion at Oscar-7 LF (padlock open, combination dial moved) at 0449 CDT — possible human intruder activity; distractor or cause of alarm",
+  "supporting_evidence": "Blue Book/SAC documents (Tulien)",
+  "contradicting_evidence": "Quintanilla: \"does not seem to be related to UFOs\"; no tracks found",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12805
  }
 ]

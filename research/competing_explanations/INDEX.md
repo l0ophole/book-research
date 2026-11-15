@@ -22,3 +22,8 @@
 | EXP018 | INC035 | Lighthouse beam / searchlights; stars; hearsay amplification; later embellishment of Halt statements | OPEN |
 | EXP019 | INC025 | Vehicle malfunction of 15 Sep 1964 LORV-3 test (partial failure; RSO manual cutoff after SECO) causing short fall of RV / anomalous trajectory | NOT_TESTED |
 | EXP020 | INC019 | Commercial power failure/transient at Winifred substation propagating to Echo Flight (Skeptoid; wing history) | OPEN |
+| EXP021 | INC037;INC038;INC041;INC042 | Aircraft lights/helicopters, security-flight overflights, stars/planets, light projected on ground, ground vehicle headlights; heightened expectations of frightened guards; Site 9 context of three Atlas fuel explosions (per Cox) raising stress | OPEN |
+| EXP022 | INC045;INC048;INC049 | Anomalous propagation, ground clutter, birds/insects, wind-farm-like returns (n/a 1960s), tracking noise or false targets; ADC told controllers they were false targets (Selley) | OPEN |
+| EXP023 | INC050 | Electrical/EMI noise or maintenance fault causing spurious indications; false alarms from security system; storm/power anomaly; later conflation of memory (Schuur admits fog) | OPEN |
+| EXP024 | INC052 | Misidentification of Sirius, Vega, and the B-52 itself (Base Ops dispatcher log: lights correlate with B-52 VOR penetration, low approach, missed approach); anomalous propagation/ball-lightning-like plasma (Blue Book); radar scope artefacts | OPEN |
+| EXP025 | INC052 | Unrelated physical intrusion at Oscar-7 LF (padlock open, combination dial moved) at 0449 CDT — possible human intruder activity; distractor or cause of alarm | OPEN |
