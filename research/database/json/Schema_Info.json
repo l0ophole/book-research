@@ -1,0 +1,18 @@
+[
+ {
+  "key": "schema_version",
+  "value": "1.0.0"
+ },
+ {
+  "key": "generated",
+  "value": "2026-11-15"
+ },
+ {
+  "key": "confidence_scale",
+  "value": "0=not investigated;1=single/unsupported or unverified;2=disputed or conflicting;3=partially verified (secondary/transcribed support);4=verified against original primary record;5=independently corroborated by multiple primary records. Confidence is about documentary support for the account, not witness sincerity."
+ },
+ {
+  "key": "authoritative_store",
+  "value": "SQLite; CSV/JSON/Markdown generated from it"
+ }
+]

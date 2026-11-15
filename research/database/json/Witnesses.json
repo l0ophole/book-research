@@ -1,0 +1,332 @@
+[
+ {
+  "witness_id": "WIT000",
+  "name": "Robert L. Hastings (author)",
+  "role": "Janitor at Malmstrom tower, 1966-67; later researcher",
+  "firsthand_status": "PARTIAL",
+  "identity_status": "NAMED",
+  "notes": "Saw FAA controller's scope with 5 targets; remainder is third-hand via father (SMSgt Robert E. Hastings, Supply NCOIC Special Weapons Branch HQ 28th Air Division).",
+  "section_id": "SEC007",
+  "line_ref": 186
+ },
+ {
+  "witness_id": "WIT001",
+  "name": "Unnamed FAA RAPCON controller (Malmstrom, 1967)",
+  "role": "FAA radar controller",
+  "firsthand_status": "YES",
+  "identity_status": "ANONYMOUS",
+  "notes": "Anonymous; unverified.",
+  "section_id": "SEC007",
+  "line_ref": 194
+ },
+ {
+  "witness_id": "WIT002",
+  "name": "SMSgt Robert E. Hastings (author's father)",
+  "role": "Supply NCOIC Special Weapons Branch, HQ 28th Air Division, Malmstrom",
+  "firsthand_status": "NO (hearsay)",
+  "identity_status": "NAMED",
+  "notes": "Relayed rumors from SAGE building staff.",
+  "section_id": "SEC007",
+  "line_ref": 207
+ },
+ {
+  "witness_id": "WIT003",
+  "name": "\"Mr. M.\" (anonymous USAF airman, Nellis AFB, 1951)",
+  "role": "Perimeter sentry, Nevada Proving Ground",
+  "firsthand_status": "YES",
+  "identity_status": "ANONYMOUS",
+  "notes": "Account recalled 30 yrs later; Webb found details consistent with test schedule (Charlie 14 kt, 30 Oct 1951, 0700 PST). No corroborating witnesses found by Hastings. Webb: \"should be classified as an unknown\".",
+  "section_id": "SEC025",
+  "line_ref": 2481
+ },
+ {
+  "witness_id": "WIT004",
+  "name": "Walter N. Webb",
+  "role": "Astronomer, MUFON/CUFOS consultant; investigator of Mr. M. account (3/8/81 summary)",
+  "firsthand_status": "INVESTIGATOR",
+  "identity_status": "NAMED",
+  "notes": "Second-hand investigator; not an eyewitness.",
+  "section_id": "SEC023",
+  "line_ref": 2452
+ },
+ {
+  "witness_id": "WIT005",
+  "name": "Bernard Clark",
+  "role": "Atomic veteran, Buster-Jangle Dog (Nov 1951)",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Vague; Hastings skeptical.",
+  "section_id": "SEC026",
+  "line_ref": 2609
+ },
+ {
+  "witness_id": "WIT006",
+  "name": "Daniel Wilson (Dan Wilson)",
+  "role": "Researcher of Nevada test-related fireballs; supplied declassified DSWA debris-trajectory maps and press clippings",
+  "firsthand_status": "INVESTIGATOR",
+  "identity_status": "NAMED",
+  "notes": "Core to fallout/fireball correlation hypothesis.",
+  "section_id": "SEC026",
+  "line_ref": 2624
+ },
+ {
+  "witness_id": "WIT007",
+  "name": "Capt. Howard F. Paulin / 2nd Lt. Lester F. Page",
+  "role": "USAF F-86 pilots, 1951-01-30",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC026",
+  "line_ref": 2706
+ },
+ {
+  "witness_id": "WIT008",
+  "name": "\"John Smith\" (pseudonym)",
+  "role": "USAF jet engine mechanic, 42nd Field Maintenance Squadron, Loring AFB",
+  "firsthand_status": "YES",
+  "identity_status": "PSEUDONYM",
+  "notes": "Wrote to CUFOS (2006); told wife 1976. Hastings withholds most details deliberately.",
+  "section_id": "SEC042",
+  "line_ref": 5196
+ },
+ {
+  "witness_id": "WIT009",
+  "name": "Unnamed 42nd FMS team partner of \"Smith\"",
+  "role": "Jet mechanic, later B-52 tail gunner",
+  "firsthand_status": "YES (disputed memory)",
+  "identity_status": "ANONYMOUS",
+  "notes": "Confirmed tandem Chrome Dome & emergency turnout; claims asleep, denies remembering UFO; evasive. Told never to report UFOs by aircraft commander.",
+  "section_id": "SEC042",
+  "line_ref": 5238
+ },
+ {
+  "witness_id": "WIT010",
+  "name": "Unnamed retired colonel (Loring Chrome Dome pilot)",
+  "role": "B-52 pilot",
+  "firsthand_status": "YES",
+  "identity_status": "ANONYMOUS",
+  "notes": "Recalled tandem missions ended early Nov 1962.",
+  "section_id": "SEC042",
+  "line_ref": 5227
+ },
+ {
+  "witness_id": "WIT011",
+  "name": "Capt. (then 1Lt) Robert Salas",
+  "role": "Deputy Missile Combat Crew Commander, Oscar Flight, 1967; later author (Faded Giant; Sightings 1997 TV)",
+  "firsthand_status": "YES (Oscar); PARTIAL (Echo)",
+  "identity_status": "NAMED",
+  "notes": "Public advocate of ETH; recalls only limited details; date of Oscar not documented. Earlier 1996 article with Klotz conflated Echo timing.",
+  "section_id": "SEC073",
+  "line_ref": 9904
+ },
+ {
+  "witness_id": "WIT012",
+  "name": "Lt. (later Col.) Fred Meiwald",
+  "role": "Missile Combat Crew Commander, Oscar Flight",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Interviewed 2000; says memories match Salas.",
+  "section_id": "SEC073",
+  "line_ref": 9965
+ },
+ {
+  "witness_id": "WIT013",
+  "name": "Col. Don Crawford (ret.)",
+  "role": "Relief launch officer at Echo LCF after shutdown",
+  "firsthand_status": "PARTIAL (arrived after; relayed by crew)",
+  "identity_status": "NAMED",
+  "notes": "Told by Carlson & Figel of UFO calls and shutdown.",
+  "section_id": "SEC073",
+  "line_ref": 10062
+ },
+ {
+  "witness_id": "WIT014",
+  "name": "Capt. Eric Carlson",
+  "role": "Echo Flight crew commander at shutdown",
+  "firsthand_status": "YES (not interviewed by author)",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC073",
+  "line_ref": 10065
+ },
+ {
+  "witness_id": "WIT015",
+  "name": "Lt. Col. (ret.) Walt Figel",
+  "role": "Echo Flight DMCCC at time of shutdown",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Per Salas, Figel confirmed missiles went down precisely when maintenance crew reported UFOs.",
+  "section_id": "SEC073",
+  "line_ref": 10065
+ },
+ {
+  "witness_id": "WIT016",
+  "name": "David Gamble",
+  "role": "341st SMW historian who wrote wing history",
+  "firsthand_status": "SECONDHAND (compiler)",
+  "identity_status": "NAMED",
+  "notes": "Told Klotz he got \"no cooperation\" and that superiors changed the UFO aspect.",
+  "section_id": "SEC073",
+  "line_ref": 10041
+ },
+ {
+  "witness_id": "WIT017",
+  "name": "James Ortyl",
+  "role": "Airman 2nd Class, Air Police, 341st CSG",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC073",
+  "line_ref": 10115
+ },
+ {
+  "witness_id": "WIT018",
+  "name": "Robert Pounders",
+  "role": "Airman, Air Police",
+  "firsthand_status": "YES (not interviewed)",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC073",
+  "line_ref": 10124
+ },
+ {
+  "witness_id": "WIT019",
+  "name": "Ken Williams",
+  "role": "Civilian trucker, Belt MT",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Reported via Great Falls Tribune.",
+  "section_id": "SEC073",
+  "line_ref": 10146
+ },
+ {
+  "witness_id": "WIT020",
+  "name": "Louis D. Kenneweg",
+  "role": "SSgt, 341st MIMS",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC074",
+  "line_ref": 10261
+ },
+ {
+  "witness_id": "WIT021",
+  "name": "Jim Klotz",
+  "role": "Researcher; filed FOIA requests re Malmstrom 1967",
+  "firsthand_status": "INVESTIGATOR",
+  "identity_status": "NAMED",
+  "notes": "Obtained ~100 pp of 341st SMW history extracts.",
+  "section_id": "SEC073",
+  "line_ref": 9889
+ },
+ {
+  "witness_id": "WIT022",
+  "name": "Raymond E. Fowler",
+  "role": "Researcher; Sylvania Minuteman Project 1967 employee",
+  "firsthand_status": "SECONDHAND",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC073",
+  "line_ref": 10160
+ },
+ {
+  "witness_id": "WIT023",
+  "name": "Dr. Robert (Bob) Jacobs",
+  "role": "Lt., 1369th Photographic Squadron, OIC Photo Instrumentation, Vandenberg 1964; author MUFON UFO Journal Jan 1989 \"Deliberate Deception: The Big Sur UFO Filming\"",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Admits date uncertain (2, 3 or 15 Sept; log suggests not at Big Sur 22 Sept), unsure of Atlas model (F or D).",
+  "section_id": "SEC055",
+  "line_ref": 7451
+ },
+ {
+  "witness_id": "WIT024",
+  "name": "Maj. Florenze J. Mansmann Jr. (d. 4 Jul 2000)",
+  "role": "Office of Chief Scientist, 1st Strategic Aerospace Division, Vandenberg; photo-interpreter",
+  "firsthand_status": "YES (claimed; letters only)",
+  "identity_status": "NAMED",
+  "notes": "Confirmations via letters 1983-1995 (to Graham, Bons, Crain, Collier). Inconsistent on number (2 vs 3) and identity (CIA vs \"Government Agents\") of men who took film.",
+  "section_id": "SEC055",
+  "line_ref": 7477
+ },
+ {
+  "witness_id": "WIT025",
+  "name": "Kingston A. George",
+  "role": "Project engineer, experimental Big Sur Atlas telescope tracking 1964; author \"The Big Sur UFO: An Identified Flying Object\", Skeptical Inquirer Winter 1993",
+  "firsthand_status": "YES (claims viewed film)",
+  "identity_status": "NAMED",
+  "notes": "Says film showed decoys & bloom artifacts from 22 Sept 1964 launch.",
+  "section_id": "SEC059",
+  "line_ref": 7756
+ },
+ {
+  "witness_id": "WIT026",
+  "name": "Lee Graham; Peter Bons; T. Scott Crain Jr.; Curt Collier",
+  "role": "Correspondents/researchers/producer receiving Mansmann letters",
+  "firsthand_status": "SECONDHAND",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC056",
+  "line_ref": 7496
+ },
+ {
+  "witness_id": "WIT027",
+  "name": "John Callahan",
+  "role": "Former FAA Division Chief, Accidents & Investigations; JAL 1628 (Nov 1986) account of CIA confiscation",
+  "firsthand_status": "YES (other incident)",
+  "identity_status": "NAMED",
+  "notes": "Used by Hastings as analogy for CIA role.",
+  "section_id": "SEC058",
+  "line_ref": 7697
+ },
+ {
+  "witness_id": "WIT028",
+  "name": "Col. John W. Haley III (ret.)",
+  "role": "5th MMS Commander, Minot 1973-75; HQ SAC Munitions Staff Officer 1975-77",
+  "firsthand_status": "PARTIAL (read daily recap)",
+  "identity_status": "NAMED",
+  "notes": "Interviewed 2002; his month/intercept details differ from documented record.",
+  "section_id": "SEC084",
+  "line_ref": 14150
+ },
+ {
+  "witness_id": "WIT029",
+  "name": "Capt. Keith Wolverton",
+  "role": "Cascade County Sheriff's captain",
+  "firsthand_status": "SECONDHAND",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC084",
+  "line_ref": 14233
+ },
+ {
+  "witness_id": "WIT030",
+  "name": "Jack Acuff",
+  "role": "NICAP president; received leaked NORAD/NMCC docs from DIA analyst \"Deep Throat\" (1976)",
+  "firsthand_status": "INVESTIGATOR",
+  "identity_status": "NAMED",
+  "notes": "Source unnamed.",
+  "section_id": "SEC084",
+  "line_ref": 14126
+ },
+ {
+  "witness_id": "WIT031",
+  "name": "Col. Charles I. Halt (ret.)",
+  "role": "Deputy Base Commander RAF Bentwaters 1980; author of memo; present in forest",
+  "firsthand_status": "YES (forest sightings); SECONDHAND for WSA",
+  "identity_status": "NAMED",
+  "notes": "Public statements: 1991 Unsolved Mysteries, 1997 interview with A.J.S. Rayl, Sci Fi Channel; only referenced WSA beams from 1991 on. Interviewed by Hastings under editorial-review condition.",
+  "section_id": "SEC087",
+  "line_ref": 15943
+ },
+ {
+  "witness_id": "WIT032",
+  "name": "James McGaha",
+  "role": "Skeptic; proposed Orford Ness lighthouse explanation",
+  "firsthand_status": "CRITIC",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC087",
+  "line_ref": 16006
+ }
+]

@@ -1,0 +1,202 @@
+[
+ {
+  "explanation_id": "EXP001",
+  "target_entities": "INC001/INC012 green fireballs",
+  "explanation": "Natural meteors / bolides (La Paz judged ~half meteoric); later hypotheses incl. misidentified phenomena",
+  "supporting_evidence": "La Paz estimate; AFSWP view at Camp Hood",
+  "contradicting_evidence": "Reported green colour/flat trajectory; unresolved per Hastings",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC019",
+  "line_ref": 1464
+ },
+ {
+  "explanation_id": "EXP002",
+  "target_entities": "INC004",
+  "explanation": "Conventional aircraft (Air Force public explanation)",
+  "supporting_evidence": "AF public statement",
+  "contradicting_evidence": "Radar track + hover + fast departure per classified report",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC019",
+  "line_ref": 1611
+ },
+ {
+  "explanation_id": "EXP003",
+  "target_entities": "INC006",
+  "explanation": "Skyhook balloon (Ruppelt)",
+  "supporting_evidence": "Ruppelt later claim",
+  "contradicting_evidence": "Hastings: details of published report contradict",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC019",
+  "line_ref": 1639
+ },
+ {
+  "explanation_id": "EXP004",
+  "target_entities": "INC008",
+  "explanation": "Small objects mistaken for distant larger objects / balloons / insects (not addressed by author)",
+  "supporting_evidence": "n/a",
+  "contradicting_evidence": "Size estimated by comparison to known-size tanks",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC019",
+  "line_ref": 1674
+ },
+ {
+  "explanation_id": "EXP005",
+  "target_entities": "INC010",
+  "explanation": "Unauthorized military flares; natural phenomena (AFSWP view)",
+  "supporting_evidence": "Initial suspicion; AFSWP view",
+  "contradicting_evidence": "Triangulation suggested bracketing; flares conjecture \"proved unfounded\" per author",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC020",
+  "line_ref": 1801
+ },
+ {
+  "explanation_id": "EXP006",
+  "target_entities": "INC015-INC017 (fireballs after tests)",
+  "explanation": "Meteors / bolides coincident with tests; radioactive fallout aerosols (unlikely luminous); sampling aircraft",
+  "supporting_evidence": "Fireballs are common; reporting bias after press coverage",
+  "contradicting_evidence": "Hastings: correlation with trajectories; no tested mechanism",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC026",
+  "line_ref": 2640
+ },
+ {
+  "explanation_id": "EXP007",
+  "target_entities": "INC013",
+  "explanation": "Misremembered aircraft/balloon formation; confabulation after 30 years; late-recall errors in date",
+  "supporting_evidence": "Single anonymous witness; 30-yr delay; interview by phone",
+  "contradicting_evidence": "Details matched test schedule; Webb judged witness reliable",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC026",
+  "line_ref": 2556
+ },
+ {
+  "explanation_id": "EXP008",
+  "target_entities": "INC018",
+  "explanation": "Memory error on date/event; hoax/fabrication; misidentified aircraft or flares; unrelated post-crisis emergency",
+  "supporting_evidence": "No documentary confirmation of UFO; partner denies recall; withheld details prevent testing",
+  "contradicting_evidence": "Partner confirmed tandem Chrome Dome and emergency turnout; unit history confirms tandem sorties",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC042",
+  "line_ref": 5307
+ },
+ {
+  "explanation_id": "EXP009",
+  "target_entities": "INC019",
+  "explanation": "Electrical noise/EMI, cable-system fault, power transient (Boeing duplicated faults by noise injection; commercial power and weather ruled out)",
+  "supporting_evidence": "Boeing engineering finding as relayed; AF history",
+  "contradicting_evidence": "Source of noise unidentified; report not public; UFO reports by multiple crews",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10099
+ },
+ {
+  "explanation_id": "EXP010",
+  "target_entities": "INC020",
+  "explanation": "Misdated/conflated memory; shutdown at Oscar may be the same as Echo event; guard misperception of a helicopter, lights or aircraft",
+  "supporting_evidence": "Memory conflation noted by author (Salas forgot flight designations); no AF record",
+  "contradicting_evidence": "Meiwald corroborates; two officers on record",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10027
+ },
+ {
+  "explanation_id": "EXP011",
+  "target_entities": "INC019/INC020",
+  "explanation": "Electronic/EM effect from a secret test or Soviet device (unspecified)",
+  "supporting_evidence": "Unspecified",
+  "contradicting_evidence": "No evidence presented",
+  "evaluation_status": "NOT_TESTED",
+  "section_id": "SEC073",
+  "line_ref": 10235
+ },
+ {
+  "explanation_id": "EXP012",
+  "target_entities": "INC025",
+  "explanation": "Decoys / chaff clouds & bloom artifacts of Image Orthicon (George)",
+  "supporting_evidence": "George viewed film; sub-orbital Atlas D radar-defeat test with decoy release hardware existed (ABRES program)",
+  "contradicting_evidence": "George may have viewed wrong launch (22 Sept vs 15 Sept); Jacobs and Mansmann (photo-interpreter) saw disc; film unavailable",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC059",
+  "line_ref": 7787
+ },
+ {
+  "explanation_id": "EXP013",
+  "target_entities": "INC025",
+  "explanation": "Misinterpretation/misremembering by Jacobs of a routine film (including time-compressed 20+ yr recall)",
+  "supporting_evidence": "Jacobs unsure of date and missile model; film not available; Mansmann agreement may reflect influence after 1983 publicity",
+  "contradicting_evidence": "Mansmann independently an expert photo-interpreter; no contact for 20 years until Graham",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC063",
+  "line_ref": 8401
+ },
+ {
+  "explanation_id": "EXP014",
+  "target_entities": "INC025",
+  "explanation": "Hoax/fabrication by two officers",
+  "supporting_evidence": "Critics assert",
+  "contradicting_evidence": "No motive documented; two consistent witnesses (but only via correspondence)",
+  "evaluation_status": "NOT_TESTED",
+  "section_id": "SEC055",
+  "line_ref": 7421
+ },
+ {
+  "explanation_id": "EXP015",
+  "target_entities": "INC027",
+  "explanation": "Stars/planets and atmospheric effects (Venus, Jupiter, stars) misidentified by SAT crews; radar clutter/anomalous propagation",
+  "supporting_evidence": "Log: objects rose with sun and vanished at sunrise; one \"object cannot be told from stars\"; \"known traffic\" only on surveillance radar",
+  "contradicting_evidence": "Height radar tracks of 2-7 objects; fighters reportedly saw nothing/could not get close",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC083",
+  "line_ref": 14070
+ },
+ {
+  "explanation_id": "EXP016",
+  "target_entities": "INC029",
+  "explanation": "Helicopter / low-flying aircraft (e.g., covert or unreported military or civilian helicopter)",
+  "supporting_evidence": "Reports of low altitude hover & nature of flight",
+  "contradicting_evidence": "Radar tracking, 40 min circling, and NMCC messaging described",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC084",
+  "line_ref": 14219
+ },
+ {
+  "explanation_id": "EXP017",
+  "target_entities": "INC034",
+  "explanation": "Orford Ness lighthouse beam (McGaha); meteor/fireball (24-25 Dec 1980 bright fireball/re-entry); misperception by tired patrolmen",
+  "supporting_evidence": "Lighthouse in line of sight; fireball documented on 25/26 Dec per some sources",
+  "contradicting_evidence": "Halt: lighthouse seen simultaneously and separately; physical traces (disputed significance)",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC087",
+  "line_ref": 16006
+ },
+ {
+  "explanation_id": "EXP018",
+  "target_entities": "INC035",
+  "explanation": "Lighthouse beam / searchlights; stars; hearsay amplification; later embellishment of Halt statements",
+  "supporting_evidence": "No contemporaneous documentation of WSA beams; Halt not present",
+  "contradicting_evidence": "Multiple radio reports claimed; Halt 1991+ statements",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC087",
+  "line_ref": 16021
+ },
+ {
+  "explanation_id": "EXP019",
+  "target_entities": "INC025",
+  "explanation": "Vehicle malfunction of 15 Sep 1964 LORV-3 test (partial failure; RSO manual cutoff after SECO) causing short fall of RV / anomalous trajectory",
+  "supporting_evidence": "Launch list records partial failure and manual cutoff on 15 Sep",
+  "contradicting_evidence": "Cutoff after SECO affects vernier/sustainer phase; RV tumbling & optical flashes not explained; primary launch report not examined",
+  "evaluation_status": "NOT_TESTED",
+  "section_id": "SEC061",
+  "line_ref": 8114
+ },
+ {
+  "explanation_id": "EXP020",
+  "target_entities": "INC019",
+  "explanation": "Commercial power failure/transient at Winifred substation propagating to Echo Flight (Skeptoid; wing history)",
+  "supporting_evidence": "Wing history logs power fluctuation at E-1 at 1453, transformer short; Alpha Flight precedent 19 Dec 1966",
+  "contradicting_evidence": "Power failure logged at 1453/1510, ~6 hours AFTER 0845 shutdown; engineering team found no power cause for 0845; unresolved",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10099
+ }
+]

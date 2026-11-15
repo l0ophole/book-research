@@ -1,0 +1,3582 @@
+[
+ {
+  "reference_id": "REF001",
+  "chapter_label": "Introduction",
+  "note_number": 1,
+  "citation": "USAF letter, “Request for Information under the FOIA”, Col. Terrence C. James to W. Todd Zechel, 4 October 1977",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23552,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF002",
+  "chapter_label": "Introduction",
+  "note_number": 2,
+  "citation": "FBI memorandum, file 65-58300, “Protection of Vital Installations”, SAC San Antonio to J. Edgar Hoover, January 31, 1949",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23554,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF003",
+  "chapter_label": "Introduction",
+  "note_number": 3,
+  "citation": "Hynek, Dr. J. Allen. “Are Flying Saucers Real?”, _Saturday Evening Post_ , December 17, 1966",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23556,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF004",
+  "chapter_label": "Introduction",
+  "note_number": 4,
+  "citation": "Fowler, Raymond E. _UFOs: Interplanetary Visitors_ , Prentice Hall, Inc., 1974",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23558,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF005",
+  "chapter_label": "Introduction",
+  "note_number": 5,
+  "citation": "Keyhoe, Donald E. _Aliens From Space_ , Doubleday & Company, Inc., 1973",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23560,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF006",
+  "chapter_label": "Introduction",
+  "note_number": 6,
+  "citation": "[http://www.afmissileers.org/nevvsletters/NL2003/mar03.pdf](http://www.afmissileers.org/nevvsletters/NL2003/mar03.pdf)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23562,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF007",
+  "chapter_label": "Introduction",
+  "note_number": 7,
+  "citation": "Barry Greenwood to Robert Hastings, personal communication, February 27, 2008",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23563,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF008",
+  "chapter_label": "Chapter 1",
+  "note_number": 1,
+  "citation": "Phillips, Ted. _Physical Traces Associated with UFO Sightings_ , Center for UFO Studies, 1975",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23569,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF009",
+  "chapter_label": "Chapter 1",
+  "note_number": 2,
+  "citation": "_Associated Press_ , June 29, 1954",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23571,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF010",
+  "chapter_label": "Chapter 1",
+  "note_number": 3,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23572,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF011",
+  "chapter_label": "Chapter 1",
+  "note_number": 4,
+  "citation": "Condon, Dr. Edward U. _Scientific Study of Unidentified Flying Objects_ , Bantam Books, Section III, Chapter 5, pp. 139-40",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23573,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF012",
+  "chapter_label": "Chapter 1",
+  "note_number": 5,
+  "citation": "U.S. Army Air Force memorandum, “AMC Opinion Concerning ‘Flying Discs’”, Lr. General Nathan F. Twining to Brigadier General Schulgen, September 23, 1947",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23575,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF013",
+  "chapter_label": "Chapter 1",
+  "note_number": 6,
+  "citation": "Clark, Jerome. _The UFO Book_ , Visible Ink Press, 1998, pp. 188-89",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23578,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF014",
+  "chapter_label": "Chapter 2",
+  "note_number": 1,
+  "citation": "FBI memorandum, file 65-58300, “Protection of Vital Installations”, SAC San Antonio to J. Edgar Hoover, January 3 1, 1949",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23583,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF015",
+  "chapter_label": "Chapter 2",
+  "note_number": 2,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23585,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF016",
+  "chapter_label": "Chapter 2",
+  "note_number": 3,
+  "citation": "FBI memorandum, “Summary of Aerial Phenomena in New Mexico”, A.H. Belmont to D.M. Ladd, August 23, 1950",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23586,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF017",
+  "chapter_label": "Chapter 2",
+  "note_number": 4,
+  "citation": "Gross, Loren. _UFOs: A History_ , 1948, pp. 80, 82",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23588,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF018",
+  "chapter_label": "Chapter 2",
+  "note_number": 5,
+  "citation": "FBI memorandum, “Summary of Aerial Phenomena in New Mexico”, A.H. Belmont to D.M. Ladd, August 23, 1950",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23591,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF019",
+  "chapter_label": "Chapter 2",
+  "note_number": 6,
+  "citation": "_The New Mexican_ , January 22, 1953",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23593,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF020",
+  "chapter_label": "Chapter 2",
+  "note_number": 7,
+  "citation": "Dr. L. LaPaz to Commander, 17th District OSI, personal communication, date:?",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23594,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF021",
+  "chapter_label": "Chapter 2",
+  "note_number": 8,
+  "citation": "_LOOK_ , “Hunt For The Flying Saucer”, June 24, 1952",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23596,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF022",
+  "chapter_label": "Chapter 2",
+  "note_number": 9,
+  "citation": "Ruppelt, Edward J. _The Report on Unidentified Flying Objects_ , Ace Books, Inc., 1956, p. 155",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23597,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF023",
+  "chapter_label": "Chapter 2",
+  "note_number": 10,
+  "citation": "[http://www.nicap.org/oakridgi_7oakridgesightings.htm](http://www.nicap.org/oakridgi_7oakridgesightings.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23599,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF024",
+  "chapter_label": "Chapter 2",
+  "note_number": 11,
+  "citation": "Ruppelt, Edward J. _The Report on Unidentified Flying Objects_ , Ace Books, Inc., 1956, p. 61",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23600,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF025",
+  "chapter_label": "Chapter 2",
+  "note_number": 12,
+  "citation": "[http://www.nicap.org/docs/hanford490521docs.htm](http://www.nicap.org/docs/hanford490521docs.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23602,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF026",
+  "chapter_label": "Chapter 2",
+  "note_number": 13,
+  "citation": "U.S. Army Memorandum for the Record, “Flying Discs”, Lt. Colonel Mildren to Major Carlen, 4 August 1950",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23603,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF027",
+  "chapter_label": "Chapter 2",
+  "note_number": 14,
+  "citation": "_The Miami Herald_ , July 8, 1952",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23605,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF028",
+  "chapter_label": "Chapter 2",
+  "note_number": 15,
+  "citation": "Ruppelt, Edward J. _The Report on Unidentified Flying Objects_ , Ace Books, Inc., 1956, p. 252",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23606,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF029",
+  "chapter_label": "Chapter 2",
+  "note_number": 16,
+  "citation": "FBI letter, J. Edgar Hoover to the Commander of the Air Force’s Office of Special Investigations, May 15, 1952",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23608,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF030",
+  "chapter_label": "Chapter 2",
+  "note_number": 17,
+  "citation": "McDonald, Dr. James E. “Prepared Statement before the House Committee on Science and Astronautics”, July 29, 1968.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23610,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF031",
+  "chapter_label": "Chapter 2",
+  "note_number": 18,
+  "citation": "CIA memorandum, Dr. H. Marshall Chadwell to CIA Director Walter B. Smith, December 2, 1952",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23612,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF032",
+  "chapter_label": "Chapter 2",
+  "note_number": 19,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23614,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF033",
+  "chapter_label": "Chapter 2",
+  "note_number": 20,
+  "citation": "Gross, Loren. _UFOs: A History, 1949: January-June_ , p. 3",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23615,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF034",
+  "chapter_label": "Chapter 2",
+  "note_number": 21,
+  "citation": "Clark, Jerome. _The UFO Book_ , Visible Ink Press, 1998, p. 257",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23616,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF035",
+  "chapter_label": "Chapter 2",
+  "note_number": 22,
+  "citation": "Ibid., p. 258",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23617,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF036",
+  "chapter_label": "Chapter 2",
+  "note_number": 23,
+  "citation": "Ibid., p. 259",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23618,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF037",
+  "chapter_label": "Chapter 2",
+  "note_number": 24,
+  "citation": "Ibid., p. 259",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23619,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF038",
+  "chapter_label": "Chapter 2",
+  "note_number": 25,
+  "citation": "Ibid., p. 259",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23620,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF039",
+  "chapter_label": "Chapter 2",
+  "note_number": 26,
+  "citation": "[http://ww.nicap.org/waves/1948fullrep.htm](http://ww.nicap.org/waves/1948fullrep.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23623,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF040",
+  "chapter_label": "Chapter 2",
+  "note_number": 27,
+  "citation": "[http://ww.nicap.org/waves/1949fullrep.htm](http://ww.nicap.org/waves/1949fullrep.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23624,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF041",
+  "chapter_label": "Chapter 2",
+  "note_number": 28,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23625,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF042",
+  "chapter_label": "Chapter 2",
+  "note_number": 29,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23626,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF043",
+  "chapter_label": "Chapter 2",
+  "note_number": 30,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23627,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF044",
+  "chapter_label": "Chapter 2",
+  "note_number": 31,
+  "citation": "[http://ww.nicap.org/waves/1950fullrep.htm](http://ww.nicap.org/waves/1950fullrep.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23628,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF045",
+  "chapter_label": "Chapter 2",
+  "note_number": 32,
+  "citation": "[http://www.nicap.org/nmexico/newmexicosightings.htm](http://www.nicap.org/nmexico/newmexicosightings.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23629,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF046",
+  "chapter_label": "Chapter 2",
+  "note_number": 33,
+  "citation": "_Associated Press_ , February 6, 1952",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23630,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF047",
+  "chapter_label": "Chapter 2",
+  "note_number": 34,
+  "citation": "_Albuquerque Journal_ , May 2, 1952",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23631,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF048",
+  "chapter_label": "Chapter 2",
+  "note_number": 35,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23632,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF049",
+  "chapter_label": "Chapter 2",
+  "note_number": 36,
+  "citation": "[http://ww.nicap.org/kirtland57dir.htm](http://ww.nicap.org/kirtland57dir.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23633,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF050",
+  "chapter_label": "Chapter 2",
+  "note_number": 37,
+  "citation": "[http://www.cohenufo.org/ocr.7b.htinl](http://www.cohenufo.org/ocr.7b.htinl)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23634,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF051",
+  "chapter_label": "Chapter 3",
+  "note_number": 1,
+  "citation": "[http://www.ufoevidence.org/cases/case35.htm](http://www.ufoevidence.org/cases/case35.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23639,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF052",
+  "chapter_label": "Chapter 3",
+  "note_number": 2,
+  "citation": "Operation Ranger, Transport of Radioactive Debris from Operation Ranger, Project 7.1",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23640,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF053",
+  "chapter_label": "Chapter 3",
+  "note_number": 3,
+  "citation": "Project Blue Book Report, Case Number 884?, January 30, 1951",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23642,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF054",
+  "chapter_label": "Chapter 3",
+  "note_number": 4,
+  "citation": "Operation Buster, Transport of Radioactive Debris from Operations Buster and Jangle, Project 7.1",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23643,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF055",
+  "chapter_label": "Chapter 3",
+  "note_number": 5,
+  "citation": "Keyhoe, Donald E. _The Flying Saucer Conspiracy_ , Henry Holt and Company, pp. 92-93",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23645,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF056",
+  "chapter_label": "Chapter 3",
+  "note_number": 6,
+  "citation": "Operation Buster, Transport of Radioactive Debris from Operations Buster and Jangle, Project 7.1, p. 41",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23647,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF057",
+  "chapter_label": "Chapter 3",
+  "note_number": 7,
+  "citation": "_The Arizona Daily Star_ , “Eerie Blue Flash Streaks Across Southwestern Skies”, November 3, 1951, p. A-1",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23649,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF058",
+  "chapter_label": "Chapter 3",
+  "note_number": 8,
+  "citation": "_New Mexican_ , November 3, 1951",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23651,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF059",
+  "chapter_label": "Chapter 3",
+  "note_number": 9,
+  "citation": "_LIFE_ , “Have We Visitors From Space?”, April 7, 1952, p. 80",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23652,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF060",
+  "chapter_label": "Chapter 3",
+  "note_number": 10,
+  "citation": "_The New York Times_ , “Southwest’s 7 Fireballs in 11 Days Called ‘Without Parallel in History’”, November 10, 1951, pp. 1, 14",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23653,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF061",
+  "chapter_label": "Chapter 3",
+  "note_number": 11,
+  "citation": "_Iowa City Press-Citizen_ , November 10, 1951, p. 10",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23655,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF062",
+  "chapter_label": "Chapter 3",
+  "note_number": 12,
+  "citation": "_TIME_ , “Great Balls of Fire”, November 19, 1951",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23656,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF063",
+  "chapter_label": "Chapter 3",
+  "note_number": 13,
+  "citation": "_Troy Record_ , “New Yorkers Report Ball Of Fire In Sky”, November 19, 1951",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23657,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF064",
+  "chapter_label": "Chapter 3",
+  "note_number": 14,
+  "citation": "_Albuquerque Journal_ , “Experts Puzzled By Unusual Meteors, Believed Unnatural”, November 9, 1951, p. 1",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23659,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF065",
+  "chapter_label": "Chapter 3",
+  "note_number": 15,
+  "citation": "_Albuquerque Tribune_ , “LaPaz Reports Fireball Sighted”, November 21, 1951, p. 1",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23661,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF066",
+  "chapter_label": "Chapter 3",
+  "note_number": 16,
+  "citation": "Ruppelt, Edward J. _The Report on Unidentified Flying Objects_ , Ace Books, Inc., 1956, pp.74-76",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23663,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF067",
+  "chapter_label": "Chapter 3",
+  "note_number": 17,
+  "citation": "Project Blue Book Report, Case Number 1090, April 2, 1952",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23665,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF068",
+  "chapter_label": "Chapter 3",
+  "note_number": 18,
+  "citation": "_Denton Record-Chronicle_ , “Meteor or Flying Saucer? Fiery Fast- Moving Object Sighted In Sky Over Texas”, April 3, 1952, p. 1",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23666,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF069",
+  "chapter_label": "Chapter 3",
+  "note_number": 19,
+  "citation": "_INS_ , “Flying Saucers Seen Near Atom Test Site”, April 17, 1952",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23670,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF070",
+  "chapter_label": "Chapter 3",
+  "note_number": 20,
+  "citation": "_Albuquerque Journal_ , “Fireball Falls Near Sandias Early Today”, May 7, 1952, p. 1",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23671,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF071",
+  "chapter_label": "Chapter 3",
+  "note_number": 21,
+  "citation": "_Albuquerque Journal_ , “2 Green Fireballs Seen By Many, LaPaz Reports”, May 29, 1952, p. 1",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23673,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF072",
+  "chapter_label": "Chapter 3",
+  "note_number": 22,
+  "citation": "[http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-BB10-](http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-BB10-) 931",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23675,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF073",
+  "chapter_label": "Chapter 3",
+  "note_number": 23,
+  "citation": "_Wisconsin State Journal_ , “Weatherman Reports Seeing Green Fireball”, May 30, 1952, p. 3",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23677,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF074",
+  "chapter_label": "Chapter 3",
+  "note_number": 24,
+  "citation": "U.S. Army Memorandum, 2nd Lt. D.M. Sanders, 25 July 1952",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23679,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF075",
+  "chapter_label": "Chapter 3",
+  "note_number": 25,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23680,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF076",
+  "chapter_label": "Chapter 3",
+  "note_number": 26,
+  "citation": "_Prescott Evening Courier_ , May 22, 1953, pp. 1-2",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23681,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF077",
+  "chapter_label": "Chapter 3",
+  "note_number": 27,
+  "citation": "[http://ufologie.net/hcm/kingman53.htm](http://ufologie.net/hcm/kingman53.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23682,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF078",
+  "chapter_label": "Chapter 3",
+  "note_number": 28,
+  "citation": "[http://nucleanveaponarchive.org/Usa/Tests/Teapot.html](http://nucleanveaponarchive.org/Usa/Tests/Teapot.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23683,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF079",
+  "chapter_label": "Chapter 3",
+  "note_number": 29,
+  "citation": "Jessup, M. K. The UFO Annual, p 121",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23684,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF080",
+  "chapter_label": "Chapter 3",
+  "note_number": 30,
+  "citation": "Ibid., pp 119-120",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23685,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF081",
+  "chapter_label": "Chapter 3",
+  "note_number": 31,
+  "citation": "_Alamogordo Daily News_ , “Fireballs Shower On State”, April 6, 1955, p. 1A",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23686,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF082",
+  "chapter_label": "Chapter 3",
+  "note_number": 32,
+  "citation": "_Albuquerque Journal_ , “Fire Balls Again Seen Over City”, April 9, 1955, p. 1",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23688,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF083",
+  "chapter_label": "Chapter 3",
+  "note_number": 33,
+  "citation": "April 15, 1955, U.S. Army Colonel M.H. Truly, stationed at Headquarters Fourth Army, Fort Sam Houston, Texas, wrote to the Assistant Chief of Staff G-2",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23690,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF084",
+  "chapter_label": "Chapter 3",
+  "note_number": 34,
+  "citation": "_Council Bluffs Nonpareil_ , April 25, 1955, p. 1",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23693,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF085",
+  "chapter_label": "Chapter 3",
+  "note_number": 35,
+  "citation": "Project Blue Book Report, Case Number 4809, July 16, 1957",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23694,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF086",
+  "chapter_label": "Chapter 3",
+  "note_number": 36,
+  "citation": "_Associated Press_ , “Meteor Just Misses Navy Airliner”, October 10, 1957",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23695,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF087",
+  "chapter_label": "Chapter 4",
+  "note_number": 1,
+  "citation": "Ruppelt, Edward J. _The Report on Unidentified Flying Objects_ , Ace Books, Inc., 1956, p. 256",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23701,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF088",
+  "chapter_label": "Chapter 4",
+  "note_number": 2,
+  "citation": "Ibid. pp. 257-8",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23703,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF089",
+  "chapter_label": "Chapter 4",
+  "note_number": 3,
+  "citation": "[http://www.converge.org.nz/pma/a230399b.htm](http://www.converge.org.nz/pma/a230399b.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23704,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF090",
+  "chapter_label": "Chapter 4",
+  "note_number": 4,
+  "citation": "Ruppelt, Edward J. _The Report on Unidentified Flying Objects_ , Ace Books, Inc., 1956, p. 258",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23705,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF091",
+  "chapter_label": "Chapter 4",
+  "note_number": 5,
+  "citation": "Commander Task Group 132.3 History of Operation Ivy, p. 96",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23707,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF092",
+  "chapter_label": "Chapter 4",
+  "note_number": 6,
+  "citation": "U.S. Arms Control and Disarmament Agency, Worldwide Effects of Nuclear War—Some Perspectives",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23708,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF093",
+  "chapter_label": "Chapter 4",
+  "note_number": 7,
+  "citation": "[http://www.faqs.org/docs/air/f2003ml0.html#m2](http://www.faqs.org/docs/air/f2003ml0.html#m2)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23710,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF094",
+  "chapter_label": "Chapter 4",
+  "note_number": 8,
+  "citation": "Defense Nuclear Agency' (DNA), Castle Series, 1954, DNA 6035F, United States Atmospheric Nuclear Weapons Tests, p. 341",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23711,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF095",
+  "chapter_label": "Chapter 4",
+  "note_number": 9,
+  "citation": "[http://www.aracnet.com/-pdxavets/hasty.htm](http://www.aracnet.com/-pdxavets/hasty.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23713,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF096",
+  "chapter_label": "Chapter 4",
+  "note_number": 10,
+  "citation": "JTF 7 report. “British Unit Participation in Bravo”",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23714,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF097",
+  "chapter_label": "Chapter 4",
+  "note_number": 11,
+  "citation": "[http://www.raf.mod.uk/hisrory_old/canberra4.hrml](http://www.raf.mod.uk/hisrory_old/canberra4.hrml)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23715,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF098",
+  "chapter_label": "Chapter 4",
+  "note_number": 12,
+  "citation": "[http://worf.eh.doe.gov/data/ihpId/76389e.pdf](http://worf.eh.doe.gov/data/ihpId/76389e.pdf)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23716,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF099",
+  "chapter_label": "Chapter 4",
+  "note_number": 13,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23717,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF100",
+  "chapter_label": "Chapter 4",
+  "note_number": 14,
+  "citation": "DNA Castle Series Report 6035, Table 24",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23718,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF101",
+  "chapter_label": "Chapter 4",
+  "note_number": 15,
+  "citation": "“H-Hour Aircraft Flight Plans” Appendix 2, Annex D",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23719,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF102",
+  "chapter_label": "Chapter 4",
+  "note_number": 16,
+  "citation": "Jessup, Morris K. The UFO Annual, “Kwajalein, Marshall Islands”, April 1954",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23720,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF103",
+  "chapter_label": "Chapter 4",
+  "note_number": 17,
+  "citation": "59438e.pdfHisrOfOperationIvy.pdf 1 8. _Albuquerque Journal_ , “High Radioactivity in West Believed Due To Fallout From Pacific H-Bomb Tests”, May 16, 1954",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23722,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF104",
+  "chapter_label": "Chapter 5",
+  "note_number": 1,
+  "citation": "_Amarillo Globe-Times_ , November 8, 1957",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23730,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF105",
+  "chapter_label": "Chapter 5",
+  "note_number": 2,
+  "citation": "[http://www.nuforc.org/webreports/031/S31470.html](http://www.nuforc.org/webreports/031/S31470.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23731,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF106",
+  "chapter_label": "Chapter 6",
+  "note_number": 1,
+  "citation": "_The Washington Post_ , “Small Missiles Heightened Peril in 1962 Cuban Crisis”, January 14, 1992.",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23736,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF107",
+  "chapter_label": "Chapter 6",
+  "note_number": 2,
+  "citation": "History Channel, “Cuban Missile Crisis Declassified”, 2005",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23738,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF108",
+  "chapter_label": "Chapter 6",
+  "note_number": 3,
+  "citation": "[http://www.nicap.org/cmc2.htm](http://www.nicap.org/cmc2.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23739,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF109",
+  "chapter_label": "Chapter 6",
+  "note_number": 4,
+  "citation": "“John Smith” to CUFOS, personal correspondence, April 13, 2006",
+  "reference_type": "AUTHOR_INTERVIEW_OR_CORRESPONDENCE",
+  "section_id": "SEC106",
+  "line_ref": 23740,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF110",
+  "chapter_label": "Chapter 7",
+  "note_number": 1,
+  "citation": "Project Blue Book Report, Case Number 6606, Nov. 7; Nov. 20, 1959",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23745,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF111",
+  "chapter_label": "Chapter 7",
+  "note_number": 2,
+  "citation": "Cox, Billy. _Florida Today_ , June 2 7 , 200 1",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23746,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF112",
+  "chapter_label": "Chapter 7",
+  "note_number": 3,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23747,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF113",
+  "chapter_label": "Chapter 7",
+  "note_number": 4,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23748,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF114",
+  "chapter_label": "Chapter 7",
+  "note_number": 5,
+  "citation": "Barry Krause to NICAP, personal correspondence, December 20, 1964",
+  "reference_type": "AUTHOR_INTERVIEW_OR_CORRESPONDENCE",
+  "section_id": "SEC106",
+  "line_ref": 23749,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF115",
+  "chapter_label": "Chapter 7",
+  "note_number": 6,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23750,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF116",
+  "chapter_label": "Chapter 7",
+  "note_number": 7,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23751,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF117",
+  "chapter_label": "Chapter 7",
+  "note_number": 8,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23752,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF118",
+  "chapter_label": "Chapter 7",
+  "note_number": 9,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23753,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF119",
+  "chapter_label": "Chapter 8",
+  "note_number": 1,
+  "citation": "[http://ufologie.net/press2/liberation25augl954.htm](http://ufologie.net/press2/liberation25augl954.htm)",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23758,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF120",
+  "chapter_label": "Chapter 8",
+  "note_number": 2,
+  "citation": "Fowler, Raymond E. UFOs: Interplanetary Visitors, Prentice Hall, Inc., 1974, pp. 209- 10",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23759,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF121",
+  "chapter_label": "Chapter 8",
+  "note_number": 3,
+  "citation": "[http://72.14.205.104/search?](http://72.14.205.104/search?) q=cache:zkNeY2R2vqAJ:www.cufos.org/taylor.pdf+Taylor+Herb,+Cloud+ Cigars,+IUR+Offutt&lil=en&ct=clnk&cd=I&gl=us",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23761,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF122",
+  "chapter_label": "Chapter 8",
+  "note_number": 4,
+  "citation": "[http://www.nicap.org/docs/rand/randdoc681127.pdf](http://www.nicap.org/docs/rand/randdoc681127.pdf)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23764,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF123",
+  "chapter_label": "Chapter 8",
+  "note_number": 5,
+  "citation": "Brookings Institution. “Proposed Studies on the Implications of Peaceful Space Activities for Human Affairs”, 1960",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23765,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF124",
+  "chapter_label": "Chapter 8",
+  "note_number": 6,
+  "citation": "Ibid., p. 225",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23767,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF125",
+  "chapter_label": "Chapter 8",
+  "note_number": 7,
+  "citation": "Ibid. p. 215",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23768,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF126",
+  "chapter_label": "Chapter 8",
+  "note_number": 8,
+  "citation": "Ibid., p. 225",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23769,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF127",
+  "chapter_label": "Chapter 8",
+  "note_number": 9,
+  "citation": "Ibid., p. 226",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23770,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF128",
+  "chapter_label": "Chapter 8",
+  "note_number": 10,
+  "citation": "Ibid., p. 216",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23771,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF129",
+  "chapter_label": "Chapter 8",
+  "note_number": 11,
+  "citation": "[http://www.daviddarling.info/encyclopedia/E/etintelimplic.html](http://www.daviddarling.info/encyclopedia/E/etintelimplic.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23772,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF130",
+  "chapter_label": "Chapter 8",
+  "note_number": 12,
+  "citation": "[http://www.daviddarling.info/encycIopedia/E/etintelimplic.html](http://www.daviddarling.info/encycIopedia/E/etintelimplic.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23773,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF131",
+  "chapter_label": "Chapter 8",
+  "note_number": 13,
+  "citation": "Marchetti, Victor. Second Look, “How the CIA views the UFO Phenomenon”, Vol. 1, No. 7, May 1979",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23774,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF132",
+  "chapter_label": "Chapter 9",
+  "note_number": 1,
+  "citation": "[http://www.nicap.org/bigsur2.htm.](http://www.nicap.org/bigsur2.htm.)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23780,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF133",
+  "chapter_label": "Chapter 9",
+  "note_number": 2,
+  "citation": "Florenze Mansmann to Lee Graham, personal communication, January 30, 1983",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23781,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF134",
+  "chapter_label": "Chapter 9",
+  "note_number": 3,
+  "citation": "Florenze Mansmann to Peter Bons, personal communication, March 8, 1983",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23783,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF135",
+  "chapter_label": "Chapter 9",
+  "note_number": 4,
+  "citation": "Robert Jacobs to Florenze Mansmann, personal communication, January 14, 1985",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23785,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF136",
+  "chapter_label": "Chapter 9",
+  "note_number": 5,
+  "citation": "Florenze Mansmann to Curt Collier, personal communication, November 15, 1995",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23787,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF137",
+  "chapter_label": "Chapter 9",
+  "note_number": 6,
+  "citation": "Florenze Mansmann to T. Scott Crain, Jr., personal communication, May 6, 1987",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23789,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF138",
+  "chapter_label": "Chapter 9",
+  "note_number": 7,
+  "citation": "Greer, Steven M. M.D. _Disclosure_. Crozet, Virginia: Crossing Point Inc., 2001 , pp. 79-85.",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23791,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF139",
+  "chapter_label": "Chapter 9",
+  "note_number": 8,
+  "citation": "George, Kingston A. “The Big Sur ‘UFO’: An _Identified_ Flying Object”, _Skeptical Inquirer_ , Vol. 17, ed. Kendrick Frazier. Buffalo, NY: Prometheus Books, 1993, pp. 180-87.",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23793,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF140",
+  "chapter_label": "Chapter 9",
+  "note_number": 9,
+  "citation": "Cook, Nick. “Boeing considers feasibility of plasma-based weapons”, Coulsdon, Surrey, United Kingdom: Jane’s Information Group, March 28, 2001. _Reproduced with permission from Jane's Information Group – Jane’s Defence Weekly_.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23796,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF141",
+  "chapter_label": "Chapter 9",
+  "note_number": 10,
+  "citation": "Trigonometric analysis on file at CUFOS.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23800,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF142",
+  "chapter_label": "Chapter 9",
+  "note_number": 11,
+  "citation": "Walker, Chuck. _Atlas: The Ultimate Weapon_. Burlington, Ontario, Canada: Collector’s Guide Publishing Inc./Apogee Books, 2005, p. 60.",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23801,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF143",
+  "chapter_label": "Chapter 9",
+  "note_number": 12,
+  "citation": "Crain, Jr., T. Scott. “UFO Intercepts Rocket”, _MUFON UFO Journal_ , January 1987, pp. 5-6",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23803,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF144",
+  "chapter_label": "Chapter 9",
+  "note_number": 13,
+  "citation": "Florenze Mansmann to Peter Bons, personal communication, March 8, 1983.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23805,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF145",
+  "chapter_label": "Chapter 9",
+  "note_number": 14,
+  "citation": "Florenze Mansmann to Curt Collier, personal communication, November 15, 1995.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23807,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF146",
+  "chapter_label": "Chapter 9",
+  "note_number": 15,
+  "citation": "George, Kingston A. _Operations Analysis Staff Study: Preliminary Report on Image Orthicon Photography from Big Sur_. October 13, 1964",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23811,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF147",
+  "chapter_label": "Chapter 9",
+  "note_number": 16,
+  "citation": "Robert Jacobs to the author, audio-taped telephone conversation, August 14, 2006.",
+  "reference_type": "AUTHOR_INTERVIEW_OR_CORRESPONDENCE",
+  "section_id": "SEC106",
+  "line_ref": 23813,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF148",
+  "chapter_label": "Chapter 9",
+  "note_number": 17,
+  "citation": "Jacobs, Dr. Robert M. _Low Klass: A Rejoinder_. Privately-published.",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23815,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF149",
+  "chapter_label": "Chapter 9",
+  "note_number": 18,
+  "citation": "[http://www.asrronautixcom/lvs/atlasd.htm.](http://www.asrronautixcom/lvs/atlasd.htm.)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23816,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF150",
+  "chapter_label": "Chapter 9",
+  "note_number": 19,
+  "citation": "Bob Jacobs to the author, personal communication, August 28, 2006",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23817,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF151",
+  "chapter_label": "Chapter 9",
+  "note_number": 20,
+  "citation": "Kingston George to the author, telephone conversation, January 2, 2003",
+  "reference_type": "AUTHOR_INTERVIEW_OR_CORRESPONDENCE",
+  "section_id": "SEC106",
+  "line_ref": 23818,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF152",
+  "chapter_label": "Chapter 9",
+  "note_number": 21,
+  "citation": "[http://www.nicap.org/bigsur2.htm](http://www.nicap.org/bigsur2.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23819,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF153",
+  "chapter_label": "Chapter 9",
+  "note_number": 22,
+  "citation": "Jacobs, Dr. Robert M. _Low Klass: A Rejoinder_. Privately-published",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23820,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF154",
+  "chapter_label": "Chapter 9",
+  "note_number": 23,
+  "citation": "Ibid",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23821,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF155",
+  "chapter_label": "Chapter 9",
+  "note_number": 24,
+  "citation": "Rodeghier, Dr. Mark. Image Resolution of the Optical System at Big Sur, IUR,",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23822,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF156",
+  "chapter_label": "Chapter 9",
+  "note_number": 25,
+  "citation": "June 17, 1974, the _Hobart Mercury_ ( _The New York Times_ )",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23824,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF157",
+  "chapter_label": "Chapter 9",
+  "note_number": 26,
+  "citation": "Greenwood, Barry' and Fawcett, Lawrence. _Clear Intent: The Government Cover-up of the UFO Experience_ , Prentice-Hall Inc., 1984, pp. 69-70",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23825,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF158",
+  "chapter_label": "Chapter 10",
+  "note_number": 1,
+  "citation": "[http://www.deathreference.com/Me-Nu/Nuclear-Destruction.html](http://www.deathreference.com/Me-Nu/Nuclear-Destruction.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23832,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF159",
+  "chapter_label": "Chapter 10",
+  "note_number": 2,
+  "citation": "Brookings Institution, Schwartz, Stephen I. ed. _Atomic Audit: The Costs and Consequences of U.S. Nuclear Weapons Since 1940_. 1998",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23833,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF160",
+  "chapter_label": "Chapter 10",
+  "note_number": 3,
+  "citation": "Lorenzen, Coral and Jim. _UFOs—The Whole Story_ , Signet, 1969. p. 235",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23835,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF161",
+  "chapter_label": "Chapter 10",
+  "note_number": 4,
+  "citation": "Project Blue Book memorandum, August 1, 1965",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23836,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF162",
+  "chapter_label": "Chapter 10",
+  "note_number": 5,
+  "citation": "Hynek, Dr. J. Allen. _The UFO Experience: A Scientific Inquiry_ , Ballentine Books, 1972. p. 10",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23837,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF163",
+  "chapter_label": "Chapter 10",
+  "note_number": 6,
+  "citation": "[Tucson] _Daily Citizen_ , March 1, 1967",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23839,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF164",
+  "chapter_label": "Chapter 10",
+  "note_number": 7,
+  "citation": "[http://www.afmissileers.org/newsletters/NL2003/mar03.pdf](http://www.afmissileers.org/newsletters/NL2003/mar03.pdf)",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23840,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF165",
+  "chapter_label": "Chapter 10",
+  "note_number": 8,
+  "citation": "Hynek, Dr. J. Allen. “Are Flying Saucers Real?”, _Saturday Evening Post_ , December 17, 1966",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23841,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF166",
+  "chapter_label": "Chapter 10",
+  "note_number": 9,
+  "citation": "_Christian Science Monitor_ , December 5, 1973",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23843,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF167",
+  "chapter_label": "Chapter 11",
+  "note_number": 1,
+  "citation": "[http://www.cufon.org/cufon/malmstrom/malm](http://www.cufon.org/cufon/malmstrom/malm) 1 .htm",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23848,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF168",
+  "chapter_label": "Chapter 11",
+  "note_number": 2,
+  "citation": "Salas, Robert and Klotz, James. _Faded Giant._ Privately-published",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23849,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF169",
+  "chapter_label": "Chapter 11",
+  "note_number": 3,
+  "citation": "[http://www.cufon.org/cufon/malmstrom/malml.htm](http://www.cufon.org/cufon/malmstrom/malml.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23850,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF170",
+  "chapter_label": "Chapter 11",
+  "note_number": 4,
+  "citation": "[http://www.cufon.org/cufon/malmstrom/page38.htm](http://www.cufon.org/cufon/malmstrom/page38.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23851,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF171",
+  "chapter_label": "Chapter 11",
+  "note_number": 5,
+  "citation": "[http://www.cufon.org/cufon/malmstrom/malml.htm](http://www.cufon.org/cufon/malmstrom/malml.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23852,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF172",
+  "chapter_label": "Chapter 11",
+  "note_number": 6,
+  "citation": "Jim Klotz to Robert Hastings, personal communication, June 1, 2008",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23853,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF173",
+  "chapter_label": "Chapter 11",
+  "note_number": 7,
+  "citation": "_Great Falls Tribune_. March 25, 1967",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23854,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF174",
+  "chapter_label": "Chapter 11",
+  "note_number": 8,
+  "citation": "Fowler, Raymond E. Casebook of a UFO Investigator, Prentice-Hall, 1981. p. 187",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23855,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF175",
+  "chapter_label": "Chapter 12",
+  "note_number": 1,
+  "citation": "Keyhoe, Donald E. _The Flying Saucer Conspiracy_ , Henry Holt and Company, p. 168",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23861,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF176",
+  "chapter_label": "Chapter 13",
+  "note_number": 1,
+  "citation": "McDonald, Dr. James E. “Prepared Statement before the House Committee on Science and Astronautics”, July 29, 1968",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23867,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF177",
+  "chapter_label": "Chapter 13",
+  "note_number": 2,
+  "citation": "UFOskeptic.org",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23869,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF178",
+  "chapter_label": "Chapter 13",
+  "note_number": 3,
+  "citation": "[Tucson] _Daily Citizen_ , March 1, 1967",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23870,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF179",
+  "chapter_label": "Chapter 13",
+  "note_number": 4,
+  "citation": "McDonald, Dr. James E. “Prepared Statement before the House Committee on Science and Astronautics”, July 29, 1968",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23871,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF180",
+  "chapter_label": "Chapter 13",
+  "note_number": 5,
+  "citation": "Felder, Gary and Kenny. “Quantum Mechanics: The Young Double-Slit Experiment”, 1998",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23873,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF181",
+  "chapter_label": "Chapter 13",
+  "note_number": 6,
+  "citation": "Nyman, Joseph, _MUFON UFO Journal_.",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23875,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF182",
+  "chapter_label": "Chapter 13",
+  "note_number": 7,
+  "citation": "Dr. Robert Kirshner to Robert Hastings, confirmation of quotation in personal communication, June 2, 2008",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23876,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF183",
+  "chapter_label": "Chapter 13",
+  "note_number": 8,
+  "citation": "[http://en.wikipedia.org/wiki/Condon_Committee](http://en.wikipedia.org/wiki/Condon_Committee)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23878,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF184",
+  "chapter_label": "Chapter 13",
+  "note_number": 9,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23879,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF185",
+  "chapter_label": "Chapter 13",
+  "note_number": 10,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23880,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF186",
+  "chapter_label": "Chapter 13",
+  "note_number": 11,
+  "citation": "Saunders, Dr. David R. _UFOs: Yes!_ Signet, 1968. p. 189",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23881,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF187",
+  "chapter_label": "Chapter 13",
+  "note_number": 12,
+  "citation": "[http://en.wikipedia.org/wiki/Condon_Committee](http://en.wikipedia.org/wiki/Condon_Committee)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23882,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF188",
+  "chapter_label": "Chapter 13",
+  "note_number": 13,
+  "citation": "_LOOK_. “Flying Saucer Fiasco”, May 14, 1968",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23883,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF189",
+  "chapter_label": "Chapter 13",
+  "note_number": 14,
+  "citation": "[http://en.wikipedia.org/wiki/Condon_Committee](http://en.wikipedia.org/wiki/Condon_Committee)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23884,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF190",
+  "chapter_label": "Chapter 13",
+  "note_number": 15,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23885,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF191",
+  "chapter_label": "Chapter 13",
+  "note_number": 16,
+  "citation": "Condon, Dr. Edward U. _Scientific Study of Unidentified Flying Objects_ , Introduction, Bantam Books, 1969",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23886,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF192",
+  "chapter_label": "Chapter 13",
+  "note_number": 17,
+  "citation": "[http://en.wikipedia.org/wiki/Condon_Committee](http://en.wikipedia.org/wiki/Condon_Committee)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23888,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF193",
+  "chapter_label": "Chapter 13",
+  "note_number": 18,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23889,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF194",
+  "chapter_label": "Chapter 13",
+  "note_number": 19,
+  "citation": "Sturrock, Dr. Peter A. _The UFO Enigma: A New Review of the Physical Evidence_ , Aspect, 1999",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23890,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF195",
+  "chapter_label": "Chapter 13",
+  "note_number": 20,
+  "citation": "Hynek, Dr. J. Allen. _The UFO Experience: A Scientific Inquiry_. Ballentine Books, 1972. p. 217",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23892,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF196",
+  "chapter_label": "Chapter 13",
+  "note_number": 21,
+  "citation": "[http://www.annonline.com/interviews/97I009/biography.html](http://www.annonline.com/interviews/97I009/biography.html)",
+  "reference_type": "AUTHOR_INTERVIEW_OR_CORRESPONDENCE",
+  "section_id": "SEC106",
+  "line_ref": 23894,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF197",
+  "chapter_label": "Chapter 13",
+  "note_number": 22,
+  "citation": "_Critical Eye_. “Aliens”. Discovery Communications, Inc., 2002.",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23897,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF198",
+  "chapter_label": "Chapter 13",
+  "note_number": 23,
+  "citation": "[http://www.jamesoberg.com/resumeaerospace.html](http://www.jamesoberg.com/resumeaerospace.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23898,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF199",
+  "chapter_label": "Chapter 13",
+  "note_number": 24,
+  "citation": "Barrow, Robert. Letter to the editor, _OMNI_ , January 1979 p. 12",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23899,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF200",
+  "chapter_label": "Chapter 13",
+  "note_number": 25,
+  "citation": "Oberg, James. Letter to the editor, _OMNI_ , January 1979 p. 13",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23900,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF201",
+  "chapter_label": "Chapter 13",
+  "note_number": 26,
+  "citation": "Hansen, Terry. Letter to the editor, _OMNI_ , January 1979, p. 12",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23901,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF202",
+  "chapter_label": "Chapter 13",
+  "note_number": 27,
+  "citation": "Hansen, Terry. _The Missing Times: News Media Complicity in the UFO Cover-up_ , Xlibris Corp., 2000.",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23902,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF203",
+  "chapter_label": "Chapter 13",
+  "note_number": 28,
+  "citation": "Ibid., p. 228",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23904,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF204",
+  "chapter_label": "Chapter 13",
+  "note_number": 29,
+  "citation": "Ibid., pp. 228-29",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23905,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF205",
+  "chapter_label": "Chapter 13",
+  "note_number": 30,
+  "citation": "Ibid., p. 229",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23906,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF206",
+  "chapter_label": "Chapter 13",
+  "note_number": 31,
+  "citation": "Jacobs, Dr. Robert M. _Low Klass: A Rejoinder_. Privately-published",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23907,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF207",
+  "chapter_label": "Chapter 13",
+  "note_number": 32,
+  "citation": "Hansen, Terry. _The Missing Times: News Media Complicity in the UFO Cover-up_ , Xlibris Corp., 2000. p. 230",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23908,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF208",
+  "chapter_label": "Chapter 13",
+  "note_number": 33,
+  "citation": "Ibid., p. 250",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23910,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF209",
+  "chapter_label": "Chapter 13",
+  "note_number": 34,
+  "citation": "Ibid., p. 251",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23911,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF210",
+  "chapter_label": "Chapter 15",
+  "note_number": 1,
+  "citation": "National Archives and Records Administration’s (NARA) USAF Project Blue Book microfilm file (case number 12,548)",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23921,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF211",
+  "chapter_label": "Chapter 15",
+  "note_number": 2,
+  "citation": "Tulien, Thomas and Klotz, James. The Minot UFO Incident Report (get name)",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23923,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF212",
+  "chapter_label": "Chapter 15",
+  "note_number": 3,
+  "citation": "National Archives and Records Administration’s (NARA) USAF Project Blue Book microfilm file (case number 12,548)",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23925,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF213",
+  "chapter_label": "Chapter 15",
+  "note_number": 4,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23927,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF214",
+  "chapter_label": "Chapter 15",
+  "note_number": 5,
+  "citation": "Tulien, Thomas. “A Narrative of UFO Events at Minot AFB, 24 OCTOBER 1968”, [http://www.minotb52ufo.com](http://www.minotb52ufo.com)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23928,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF215",
+  "chapter_label": "Chapter 15",
+  "note_number": 6,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23930,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF216",
+  "chapter_label": "Chapter 15",
+  "note_number": 7,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23931,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF217",
+  "chapter_label": "Chapter 15",
+  "note_number": 8,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23932,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF218",
+  "chapter_label": "Chapter 15",
+  "note_number": 9,
+  "citation": "Quintanilla, Hector. Project Blue Book Report, Case Number 12,548, November 13, 1968",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23933,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF219",
+  "chapter_label": "Chapter 16",
+  "note_number": 1,
+  "citation": "Jan Aldrich to Robert Hastings, personal communication, June 1, 2008",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23939,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF220",
+  "chapter_label": "Chapter 16",
+  "note_number": 2,
+  "citation": "[http://www.nicap.org/directives/Bolender_Memo.pdf](http://www.nicap.org/directives/Bolender_Memo.pdf)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23940,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF221",
+  "chapter_label": "Chapter 16",
+  "note_number": 3,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23941,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF222",
+  "chapter_label": "Chapter 16",
+  "note_number": 4,
+  "citation": "[http://www.projectl947.com/fig/jtt.htm](http://www.projectl947.com/fig/jtt.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23942,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF223",
+  "chapter_label": "Chapter 16",
+  "note_number": 5,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23943,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF224",
+  "chapter_label": "Chapter 16",
+  "note_number": 6,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23944,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF225",
+  "chapter_label": "Chapter 17",
+  "note_number": 1,
+  "citation": "[http://www.globalsecurity.org/space/systems/safeguard.htm](http://www.globalsecurity.org/space/systems/safeguard.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23949,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF226",
+  "chapter_label": "Chapter 17",
+  "note_number": 2,
+  "citation": "Ibid",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23950,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF227",
+  "chapter_label": "Chapter 18",
+  "note_number": 1,
+  "citation": "_Harlowton Times_ , February 20, 1975",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23955,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF228",
+  "chapter_label": "Chapter 18",
+  "note_number": 2,
+  "citation": "USAF letter, “Request for Information under the FOIA”, Col. Terrence C. James to W. Todd Zechel, 4 October 1977",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 23956,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF229",
+  "chapter_label": "Chapter 18",
+  "note_number": 3,
+  "citation": "Greenwood, Barry and Fawcett, Lawrence. _Clear Intent: The Government Cover-up of the UFO Experience_ , Prentice-Hall Inc., 1984, p. 35",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23958,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF230",
+  "chapter_label": "Chapter 18",
+  "note_number": 4,
+  "citation": "[http://www.nidsci.org/pdf/wolverton_report.pdf](http://www.nidsci.org/pdf/wolverton_report.pdf)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23961,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF231",
+  "chapter_label": "Chapter 18",
+  "note_number": 5,
+  "citation": "Greenwood, Barry and Fawcett, Lawrence. _Clear Intent: The Government Cover-up of the UFO Experience_ , Prentice-Hall Inc., 1984. pp. 41-45",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23962,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF232",
+  "chapter_label": "Chapter 19",
+  "note_number": 1,
+  "citation": "[http://www.mufon.com/bob_pratt/bigmama.html](http://www.mufon.com/bob_pratt/bigmama.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23969,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF233",
+  "chapter_label": "Chapter 19",
+  "note_number": 2,
+  "citation": "Ferguson, Lawrence. [Colorado Springs] Gazette Telegraph, “An Unknown Menace Puzzles Cattlemen”, October 22, 1977",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23970,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF234",
+  "chapter_label": "Chapter 19",
+  "note_number": 3,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23972,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF235",
+  "chapter_label": "Chapter 19",
+  "note_number": 4,
+  "citation": "[http://wvvw.parascope.com/articles/0597/mute2.htm](http://wvvw.parascope.com/articles/0597/mute2.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23973,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF236",
+  "chapter_label": "Chapter 19",
+  "note_number": 5,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23974,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF237",
+  "chapter_label": "Chapter 19",
+  "note_number": 6,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23975,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF238",
+  "chapter_label": "Chapter 19",
+  "note_number": 7,
+  "citation": "[http://www.chicagotribune.com/news/specials/chi-](http://www.chicagotribune.com/news/specials/chi-) 04l021forensics,0,5762676.story",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 23976,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF239",
+  "chapter_label": "Chapter 19",
+  "note_number": 8,
+  "citation": "[http://www.parascope.com/articles/0597/mute2.htm](http://www.parascope.com/articles/0597/mute2.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23978,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF240",
+  "chapter_label": "Chapter 19",
+  "note_number": 9,
+  "citation": "National Institute for Discovery Science. “Unexplained Cattle Deaths and the Emergence of a Transmissible Spongiform Encephalopathy (TSE) Epidemic in North America”, 2003.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23979,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF241",
+  "chapter_label": "Chapter 21",
+  "note_number": 1,
+  "citation": "Greenwood, Barry and Fawcett, Lawrence. _Clear Intent: The Government Cover-up of the UFO Experience_ , Prentice-Hall Inc., 1984, p. 218",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 23991,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF242",
+  "chapter_label": "Chapter 21",
+  "note_number": 2,
+  "citation": "Col. Charles Halt to A.J.S. Rayl, recorded interview, May 13, 1997",
+  "reference_type": "AUTHOR_INTERVIEW_OR_CORRESPONDENCE",
+  "section_id": "SEC106",
+  "line_ref": 23994,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF243",
+  "chapter_label": "Chapter 21",
+  "note_number": 3,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23995,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF244",
+  "chapter_label": "Chapter 21",
+  "note_number": 4,
+  "citation": "Sci Fi Channel, _UFO Invasion at Rendlesham_ , 2003",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23996,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF245",
+  "chapter_label": "Chapter 21",
+  "note_number": 5,
+  "citation": "Bruni, Georgina. _You Can’t Tell the People_. Sidgwick & Jackson, London, 2000, pp. 243-44.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 23997,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF246",
+  "chapter_label": "Chapter 21",
+  "note_number": 6,
+  "citation": "[http://cIik.to/81sps](http://cIik.to/81sps)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 23999,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF247",
+  "chapter_label": "Chapter 21",
+  "note_number": 7,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24000,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF248",
+  "chapter_label": "Chapter 21",
+  "note_number": 8,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24001,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF249",
+  "chapter_label": "Chapter 21",
+  "note_number": 9,
+  "citation": "[http://www.uk-ufo.org/condign/rendanl4.htm](http://www.uk-ufo.org/condign/rendanl4.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24002,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF250",
+  "chapter_label": "Chapter 22",
+  "note_number": 1,
+  "citation": "[http://brumac.8k.com/kirtland](http://brumac.8k.com/kirtland) 1 .html",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24007,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF251",
+  "chapter_label": "Chapter 23",
+  "note_number": 1,
+  "citation": "[http://www.ufoevidence.org/documents/doc459.htm](http://www.ufoevidence.org/documents/doc459.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24012,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF252",
+  "chapter_label": "Chapter 23",
+  "note_number": 2,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24013,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF253",
+  "chapter_label": "Chapter 23",
+  "note_number": 3,
+  "citation": "Ibid",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24014,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF254",
+  "chapter_label": "Chapter 23",
+  "note_number": 4,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24015,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF255",
+  "chapter_label": "Chapter 23",
+  "note_number": 5,
+  "citation": "History Channel. _Soviet UFO Secrets Revealed_ , 2004",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 24016,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF256",
+  "chapter_label": "Chapter 23",
+  "note_number": 6,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24017,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF257",
+  "chapter_label": "Chapter 23",
+  "note_number": 7,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24018,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF258",
+  "chapter_label": "Chapter 23",
+  "note_number": 8,
+  "citation": "[http://www.ufoevidence.org/documents/doc459.htm](http://www.ufoevidence.org/documents/doc459.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24019,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF259",
+  "chapter_label": "Chapter 23",
+  "note_number": 9,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24020,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF260",
+  "chapter_label": "Chapter 23",
+  "note_number": 10,
+  "citation": "Phillips, Ted. MUFON UFO Journal, May 2005",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 24021,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF261",
+  "chapter_label": "Chapter 23",
+  "note_number": 11,
+  "citation": "U.S. State Department document, _Treaty Between The United States of America and The Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles_. December 8 , 1987",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 24022,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF262",
+  "chapter_label": "Chapter 23",
+  "note_number": 12,
+  "citation": "[http://www.ufoevidence.org/documents/doc](http://www.ufoevidence.org/documents/doc) 1 040.htm",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24025,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF263",
+  "chapter_label": "Chapter 23",
+  "note_number": 13,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24026,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF264",
+  "chapter_label": "Chapter 23",
+  "note_number": 14,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24027,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF265",
+  "chapter_label": "Chapter 23",
+  "note_number": 15,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24028,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF266",
+  "chapter_label": "Chapter 24",
+  "note_number": 1,
+  "citation": "_Great Falls Tribune_ , January 20, 1995",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 24033,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF267",
+  "chapter_label": "Chapter 24",
+  "note_number": 2,
+  "citation": "Associated Press, January 21, 1995",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 24034,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF268",
+  "chapter_label": "Chapter 24",
+  "note_number": 3,
+  "citation": "USN Commander Richard Mandelkorn, “Report of Trip to Los Alamos on February 18, 1949”",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 24035,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF269",
+  "chapter_label": "Chapter 24",
+  "note_number": 4,
+  "citation": "Goodrich, Jeff. MUFON UFO Sighting Questionnaire, October 29, 1992",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24037,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF270",
+  "chapter_label": "Chapter 24",
+  "note_number": 5,
+  "citation": "[http://vvww.nuforc.org/webreports/024/S24398.html](http://vvww.nuforc.org/webreports/024/S24398.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24038,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF271",
+  "chapter_label": "Chapter 24",
+  "note_number": 6,
+  "citation": "[http://www.nuforc.org/webreports/031/S31278.html](http://www.nuforc.org/webreports/031/S31278.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24039,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF272",
+  "chapter_label": "Chapter 25",
+  "note_number": 1,
+  "citation": "[http://www.ufoinfo.com/filer/2004/ff0403.shtml](http://www.ufoinfo.com/filer/2004/ff0403.shtml)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24044,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF273",
+  "chapter_label": "Chapter 25",
+  "note_number": 2,
+  "citation": "[http://www.nuforc.org/webreports/023/S23399.html](http://www.nuforc.org/webreports/023/S23399.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24045,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF274",
+  "chapter_label": "Chapter 25",
+  "note_number": 3,
+  "citation": "CNN. _Larry King Live_ , July 13, 2007",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24046,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF275",
+  "chapter_label": "Chapter 25",
+  "note_number": 4,
+  "citation": "[http://www.nuforc.org/EncyclopediaPhoenixLights.htm](http://www.nuforc.org/EncyclopediaPhoenixLights.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24047,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF276",
+  "chapter_label": "Chapter 25",
+  "note_number": 5,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24048,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF277",
+  "chapter_label": "Chapter 25",
+  "note_number": 6,
+  "citation": "_Associated Press_ , November 12, 2006",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 24049,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF278",
+  "chapter_label": "Chapter 26",
+  "note_number": 1,
+  "citation": "Marchetti, Victor. _Second Look_ , “How the CIA views the UFO Phenomenon”, Vol. 1, No. 7, May 1979",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 24054,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF279",
+  "chapter_label": "Chapter 26",
+  "note_number": 2,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24056,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF280",
+  "chapter_label": "Chapter 26",
+  "note_number": 3,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24057,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF281",
+  "chapter_label": "Chapter 26",
+  "note_number": 4,
+  "citation": "Greenwood, Barry and Fawcett, Lawrence. _Clear Intent: The Government Cover-up of the UFO Experience_ , Prentice-Hall Inc., 1984, pp. 112-13",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 24058,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF282",
+  "chapter_label": "Chapter 26",
+  "note_number": 5,
+  "citation": "[http://textfiles.vistech.net/ufo/UFOBBS/2000/2535.ufo](http://textfiles.vistech.net/ufo/UFOBBS/2000/2535.ufo)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24061,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF283",
+  "chapter_label": "Chapter 26",
+  "note_number": 6,
+  "citation": "[http://www.v-jenterprises.com/sf-government-lies3.html](http://www.v-jenterprises.com/sf-government-lies3.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24062,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF284",
+  "chapter_label": "Chapter 26",
+  "note_number": 7,
+  "citation": "[http://textfiles.vistech.net/ufo/UFOBBS/2000/2535.ufo](http://textfiles.vistech.net/ufo/UFOBBS/2000/2535.ufo)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24063,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF285",
+  "chapter_label": "Chapter 26",
+  "note_number": 8,
+  "citation": "[http://www.cufos.org/lUR_article3.html](http://www.cufos.org/lUR_article3.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24064,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF286",
+  "chapter_label": "Chapter 26",
+  "note_number": 9,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24065,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF287",
+  "chapter_label": "Chapter 26",
+  "note_number": 10,
+  "citation": "Marchetti, Victor. “Propaganda and Disinformation: How the CIA Manufactures History”, _Journal of Historical Review_ , Vol.20. No. 1 , 2001",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 24066,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF288",
+  "chapter_label": "Chapter 26",
+  "note_number": 11,
+  "citation": "[http://www.eyepod.org/lnvstgtr-Zechel.html](http://www.eyepod.org/lnvstgtr-Zechel.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24068,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF289",
+  "chapter_label": "Chapter 26",
+  "note_number": 12,
+  "citation": "Jan Aldrich to Robert Hastings, personal communication, May 28, 2008",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24069,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF290",
+  "chapter_label": "Chapter 27",
+  "note_number": 1,
+  "citation": "[http://www.textfiles.com/ufo/hastings.ufo](http://www.textfiles.com/ufo/hastings.ufo)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24074,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF291",
+  "chapter_label": "Chapter 27",
+  "note_number": 2,
+  "citation": "Randle, Dr. Kevin D., _Roswell UFO Crash Update_ , 1995",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24075,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF292",
+  "chapter_label": "Chapter 27",
+  "note_number": 3,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24076,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF293",
+  "chapter_label": "Chapter 27",
+  "note_number": 4,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24077,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF294",
+  "chapter_label": "Chapter 27",
+  "note_number": 5,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24078,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF295",
+  "chapter_label": "Chapter 27",
+  "note_number": 6,
+  "citation": "Kevin Randle to Robert Hastings, personal communication, June 3, 2008",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24079,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF296",
+  "chapter_label": "Chapter 27",
+  "note_number": 7,
+  "citation": "[http://roswellproof.homestead.com/Mogul_hoax_FAQ.lirml](http://roswellproof.homestead.com/Mogul_hoax_FAQ.lirml)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24080,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF297",
+  "chapter_label": "Chapter 27",
+  "note_number": 8,
+  "citation": "Kevin Randle to Robert Hastings, personal communication, June 3, 2008",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24081,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF298",
+  "chapter_label": "Chapter 27",
+  "note_number": 9,
+  "citation": "Lee M. Graham to Sen. Barry Goldwater, April 11, 1979",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24082,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF299",
+  "chapter_label": "Chapter 27",
+  "note_number": 10,
+  "citation": "Lee M. Graham to Sen. Barry Goldwater, October 19, 1981",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24083,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF300",
+  "chapter_label": "Chapter 27",
+  "note_number": 11,
+  "citation": "CNN. _Larry King Live_ (Radio Show). October 13, 1988",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24084,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF301",
+  "chapter_label": "Chapter 27",
+  "note_number": 12,
+  "citation": "Marchetti, Victor. _Second Look_ , “How the CIA views the UFO Phenomenon”, Vol. 1, No. 7, May 1979",
+  "reference_type": "GOVERNMENT_DOCUMENT_OR_REPORT",
+  "section_id": "SEC106",
+  "line_ref": 24085,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF302",
+  "chapter_label": "Chapter 27",
+  "note_number": 13,
+  "citation": "Loretta Proctor to Kevin Randle, Don Schmitt and Robert Hastings",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24087,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF303",
+  "chapter_label": "Chapter 27",
+  "note_number": 14,
+  "citation": "[http://www.roswellproof.com/Marcel_evaluations.html](http://www.roswellproof.com/Marcel_evaluations.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24088,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF304",
+  "chapter_label": "Chapter 27",
+  "note_number": 15,
+  "citation": "Carey, Thomas J. and Schmitt, Donald R. _Witness to Roswell_ , 2007",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24089,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF305",
+  "chapter_label": "Chapter 27",
+  "note_number": 16,
+  "citation": "[http://wvvw.roswellproof.com/Haut.html](http://wvvw.roswellproof.com/Haut.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24090,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF306",
+  "chapter_label": "Chapter 27",
+  "note_number": 17,
+  "citation": "Kevin Randle to Robert Hastings, personal communication, June 2, 2008",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24091,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF307",
+  "chapter_label": "Chapter 27",
+  "note_number": 18,
+  "citation": "_MUFON UFO Journal_ , September 2007",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 24093,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF308",
+  "chapter_label": "Chapter 27",
+  "note_number": 19,
+  "citation": "Kevin Randle to Robert Hastings, personal communication, June 2, 2008",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24094,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF309",
+  "chapter_label": "Chapter 28",
+  "note_number": 1,
+  "citation": "“The Warp Drive: Hyperfast Travel Within General Relativity”, May 1994, _Classical and Quantum Gravity_",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24100,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF310",
+  "chapter_label": "Chapter 28",
+  "note_number": 2,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24102,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF311",
+  "chapter_label": "Chapter 28",
+  "note_number": 3,
+  "citation": "[http://www.daviddarling.info/encyclopedia/A/Alcubdrive.html](http://www.daviddarling.info/encyclopedia/A/Alcubdrive.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24103,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF312",
+  "chapter_label": "Chapter 28",
+  "note_number": 4,
+  "citation": "Hillman, Dr. Christopher. Webpage no longer available.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24104,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF313",
+  "chapter_label": "Chapter 28",
+  "note_number": 5,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24105,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF314",
+  "chapter_label": "Chapter 28",
+  "note_number": 6,
+  "citation": "Dr. John G. Cramer to Robert Hastings, personal communication, November 5, 2003",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24106,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF315",
+  "chapter_label": "Chapter 28",
+  "note_number": 7,
+  "citation": "[http://omnis.if.ufrj.br/-mbr/warp/](http://omnis.if.ufrj.br/-mbr/warp/)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24108,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF316",
+  "chapter_label": "Chapter 28",
+  "note_number": 8,
+  "citation": "Hart, C.B. et al., “On the Problems of Hazardous Matter and Radiation at Faster than Light Speeds in the Warp Drive Space-time.”, _General Relativity and Quantum Cosmology_ , July 2002 9. “http://www.bibliotecapleyades.net/vision_remota/esp_visionremota_5.htm",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24109,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF317",
+  "chapter_label": "Chapter 28",
+  "note_number": 10,
+  "citation": "Puthoff, Dr. Harold. “SETI, the Velocity-of-Light Limitation, and the Alcubierre Warp Drive: An Integrating Overview”, _Physics Essays_. 1996.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24116,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF318",
+  "chapter_label": "Chapter 28",
+  "note_number": 11,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24118,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF319",
+  "chapter_label": "Chapter 28",
+  "note_number": 12,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24119,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF320",
+  "chapter_label": "Chapter 28",
+  "note_number": 13,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24122,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF321",
+  "chapter_label": "Chapter 28",
+  "note_number": 14,
+  "citation": "Loup, Fernando et al. _General Relativity and Gravitation_ , “Can Geodesics in Extra Dimensions Solve the Cosmic Light Speed Limit?”, October 2003",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24123,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF322",
+  "chapter_label": "Chapter 28",
+  "note_number": 15,
+  "citation": "Loup, Fernando et al. _General Relativity and Gravitation_ , 35 (11): 2035-2044, November 2003",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24126,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF323",
+  "chapter_label": "Chapter 28",
+  "note_number": 16,
+  "citation": "Lietz, Haiko. “Take a Leap into Hyperspace”, New Scientist, Issue 2533, 5 January 2006, p. 24",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24128,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF324",
+  "chapter_label": "Chapter 28",
+  "note_number": 17,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24130,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF325",
+  "chapter_label": "Chapter 29",
+  "note_number": 1,
+  "citation": "Itar-Tass. “Mobile-Launched, BMD-Resistant Topol-M ICBM Ready by 2006”, April 27, 2004,",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24135,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF326",
+  "chapter_label": "Chapter 29",
+  "note_number": 2,
+  "citation": "_Associated Press_. “Russia Test-Launches New Intercontinental Ballistic Missile”, May 29, 2007",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 24137,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF327",
+  "chapter_label": "Chapter 29",
+  "note_number": 3,
+  "citation": "[http://www.thebulletin.org/web-edition/features/the-us-nuclear-weapons-](http://www.thebulletin.org/web-edition/features/the-us-nuclear-weapons-) complex-pushing-a-new-production-capability",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24139,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF328",
+  "chapter_label": "Chapter 29",
+  "note_number": 4,
+  "citation": "ABC News, 20/20. _Last Days on Earth_ , 2006",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 24141,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF329",
+  "chapter_label": "Chapter 29",
+  "note_number": 5,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24142,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF330",
+  "chapter_label": "Chapter 29",
+  "note_number": 6,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24143,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF331",
+  "chapter_label": "Chapter 29",
+  "note_number": 7,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24144,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF332",
+  "chapter_label": "Chapter 29",
+  "note_number": 8,
+  "citation": "Traynor, Ian. “Pre-emptive Nuclear Strike a Key Option, NATO Told”, _The Guardian_ , January 22, 2008",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24145,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF333",
+  "chapter_label": "Chapter 29",
+  "note_number": 9,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24147,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF334",
+  "chapter_label": "Chapter 29",
+  "note_number": 10,
+  "citation": "Ibid.",
+  "reference_type": "OTHER",
+  "section_id": "SEC106",
+  "line_ref": 24148,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF335",
+  "chapter_label": "Chapter 29",
+  "note_number": 11,
+  "citation": "Phillips, Dr. Alan F., M.D. “20 Mishaps That Might Have Started Accidental Nuclear War”, Self-published, 1998",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 24149,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF336",
+  "chapter_label": "Chapter 30",
+  "note_number": 1,
+  "citation": "[http://www.globalsecurity.org/military/facility/kitsap.htm](http://www.globalsecurity.org/military/facility/kitsap.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24155,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF337",
+  "chapter_label": "Chapter 30",
+  "note_number": 2,
+  "citation": "[http://www.nuforc.org/webreports/003/S03479.html](http://www.nuforc.org/webreports/003/S03479.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24156,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF338",
+  "chapter_label": "Chapter 30",
+  "note_number": 3,
+  "citation": "[http://www.ufoinfo.com/filer/2007/tf0734.shtml](http://www.ufoinfo.com/filer/2007/tf0734.shtml)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24157,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF339",
+  "chapter_label": "Chapter 30",
+  "note_number": 4,
+  "citation": "[http://www.nuforc.org/webreports/004/S04420.html](http://www.nuforc.org/webreports/004/S04420.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24158,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF340",
+  "chapter_label": "Chapter 30",
+  "note_number": 5,
+  "citation": "[http://www.nuforc.org/webreports/ndxlWA.html](http://www.nuforc.org/webreports/ndxlWA.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24159,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF341",
+  "chapter_label": "Chapter 30",
+  "note_number": 6,
+  "citation": "[http://www.nuforc.org/webreports/003/S03479.html](http://www.nuforc.org/webreports/003/S03479.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24160,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF342",
+  "chapter_label": "Chapter 30",
+  "note_number": 7,
+  "citation": "[http://www.nuforc.org/webreports/000/S00795.html](http://www.nuforc.org/webreports/000/S00795.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24161,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF343",
+  "chapter_label": "Chapter 30",
+  "note_number": 8,
+  "citation": "[http://www.nuforc.org/webreports/005/S05404.html](http://www.nuforc.org/webreports/005/S05404.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24162,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF344",
+  "chapter_label": "Chapter 30",
+  "note_number": 9,
+  "citation": "[http://www.nuforc.org/webreports/0I3/SI3495.html](http://www.nuforc.org/webreports/0I3/SI3495.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24163,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF345",
+  "chapter_label": "Chapter 30",
+  "note_number": 10,
+  "citation": "[http://mvw.nuforc.org/webreports/027/S27963.html](http://mvw.nuforc.org/webreports/027/S27963.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24164,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF346",
+  "chapter_label": "Chapter 30",
+  "note_number": 11,
+  "citation": "[http://www.nuforc.org/webreports/039/S39328.html](http://www.nuforc.org/webreports/039/S39328.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24165,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF347",
+  "chapter_label": "Chapter 30",
+  "note_number": 12,
+  "citation": "[http://wavw.nuforc.org/webreports/044/S44477.html](http://wavw.nuforc.org/webreports/044/S44477.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24166,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF348",
+  "chapter_label": "Chapter 30",
+  "note_number": 13,
+  "citation": "[http://www.nuforc.org/webreports/055/S55564.html](http://www.nuforc.org/webreports/055/S55564.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24167,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF349",
+  "chapter_label": "Chapter 30",
+  "note_number": 14,
+  "citation": "[http://www.nuforc.org/webreports/057/S57685.html](http://www.nuforc.org/webreports/057/S57685.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24168,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF350",
+  "chapter_label": "Chapter 30",
+  "note_number": 15,
+  "citation": "[http://www.nuforc.org/webreports/060/S60663.html](http://www.nuforc.org/webreports/060/S60663.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24169,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF351",
+  "chapter_label": "Chapter 30",
+  "note_number": 16,
+  "citation": "[http://www.globalsecurity.org/wmd/facility/kings_bay.htm](http://www.globalsecurity.org/wmd/facility/kings_bay.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24170,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF352",
+  "chapter_label": "Chapter 30",
+  "note_number": 17,
+  "citation": "[http://www.globalsecurity.org/wmd/facility/kings_bay_swflant.htm](http://www.globalsecurity.org/wmd/facility/kings_bay_swflant.htm)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24171,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF353",
+  "chapter_label": "Chapter 30",
+  "note_number": 18,
+  "citation": "[http://www.nuforc.org/webreports/019/S19327.html](http://www.nuforc.org/webreports/019/S19327.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24172,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF354",
+  "chapter_label": "Chapter 30",
+  "note_number": 19,
+  "citation": "[http://www.nuforc.org/webreports/045/S45453.html](http://www.nuforc.org/webreports/045/S45453.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24173,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF355",
+  "chapter_label": "Chapter 30",
+  "note_number": 20,
+  "citation": "[http://www.nuforc.org/webreports/055/S55739.html](http://www.nuforc.org/webreports/055/S55739.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24174,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF356",
+  "chapter_label": "Chapter 30",
+  "note_number": 21,
+  "citation": "[http://www.nuforc.org/webreports/060/S60385.html](http://www.nuforc.org/webreports/060/S60385.html)",
+  "reference_type": "WEB",
+  "section_id": "SEC106",
+  "line_ref": 24175,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF357",
+  "chapter_label": "Chapter 31",
+  "note_number": 1,
+  "citation": "[http://www.cr.nps.gov/history/online_books/mimi/hrs2-2a.htm](http://www.cr.nps.gov/history/online_books/mimi/hrs2-2a.htm)",
+  "reference_type": "BOOK",
+  "section_id": "SEC106",
+  "line_ref": 24180,
+  "parse_note": "heuristic parse; type classification approximate"
+ },
+ {
+  "reference_id": "REF358",
+  "chapter_label": "Chapter 31",
+  "note_number": 2,
+  "citation": "Hansen, Terry. _The Missing Times: News Media Complicity in the UFO Cover-up_ , Xlibris Corp., 2000.",
+  "reference_type": "PERIODICAL_OR_NEWSPAPER",
+  "section_id": "SEC106",
+  "line_ref": 24181,
+  "parse_note": "heuristic parse; type classification approximate"
+ }
+]

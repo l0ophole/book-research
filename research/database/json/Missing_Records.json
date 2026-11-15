@@ -1,0 +1,232 @@
+[
+ {
+  "missing_id": "MIS001",
+  "description": "Complete FBI file 65-58300 and the Maccabee FBI release (1949 memo, 1950 summary)",
+  "existence_status": "KNOWN (cited)",
+  "potential_repository": "FBI Vault (vault.fbi.gov) / NARA / Blue Book Archive",
+  "acquisition_method": "Download from FBI Vault; compare quoted text",
+  "status": "OPEN",
+  "section_id": "SEC006",
+  "line_ref": 97
+ },
+ {
+  "missing_id": "MIS002",
+  "description": "OSI Spot Intelligence Reports, Kirtland AFB 21 Mar 1950 (10 reports)",
+  "existence_status": "REFERENCED",
+  "potential_repository": "NARA Project Blue Book records (RG 341) / Maccabee; Blue Book Archive",
+  "acquisition_method": "Search Blue Book microfilm",
+  "status": "OPEN",
+  "section_id": "SEC021",
+  "line_ref": 1964
+ },
+ {
+  "missing_id": "MIS003",
+  "description": "Camp Hood / Killeen Base Army intelligence reports 1949 (Fourth Army)",
+  "existence_status": "REFERENCED",
+  "potential_repository": "NARA; Jerome Clark / Loren Gross compilations; Blue Book Archive",
+  "acquisition_method": "Locate Blue Book Camp Hood 1949 file",
+  "status": "OPEN",
+  "section_id": "SEC020",
+  "line_ref": 1794
+ },
+ {
+  "missing_id": "MIS004",
+  "description": "Original CIA Chadwell memo and draft NSC directive, 2 Dec 1952",
+  "existence_status": "KNOWN (publicly released)",
+  "potential_repository": "CIA CREST / CIA FOIA Reading Room",
+  "acquisition_method": "Download PDF",
+  "status": "OPEN",
+  "section_id": "SEC019",
+  "line_ref": 1725
+ },
+ {
+  "missing_id": "MIS005",
+  "description": "Original Webb 1981 \"Squadron of Discs\" case file with identifying details of Mr. M. and call notes",
+  "existence_status": "KNOWN (Webb holds; reproduced)",
+  "potential_repository": "Walter Webb papers / CUFOS archive",
+  "acquisition_method": "Contact CUFOS / Webb estate",
+  "status": "OPEN",
+  "section_id": "SEC023",
+  "line_ref": 2452
+ },
+ {
+  "missing_id": "MIS006",
+  "description": "DSWA/AFSWC Operation Buster-Jangle & Ranger debris-trajectory reports (Wilson collection)",
+  "existence_status": "REFERENCED",
+  "potential_repository": "DTRA reading room; DOE OpenNet; Dan Wilson",
+  "acquisition_method": "Locate by report title/number in Ch3 refs",
+  "status": "OPEN",
+  "section_id": "SEC026",
+  "line_ref": 2660
+ },
+ {
+  "missing_id": "MIS007",
+  "description": "42nd Bomb Wing (Loring) unit history Oct-Nov 1962 incl. Chrome Dome tandem sortie records and any emergency/incident log",
+  "existence_status": "REFERENCED",
+  "potential_repository": "AF Historical Research Agency (Maxwell AFB) / NARA",
+  "acquisition_method": "Request via AFHRA; USAF FOIA",
+  "status": "OPEN",
+  "section_id": "SEC042",
+  "line_ref": 5226
+ },
+ {
+  "missing_id": "MIS008",
+  "description": "CUFOS letter from \"John Smith\" (2006) re Loring incident",
+  "existence_status": "KNOWN (exists, per author)",
+  "potential_repository": "CUFOS archive (Chicago)",
+  "acquisition_method": "Request access from CUFOS",
+  "status": "OPEN",
+  "section_id": "SEC042",
+  "line_ref": 5196
+ },
+ {
+  "missing_id": "MIS009",
+  "description": "341st SMW full unit history Jan-Jun 1967 (unredacted) with Echo shutdown narrative",
+  "existence_status": "KNOWN (partially released)",
+  "potential_repository": "AF Historical Research Agency (AFHRA), Maxwell AFB; NARA; Klotz FOIA files",
+  "acquisition_method": "Request AFHRA call number; MDR",
+  "status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10033
+ },
+ {
+  "missing_id": "MIS010",
+  "description": "Boeing/Ogden engineering report on Echo Flight No-Go (SAC/SAMSO investigation)",
+  "existence_status": "REFERENCED",
+  "potential_repository": "Boeing archives; AFHRA; Ogden ALC; USAF FOIA",
+  "acquisition_method": "FOIA to AFMC; ask Boeing historical archive",
+  "status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10099
+ },
+ {
+  "missing_id": "MIS011",
+  "description": "Oscar Flight LCC logs, alert duty logs confiscated by OSI, Command Post log for 16-24 Mar 1967",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "AFOSI; 341st SMW Command Post log; NARA",
+  "acquisition_method": "FOIA / MDR; AFHRA",
+  "status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10002
+ },
+ {
+  "missing_id": "MIS012",
+  "description": "Security Alert Team radio logs and maintenance records (Echo/Oscar)",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "341st MMS; Malmstrom records; NARA",
+  "acquisition_method": "FOIA",
+  "status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10070
+ },
+ {
+  "missing_id": "MIS013",
+  "description": "Original Big Sur Image Orthicon 35 mm/16 mm film of Atlas launch (Sept 1964)",
+  "existence_status": "REFERENCED; existence unverified",
+  "potential_repository": "USAF/ABRES records; NARA; Vandenberg archives (30th Space Wing History Office); SAMSO",
+  "acquisition_method": "FOIA to Space Force/AFHRA; ask AFHRA for 1st Strategic Aerospace Division records",
+  "status": "OPEN",
+  "section_id": "SEC055",
+  "line_ref": 7468
+ },
+ {
+  "missing_id": "MIS014",
+  "description": "Commander's Launch Reports for Atlas D 245H (15 Sep 1964) and 247D (22 Sep 1964); ABRES LORV-3 mission documentation",
+  "existence_status": "KNOWN (cited by EA)",
+  "potential_repository": "AFHRA; SAMSO; Space Force History Office; Encyclopedia Astronautica bibliography",
+  "acquisition_method": "Request via AFHRA/FOIA; check EA references",
+  "status": "OPEN",
+  "section_id": "SEC061",
+  "line_ref": 8114
+ },
+ {
+  "missing_id": "MIS015",
+  "description": "Jacobs personal mission log (Sept 1964) and Jacobs-Mansmann-Graham-Bons-Crain-Collier letters",
+  "existence_status": "KNOWN (copies forwarded to CUFOS per author)",
+  "potential_repository": "CUFOS archive; Lee Graham; Jacobs",
+  "acquisition_method": "Contact CUFOS for access",
+  "status": "OPEN",
+  "section_id": "SEC056",
+  "line_ref": 7550
+ },
+ {
+  "missing_id": "MIS016",
+  "description": "Kingston George film viewing records; Big Sur facility logs",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "Vandenberg history; Lockheed/Aerospace Corp archives",
+  "acquisition_method": "Archival inquiry",
+  "status": "OPEN",
+  "section_id": "SEC059",
+  "line_ref": 7756
+ },
+ {
+  "missing_id": "MIS017",
+  "description": "Complete NORAD CINC message 11 Nov 1975 (4 parts) and NMCC messages",
+  "existence_status": "KNOWN",
+  "potential_repository": "NICAP archive; NARA; FOIA releases; Blue Book Archive",
+  "acquisition_method": "Locate PDFs (Black Vault, Blue Book Archive, NICAP)",
+  "status": "OPEN",
+  "section_id": "SEC084",
+  "line_ref": 14129
+ },
+ {
+  "missing_id": "MIS018",
+  "description": "Raw radar tapes / tracking logs (24th NORAD Region; Great Falls IAP) Nov 1975",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "NARA (USAF Air Defense records); NORAD/NORTHCOM history office",
+  "acquisition_method": "Archival query; FOIA",
+  "status": "OPEN",
+  "section_id": "SEC083",
+  "line_ref": 14078
+ },
+ {
+  "missing_id": "MIS019",
+  "description": "F-106 pilot reports / 5th FIS & 24th NORAD Region scramble records (Great Falls) Nov 1975",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "AFHRA; NARA",
+  "acquisition_method": "FOIA/AFHRA",
+  "status": "OPEN",
+  "section_id": "SEC083",
+  "line_ref": 14086
+ },
+ {
+  "missing_id": "MIS020",
+  "description": "SAC HQ \"daily recap\" reports fall 1975",
+  "existence_status": "REFERENCED (Haley)",
+  "potential_repository": "NARA/AFHRA; SAC history office",
+  "acquisition_method": "FOIA (Klotz offered)",
+  "status": "OPEN",
+  "section_id": "SEC084",
+  "line_ref": 14189
+ },
+ {
+  "missing_id": "MIS021",
+  "description": "Davis-Monthan/570th SMS 1962 incident records (Oracle AZ, 7 Aug 1962); APRO case file",
+  "existence_status": "REFERENCED",
+  "potential_repository": "APRO files (via CUFOS); NARA",
+  "acquisition_method": "Search APRO Bulletin 1962; Lorenzen 1969 source",
+  "status": "OPEN",
+  "section_id": "SEC066",
+  "line_ref": 8708
+ },
+ {
+  "missing_id": "MIS022",
+  "description": "Bentwaters WSA security logs/blotters Dec 1980; names of security personnel who observed WSA UFO",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "USAFE/81st TFW records, AFHRA; UK MoD Rendlesham file (UK National Archives DEFE 24/1948/1)",
+  "acquisition_method": "UK FOIA/MoD release; USAF FOIA",
+  "status": "OPEN",
+  "section_id": "SEC087",
+  "line_ref": 16043
+ },
+ {
+  "missing_id": "MIS023",
+  "description": "Original Halt tape recording of 27/28 Dec 1980 events and Nevels/Burroughs/Penniston statements",
+  "existence_status": "KNOWN",
+  "potential_repository": "Halt; UK Nat. Archives; Fawcett/Greenwood files",
+  "acquisition_method": "Collect copies for comparison",
+  "status": "OPEN",
+  "section_id": "SEC087",
+  "line_ref": 15953
+ }
+]

@@ -1,0 +1,359 @@
+reference_id,chapter_label,note_number,citation,reference_type,section_id,line_ref,parse_note
+REF001,Introduction,1,"USAF letter, “Request for Information under the FOIA”, Col. Terrence C. James to W. Todd Zechel, 4 October 1977",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23552,heuristic parse; type classification approximate
+REF002,Introduction,2,"FBI memorandum, file 65-58300, “Protection of Vital Installations”, SAC San Antonio to J. Edgar Hoover, January 31, 1949",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23554,heuristic parse; type classification approximate
+REF003,Introduction,3,"Hynek, Dr. J. Allen. “Are Flying Saucers Real?”, _Saturday Evening Post_ , December 17, 1966",PERIODICAL_OR_NEWSPAPER,SEC106,23556,heuristic parse; type classification approximate
+REF004,Introduction,4,"Fowler, Raymond E. _UFOs: Interplanetary Visitors_ , Prentice Hall, Inc., 1974",BOOK,SEC106,23558,heuristic parse; type classification approximate
+REF005,Introduction,5,"Keyhoe, Donald E. _Aliens From Space_ , Doubleday & Company, Inc., 1973",BOOK,SEC106,23560,heuristic parse; type classification approximate
+REF006,Introduction,6,[http://www.afmissileers.org/nevvsletters/NL2003/mar03.pdf](http://www.afmissileers.org/nevvsletters/NL2003/mar03.pdf),WEB,SEC106,23562,heuristic parse; type classification approximate
+REF007,Introduction,7,"Barry Greenwood to Robert Hastings, personal communication, February 27, 2008",OTHER,SEC106,23563,heuristic parse; type classification approximate
+REF008,Chapter 1,1,"Phillips, Ted. _Physical Traces Associated with UFO Sightings_ , Center for UFO Studies, 1975",OTHER,SEC106,23569,heuristic parse; type classification approximate
+REF009,Chapter 1,2,"_Associated Press_ , June 29, 1954",BOOK,SEC106,23571,heuristic parse; type classification approximate
+REF010,Chapter 1,3,Ibid.,OTHER,SEC106,23572,heuristic parse; type classification approximate
+REF011,Chapter 1,4,"Condon, Dr. Edward U. _Scientific Study of Unidentified Flying Objects_ , Bantam Books, Section III, Chapter 5, pp. 139-40",BOOK,SEC106,23573,heuristic parse; type classification approximate
+REF012,Chapter 1,5,"U.S. Army Air Force memorandum, “AMC Opinion Concerning ‘Flying Discs’”, Lr. General Nathan F. Twining to Brigadier General Schulgen, September 23, 1947",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23575,heuristic parse; type classification approximate
+REF013,Chapter 1,6,"Clark, Jerome. _The UFO Book_ , Visible Ink Press, 1998, pp. 188-89",BOOK,SEC106,23578,heuristic parse; type classification approximate
+REF014,Chapter 2,1,"FBI memorandum, file 65-58300, “Protection of Vital Installations”, SAC San Antonio to J. Edgar Hoover, January 3 1, 1949",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23583,heuristic parse; type classification approximate
+REF015,Chapter 2,2,Ibid.,OTHER,SEC106,23585,heuristic parse; type classification approximate
+REF016,Chapter 2,3,"FBI memorandum, “Summary of Aerial Phenomena in New Mexico”, A.H. Belmont to D.M. Ladd, August 23, 1950",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23586,heuristic parse; type classification approximate
+REF017,Chapter 2,4,"Gross, Loren. _UFOs: A History_ , 1948, pp. 80, 82",OTHER,SEC106,23588,heuristic parse; type classification approximate
+REF018,Chapter 2,5,"FBI memorandum, “Summary of Aerial Phenomena in New Mexico”, A.H. Belmont to D.M. Ladd, August 23, 1950",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23591,heuristic parse; type classification approximate
+REF019,Chapter 2,6,"_The New Mexican_ , January 22, 1953",OTHER,SEC106,23593,heuristic parse; type classification approximate
+REF020,Chapter 2,7,"Dr. L. LaPaz to Commander, 17th District OSI, personal communication, date:?",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23594,heuristic parse; type classification approximate
+REF021,Chapter 2,8,"_LOOK_ , “Hunt For The Flying Saucer”, June 24, 1952",OTHER,SEC106,23596,heuristic parse; type classification approximate
+REF022,Chapter 2,9,"Ruppelt, Edward J. _The Report on Unidentified Flying Objects_ , Ace Books, Inc., 1956, p. 155",BOOK,SEC106,23597,heuristic parse; type classification approximate
+REF023,Chapter 2,10,[http://www.nicap.org/oakridgi_7oakridgesightings.htm](http://www.nicap.org/oakridgi_7oakridgesightings.htm),WEB,SEC106,23599,heuristic parse; type classification approximate
+REF024,Chapter 2,11,"Ruppelt, Edward J. _The Report on Unidentified Flying Objects_ , Ace Books, Inc., 1956, p. 61",BOOK,SEC106,23600,heuristic parse; type classification approximate
+REF025,Chapter 2,12,[http://www.nicap.org/docs/hanford490521docs.htm](http://www.nicap.org/docs/hanford490521docs.htm),WEB,SEC106,23602,heuristic parse; type classification approximate
+REF026,Chapter 2,13,"U.S. Army Memorandum for the Record, “Flying Discs”, Lt. Colonel Mildren to Major Carlen, 4 August 1950",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23603,heuristic parse; type classification approximate
+REF027,Chapter 2,14,"_The Miami Herald_ , July 8, 1952",PERIODICAL_OR_NEWSPAPER,SEC106,23605,heuristic parse; type classification approximate
+REF028,Chapter 2,15,"Ruppelt, Edward J. _The Report on Unidentified Flying Objects_ , Ace Books, Inc., 1956, p. 252",BOOK,SEC106,23606,heuristic parse; type classification approximate
+REF029,Chapter 2,16,"FBI letter, J. Edgar Hoover to the Commander of the Air Force’s Office of Special Investigations, May 15, 1952",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23608,heuristic parse; type classification approximate
+REF030,Chapter 2,17,"McDonald, Dr. James E. “Prepared Statement before the House Committee on Science and Astronautics”, July 29, 1968.",OTHER,SEC106,23610,heuristic parse; type classification approximate
+REF031,Chapter 2,18,"CIA memorandum, Dr. H. Marshall Chadwell to CIA Director Walter B. Smith, December 2, 1952",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23612,heuristic parse; type classification approximate
+REF032,Chapter 2,19,Ibid.,OTHER,SEC106,23614,heuristic parse; type classification approximate
+REF033,Chapter 2,20,"Gross, Loren. _UFOs: A History, 1949: January-June_ , p. 3",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23615,heuristic parse; type classification approximate
+REF034,Chapter 2,21,"Clark, Jerome. _The UFO Book_ , Visible Ink Press, 1998, p. 257",BOOK,SEC106,23616,heuristic parse; type classification approximate
+REF035,Chapter 2,22,"Ibid., p. 258",OTHER,SEC106,23617,heuristic parse; type classification approximate
+REF036,Chapter 2,23,"Ibid., p. 259",OTHER,SEC106,23618,heuristic parse; type classification approximate
+REF037,Chapter 2,24,"Ibid., p. 259",OTHER,SEC106,23619,heuristic parse; type classification approximate
+REF038,Chapter 2,25,"Ibid., p. 259",OTHER,SEC106,23620,heuristic parse; type classification approximate
+REF039,Chapter 2,26,[http://ww.nicap.org/waves/1948fullrep.htm](http://ww.nicap.org/waves/1948fullrep.htm),WEB,SEC106,23623,heuristic parse; type classification approximate
+REF040,Chapter 2,27,[http://ww.nicap.org/waves/1949fullrep.htm](http://ww.nicap.org/waves/1949fullrep.htm),WEB,SEC106,23624,heuristic parse; type classification approximate
+REF041,Chapter 2,28,Ibid.,OTHER,SEC106,23625,heuristic parse; type classification approximate
+REF042,Chapter 2,29,Ibid.,OTHER,SEC106,23626,heuristic parse; type classification approximate
+REF043,Chapter 2,30,Ibid.,OTHER,SEC106,23627,heuristic parse; type classification approximate
+REF044,Chapter 2,31,[http://ww.nicap.org/waves/1950fullrep.htm](http://ww.nicap.org/waves/1950fullrep.htm),WEB,SEC106,23628,heuristic parse; type classification approximate
+REF045,Chapter 2,32,[http://www.nicap.org/nmexico/newmexicosightings.htm](http://www.nicap.org/nmexico/newmexicosightings.htm),WEB,SEC106,23629,heuristic parse; type classification approximate
+REF046,Chapter 2,33,"_Associated Press_ , February 6, 1952",BOOK,SEC106,23630,heuristic parse; type classification approximate
+REF047,Chapter 2,34,"_Albuquerque Journal_ , May 2, 1952",PERIODICAL_OR_NEWSPAPER,SEC106,23631,heuristic parse; type classification approximate
+REF048,Chapter 2,35,Ibid.,OTHER,SEC106,23632,heuristic parse; type classification approximate
+REF049,Chapter 2,36,[http://ww.nicap.org/kirtland57dir.htm](http://ww.nicap.org/kirtland57dir.htm),WEB,SEC106,23633,heuristic parse; type classification approximate
+REF050,Chapter 2,37,[http://www.cohenufo.org/ocr.7b.htinl](http://www.cohenufo.org/ocr.7b.htinl),WEB,SEC106,23634,heuristic parse; type classification approximate
+REF051,Chapter 3,1,[http://www.ufoevidence.org/cases/case35.htm](http://www.ufoevidence.org/cases/case35.htm),WEB,SEC106,23639,heuristic parse; type classification approximate
+REF052,Chapter 3,2,"Operation Ranger, Transport of Radioactive Debris from Operation Ranger, Project 7.1",OTHER,SEC106,23640,heuristic parse; type classification approximate
+REF053,Chapter 3,3,"Project Blue Book Report, Case Number 884?, January 30, 1951",OTHER,SEC106,23642,heuristic parse; type classification approximate
+REF054,Chapter 3,4,"Operation Buster, Transport of Radioactive Debris from Operations Buster and Jangle, Project 7.1",OTHER,SEC106,23643,heuristic parse; type classification approximate
+REF055,Chapter 3,5,"Keyhoe, Donald E. _The Flying Saucer Conspiracy_ , Henry Holt and Company, pp. 92-93",OTHER,SEC106,23645,heuristic parse; type classification approximate
+REF056,Chapter 3,6,"Operation Buster, Transport of Radioactive Debris from Operations Buster and Jangle, Project 7.1, p. 41",OTHER,SEC106,23647,heuristic parse; type classification approximate
+REF057,Chapter 3,7,"_The Arizona Daily Star_ , “Eerie Blue Flash Streaks Across Southwestern Skies”, November 3, 1951, p. A-1",OTHER,SEC106,23649,heuristic parse; type classification approximate
+REF058,Chapter 3,8,"_New Mexican_ , November 3, 1951",OTHER,SEC106,23651,heuristic parse; type classification approximate
+REF059,Chapter 3,9,"_LIFE_ , “Have We Visitors From Space?”, April 7, 1952, p. 80",OTHER,SEC106,23652,heuristic parse; type classification approximate
+REF060,Chapter 3,10,"_The New York Times_ , “Southwest’s 7 Fireballs in 11 Days Called ‘Without Parallel in History’”, November 10, 1951, pp. 1, 14",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23653,heuristic parse; type classification approximate
+REF061,Chapter 3,11,"_Iowa City Press-Citizen_ , November 10, 1951, p. 10",BOOK,SEC106,23655,heuristic parse; type classification approximate
+REF062,Chapter 3,12,"_TIME_ , “Great Balls of Fire”, November 19, 1951",OTHER,SEC106,23656,heuristic parse; type classification approximate
+REF063,Chapter 3,13,"_Troy Record_ , “New Yorkers Report Ball Of Fire In Sky”, November 19, 1951",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23657,heuristic parse; type classification approximate
+REF064,Chapter 3,14,"_Albuquerque Journal_ , “Experts Puzzled By Unusual Meteors, Believed Unnatural”, November 9, 1951, p. 1",PERIODICAL_OR_NEWSPAPER,SEC106,23659,heuristic parse; type classification approximate
+REF065,Chapter 3,15,"_Albuquerque Tribune_ , “LaPaz Reports Fireball Sighted”, November 21, 1951, p. 1",PERIODICAL_OR_NEWSPAPER,SEC106,23661,heuristic parse; type classification approximate
+REF066,Chapter 3,16,"Ruppelt, Edward J. _The Report on Unidentified Flying Objects_ , Ace Books, Inc., 1956, pp.74-76",BOOK,SEC106,23663,heuristic parse; type classification approximate
+REF067,Chapter 3,17,"Project Blue Book Report, Case Number 1090, April 2, 1952",OTHER,SEC106,23665,heuristic parse; type classification approximate
+REF068,Chapter 3,18,"_Denton Record-Chronicle_ , “Meteor or Flying Saucer? Fiery Fast- Moving Object Sighted In Sky Over Texas”, April 3, 1952, p. 1",OTHER,SEC106,23666,heuristic parse; type classification approximate
+REF069,Chapter 3,19,"_INS_ , “Flying Saucers Seen Near Atom Test Site”, April 17, 1952",OTHER,SEC106,23670,heuristic parse; type classification approximate
+REF070,Chapter 3,20,"_Albuquerque Journal_ , “Fireball Falls Near Sandias Early Today”, May 7, 1952, p. 1",PERIODICAL_OR_NEWSPAPER,SEC106,23671,heuristic parse; type classification approximate
+REF071,Chapter 3,21,"_Albuquerque Journal_ , “2 Green Fireballs Seen By Many, LaPaz Reports”, May 29, 1952, p. 1",PERIODICAL_OR_NEWSPAPER,SEC106,23673,heuristic parse; type classification approximate
+REF072,Chapter 3,22,[http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-BB10-](http://www.bluebookarchive.org/page.aspx?PageCode=MAXW-BB10-) 931,WEB,SEC106,23675,heuristic parse; type classification approximate
+REF073,Chapter 3,23,"_Wisconsin State Journal_ , “Weatherman Reports Seeing Green Fireball”, May 30, 1952, p. 3",PERIODICAL_OR_NEWSPAPER,SEC106,23677,heuristic parse; type classification approximate
+REF074,Chapter 3,24,"U.S. Army Memorandum, 2nd Lt. D.M. Sanders, 25 July 1952",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23679,heuristic parse; type classification approximate
+REF075,Chapter 3,25,Ibid.,OTHER,SEC106,23680,heuristic parse; type classification approximate
+REF076,Chapter 3,26,"_Prescott Evening Courier_ , May 22, 1953, pp. 1-2",OTHER,SEC106,23681,heuristic parse; type classification approximate
+REF077,Chapter 3,27,[http://ufologie.net/hcm/kingman53.htm](http://ufologie.net/hcm/kingman53.htm),WEB,SEC106,23682,heuristic parse; type classification approximate
+REF078,Chapter 3,28,[http://nucleanveaponarchive.org/Usa/Tests/Teapot.html](http://nucleanveaponarchive.org/Usa/Tests/Teapot.html),WEB,SEC106,23683,heuristic parse; type classification approximate
+REF079,Chapter 3,29,"Jessup, M. K. The UFO Annual, p 121",OTHER,SEC106,23684,heuristic parse; type classification approximate
+REF080,Chapter 3,30,"Ibid., pp 119-120",OTHER,SEC106,23685,heuristic parse; type classification approximate
+REF081,Chapter 3,31,"_Alamogordo Daily News_ , “Fireballs Shower On State”, April 6, 1955, p. 1A",PERIODICAL_OR_NEWSPAPER,SEC106,23686,heuristic parse; type classification approximate
+REF082,Chapter 3,32,"_Albuquerque Journal_ , “Fire Balls Again Seen Over City”, April 9, 1955, p. 1",PERIODICAL_OR_NEWSPAPER,SEC106,23688,heuristic parse; type classification approximate
+REF083,Chapter 3,33,"April 15, 1955, U.S. Army Colonel M.H. Truly, stationed at Headquarters Fourth Army, Fort Sam Houston, Texas, wrote to the Assistant Chief of Staff G-2",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23690,heuristic parse; type classification approximate
+REF084,Chapter 3,34,"_Council Bluffs Nonpareil_ , April 25, 1955, p. 1",OTHER,SEC106,23693,heuristic parse; type classification approximate
+REF085,Chapter 3,35,"Project Blue Book Report, Case Number 4809, July 16, 1957",OTHER,SEC106,23694,heuristic parse; type classification approximate
+REF086,Chapter 3,36,"_Associated Press_ , “Meteor Just Misses Navy Airliner”, October 10, 1957",BOOK,SEC106,23695,heuristic parse; type classification approximate
+REF087,Chapter 4,1,"Ruppelt, Edward J. _The Report on Unidentified Flying Objects_ , Ace Books, Inc., 1956, p. 256",BOOK,SEC106,23701,heuristic parse; type classification approximate
+REF088,Chapter 4,2,Ibid. pp. 257-8,OTHER,SEC106,23703,heuristic parse; type classification approximate
+REF089,Chapter 4,3,[http://www.converge.org.nz/pma/a230399b.htm](http://www.converge.org.nz/pma/a230399b.htm),WEB,SEC106,23704,heuristic parse; type classification approximate
+REF090,Chapter 4,4,"Ruppelt, Edward J. _The Report on Unidentified Flying Objects_ , Ace Books, Inc., 1956, p. 258",BOOK,SEC106,23705,heuristic parse; type classification approximate
+REF091,Chapter 4,5,"Commander Task Group 132.3 History of Operation Ivy, p. 96",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23707,heuristic parse; type classification approximate
+REF092,Chapter 4,6,"U.S. Arms Control and Disarmament Agency, Worldwide Effects of Nuclear War—Some Perspectives",OTHER,SEC106,23708,heuristic parse; type classification approximate
+REF093,Chapter 4,7,[http://www.faqs.org/docs/air/f2003ml0.html#m2](http://www.faqs.org/docs/air/f2003ml0.html#m2),WEB,SEC106,23710,heuristic parse; type classification approximate
+REF094,Chapter 4,8,"Defense Nuclear Agency' (DNA), Castle Series, 1954, DNA 6035F, United States Atmospheric Nuclear Weapons Tests, p. 341",OTHER,SEC106,23711,heuristic parse; type classification approximate
+REF095,Chapter 4,9,[http://www.aracnet.com/-pdxavets/hasty.htm](http://www.aracnet.com/-pdxavets/hasty.htm),WEB,SEC106,23713,heuristic parse; type classification approximate
+REF096,Chapter 4,10,JTF 7 report. “British Unit Participation in Bravo”,GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23714,heuristic parse; type classification approximate
+REF097,Chapter 4,11,[http://www.raf.mod.uk/hisrory_old/canberra4.hrml](http://www.raf.mod.uk/hisrory_old/canberra4.hrml),WEB,SEC106,23715,heuristic parse; type classification approximate
+REF098,Chapter 4,12,[http://worf.eh.doe.gov/data/ihpId/76389e.pdf](http://worf.eh.doe.gov/data/ihpId/76389e.pdf),WEB,SEC106,23716,heuristic parse; type classification approximate
+REF099,Chapter 4,13,Ibid.,OTHER,SEC106,23717,heuristic parse; type classification approximate
+REF100,Chapter 4,14,"DNA Castle Series Report 6035, Table 24",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23718,heuristic parse; type classification approximate
+REF101,Chapter 4,15,"“H-Hour Aircraft Flight Plans” Appendix 2, Annex D",OTHER,SEC106,23719,heuristic parse; type classification approximate
+REF102,Chapter 4,16,"Jessup, Morris K. The UFO Annual, “Kwajalein, Marshall Islands”, April 1954",OTHER,SEC106,23720,heuristic parse; type classification approximate
+REF103,Chapter 4,17,"59438e.pdfHisrOfOperationIvy.pdf 1 8. _Albuquerque Journal_ , “High Radioactivity in West Believed Due To Fallout From Pacific H-Bomb Tests”, May 16, 1954",PERIODICAL_OR_NEWSPAPER,SEC106,23722,heuristic parse; type classification approximate
+REF104,Chapter 5,1,"_Amarillo Globe-Times_ , November 8, 1957",PERIODICAL_OR_NEWSPAPER,SEC106,23730,heuristic parse; type classification approximate
+REF105,Chapter 5,2,[http://www.nuforc.org/webreports/031/S31470.html](http://www.nuforc.org/webreports/031/S31470.html),WEB,SEC106,23731,heuristic parse; type classification approximate
+REF106,Chapter 6,1,"_The Washington Post_ , “Small Missiles Heightened Peril in 1962 Cuban Crisis”, January 14, 1992.",PERIODICAL_OR_NEWSPAPER,SEC106,23736,heuristic parse; type classification approximate
+REF107,Chapter 6,2,"History Channel, “Cuban Missile Crisis Declassified”, 2005",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23738,heuristic parse; type classification approximate
+REF108,Chapter 6,3,[http://www.nicap.org/cmc2.htm](http://www.nicap.org/cmc2.htm),WEB,SEC106,23739,heuristic parse; type classification approximate
+REF109,Chapter 6,4,"“John Smith” to CUFOS, personal correspondence, April 13, 2006",AUTHOR_INTERVIEW_OR_CORRESPONDENCE,SEC106,23740,heuristic parse; type classification approximate
+REF110,Chapter 7,1,"Project Blue Book Report, Case Number 6606, Nov. 7; Nov. 20, 1959",OTHER,SEC106,23745,heuristic parse; type classification approximate
+REF111,Chapter 7,2,"Cox, Billy. _Florida Today_ , June 2 7 , 200 1",OTHER,SEC106,23746,heuristic parse; type classification approximate
+REF112,Chapter 7,3,Ibid.,OTHER,SEC106,23747,heuristic parse; type classification approximate
+REF113,Chapter 7,4,Ibid.,OTHER,SEC106,23748,heuristic parse; type classification approximate
+REF114,Chapter 7,5,"Barry Krause to NICAP, personal correspondence, December 20, 1964",AUTHOR_INTERVIEW_OR_CORRESPONDENCE,SEC106,23749,heuristic parse; type classification approximate
+REF115,Chapter 7,6,Ibid.,OTHER,SEC106,23750,heuristic parse; type classification approximate
+REF116,Chapter 7,7,Ibid.,OTHER,SEC106,23751,heuristic parse; type classification approximate
+REF117,Chapter 7,8,Ibid.,OTHER,SEC106,23752,heuristic parse; type classification approximate
+REF118,Chapter 7,9,Ibid.,OTHER,SEC106,23753,heuristic parse; type classification approximate
+REF119,Chapter 8,1,[http://ufologie.net/press2/liberation25augl954.htm](http://ufologie.net/press2/liberation25augl954.htm),BOOK,SEC106,23758,heuristic parse; type classification approximate
+REF120,Chapter 8,2,"Fowler, Raymond E. UFOs: Interplanetary Visitors, Prentice Hall, Inc., 1974, pp. 209- 10",BOOK,SEC106,23759,heuristic parse; type classification approximate
+REF121,Chapter 8,3,"[http://72.14.205.104/search?](http://72.14.205.104/search?) q=cache:zkNeY2R2vqAJ:www.cufos.org/taylor.pdf+Taylor+Herb,+Cloud+ Cigars,+IUR+Offutt&lil=en&ct=clnk&cd=I&gl=us",WEB,SEC106,23761,heuristic parse; type classification approximate
+REF122,Chapter 8,4,[http://www.nicap.org/docs/rand/randdoc681127.pdf](http://www.nicap.org/docs/rand/randdoc681127.pdf),WEB,SEC106,23764,heuristic parse; type classification approximate
+REF123,Chapter 8,5,"Brookings Institution. “Proposed Studies on the Implications of Peaceful Space Activities for Human Affairs”, 1960",OTHER,SEC106,23765,heuristic parse; type classification approximate
+REF124,Chapter 8,6,"Ibid., p. 225",OTHER,SEC106,23767,heuristic parse; type classification approximate
+REF125,Chapter 8,7,Ibid. p. 215,OTHER,SEC106,23768,heuristic parse; type classification approximate
+REF126,Chapter 8,8,"Ibid., p. 225",OTHER,SEC106,23769,heuristic parse; type classification approximate
+REF127,Chapter 8,9,"Ibid., p. 226",OTHER,SEC106,23770,heuristic parse; type classification approximate
+REF128,Chapter 8,10,"Ibid., p. 216",OTHER,SEC106,23771,heuristic parse; type classification approximate
+REF129,Chapter 8,11,[http://www.daviddarling.info/encyclopedia/E/etintelimplic.html](http://www.daviddarling.info/encyclopedia/E/etintelimplic.html),WEB,SEC106,23772,heuristic parse; type classification approximate
+REF130,Chapter 8,12,[http://www.daviddarling.info/encycIopedia/E/etintelimplic.html](http://www.daviddarling.info/encycIopedia/E/etintelimplic.html),WEB,SEC106,23773,heuristic parse; type classification approximate
+REF131,Chapter 8,13,"Marchetti, Victor. Second Look, “How the CIA views the UFO Phenomenon”, Vol. 1, No. 7, May 1979",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23774,heuristic parse; type classification approximate
+REF132,Chapter 9,1,[http://www.nicap.org/bigsur2.htm.](http://www.nicap.org/bigsur2.htm.),WEB,SEC106,23780,heuristic parse; type classification approximate
+REF133,Chapter 9,2,"Florenze Mansmann to Lee Graham, personal communication, January 30, 1983",OTHER,SEC106,23781,heuristic parse; type classification approximate
+REF134,Chapter 9,3,"Florenze Mansmann to Peter Bons, personal communication, March 8, 1983",OTHER,SEC106,23783,heuristic parse; type classification approximate
+REF135,Chapter 9,4,"Robert Jacobs to Florenze Mansmann, personal communication, January 14, 1985",OTHER,SEC106,23785,heuristic parse; type classification approximate
+REF136,Chapter 9,5,"Florenze Mansmann to Curt Collier, personal communication, November 15, 1995",OTHER,SEC106,23787,heuristic parse; type classification approximate
+REF137,Chapter 9,6,"Florenze Mansmann to T. Scott Crain, Jr., personal communication, May 6, 1987",OTHER,SEC106,23789,heuristic parse; type classification approximate
+REF138,Chapter 9,7,"Greer, Steven M. M.D. _Disclosure_. Crozet, Virginia: Crossing Point Inc., 2001 , pp. 79-85.",BOOK,SEC106,23791,heuristic parse; type classification approximate
+REF139,Chapter 9,8,"George, Kingston A. “The Big Sur ‘UFO’: An _Identified_ Flying Object”, _Skeptical Inquirer_ , Vol. 17, ed. Kendrick Frazier. Buffalo, NY: Prometheus Books, 1993, pp. 180-87.",PERIODICAL_OR_NEWSPAPER,SEC106,23793,heuristic parse; type classification approximate
+REF140,Chapter 9,9,"Cook, Nick. “Boeing considers feasibility of plasma-based weapons”, Coulsdon, Surrey, United Kingdom: Jane’s Information Group, March 28, 2001. _Reproduced with permission from Jane's Information Group – Jane’s Defence Weekly_.",OTHER,SEC106,23796,heuristic parse; type classification approximate
+REF141,Chapter 9,10,Trigonometric analysis on file at CUFOS.,OTHER,SEC106,23800,heuristic parse; type classification approximate
+REF142,Chapter 9,11,"Walker, Chuck. _Atlas: The Ultimate Weapon_. Burlington, Ontario, Canada: Collector’s Guide Publishing Inc./Apogee Books, 2005, p. 60.",BOOK,SEC106,23801,heuristic parse; type classification approximate
+REF143,Chapter 9,12,"Crain, Jr., T. Scott. “UFO Intercepts Rocket”, _MUFON UFO Journal_ , January 1987, pp. 5-6",PERIODICAL_OR_NEWSPAPER,SEC106,23803,heuristic parse; type classification approximate
+REF144,Chapter 9,13,"Florenze Mansmann to Peter Bons, personal communication, March 8, 1983.",OTHER,SEC106,23805,heuristic parse; type classification approximate
+REF145,Chapter 9,14,"Florenze Mansmann to Curt Collier, personal communication, November 15, 1995.",OTHER,SEC106,23807,heuristic parse; type classification approximate
+REF146,Chapter 9,15,"George, Kingston A. _Operations Analysis Staff Study: Preliminary Report on Image Orthicon Photography from Big Sur_. October 13, 1964",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23811,heuristic parse; type classification approximate
+REF147,Chapter 9,16,"Robert Jacobs to the author, audio-taped telephone conversation, August 14, 2006.",AUTHOR_INTERVIEW_OR_CORRESPONDENCE,SEC106,23813,heuristic parse; type classification approximate
+REF148,Chapter 9,17,"Jacobs, Dr. Robert M. _Low Klass: A Rejoinder_. Privately-published.",BOOK,SEC106,23815,heuristic parse; type classification approximate
+REF149,Chapter 9,18,[http://www.asrronautixcom/lvs/atlasd.htm.](http://www.asrronautixcom/lvs/atlasd.htm.),WEB,SEC106,23816,heuristic parse; type classification approximate
+REF150,Chapter 9,19,"Bob Jacobs to the author, personal communication, August 28, 2006",OTHER,SEC106,23817,heuristic parse; type classification approximate
+REF151,Chapter 9,20,"Kingston George to the author, telephone conversation, January 2, 2003",AUTHOR_INTERVIEW_OR_CORRESPONDENCE,SEC106,23818,heuristic parse; type classification approximate
+REF152,Chapter 9,21,[http://www.nicap.org/bigsur2.htm](http://www.nicap.org/bigsur2.htm),WEB,SEC106,23819,heuristic parse; type classification approximate
+REF153,Chapter 9,22,"Jacobs, Dr. Robert M. _Low Klass: A Rejoinder_. Privately-published",BOOK,SEC106,23820,heuristic parse; type classification approximate
+REF154,Chapter 9,23,Ibid,OTHER,SEC106,23821,heuristic parse; type classification approximate
+REF155,Chapter 9,24,"Rodeghier, Dr. Mark. Image Resolution of the Optical System at Big Sur, IUR,",OTHER,SEC106,23822,heuristic parse; type classification approximate
+REF156,Chapter 9,25,"June 17, 1974, the _Hobart Mercury_ ( _The New York Times_ )",PERIODICAL_OR_NEWSPAPER,SEC106,23824,heuristic parse; type classification approximate
+REF157,Chapter 9,26,"Greenwood, Barry' and Fawcett, Lawrence. _Clear Intent: The Government Cover-up of the UFO Experience_ , Prentice-Hall Inc., 1984, pp. 69-70",BOOK,SEC106,23825,heuristic parse; type classification approximate
+REF158,Chapter 10,1,[http://www.deathreference.com/Me-Nu/Nuclear-Destruction.html](http://www.deathreference.com/Me-Nu/Nuclear-Destruction.html),WEB,SEC106,23832,heuristic parse; type classification approximate
+REF159,Chapter 10,2,"Brookings Institution, Schwartz, Stephen I. ed. _Atomic Audit: The Costs and Consequences of U.S. Nuclear Weapons Since 1940_. 1998",OTHER,SEC106,23833,heuristic parse; type classification approximate
+REF160,Chapter 10,3,"Lorenzen, Coral and Jim. _UFOs—The Whole Story_ , Signet, 1969. p. 235",OTHER,SEC106,23835,heuristic parse; type classification approximate
+REF161,Chapter 10,4,"Project Blue Book memorandum, August 1, 1965",OTHER,SEC106,23836,heuristic parse; type classification approximate
+REF162,Chapter 10,5,"Hynek, Dr. J. Allen. _The UFO Experience: A Scientific Inquiry_ , Ballentine Books, 1972. p. 10",BOOK,SEC106,23837,heuristic parse; type classification approximate
+REF163,Chapter 10,6,"[Tucson] _Daily Citizen_ , March 1, 1967",OTHER,SEC106,23839,heuristic parse; type classification approximate
+REF164,Chapter 10,7,[http://www.afmissileers.org/newsletters/NL2003/mar03.pdf](http://www.afmissileers.org/newsletters/NL2003/mar03.pdf),PERIODICAL_OR_NEWSPAPER,SEC106,23840,heuristic parse; type classification approximate
+REF165,Chapter 10,8,"Hynek, Dr. J. Allen. “Are Flying Saucers Real?”, _Saturday Evening Post_ , December 17, 1966",PERIODICAL_OR_NEWSPAPER,SEC106,23841,heuristic parse; type classification approximate
+REF166,Chapter 10,9,"_Christian Science Monitor_ , December 5, 1973",OTHER,SEC106,23843,heuristic parse; type classification approximate
+REF167,Chapter 11,1,[http://www.cufon.org/cufon/malmstrom/malm](http://www.cufon.org/cufon/malmstrom/malm) 1 .htm,WEB,SEC106,23848,heuristic parse; type classification approximate
+REF168,Chapter 11,2,"Salas, Robert and Klotz, James. _Faded Giant._ Privately-published",BOOK,SEC106,23849,heuristic parse; type classification approximate
+REF169,Chapter 11,3,[http://www.cufon.org/cufon/malmstrom/malml.htm](http://www.cufon.org/cufon/malmstrom/malml.htm),WEB,SEC106,23850,heuristic parse; type classification approximate
+REF170,Chapter 11,4,[http://www.cufon.org/cufon/malmstrom/page38.htm](http://www.cufon.org/cufon/malmstrom/page38.htm),WEB,SEC106,23851,heuristic parse; type classification approximate
+REF171,Chapter 11,5,[http://www.cufon.org/cufon/malmstrom/malml.htm](http://www.cufon.org/cufon/malmstrom/malml.htm),WEB,SEC106,23852,heuristic parse; type classification approximate
+REF172,Chapter 11,6,"Jim Klotz to Robert Hastings, personal communication, June 1, 2008",OTHER,SEC106,23853,heuristic parse; type classification approximate
+REF173,Chapter 11,7,"_Great Falls Tribune_. March 25, 1967",PERIODICAL_OR_NEWSPAPER,SEC106,23854,heuristic parse; type classification approximate
+REF174,Chapter 11,8,"Fowler, Raymond E. Casebook of a UFO Investigator, Prentice-Hall, 1981. p. 187",OTHER,SEC106,23855,heuristic parse; type classification approximate
+REF175,Chapter 12,1,"Keyhoe, Donald E. _The Flying Saucer Conspiracy_ , Henry Holt and Company, p. 168",OTHER,SEC106,23861,heuristic parse; type classification approximate
+REF176,Chapter 13,1,"McDonald, Dr. James E. “Prepared Statement before the House Committee on Science and Astronautics”, July 29, 1968",OTHER,SEC106,23867,heuristic parse; type classification approximate
+REF177,Chapter 13,2,UFOskeptic.org,WEB,SEC106,23869,heuristic parse; type classification approximate
+REF178,Chapter 13,3,"[Tucson] _Daily Citizen_ , March 1, 1967",OTHER,SEC106,23870,heuristic parse; type classification approximate
+REF179,Chapter 13,4,"McDonald, Dr. James E. “Prepared Statement before the House Committee on Science and Astronautics”, July 29, 1968",OTHER,SEC106,23871,heuristic parse; type classification approximate
+REF180,Chapter 13,5,"Felder, Gary and Kenny. “Quantum Mechanics: The Young Double-Slit Experiment”, 1998",OTHER,SEC106,23873,heuristic parse; type classification approximate
+REF181,Chapter 13,6,"Nyman, Joseph, _MUFON UFO Journal_.",PERIODICAL_OR_NEWSPAPER,SEC106,23875,heuristic parse; type classification approximate
+REF182,Chapter 13,7,"Dr. Robert Kirshner to Robert Hastings, confirmation of quotation in personal communication, June 2, 2008",OTHER,SEC106,23876,heuristic parse; type classification approximate
+REF183,Chapter 13,8,[http://en.wikipedia.org/wiki/Condon_Committee](http://en.wikipedia.org/wiki/Condon_Committee),WEB,SEC106,23878,heuristic parse; type classification approximate
+REF184,Chapter 13,9,Ibid.,OTHER,SEC106,23879,heuristic parse; type classification approximate
+REF185,Chapter 13,10,Ibid.,OTHER,SEC106,23880,heuristic parse; type classification approximate
+REF186,Chapter 13,11,"Saunders, Dr. David R. _UFOs: Yes!_ Signet, 1968. p. 189",OTHER,SEC106,23881,heuristic parse; type classification approximate
+REF187,Chapter 13,12,[http://en.wikipedia.org/wiki/Condon_Committee](http://en.wikipedia.org/wiki/Condon_Committee),WEB,SEC106,23882,heuristic parse; type classification approximate
+REF188,Chapter 13,13,"_LOOK_. “Flying Saucer Fiasco”, May 14, 1968",OTHER,SEC106,23883,heuristic parse; type classification approximate
+REF189,Chapter 13,14,[http://en.wikipedia.org/wiki/Condon_Committee](http://en.wikipedia.org/wiki/Condon_Committee),WEB,SEC106,23884,heuristic parse; type classification approximate
+REF190,Chapter 13,15,Ibid.,OTHER,SEC106,23885,heuristic parse; type classification approximate
+REF191,Chapter 13,16,"Condon, Dr. Edward U. _Scientific Study of Unidentified Flying Objects_ , Introduction, Bantam Books, 1969",BOOK,SEC106,23886,heuristic parse; type classification approximate
+REF192,Chapter 13,17,[http://en.wikipedia.org/wiki/Condon_Committee](http://en.wikipedia.org/wiki/Condon_Committee),WEB,SEC106,23888,heuristic parse; type classification approximate
+REF193,Chapter 13,18,Ibid.,OTHER,SEC106,23889,heuristic parse; type classification approximate
+REF194,Chapter 13,19,"Sturrock, Dr. Peter A. _The UFO Enigma: A New Review of the Physical Evidence_ , Aspect, 1999",OTHER,SEC106,23890,heuristic parse; type classification approximate
+REF195,Chapter 13,20,"Hynek, Dr. J. Allen. _The UFO Experience: A Scientific Inquiry_. Ballentine Books, 1972. p. 217",BOOK,SEC106,23892,heuristic parse; type classification approximate
+REF196,Chapter 13,21,[http://www.annonline.com/interviews/97I009/biography.html](http://www.annonline.com/interviews/97I009/biography.html),AUTHOR_INTERVIEW_OR_CORRESPONDENCE,SEC106,23894,heuristic parse; type classification approximate
+REF197,Chapter 13,22,"_Critical Eye_. “Aliens”. Discovery Communications, Inc., 2002.",BOOK,SEC106,23897,heuristic parse; type classification approximate
+REF198,Chapter 13,23,[http://www.jamesoberg.com/resumeaerospace.html](http://www.jamesoberg.com/resumeaerospace.html),WEB,SEC106,23898,heuristic parse; type classification approximate
+REF199,Chapter 13,24,"Barrow, Robert. Letter to the editor, _OMNI_ , January 1979 p. 12",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23899,heuristic parse; type classification approximate
+REF200,Chapter 13,25,"Oberg, James. Letter to the editor, _OMNI_ , January 1979 p. 13",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23900,heuristic parse; type classification approximate
+REF201,Chapter 13,26,"Hansen, Terry. Letter to the editor, _OMNI_ , January 1979, p. 12",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23901,heuristic parse; type classification approximate
+REF202,Chapter 13,27,"Hansen, Terry. _The Missing Times: News Media Complicity in the UFO Cover-up_ , Xlibris Corp., 2000.",PERIODICAL_OR_NEWSPAPER,SEC106,23902,heuristic parse; type classification approximate
+REF203,Chapter 13,28,"Ibid., p. 228",OTHER,SEC106,23904,heuristic parse; type classification approximate
+REF204,Chapter 13,29,"Ibid., pp. 228-29",OTHER,SEC106,23905,heuristic parse; type classification approximate
+REF205,Chapter 13,30,"Ibid., p. 229",OTHER,SEC106,23906,heuristic parse; type classification approximate
+REF206,Chapter 13,31,"Jacobs, Dr. Robert M. _Low Klass: A Rejoinder_. Privately-published",BOOK,SEC106,23907,heuristic parse; type classification approximate
+REF207,Chapter 13,32,"Hansen, Terry. _The Missing Times: News Media Complicity in the UFO Cover-up_ , Xlibris Corp., 2000. p. 230",PERIODICAL_OR_NEWSPAPER,SEC106,23908,heuristic parse; type classification approximate
+REF208,Chapter 13,33,"Ibid., p. 250",OTHER,SEC106,23910,heuristic parse; type classification approximate
+REF209,Chapter 13,34,"Ibid., p. 251",OTHER,SEC106,23911,heuristic parse; type classification approximate
+REF210,Chapter 15,1,"National Archives and Records Administration’s (NARA) USAF Project Blue Book microfilm file (case number 12,548)",OTHER,SEC106,23921,heuristic parse; type classification approximate
+REF211,Chapter 15,2,"Tulien, Thomas and Klotz, James. The Minot UFO Incident Report (get name)",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23923,heuristic parse; type classification approximate
+REF212,Chapter 15,3,"National Archives and Records Administration’s (NARA) USAF Project Blue Book microfilm file (case number 12,548)",OTHER,SEC106,23925,heuristic parse; type classification approximate
+REF213,Chapter 15,4,Ibid.,OTHER,SEC106,23927,heuristic parse; type classification approximate
+REF214,Chapter 15,5,"Tulien, Thomas. “A Narrative of UFO Events at Minot AFB, 24 OCTOBER 1968”, [http://www.minotb52ufo.com](http://www.minotb52ufo.com)",WEB,SEC106,23928,heuristic parse; type classification approximate
+REF215,Chapter 15,6,Ibid.,OTHER,SEC106,23930,heuristic parse; type classification approximate
+REF216,Chapter 15,7,Ibid.,OTHER,SEC106,23931,heuristic parse; type classification approximate
+REF217,Chapter 15,8,Ibid.,OTHER,SEC106,23932,heuristic parse; type classification approximate
+REF218,Chapter 15,9,"Quintanilla, Hector. Project Blue Book Report, Case Number 12,548, November 13, 1968",OTHER,SEC106,23933,heuristic parse; type classification approximate
+REF219,Chapter 16,1,"Jan Aldrich to Robert Hastings, personal communication, June 1, 2008",OTHER,SEC106,23939,heuristic parse; type classification approximate
+REF220,Chapter 16,2,[http://www.nicap.org/directives/Bolender_Memo.pdf](http://www.nicap.org/directives/Bolender_Memo.pdf),WEB,SEC106,23940,heuristic parse; type classification approximate
+REF221,Chapter 16,3,Ibid.,OTHER,SEC106,23941,heuristic parse; type classification approximate
+REF222,Chapter 16,4,[http://www.projectl947.com/fig/jtt.htm](http://www.projectl947.com/fig/jtt.htm),WEB,SEC106,23942,heuristic parse; type classification approximate
+REF223,Chapter 16,5,Ibid.,OTHER,SEC106,23943,heuristic parse; type classification approximate
+REF224,Chapter 16,6,Ibid.,OTHER,SEC106,23944,heuristic parse; type classification approximate
+REF225,Chapter 17,1,[http://www.globalsecurity.org/space/systems/safeguard.htm](http://www.globalsecurity.org/space/systems/safeguard.htm),WEB,SEC106,23949,heuristic parse; type classification approximate
+REF226,Chapter 17,2,Ibid,OTHER,SEC106,23950,heuristic parse; type classification approximate
+REF227,Chapter 18,1,"_Harlowton Times_ , February 20, 1975",PERIODICAL_OR_NEWSPAPER,SEC106,23955,heuristic parse; type classification approximate
+REF228,Chapter 18,2,"USAF letter, “Request for Information under the FOIA”, Col. Terrence C. James to W. Todd Zechel, 4 October 1977",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,23956,heuristic parse; type classification approximate
+REF229,Chapter 18,3,"Greenwood, Barry and Fawcett, Lawrence. _Clear Intent: The Government Cover-up of the UFO Experience_ , Prentice-Hall Inc., 1984, p. 35",BOOK,SEC106,23958,heuristic parse; type classification approximate
+REF230,Chapter 18,4,[http://www.nidsci.org/pdf/wolverton_report.pdf](http://www.nidsci.org/pdf/wolverton_report.pdf),WEB,SEC106,23961,heuristic parse; type classification approximate
+REF231,Chapter 18,5,"Greenwood, Barry and Fawcett, Lawrence. _Clear Intent: The Government Cover-up of the UFO Experience_ , Prentice-Hall Inc., 1984. pp. 41-45",BOOK,SEC106,23962,heuristic parse; type classification approximate
+REF232,Chapter 19,1,[http://www.mufon.com/bob_pratt/bigmama.html](http://www.mufon.com/bob_pratt/bigmama.html),WEB,SEC106,23969,heuristic parse; type classification approximate
+REF233,Chapter 19,2,"Ferguson, Lawrence. [Colorado Springs] Gazette Telegraph, “An Unknown Menace Puzzles Cattlemen”, October 22, 1977",OTHER,SEC106,23970,heuristic parse; type classification approximate
+REF234,Chapter 19,3,Ibid.,OTHER,SEC106,23972,heuristic parse; type classification approximate
+REF235,Chapter 19,4,[http://wvvw.parascope.com/articles/0597/mute2.htm](http://wvvw.parascope.com/articles/0597/mute2.htm),WEB,SEC106,23973,heuristic parse; type classification approximate
+REF236,Chapter 19,5,Ibid.,OTHER,SEC106,23974,heuristic parse; type classification approximate
+REF237,Chapter 19,6,Ibid.,OTHER,SEC106,23975,heuristic parse; type classification approximate
+REF238,Chapter 19,7,"[http://www.chicagotribune.com/news/specials/chi-](http://www.chicagotribune.com/news/specials/chi-) 04l021forensics,0,5762676.story",PERIODICAL_OR_NEWSPAPER,SEC106,23976,heuristic parse; type classification approximate
+REF239,Chapter 19,8,[http://www.parascope.com/articles/0597/mute2.htm](http://www.parascope.com/articles/0597/mute2.htm),WEB,SEC106,23978,heuristic parse; type classification approximate
+REF240,Chapter 19,9,"National Institute for Discovery Science. “Unexplained Cattle Deaths and the Emergence of a Transmissible Spongiform Encephalopathy (TSE) Epidemic in North America”, 2003.",OTHER,SEC106,23979,heuristic parse; type classification approximate
+REF241,Chapter 21,1,"Greenwood, Barry and Fawcett, Lawrence. _Clear Intent: The Government Cover-up of the UFO Experience_ , Prentice-Hall Inc., 1984, p. 218",BOOK,SEC106,23991,heuristic parse; type classification approximate
+REF242,Chapter 21,2,"Col. Charles Halt to A.J.S. Rayl, recorded interview, May 13, 1997",AUTHOR_INTERVIEW_OR_CORRESPONDENCE,SEC106,23994,heuristic parse; type classification approximate
+REF243,Chapter 21,3,Ibid.,OTHER,SEC106,23995,heuristic parse; type classification approximate
+REF244,Chapter 21,4,"Sci Fi Channel, _UFO Invasion at Rendlesham_ , 2003",OTHER,SEC106,23996,heuristic parse; type classification approximate
+REF245,Chapter 21,5,"Bruni, Georgina. _You Can’t Tell the People_. Sidgwick & Jackson, London, 2000, pp. 243-44.",OTHER,SEC106,23997,heuristic parse; type classification approximate
+REF246,Chapter 21,6,[http://cIik.to/81sps](http://cIik.to/81sps),WEB,SEC106,23999,heuristic parse; type classification approximate
+REF247,Chapter 21,7,Ibid.,OTHER,SEC106,24000,heuristic parse; type classification approximate
+REF248,Chapter 21,8,Ibid.,OTHER,SEC106,24001,heuristic parse; type classification approximate
+REF249,Chapter 21,9,[http://www.uk-ufo.org/condign/rendanl4.htm](http://www.uk-ufo.org/condign/rendanl4.htm),WEB,SEC106,24002,heuristic parse; type classification approximate
+REF250,Chapter 22,1,[http://brumac.8k.com/kirtland](http://brumac.8k.com/kirtland) 1 .html,WEB,SEC106,24007,heuristic parse; type classification approximate
+REF251,Chapter 23,1,[http://www.ufoevidence.org/documents/doc459.htm](http://www.ufoevidence.org/documents/doc459.htm),WEB,SEC106,24012,heuristic parse; type classification approximate
+REF252,Chapter 23,2,Ibid.,OTHER,SEC106,24013,heuristic parse; type classification approximate
+REF253,Chapter 23,3,Ibid,OTHER,SEC106,24014,heuristic parse; type classification approximate
+REF254,Chapter 23,4,Ibid.,OTHER,SEC106,24015,heuristic parse; type classification approximate
+REF255,Chapter 23,5,"History Channel. _Soviet UFO Secrets Revealed_ , 2004",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,24016,heuristic parse; type classification approximate
+REF256,Chapter 23,6,Ibid.,OTHER,SEC106,24017,heuristic parse; type classification approximate
+REF257,Chapter 23,7,Ibid.,OTHER,SEC106,24018,heuristic parse; type classification approximate
+REF258,Chapter 23,8,[http://www.ufoevidence.org/documents/doc459.htm](http://www.ufoevidence.org/documents/doc459.htm),WEB,SEC106,24019,heuristic parse; type classification approximate
+REF259,Chapter 23,9,Ibid.,OTHER,SEC106,24020,heuristic parse; type classification approximate
+REF260,Chapter 23,10,"Phillips, Ted. MUFON UFO Journal, May 2005",PERIODICAL_OR_NEWSPAPER,SEC106,24021,heuristic parse; type classification approximate
+REF261,Chapter 23,11,"U.S. State Department document, _Treaty Between The United States of America and The Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles_. December 8 , 1987",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,24022,heuristic parse; type classification approximate
+REF262,Chapter 23,12,[http://www.ufoevidence.org/documents/doc](http://www.ufoevidence.org/documents/doc) 1 040.htm,WEB,SEC106,24025,heuristic parse; type classification approximate
+REF263,Chapter 23,13,Ibid.,OTHER,SEC106,24026,heuristic parse; type classification approximate
+REF264,Chapter 23,14,Ibid.,OTHER,SEC106,24027,heuristic parse; type classification approximate
+REF265,Chapter 23,15,Ibid.,OTHER,SEC106,24028,heuristic parse; type classification approximate
+REF266,Chapter 24,1,"_Great Falls Tribune_ , January 20, 1995",PERIODICAL_OR_NEWSPAPER,SEC106,24033,heuristic parse; type classification approximate
+REF267,Chapter 24,2,"Associated Press, January 21, 1995",BOOK,SEC106,24034,heuristic parse; type classification approximate
+REF268,Chapter 24,3,"USN Commander Richard Mandelkorn, “Report of Trip to Los Alamos on February 18, 1949”",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,24035,heuristic parse; type classification approximate
+REF269,Chapter 24,4,"Goodrich, Jeff. MUFON UFO Sighting Questionnaire, October 29, 1992",OTHER,SEC106,24037,heuristic parse; type classification approximate
+REF270,Chapter 24,5,[http://vvww.nuforc.org/webreports/024/S24398.html](http://vvww.nuforc.org/webreports/024/S24398.html),WEB,SEC106,24038,heuristic parse; type classification approximate
+REF271,Chapter 24,6,[http://www.nuforc.org/webreports/031/S31278.html](http://www.nuforc.org/webreports/031/S31278.html),WEB,SEC106,24039,heuristic parse; type classification approximate
+REF272,Chapter 25,1,[http://www.ufoinfo.com/filer/2004/ff0403.shtml](http://www.ufoinfo.com/filer/2004/ff0403.shtml),WEB,SEC106,24044,heuristic parse; type classification approximate
+REF273,Chapter 25,2,[http://www.nuforc.org/webreports/023/S23399.html](http://www.nuforc.org/webreports/023/S23399.html),WEB,SEC106,24045,heuristic parse; type classification approximate
+REF274,Chapter 25,3,"CNN. _Larry King Live_ , July 13, 2007",OTHER,SEC106,24046,heuristic parse; type classification approximate
+REF275,Chapter 25,4,[http://www.nuforc.org/EncyclopediaPhoenixLights.htm](http://www.nuforc.org/EncyclopediaPhoenixLights.htm),WEB,SEC106,24047,heuristic parse; type classification approximate
+REF276,Chapter 25,5,Ibid.,OTHER,SEC106,24048,heuristic parse; type classification approximate
+REF277,Chapter 25,6,"_Associated Press_ , November 12, 2006",BOOK,SEC106,24049,heuristic parse; type classification approximate
+REF278,Chapter 26,1,"Marchetti, Victor. _Second Look_ , “How the CIA views the UFO Phenomenon”, Vol. 1, No. 7, May 1979",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,24054,heuristic parse; type classification approximate
+REF279,Chapter 26,2,Ibid.,OTHER,SEC106,24056,heuristic parse; type classification approximate
+REF280,Chapter 26,3,Ibid.,OTHER,SEC106,24057,heuristic parse; type classification approximate
+REF281,Chapter 26,4,"Greenwood, Barry and Fawcett, Lawrence. _Clear Intent: The Government Cover-up of the UFO Experience_ , Prentice-Hall Inc., 1984, pp. 112-13",BOOK,SEC106,24058,heuristic parse; type classification approximate
+REF282,Chapter 26,5,[http://textfiles.vistech.net/ufo/UFOBBS/2000/2535.ufo](http://textfiles.vistech.net/ufo/UFOBBS/2000/2535.ufo),WEB,SEC106,24061,heuristic parse; type classification approximate
+REF283,Chapter 26,6,[http://www.v-jenterprises.com/sf-government-lies3.html](http://www.v-jenterprises.com/sf-government-lies3.html),WEB,SEC106,24062,heuristic parse; type classification approximate
+REF284,Chapter 26,7,[http://textfiles.vistech.net/ufo/UFOBBS/2000/2535.ufo](http://textfiles.vistech.net/ufo/UFOBBS/2000/2535.ufo),WEB,SEC106,24063,heuristic parse; type classification approximate
+REF285,Chapter 26,8,[http://www.cufos.org/lUR_article3.html](http://www.cufos.org/lUR_article3.html),WEB,SEC106,24064,heuristic parse; type classification approximate
+REF286,Chapter 26,9,Ibid.,OTHER,SEC106,24065,heuristic parse; type classification approximate
+REF287,Chapter 26,10,"Marchetti, Victor. “Propaganda and Disinformation: How the CIA Manufactures History”, _Journal of Historical Review_ , Vol.20. No. 1 , 2001",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,24066,heuristic parse; type classification approximate
+REF288,Chapter 26,11,[http://www.eyepod.org/lnvstgtr-Zechel.html](http://www.eyepod.org/lnvstgtr-Zechel.html),WEB,SEC106,24068,heuristic parse; type classification approximate
+REF289,Chapter 26,12,"Jan Aldrich to Robert Hastings, personal communication, May 28, 2008",OTHER,SEC106,24069,heuristic parse; type classification approximate
+REF290,Chapter 27,1,[http://www.textfiles.com/ufo/hastings.ufo](http://www.textfiles.com/ufo/hastings.ufo),WEB,SEC106,24074,heuristic parse; type classification approximate
+REF291,Chapter 27,2,"Randle, Dr. Kevin D., _Roswell UFO Crash Update_ , 1995",OTHER,SEC106,24075,heuristic parse; type classification approximate
+REF292,Chapter 27,3,Ibid.,OTHER,SEC106,24076,heuristic parse; type classification approximate
+REF293,Chapter 27,4,Ibid.,OTHER,SEC106,24077,heuristic parse; type classification approximate
+REF294,Chapter 27,5,Ibid.,OTHER,SEC106,24078,heuristic parse; type classification approximate
+REF295,Chapter 27,6,"Kevin Randle to Robert Hastings, personal communication, June 3, 2008",OTHER,SEC106,24079,heuristic parse; type classification approximate
+REF296,Chapter 27,7,[http://roswellproof.homestead.com/Mogul_hoax_FAQ.lirml](http://roswellproof.homestead.com/Mogul_hoax_FAQ.lirml),WEB,SEC106,24080,heuristic parse; type classification approximate
+REF297,Chapter 27,8,"Kevin Randle to Robert Hastings, personal communication, June 3, 2008",OTHER,SEC106,24081,heuristic parse; type classification approximate
+REF298,Chapter 27,9,"Lee M. Graham to Sen. Barry Goldwater, April 11, 1979",OTHER,SEC106,24082,heuristic parse; type classification approximate
+REF299,Chapter 27,10,"Lee M. Graham to Sen. Barry Goldwater, October 19, 1981",OTHER,SEC106,24083,heuristic parse; type classification approximate
+REF300,Chapter 27,11,"CNN. _Larry King Live_ (Radio Show). October 13, 1988",OTHER,SEC106,24084,heuristic parse; type classification approximate
+REF301,Chapter 27,12,"Marchetti, Victor. _Second Look_ , “How the CIA views the UFO Phenomenon”, Vol. 1, No. 7, May 1979",GOVERNMENT_DOCUMENT_OR_REPORT,SEC106,24085,heuristic parse; type classification approximate
+REF302,Chapter 27,13,"Loretta Proctor to Kevin Randle, Don Schmitt and Robert Hastings",OTHER,SEC106,24087,heuristic parse; type classification approximate
+REF303,Chapter 27,14,[http://www.roswellproof.com/Marcel_evaluations.html](http://www.roswellproof.com/Marcel_evaluations.html),WEB,SEC106,24088,heuristic parse; type classification approximate
+REF304,Chapter 27,15,"Carey, Thomas J. and Schmitt, Donald R. _Witness to Roswell_ , 2007",OTHER,SEC106,24089,heuristic parse; type classification approximate
+REF305,Chapter 27,16,[http://wvvw.roswellproof.com/Haut.html](http://wvvw.roswellproof.com/Haut.html),WEB,SEC106,24090,heuristic parse; type classification approximate
+REF306,Chapter 27,17,"Kevin Randle to Robert Hastings, personal communication, June 2, 2008",OTHER,SEC106,24091,heuristic parse; type classification approximate
+REF307,Chapter 27,18,"_MUFON UFO Journal_ , September 2007",PERIODICAL_OR_NEWSPAPER,SEC106,24093,heuristic parse; type classification approximate
+REF308,Chapter 27,19,"Kevin Randle to Robert Hastings, personal communication, June 2, 2008",OTHER,SEC106,24094,heuristic parse; type classification approximate
+REF309,Chapter 28,1,"“The Warp Drive: Hyperfast Travel Within General Relativity”, May 1994, _Classical and Quantum Gravity_",OTHER,SEC106,24100,heuristic parse; type classification approximate
+REF310,Chapter 28,2,Ibid.,OTHER,SEC106,24102,heuristic parse; type classification approximate
+REF311,Chapter 28,3,[http://www.daviddarling.info/encyclopedia/A/Alcubdrive.html](http://www.daviddarling.info/encyclopedia/A/Alcubdrive.html),WEB,SEC106,24103,heuristic parse; type classification approximate
+REF312,Chapter 28,4,"Hillman, Dr. Christopher. Webpage no longer available.",OTHER,SEC106,24104,heuristic parse; type classification approximate
+REF313,Chapter 28,5,Ibid.,OTHER,SEC106,24105,heuristic parse; type classification approximate
+REF314,Chapter 28,6,"Dr. John G. Cramer to Robert Hastings, personal communication, November 5, 2003",OTHER,SEC106,24106,heuristic parse; type classification approximate
+REF315,Chapter 28,7,[http://omnis.if.ufrj.br/-mbr/warp/](http://omnis.if.ufrj.br/-mbr/warp/),WEB,SEC106,24108,heuristic parse; type classification approximate
+REF316,Chapter 28,8,"Hart, C.B. et al., “On the Problems of Hazardous Matter and Radiation at Faster than Light Speeds in the Warp Drive Space-time.”, _General Relativity and Quantum Cosmology_ , July 2002 9. “http://www.bibliotecapleyades.net/vision_remota/esp_visionremota_5.htm",WEB,SEC106,24109,heuristic parse; type classification approximate
+REF317,Chapter 28,10,"Puthoff, Dr. Harold. “SETI, the Velocity-of-Light Limitation, and the Alcubierre Warp Drive: An Integrating Overview”, _Physics Essays_. 1996.",OTHER,SEC106,24116,heuristic parse; type classification approximate
+REF318,Chapter 28,11,Ibid.,OTHER,SEC106,24118,heuristic parse; type classification approximate
+REF319,Chapter 28,12,Ibid.,OTHER,SEC106,24119,heuristic parse; type classification approximate
+REF320,Chapter 28,13,Ibid.,OTHER,SEC106,24122,heuristic parse; type classification approximate
+REF321,Chapter 28,14,"Loup, Fernando et al. _General Relativity and Gravitation_ , “Can Geodesics in Extra Dimensions Solve the Cosmic Light Speed Limit?”, October 2003",OTHER,SEC106,24123,heuristic parse; type classification approximate
+REF322,Chapter 28,15,"Loup, Fernando et al. _General Relativity and Gravitation_ , 35 (11): 2035-2044, November 2003",OTHER,SEC106,24126,heuristic parse; type classification approximate
+REF323,Chapter 28,16,"Lietz, Haiko. “Take a Leap into Hyperspace”, New Scientist, Issue 2533, 5 January 2006, p. 24",OTHER,SEC106,24128,heuristic parse; type classification approximate
+REF324,Chapter 28,17,Ibid.,OTHER,SEC106,24130,heuristic parse; type classification approximate
+REF325,Chapter 29,1,"Itar-Tass. “Mobile-Launched, BMD-Resistant Topol-M ICBM Ready by 2006”, April 27, 2004,",OTHER,SEC106,24135,heuristic parse; type classification approximate
+REF326,Chapter 29,2,"_Associated Press_. “Russia Test-Launches New Intercontinental Ballistic Missile”, May 29, 2007",BOOK,SEC106,24137,heuristic parse; type classification approximate
+REF327,Chapter 29,3,[http://www.thebulletin.org/web-edition/features/the-us-nuclear-weapons-](http://www.thebulletin.org/web-edition/features/the-us-nuclear-weapons-) complex-pushing-a-new-production-capability,WEB,SEC106,24139,heuristic parse; type classification approximate
+REF328,Chapter 29,4,"ABC News, 20/20. _Last Days on Earth_ , 2006",PERIODICAL_OR_NEWSPAPER,SEC106,24141,heuristic parse; type classification approximate
+REF329,Chapter 29,5,Ibid.,OTHER,SEC106,24142,heuristic parse; type classification approximate
+REF330,Chapter 29,6,Ibid.,OTHER,SEC106,24143,heuristic parse; type classification approximate
+REF331,Chapter 29,7,Ibid.,OTHER,SEC106,24144,heuristic parse; type classification approximate
+REF332,Chapter 29,8,"Traynor, Ian. “Pre-emptive Nuclear Strike a Key Option, NATO Told”, _The Guardian_ , January 22, 2008",OTHER,SEC106,24145,heuristic parse; type classification approximate
+REF333,Chapter 29,9,Ibid.,OTHER,SEC106,24147,heuristic parse; type classification approximate
+REF334,Chapter 29,10,Ibid.,OTHER,SEC106,24148,heuristic parse; type classification approximate
+REF335,Chapter 29,11,"Phillips, Dr. Alan F., M.D. “20 Mishaps That Might Have Started Accidental Nuclear War”, Self-published, 1998",BOOK,SEC106,24149,heuristic parse; type classification approximate
+REF336,Chapter 30,1,[http://www.globalsecurity.org/military/facility/kitsap.htm](http://www.globalsecurity.org/military/facility/kitsap.htm),WEB,SEC106,24155,heuristic parse; type classification approximate
+REF337,Chapter 30,2,[http://www.nuforc.org/webreports/003/S03479.html](http://www.nuforc.org/webreports/003/S03479.html),WEB,SEC106,24156,heuristic parse; type classification approximate
+REF338,Chapter 30,3,[http://www.ufoinfo.com/filer/2007/tf0734.shtml](http://www.ufoinfo.com/filer/2007/tf0734.shtml),WEB,SEC106,24157,heuristic parse; type classification approximate
+REF339,Chapter 30,4,[http://www.nuforc.org/webreports/004/S04420.html](http://www.nuforc.org/webreports/004/S04420.html),WEB,SEC106,24158,heuristic parse; type classification approximate
+REF340,Chapter 30,5,[http://www.nuforc.org/webreports/ndxlWA.html](http://www.nuforc.org/webreports/ndxlWA.html),WEB,SEC106,24159,heuristic parse; type classification approximate
+REF341,Chapter 30,6,[http://www.nuforc.org/webreports/003/S03479.html](http://www.nuforc.org/webreports/003/S03479.html),WEB,SEC106,24160,heuristic parse; type classification approximate
+REF342,Chapter 30,7,[http://www.nuforc.org/webreports/000/S00795.html](http://www.nuforc.org/webreports/000/S00795.html),WEB,SEC106,24161,heuristic parse; type classification approximate
+REF343,Chapter 30,8,[http://www.nuforc.org/webreports/005/S05404.html](http://www.nuforc.org/webreports/005/S05404.html),WEB,SEC106,24162,heuristic parse; type classification approximate
+REF344,Chapter 30,9,[http://www.nuforc.org/webreports/0I3/SI3495.html](http://www.nuforc.org/webreports/0I3/SI3495.html),WEB,SEC106,24163,heuristic parse; type classification approximate
+REF345,Chapter 30,10,[http://mvw.nuforc.org/webreports/027/S27963.html](http://mvw.nuforc.org/webreports/027/S27963.html),WEB,SEC106,24164,heuristic parse; type classification approximate
+REF346,Chapter 30,11,[http://www.nuforc.org/webreports/039/S39328.html](http://www.nuforc.org/webreports/039/S39328.html),WEB,SEC106,24165,heuristic parse; type classification approximate
+REF347,Chapter 30,12,[http://wavw.nuforc.org/webreports/044/S44477.html](http://wavw.nuforc.org/webreports/044/S44477.html),WEB,SEC106,24166,heuristic parse; type classification approximate
+REF348,Chapter 30,13,[http://www.nuforc.org/webreports/055/S55564.html](http://www.nuforc.org/webreports/055/S55564.html),WEB,SEC106,24167,heuristic parse; type classification approximate
+REF349,Chapter 30,14,[http://www.nuforc.org/webreports/057/S57685.html](http://www.nuforc.org/webreports/057/S57685.html),WEB,SEC106,24168,heuristic parse; type classification approximate
+REF350,Chapter 30,15,[http://www.nuforc.org/webreports/060/S60663.html](http://www.nuforc.org/webreports/060/S60663.html),WEB,SEC106,24169,heuristic parse; type classification approximate
+REF351,Chapter 30,16,[http://www.globalsecurity.org/wmd/facility/kings_bay.htm](http://www.globalsecurity.org/wmd/facility/kings_bay.htm),WEB,SEC106,24170,heuristic parse; type classification approximate
+REF352,Chapter 30,17,[http://www.globalsecurity.org/wmd/facility/kings_bay_swflant.htm](http://www.globalsecurity.org/wmd/facility/kings_bay_swflant.htm),WEB,SEC106,24171,heuristic parse; type classification approximate
+REF353,Chapter 30,18,[http://www.nuforc.org/webreports/019/S19327.html](http://www.nuforc.org/webreports/019/S19327.html),WEB,SEC106,24172,heuristic parse; type classification approximate
+REF354,Chapter 30,19,[http://www.nuforc.org/webreports/045/S45453.html](http://www.nuforc.org/webreports/045/S45453.html),WEB,SEC106,24173,heuristic parse; type classification approximate
+REF355,Chapter 30,20,[http://www.nuforc.org/webreports/055/S55739.html](http://www.nuforc.org/webreports/055/S55739.html),WEB,SEC106,24174,heuristic parse; type classification approximate
+REF356,Chapter 30,21,[http://www.nuforc.org/webreports/060/S60385.html](http://www.nuforc.org/webreports/060/S60385.html),WEB,SEC106,24175,heuristic parse; type classification approximate
+REF357,Chapter 31,1,[http://www.cr.nps.gov/history/online_books/mimi/hrs2-2a.htm](http://www.cr.nps.gov/history/online_books/mimi/hrs2-2a.htm),BOOK,SEC106,24180,heuristic parse; type classification approximate
+REF358,Chapter 31,2,"Hansen, Terry. _The Missing Times: News Media Complicity in the UFO Cover-up_ , Xlibris Corp., 2000.",PERIODICAL_OR_NEWSPAPER,SEC106,24181,heuristic parse; type classification approximate

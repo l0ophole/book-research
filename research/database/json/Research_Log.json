@@ -1,0 +1,122 @@
+[
+ {
+  "log_id": 1,
+  "log_date": "2026-11-15",
+  "action": "Document inventory",
+  "reason": "Establish scope",
+  "tool": "Bash (wc, ls), Grep",
+  "query": "headings ^#{1,3}",
+  "result": "1 file, 24,202 lines, 222,696 words; 31 chapters + appendices + 358 references; headings mapped (secmap.json).",
+  "limitations": "OCR artifacts present (e.g., \"Keyhole\" for Keyhoe; \"lmage\")"
+ },
+ {
+  "log_id": 2,
+  "log_date": "2026-11-15",
+  "action": "Reading: front matter, methods, Ch1 framing, Ch2 (through Sandia), Ch3 (Webb + early fallout cases), Ch6, Ch9 (opening, George, date, final thoughts), Ch10 opening, Ch11 (Echo/Oscar), Ch18 NORAD logs, Ch21 Bentwaters opening",
+  "reason": "Core claims & incidents",
+  "tool": "Read tool",
+  "query": "offsets 1-940,1354-2003,2424-2755,5059-5355,7416-7830,8076-8200,8399-8480,8657-8850,9863-10282,13993-14252,15923-16060",
+  "result": "3,853 of 24,203 lines (15.9%) read verbatim.",
+  "limitations": "Remaining ~84% only pattern-scanned or unread"
+ },
+ {
+  "log_id": 3,
+  "log_date": "2026-11-15",
+  "action": "Pattern scan",
+  "reason": "Index remaining text",
+  "tool": "Python regex",
+  "query": "date+facility keywords in unread paragraphs",
+  "result": "296 candidate paragraphs; top 6/section kept (194) as LEAD records.",
+  "limitations": "Heuristic; false positives/negatives likely"
+ },
+ {
+  "log_id": 4,
+  "log_date": "2026-11-15",
+  "action": "Reference parse",
+  "reason": "Build References table",
+  "tool": "Python regex",
+  "query": "Bibliography lines 23548-24185",
+  "result": "358 references parsed; type classification heuristic.",
+  "limitations": "Some merged/mis-split entries (e.g., Ch4 ref 17/18)"
+ },
+ {
+  "log_id": 5,
+  "log_date": "2026-11-15",
+  "action": "WebSearch",
+  "reason": "Verify Echo/Malmstrom 1967",
+  "tool": "WebSearch standard",
+  "query": "Malmstrom Echo Flight March 16 1967 ...",
+  "result": "Found NICAP, Skeptoid, RR0 (wing history excerpt), Metabunk.",
+  "limitations": "Search summaries are not primary sources"
+ },
+ {
+  "log_id": 6,
+  "log_date": "2026-11-15",
+  "action": "WebSearch",
+  "reason": "Verify Chadwell memo",
+  "tool": "WebSearch standard",
+  "query": "Chadwell memorandum December 2 1952 ...",
+  "result": "Found memo listings; quote only in curated excerpt; CIA RR item dated 9 Dec 1952 distinct.",
+  "limitations": "Original PDF not opened"
+ },
+ {
+  "log_id": 7,
+  "log_date": "2026-11-15",
+  "action": "HTTP fetch",
+  "reason": "Read primary excerpts",
+  "tool": "curl via proxy",
+  "query": "nicap malmstrom67-2; rr0 Malmstrom; ufopedia Chadwell; cia.gov node 415717",
+  "result": "NICAP and RR0 opened and quoted (SRC001, SRC002); CIA node was landing page.",
+  "limitations": ""
+ },
+ {
+  "log_id": 8,
+  "log_date": "2026-11-15",
+  "action": "WebSearch+fetch",
+  "reason": "Verify Big Sur launch dates",
+  "tool": "WebSearch; curl",
+  "query": "Atlas D Sept 1964; SI George 1993",
+  "result": "SI PDF opened (SRC004); Wikipedia Atlas list opened (SRC005); outrocket blocked (SRC006).",
+  "limitations": "EA page not retrieved; Jacobs MUFON article not retrieved"
+ },
+ {
+  "log_id": 9,
+  "log_date": "2026-11-15",
+  "action": "WebSearch+fetch",
+  "reason": "Verify 1975 NORAD / Loring",
+  "tool": "WebSearch; curl",
+  "query": "Loring 27 Oct 1975 NMCC NORAD",
+  "result": "NICAP chronology, TWZ, Wikipedia opened (SRC009-011).",
+  "limitations": "Original NORAD/NMCC messages not obtained"
+ },
+ {
+  "log_id": 10,
+  "log_date": "2026-11-15",
+  "action": "WebSearch+fetch",
+  "reason": "Verify FBI 1949 memo",
+  "tool": "WebSearch; curl",
+  "query": "FBI Protection of Vital Installations 1949",
+  "result": "Black Vault page, ufopedia page opened (SRC008); PDF not opened.",
+  "limitations": ""
+ },
+ {
+  "log_id": 11,
+  "log_date": "2026-11-15",
+  "action": "Fetch",
+  "reason": "Check Rendlesham dates",
+  "tool": "curl",
+  "query": "Wikipedia Rendlesham",
+  "result": "Confirmed Halt memo date error and lighthouse/fireball explanations (SRC014).",
+  "limitations": ""
+ },
+ {
+  "log_id": 12,
+  "log_date": "2026-11-15",
+  "action": "Attempted",
+  "reason": "Fetch outrocket LORV-3 page",
+  "tool": "curl",
+  "query": "outrocket.com atlas-abres-lorv-3",
+  "result": "HTTP 429 bot-checkpoint; unsuccessful.",
+  "limitations": "Retry with different source (Encyclopedia Astronautica / Space Launch Report)"
+ }
+]

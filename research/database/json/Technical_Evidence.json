@@ -1,0 +1,52 @@
+[
+ {
+  "tech_id": "TEC001",
+  "evidence_type": "Radar tracking",
+  "originating_system": "Moses Lake AFB radar",
+  "evidence_date": "1949-05-21",
+  "raw_data_availability": "UNKNOWN (Blue Book file?)",
+  "notes": "",
+  "section_id": "SEC019",
+  "line_ref": 1607
+ },
+ {
+  "tech_id": "TEC002",
+  "evidence_type": "Airborne radar lock",
+  "originating_system": "F-94 radar (Hanford)",
+  "evidence_date": "1952-12-10",
+  "raw_data_availability": "UNKNOWN",
+  "notes": "",
+  "section_id": "SEC019",
+  "line_ref": 1592
+ },
+ {
+  "tech_id": "TEC003",
+  "evidence_type": "Declassified fallout trajectory maps (DSWA/AFSWC)",
+  "originating_system": "Fallout Monitoring Network (>50 stations) & USAF sampling aircraft",
+  "evidence_date": "1951",
+  "raw_data_availability": "AVAILABLE_IN_PRINCIPLE (DTRA/DOE OpenNet)",
+  "notes": "Reports for Ranger & Buster-Jangle cited as ref 2/4/6 in Ch3.",
+  "section_id": "SEC026",
+  "line_ref": 2660
+ },
+ {
+  "tech_id": "TEC004",
+  "evidence_type": "Missile system fault data (G&C, logic coupler No-Go)",
+  "originating_system": "Minuteman I Echo Flight",
+  "evidence_date": "1967-03-16",
+  "raw_data_availability": "NOT PUBLIC (engineering report withheld)",
+  "notes": "Boeing duplicated faults by injected noise; source unidentified.",
+  "section_id": "SEC073",
+  "line_ref": 10099
+ },
+ {
+  "tech_id": "TEC005",
+  "evidence_type": "Height-finder radar tracks (J330; EKLB 0649)",
+  "originating_system": "24th NORAD Region radar (Malmstrom/Great Falls)",
+  "evidence_date": "1975-11-08",
+  "raw_data_availability": "Raw radar data NOT located",
+  "notes": "Log summarises: 10-13,000 ft; 18 kt, 9,500 ft; stationary/7 kt at 12,000 ft.",
+  "section_id": "SEC083",
+  "line_ref": 14078
+ }
+]

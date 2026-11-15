@@ -1,0 +1,394 @@
+[
+ {
+  "link_id": 1,
+  "claim_id": "CLM001",
+  "document_id": "DOC001",
+  "section_id": "SEC006",
+  "line_ref": 90
+ },
+ {
+  "link_id": 2,
+  "claim_id": "CLM002",
+  "document_id": "DOC001",
+  "section_id": "SEC006",
+  "line_ref": 104
+ },
+ {
+  "link_id": 3,
+  "claim_id": "CLM003",
+  "document_id": "DOC001",
+  "section_id": "SEC006",
+  "line_ref": 107
+ },
+ {
+  "link_id": 4,
+  "claim_id": "CLM004",
+  "document_id": "DOC001",
+  "section_id": "SEC006",
+  "line_ref": 125
+ },
+ {
+  "link_id": 5,
+  "claim_id": "CLM005",
+  "document_id": "DOC001",
+  "section_id": "SEC006",
+  "line_ref": 142
+ },
+ {
+  "link_id": 6,
+  "claim_id": "CLM006",
+  "document_id": "DOC001",
+  "section_id": "SEC006",
+  "line_ref": 148
+ },
+ {
+  "link_id": 7,
+  "claim_id": "CLM007",
+  "document_id": "DOC001",
+  "section_id": "SEC009",
+  "line_ref": 346
+ },
+ {
+  "link_id": 8,
+  "claim_id": "CLM008",
+  "document_id": "DOC001",
+  "section_id": "SEC009",
+  "line_ref": 393
+ },
+ {
+  "link_id": 9,
+  "claim_id": "CLM009",
+  "document_id": "DOC001",
+  "section_id": "SEC009",
+  "line_ref": 404
+ },
+ {
+  "link_id": 10,
+  "claim_id": "CLM010",
+  "document_id": "DOC001",
+  "section_id": "SEC008",
+  "line_ref": 336
+ },
+ {
+  "link_id": 11,
+  "claim_id": "CLM011",
+  "document_id": "DOC001",
+  "section_id": "SEC010",
+  "line_ref": 464
+ },
+ {
+  "link_id": 12,
+  "claim_id": "CLM012",
+  "document_id": "DOC001",
+  "section_id": "SEC015",
+  "line_ref": 757
+ },
+ {
+  "link_id": 13,
+  "claim_id": "CLM013",
+  "document_id": "DOC001",
+  "section_id": "SEC015",
+  "line_ref": 775
+ },
+ {
+  "link_id": 14,
+  "claim_id": "CLM014",
+  "document_id": "DOC001",
+  "section_id": "SEC016",
+  "line_ref": 849
+ },
+ {
+  "link_id": 15,
+  "claim_id": "CLM015",
+  "document_id": "DOC001",
+  "section_id": "SEC007",
+  "line_ref": 233
+ },
+ {
+  "link_id": 16,
+  "claim_id": "CLM016",
+  "document_id": "DOC001",
+  "section_id": "SEC019",
+  "line_ref": 1445
+ },
+ {
+  "link_id": 17,
+  "claim_id": "CLM017",
+  "document_id": "DOC001",
+  "section_id": "SEC019",
+  "line_ref": 1488
+ },
+ {
+  "link_id": 18,
+  "claim_id": "CLM018",
+  "document_id": "DOC001",
+  "section_id": "SEC019",
+  "line_ref": 1505
+ },
+ {
+  "link_id": 19,
+  "claim_id": "CLM019",
+  "document_id": "DOC001",
+  "section_id": "SEC019",
+  "line_ref": 1530
+ },
+ {
+  "link_id": 20,
+  "claim_id": "CLM020",
+  "document_id": "DOC001",
+  "section_id": "SEC019",
+  "line_ref": 1546
+ },
+ {
+  "link_id": 21,
+  "claim_id": "CLM021",
+  "document_id": "DOC001",
+  "section_id": "SEC019",
+  "line_ref": 1736
+ },
+ {
+  "link_id": 22,
+  "claim_id": "CLM022",
+  "document_id": "DOC001",
+  "section_id": "SEC020",
+  "line_ref": 1781
+ },
+ {
+  "link_id": 23,
+  "claim_id": "CLM023",
+  "document_id": "DOC001",
+  "section_id": "SEC026",
+  "line_ref": 2563
+ },
+ {
+  "link_id": 24,
+  "claim_id": "CLM024",
+  "document_id": "DOC001",
+  "section_id": "SEC026",
+  "line_ref": 2580
+ },
+ {
+  "link_id": 25,
+  "claim_id": "CLM025",
+  "document_id": "DOC001",
+  "section_id": "SEC026",
+  "line_ref": 2626
+ },
+ {
+  "link_id": 26,
+  "claim_id": "CLM026",
+  "document_id": "DOC001",
+  "section_id": "SEC026",
+  "line_ref": 2650
+ },
+ {
+  "link_id": 27,
+  "claim_id": "CLM027",
+  "document_id": "DOC001",
+  "section_id": "SEC041",
+  "line_ref": 5135
+ },
+ {
+  "link_id": 28,
+  "claim_id": "CLM028",
+  "document_id": "DOC001",
+  "section_id": "SEC042",
+  "line_ref": 5168
+ },
+ {
+  "link_id": 29,
+  "claim_id": "CLM029",
+  "document_id": "DOC001",
+  "section_id": "SEC042",
+  "line_ref": 5224
+ },
+ {
+  "link_id": 30,
+  "claim_id": "CLM030",
+  "document_id": "DOC001",
+  "section_id": "SEC042",
+  "line_ref": 5276
+ },
+ {
+  "link_id": 31,
+  "claim_id": "CLM031",
+  "document_id": "DOC001",
+  "section_id": "SEC042",
+  "line_ref": 5321
+ },
+ {
+  "link_id": 32,
+  "claim_id": "CLM032",
+  "document_id": "DOC001",
+  "section_id": "SEC073",
+  "line_ref": 9871
+ },
+ {
+  "link_id": 33,
+  "claim_id": "CLM033",
+  "document_id": "DOC001",
+  "section_id": "SEC073",
+  "line_ref": 10033
+ },
+ {
+  "link_id": 34,
+  "claim_id": "CLM034",
+  "document_id": "DOC001",
+  "section_id": "SEC073",
+  "line_ref": 10047
+ },
+ {
+  "link_id": 35,
+  "claim_id": "CLM035",
+  "document_id": "DOC001",
+  "section_id": "SEC073",
+  "line_ref": 10099
+ },
+ {
+  "link_id": 36,
+  "claim_id": "CLM036",
+  "document_id": "DOC001",
+  "section_id": "SEC073",
+  "line_ref": 10188
+ },
+ {
+  "link_id": 37,
+  "claim_id": "CLM037",
+  "document_id": "DOC001",
+  "section_id": "SEC074",
+  "line_ref": 10896
+ },
+ {
+  "link_id": 38,
+  "claim_id": "CLM038",
+  "document_id": "DOC001",
+  "section_id": "SEC073",
+  "line_ref": 10225
+ },
+ {
+  "link_id": 39,
+  "claim_id": "CLM039",
+  "document_id": "DOC001",
+  "section_id": "SEC073",
+  "line_ref": 10002
+ },
+ {
+  "link_id": 40,
+  "claim_id": "CLM040",
+  "document_id": "DOC001",
+  "section_id": "SEC055",
+  "line_ref": 7439
+ },
+ {
+  "link_id": 41,
+  "claim_id": "CLM041",
+  "document_id": "DOC001",
+  "section_id": "SEC057",
+  "line_ref": 7597
+ },
+ {
+  "link_id": 42,
+  "claim_id": "CLM042",
+  "document_id": "DOC001",
+  "section_id": "SEC058",
+  "line_ref": 7639
+ },
+ {
+  "link_id": 43,
+  "claim_id": "CLM043",
+  "document_id": "DOC001",
+  "section_id": "SEC061",
+  "line_ref": 8079
+ },
+ {
+  "link_id": 44,
+  "claim_id": "CLM044",
+  "document_id": "DOC001",
+  "section_id": "SEC059",
+  "line_ref": 7787
+ },
+ {
+  "link_id": 45,
+  "claim_id": "CLM045",
+  "document_id": "DOC001",
+  "section_id": "SEC057",
+  "line_ref": 7610
+ },
+ {
+  "link_id": 46,
+  "claim_id": "CLM046",
+  "document_id": "DOC001",
+  "section_id": "SEC063",
+  "line_ref": 8446
+ },
+ {
+  "link_id": 47,
+  "claim_id": "CLM047",
+  "document_id": "DOC001",
+  "section_id": "SEC058",
+  "line_ref": 7697
+ },
+ {
+  "link_id": 48,
+  "claim_id": "CLM048",
+  "document_id": "DOC001",
+  "section_id": "SEC083",
+  "line_ref": 14007
+ },
+ {
+  "link_id": 49,
+  "claim_id": "CLM049",
+  "document_id": "DOC001",
+  "section_id": "SEC083",
+  "line_ref": 14058
+ },
+ {
+  "link_id": 50,
+  "claim_id": "CLM050",
+  "document_id": "DOC001",
+  "section_id": "SEC083",
+  "line_ref": 14094
+ },
+ {
+  "link_id": 51,
+  "claim_id": "CLM051",
+  "document_id": "DOC001",
+  "section_id": "SEC083",
+  "line_ref": 14054
+ },
+ {
+  "link_id": 52,
+  "claim_id": "CLM052",
+  "document_id": "DOC001",
+  "section_id": "SEC066",
+  "line_ref": 8800
+ },
+ {
+  "link_id": 53,
+  "claim_id": "CLM053",
+  "document_id": "DOC001",
+  "section_id": "SEC066",
+  "line_ref": 8659
+ },
+ {
+  "link_id": 54,
+  "claim_id": "CLM054",
+  "document_id": "DOC001",
+  "section_id": "SEC087",
+  "line_ref": 16021
+ },
+ {
+  "link_id": 55,
+  "claim_id": "CLM055",
+  "document_id": "DOC001",
+  "section_id": "SEC087",
+  "line_ref": 16008
+ },
+ {
+  "link_id": 56,
+  "claim_id": "CLM056",
+  "document_id": "DOC001",
+  "section_id": "SEC087",
+  "line_ref": 16030
+ }
+]

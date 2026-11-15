@@ -1,0 +1,15 @@
+[
+ {
+  "document_id": "DOC001",
+  "filename": "f3ff02a2-hastings-2008-ufos-and-nukes.md",
+  "title": "UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites",
+  "author": "Robert L. Hastings",
+  "publication_year": 2008,
+  "format": "Markdown (OCR-converted book)",
+  "total_lines": 24203,
+  "total_words": 222711,
+  "sha256": "c956ff68945e93384dcb973a1471a084dc846641a6a051a98a27cb4422d0d16b",
+  "description": "Author-published book arguing for a UFO-nuclear weapons connection; 31 chapters, 2 appendices, references.",
+  "access_limitations": "Only ~16% of lines read verbatim in this pass; no page numbers or images present in the markdown; OCR artifacts; figures/photos not available."
+ }
+]

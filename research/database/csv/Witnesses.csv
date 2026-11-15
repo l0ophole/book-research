@@ -1,0 +1,34 @@
+witness_id,name,role,firsthand_status,identity_status,notes,section_id,line_ref
+WIT000,Robert L. Hastings (author),"Janitor at Malmstrom tower, 1966-67; later researcher",PARTIAL,NAMED,"Saw FAA controller's scope with 5 targets; remainder is third-hand via father (SMSgt Robert E. Hastings, Supply NCOIC Special Weapons Branch HQ 28th Air Division).",SEC007,186
+WIT001,"Unnamed FAA RAPCON controller (Malmstrom, 1967)",FAA radar controller,YES,ANONYMOUS,Anonymous; unverified.,SEC007,194
+WIT002,SMSgt Robert E. Hastings (author's father),"Supply NCOIC Special Weapons Branch, HQ 28th Air Division, Malmstrom",NO (hearsay),NAMED,Relayed rumors from SAGE building staff.,SEC007,207
+WIT003,"""Mr. M."" (anonymous USAF airman, Nellis AFB, 1951)","Perimeter sentry, Nevada Proving Ground",YES,ANONYMOUS,"Account recalled 30 yrs later; Webb found details consistent with test schedule (Charlie 14 kt, 30 Oct 1951, 0700 PST). No corroborating witnesses found by Hastings. Webb: ""should be classified as an unknown"".",SEC025,2481
+WIT004,Walter N. Webb,"Astronomer, MUFON/CUFOS consultant; investigator of Mr. M. account (3/8/81 summary)",INVESTIGATOR,NAMED,Second-hand investigator; not an eyewitness.,SEC023,2452
+WIT005,Bernard Clark,"Atomic veteran, Buster-Jangle Dog (Nov 1951)",YES,NAMED,Vague; Hastings skeptical.,SEC026,2609
+WIT006,Daniel Wilson (Dan Wilson),Researcher of Nevada test-related fireballs; supplied declassified DSWA debris-trajectory maps and press clippings,INVESTIGATOR,NAMED,Core to fallout/fireball correlation hypothesis.,SEC026,2624
+WIT007,Capt. Howard F. Paulin / 2nd Lt. Lester F. Page,"USAF F-86 pilots, 1951-01-30",YES,NAMED,,SEC026,2706
+WIT008,"""John Smith"" (pseudonym)","USAF jet engine mechanic, 42nd Field Maintenance Squadron, Loring AFB",YES,PSEUDONYM,Wrote to CUFOS (2006); told wife 1976. Hastings withholds most details deliberately.,SEC042,5196
+WIT009,"Unnamed 42nd FMS team partner of ""Smith""","Jet mechanic, later B-52 tail gunner",YES (disputed memory),ANONYMOUS,"Confirmed tandem Chrome Dome & emergency turnout; claims asleep, denies remembering UFO; evasive. Told never to report UFOs by aircraft commander.",SEC042,5238
+WIT010,Unnamed retired colonel (Loring Chrome Dome pilot),B-52 pilot,YES,ANONYMOUS,Recalled tandem missions ended early Nov 1962.,SEC042,5227
+WIT011,Capt. (then 1Lt) Robert Salas,"Deputy Missile Combat Crew Commander, Oscar Flight, 1967; later author (Faded Giant; Sightings 1997 TV)",YES (Oscar); PARTIAL (Echo),NAMED,Public advocate of ETH; recalls only limited details; date of Oscar not documented. Earlier 1996 article with Klotz conflated Echo timing.,SEC073,9904
+WIT012,Lt. (later Col.) Fred Meiwald,"Missile Combat Crew Commander, Oscar Flight",YES,NAMED,Interviewed 2000; says memories match Salas.,SEC073,9965
+WIT013,Col. Don Crawford (ret.),Relief launch officer at Echo LCF after shutdown,PARTIAL (arrived after; relayed by crew),NAMED,Told by Carlson & Figel of UFO calls and shutdown.,SEC073,10062
+WIT014,Capt. Eric Carlson,Echo Flight crew commander at shutdown,YES (not interviewed by author),NAMED,,SEC073,10065
+WIT015,Lt. Col. (ret.) Walt Figel,Echo Flight DMCCC at time of shutdown,YES,NAMED,"Per Salas, Figel confirmed missiles went down precisely when maintenance crew reported UFOs.",SEC073,10065
+WIT016,David Gamble,341st SMW historian who wrote wing history,SECONDHAND (compiler),NAMED,"Told Klotz he got ""no cooperation"" and that superiors changed the UFO aspect.",SEC073,10041
+WIT017,James Ortyl,"Airman 2nd Class, Air Police, 341st CSG",YES,NAMED,,SEC073,10115
+WIT018,Robert Pounders,"Airman, Air Police",YES (not interviewed),NAMED,,SEC073,10124
+WIT019,Ken Williams,"Civilian trucker, Belt MT",YES,NAMED,Reported via Great Falls Tribune.,SEC073,10146
+WIT020,Louis D. Kenneweg,"SSgt, 341st MIMS",YES,NAMED,,SEC074,10261
+WIT021,Jim Klotz,Researcher; filed FOIA requests re Malmstrom 1967,INVESTIGATOR,NAMED,Obtained ~100 pp of 341st SMW history extracts.,SEC073,9889
+WIT022,Raymond E. Fowler,Researcher; Sylvania Minuteman Project 1967 employee,SECONDHAND,NAMED,,SEC073,10160
+WIT023,Dr. Robert (Bob) Jacobs,"Lt., 1369th Photographic Squadron, OIC Photo Instrumentation, Vandenberg 1964; author MUFON UFO Journal Jan 1989 ""Deliberate Deception: The Big Sur UFO Filming""",YES,NAMED,"Admits date uncertain (2, 3 or 15 Sept; log suggests not at Big Sur 22 Sept), unsure of Atlas model (F or D).",SEC055,7451
+WIT024,Maj. Florenze J. Mansmann Jr. (d. 4 Jul 2000),"Office of Chief Scientist, 1st Strategic Aerospace Division, Vandenberg; photo-interpreter",YES (claimed; letters only),NAMED,"Confirmations via letters 1983-1995 (to Graham, Bons, Crain, Collier). Inconsistent on number (2 vs 3) and identity (CIA vs ""Government Agents"") of men who took film.",SEC055,7477
+WIT025,Kingston A. George,"Project engineer, experimental Big Sur Atlas telescope tracking 1964; author ""The Big Sur UFO: An Identified Flying Object"", Skeptical Inquirer Winter 1993",YES (claims viewed film),NAMED,Says film showed decoys & bloom artifacts from 22 Sept 1964 launch.,SEC059,7756
+WIT026,Lee Graham; Peter Bons; T. Scott Crain Jr.; Curt Collier,Correspondents/researchers/producer receiving Mansmann letters,SECONDHAND,NAMED,,SEC056,7496
+WIT027,John Callahan,"Former FAA Division Chief, Accidents & Investigations; JAL 1628 (Nov 1986) account of CIA confiscation",YES (other incident),NAMED,Used by Hastings as analogy for CIA role.,SEC058,7697
+WIT028,Col. John W. Haley III (ret.),"5th MMS Commander, Minot 1973-75; HQ SAC Munitions Staff Officer 1975-77",PARTIAL (read daily recap),NAMED,Interviewed 2002; his month/intercept details differ from documented record.,SEC084,14150
+WIT029,Capt. Keith Wolverton,Cascade County Sheriff's captain,SECONDHAND,NAMED,,SEC084,14233
+WIT030,Jack Acuff,"NICAP president; received leaked NORAD/NMCC docs from DIA analyst ""Deep Throat"" (1976)",INVESTIGATOR,NAMED,Source unnamed.,SEC084,14126
+WIT031,Col. Charles I. Halt (ret.),Deputy Base Commander RAF Bentwaters 1980; author of memo; present in forest,YES (forest sightings); SECONDHAND for WSA,NAMED,"Public statements: 1991 Unsolved Mysteries, 1997 interview with A.J.S. Rayl, Sci Fi Channel; only referenced WSA beams from 1991 on. Interviewed by Hastings under editorial-review condition.",SEC087,15943
+WIT032,James McGaha,Skeptic; proposed Orford Ness lighthouse explanation,CRITIC,NAMED,,SEC087,16006
