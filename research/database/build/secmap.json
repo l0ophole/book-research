@@ -1,0 +1,858 @@
+[
+ {
+  "line_start": 2,
+  "line_end": 3,
+  "level": 1,
+  "title": "UFOs and Nukes",
+  "words": 4,
+  "fn": 0
+ },
+ {
+  "line_start": 4,
+  "line_end": 5,
+  "level": 1,
+  "title": "Extraordinary Encounters at Nuclear Weapons",
+  "words": 6,
+  "fn": 0
+ },
+ {
+  "line_start": 6,
+  "line_end": 7,
+  "level": 1,
+  "title": "Sites",
+  "words": 2,
+  "fn": 0
+ },
+ {
+  "line_start": 8,
+  "line_end": 14,
+  "level": 1,
+  "title": "Robert L. Hastings",
+  "words": 46,
+  "fn": 0
+ },
+ {
+  "line_start": 15,
+  "line_end": 49,
+  "level": 1,
+  "title": "Acknowledgments",
+  "words": 299,
+  "fn": 0
+ },
+ {
+  "line_start": 50,
+  "line_end": 160,
+  "level": 1,
+  "title": "Introduction",
+  "words": 952,
+  "fn": 2
+ },
+ {
+  "line_start": 161,
+  "line_end": 252,
+  "level": 1,
+  "title": "Quest",
+  "words": 823,
+  "fn": 3
+ },
+ {
+  "line_start": 253,
+  "line_end": 343,
+  "level": 1,
+  "title": "Research Methods",
+  "words": 851,
+  "fn": 2
+ },
+ {
+  "line_start": 344,
+  "line_end": 447,
+  "level": 1,
+  "title": "Specific Sources of Information",
+  "words": 966,
+  "fn": 0
+ },
+ {
+  "line_start": 448,
+  "line_end": 520,
+  "level": 1,
+  "title": "Exempted Military Witnesses",
+  "words": 658,
+  "fn": 0
+ },
+ {
+  "line_start": 521,
+  "line_end": 628,
+  "level": 1,
+  "title": "Reliability of Information",
+  "words": 1021,
+  "fn": 0
+ },
+ {
+  "line_start": 629,
+  "line_end": 668,
+  "level": 1,
+  "title": "1. Phenomenon",
+  "words": 347,
+  "fn": 0
+ },
+ {
+  "line_start": 669,
+  "line_end": 732,
+  "level": 1,
+  "title": "Opinions, Perceptions and Facts",
+  "words": 430,
+  "fn": 0
+ },
+ {
+  "line_start": 733,
+  "line_end": 747,
+  "level": 1,
+  "title": "Evidence",
+  "words": 115,
+  "fn": 0
+ },
+ {
+  "line_start": 748,
+  "line_end": 834,
+  "level": 1,
+  "title": "Scientific Evidence",
+  "words": 739,
+  "fn": 1
+ },
+ {
+  "line_start": 835,
+  "line_end": 882,
+  "level": 1,
+  "title": "Anecdotal Evidence",
+  "words": 418,
+  "fn": 0
+ },
+ {
+  "line_start": 883,
+  "line_end": 936,
+  "level": 1,
+  "title": "Paradigm Shifts",
+  "words": 451,
+  "fn": 0
+ },
+ {
+  "line_start": 937,
+  "line_end": 1353,
+  "level": 1,
+  "title": "Separating the Signal from the Noise",
+  "words": 3652,
+  "fn": 5
+ },
+ {
+  "line_start": 1354,
+  "line_end": 1761,
+  "level": 1,
+  "title": "2. Playing with Fire",
+  "words": 3700,
+  "fn": 17
+ },
+ {
+  "line_start": 1762,
+  "line_end": 1880,
+  "level": 1,
+  "title": "Bursts of Light and Tiny Intruders at Killeen Base",
+  "words": 1062,
+  "fn": 6
+ },
+ {
+  "line_start": 1881,
+  "line_end": 2004,
+  "level": 1,
+  "title": "Building Bombs in Albuquerque",
+  "words": 1094,
+  "fn": 7
+ },
+ {
+  "line_start": 2005,
+  "line_end": 2423,
+  "level": 1,
+  "title": "Analyzing the Situation",
+  "words": 3939,
+  "fn": 5
+ },
+ {
+  "line_start": 2424,
+  "line_end": 2469,
+  "level": 1,
+  "title": "3. Flashing Sky, Killing Wind",
+  "words": 399,
+  "fn": 0
+ },
+ {
+  "line_start": 2470,
+  "line_end": 2478,
+  "level": 3,
+  "title": "SQUADRON OF DISCS OVER ATOMIC TEST SITE OCTOBER 30, 1951",
+  "words": 84,
+  "fn": 0
+ },
+ {
+  "line_start": 2479,
+  "line_end": 2553,
+  "level": 3,
+  "title": "THE SIGHTING",
+  "words": 789,
+  "fn": 0
+ },
+ {
+  "line_start": 2554,
+  "line_end": 3012,
+  "level": 3,
+  "title": "EVALUATION",
+  "words": 4322,
+  "fn": 16
+ },
+ {
+  "line_start": 3013,
+  "line_end": 3141,
+  "level": 1,
+  "title": "Operation Tumbler-Snapper",
+  "words": 1208,
+  "fn": 7
+ },
+ {
+  "line_start": 3142,
+  "line_end": 3201,
+  "level": 1,
+  "title": "Operation Desert Rock",
+  "words": 526,
+  "fn": 2
+ },
+ {
+  "line_start": 3202,
+  "line_end": 3258,
+  "level": 1,
+  "title": "Operation Upshot-Knothole",
+  "words": 512,
+  "fn": 2
+ },
+ {
+  "line_start": 3259,
+  "line_end": 3402,
+  "level": 1,
+  "title": "Operation Teapot",
+  "words": 1331,
+  "fn": 6
+ },
+ {
+  "line_start": 3403,
+  "line_end": 3482,
+  "level": 1,
+  "title": "Operation Plumbbob",
+  "words": 754,
+  "fn": 2
+ },
+ {
+  "line_start": 3483,
+  "line_end": 3587,
+  "level": 1,
+  "title": "4. Meanwhile, out at Sea",
+  "words": 975,
+  "fn": 2
+ },
+ {
+  "line_start": 3588,
+  "line_end": 3996,
+  "level": 1,
+  "title": "Testing in the Pacific",
+  "words": 4174,
+  "fn": 2
+ },
+ {
+  "line_start": 3997,
+  "line_end": 4276,
+  "level": 1,
+  "title": "A Thousand Times",
+  "words": 2608,
+  "fn": 3
+ },
+ {
+  "line_start": 4277,
+  "line_end": 4520,
+  "level": 1,
+  "title": "Tracking Unknown Targets After the Bravo Shot",
+  "words": 2280,
+  "fn": 8
+ },
+ {
+  "line_start": 4521,
+  "line_end": 4678,
+  "level": 1,
+  "title": "Disruptions",
+  "words": 1552,
+  "fn": 2
+ },
+ {
+  "line_start": 4679,
+  "line_end": 4815,
+  "level": 1,
+  "title": "Catching the Wind",
+  "words": 1187,
+  "fn": 0
+ },
+ {
+  "line_start": 4816,
+  "line_end": 4948,
+  "level": 1,
+  "title": "5. Into the Sixties",
+  "words": 1295,
+  "fn": 0
+ },
+ {
+  "line_start": 4949,
+  "line_end": 5041,
+  "level": 1,
+  "title": "The Pantex Plant",
+  "words": 617,
+  "fn": 2
+ },
+ {
+  "line_start": 5042,
+  "line_end": 5058,
+  "level": 1,
+  "title": "The Savannah River Plant",
+  "words": 180,
+  "fn": 0
+ },
+ {
+  "line_start": 5059,
+  "line_end": 5165,
+  "level": 1,
+  "title": "6. The Crisis",
+  "words": 965,
+  "fn": 2
+ },
+ {
+  "line_start": 5166,
+  "line_end": 5355,
+  "level": 1,
+  "title": "Witness to a Limited Intervention?",
+  "words": 1911,
+  "fn": 2
+ },
+ {
+  "line_start": 5356,
+  "line_end": 5514,
+  "level": 1,
+  "title": "7. The Arrows of Armageddon",
+  "words": 1399,
+  "fn": 1
+ },
+ {
+  "line_start": 5515,
+  "line_end": 6021,
+  "level": 1,
+  "title": "The Other Roswell Incidents",
+  "words": 5003,
+  "fn": 8
+ },
+ {
+  "line_start": 6022,
+  "line_end": 6120,
+  "level": 1,
+  "title": "UFO Sightings at Other Atlas ICBM Sites",
+  "words": 979,
+  "fn": 0
+ },
+ {
+  "line_start": 6121,
+  "line_end": 6280,
+  "level": 1,
+  "title": "8. Visitors",
+  "words": 1474,
+  "fn": 0
+ },
+ {
+  "line_start": 6281,
+  "line_end": 6301,
+  "level": 1,
+  "title": "The Key Questions",
+  "words": 112,
+  "fn": 0
+ },
+ {
+  "line_start": 6302,
+  "line_end": 6358,
+  "level": 1,
+  "title": "Who Are They?",
+  "words": 505,
+  "fn": 0
+ },
+ {
+  "line_start": 6359,
+  "line_end": 6503,
+  "level": 1,
+  "title": "How Do They Travel Here?",
+  "words": 1301,
+  "fn": 3
+ },
+ {
+  "line_start": 6504,
+  "line_end": 6548,
+  "level": 1,
+  "title": "Why Are They Here?",
+  "words": 410,
+  "fn": 0
+ },
+ {
+  "line_start": 6549,
+  "line_end": 6736,
+  "level": 1,
+  "title": "Is More Than One Alien Race Present?",
+  "words": 1728,
+  "fn": 1
+ },
+ {
+  "line_start": 6737,
+  "line_end": 6738,
+  "level": 1,
+  "title": "Why Do Aliens Reportedly Look Similar To",
+  "words": 8,
+  "fn": 0
+ },
+ {
+  "line_start": 6739,
+  "line_end": 7359,
+  "level": 1,
+  "title": "Humans?",
+  "words": 5606,
+  "fn": 9
+ },
+ {
+  "line_start": 7360,
+  "line_end": 7415,
+  "level": 1,
+  "title": "What Happens Next?",
+  "words": 459,
+  "fn": 0
+ },
+ {
+  "line_start": 7416,
+  "line_end": 7490,
+  "level": 1,
+  "title": "9. Shot from the Sky",
+  "words": 634,
+  "fn": 1
+ },
+ {
+  "line_start": 7491,
+  "line_end": 7563,
+  "level": 1,
+  "title": "The Private Letters of Jacobs and Mansmann",
+  "words": 639,
+  "fn": 4
+ },
+ {
+  "line_start": 7564,
+  "line_end": 7629,
+  "level": 1,
+  "title": "My Appearance with Jacobs on Sightings",
+  "words": 596,
+  "fn": 1
+ },
+ {
+  "line_start": 7630,
+  "line_end": 7740,
+  "level": 1,
+  "title": "Was the CIA Involved?",
+  "words": 964,
+  "fn": 2
+ },
+ {
+  "line_start": 7741,
+  "line_end": 7940,
+  "level": 1,
+  "title": "Kingston George Enters the Picture",
+  "words": 1793,
+  "fn": 1
+ },
+ {
+  "line_start": 7941,
+  "line_end": 8075,
+  "level": 1,
+  "title": "A Question of lmage Resolution",
+  "words": 1212,
+  "fn": 6
+ },
+ {
+  "line_start": 8076,
+  "line_end": 8188,
+  "level": 1,
+  "title": "The Actual Date of the Incident",
+  "words": 997,
+  "fn": 3
+ },
+ {
+  "line_start": 8189,
+  "line_end": 8398,
+  "level": 1,
+  "title": "Odd Omission",
+  "words": 1834,
+  "fn": 4
+ },
+ {
+  "line_start": 8399,
+  "line_end": 8474,
+  "level": 1,
+  "title": "Final Thoughts About the Big Sur Incident",
+  "words": 614,
+  "fn": 0
+ },
+ {
+  "line_start": 8475,
+  "line_end": 8584,
+  "level": 1,
+  "title": "After Word",
+  "words": 933,
+  "fn": 1
+ },
+ {
+  "line_start": 8585,
+  "line_end": 8656,
+  "level": 1,
+  "title": "D\u00e9j\u00e0 Vu All Over Again",
+  "words": 636,
+  "fn": 2
+ },
+ {
+  "line_start": 8657,
+  "line_end": 8833,
+  "level": 1,
+  "title": "10. Everyone Escalates",
+  "words": 1614,
+  "fn": 4
+ },
+ {
+  "line_start": 8834,
+  "line_end": 9365,
+  "level": 3,
+  "title": "THE LOG ENTRIES:",
+  "words": 5083,
+  "fn": 3
+ },
+ {
+  "line_start": 9366,
+  "line_end": 9481,
+  "level": 1,
+  "title": "Hynek Opens the Door",
+  "words": 1020,
+  "fn": 2
+ },
+ {
+  "line_start": 9482,
+  "line_end": 9662,
+  "level": 1,
+  "title": "Missile Shutdowns at Ellsworth AFB",
+  "words": 1617,
+  "fn": 0
+ },
+ {
+  "line_start": 9663,
+  "line_end": 9714,
+  "level": 1,
+  "title": "Another Shutdown at Malmstrom AFB",
+  "words": 449,
+  "fn": 0
+ },
+ {
+  "line_start": 9715,
+  "line_end": 9736,
+  "level": 3,
+  "title": "12/14/03",
+  "words": 206,
+  "fn": 0
+ },
+ {
+  "line_start": 9737,
+  "line_end": 9862,
+  "level": 1,
+  "title": "Vandenberg Again",
+  "words": 1271,
+  "fn": 0
+ },
+ {
+  "line_start": 9863,
+  "line_end": 10258,
+  "level": 1,
+  "title": "11. Taking Down Echo and Oscar",
+  "words": 3628,
+  "fn": 6
+ },
+ {
+  "line_start": 10259,
+  "line_end": 10936,
+  "level": 1,
+  "title": "Picking Up the Pieces",
+  "words": 6978,
+  "fn": 0
+ },
+ {
+  "line_start": 10937,
+  "line_end": 10990,
+  "level": 1,
+  "title": "The Reluctant Source",
+  "words": 509,
+  "fn": 0
+ },
+ {
+  "line_start": 10991,
+  "line_end": 11025,
+  "level": 1,
+  "title": "\u201cA Lot Like the UFO Night\u201d",
+  "words": 321,
+  "fn": 0
+ },
+ {
+  "line_start": 11026,
+  "line_end": 11307,
+  "level": 1,
+  "title": "12. Leaving Tracks",
+  "words": 2732,
+  "fn": 1
+ },
+ {
+  "line_start": 11308,
+  "line_end": 12551,
+  "level": 1,
+  "title": "13. Science, Sort of",
+  "words": 11034,
+  "fn": 33
+ },
+ {
+  "line_start": 12552,
+  "line_end": 12770,
+  "level": 1,
+  "title": "14. Launch in Progress!",
+  "words": 2249,
+  "fn": 0
+ },
+ {
+  "line_start": 12771,
+  "line_end": 12986,
+  "level": 1,
+  "title": "15. \u201cSomeone is seeing flying saucers again.\u201d",
+  "words": 2034,
+  "fn": 9
+ },
+ {
+  "line_start": 12987,
+  "line_end": 13288,
+  "level": 1,
+  "title": "16. Look Over Here, Not Over There!",
+  "words": 2798,
+  "fn": 5
+ },
+ {
+  "line_start": 13289,
+  "line_end": 13992,
+  "level": 1,
+  "title": "17. Into the Seventies",
+  "words": 6605,
+  "fn": 2
+ },
+ {
+  "line_start": 13993,
+  "line_end": 14120,
+  "level": 1,
+  "title": "18. The Northern Tier Incursions",
+  "words": 1080,
+  "fn": 2
+ },
+ {
+  "line_start": 14121,
+  "line_end": 14893,
+  "level": 3,
+  "title": "END OF NORAD LOG ENTRIES",
+  "words": 7426,
+  "fn": 3
+ },
+ {
+  "line_start": 14894,
+  "line_end": 15330,
+  "level": 1,
+  "title": "19. Mutilations",
+  "words": 3808,
+  "fn": 8
+ },
+ {
+  "line_start": 15331,
+  "line_end": 15922,
+  "level": 1,
+  "title": "20. Like a Diamond in the Sky",
+  "words": 5875,
+  "fn": 0
+ },
+ {
+  "line_start": 15923,
+  "line_end": 17362,
+  "level": 1,
+  "title": "21. Beams of Light",
+  "words": 14758,
+  "fn": 9
+ },
+ {
+  "line_start": 17363,
+  "line_end": 17485,
+  "level": 1,
+  "title": "22. \u201cSatellite\u201d Alerts",
+  "words": 1177,
+  "fn": 0
+ },
+ {
+  "line_start": 17486,
+  "line_end": 17824,
+  "level": 1,
+  "title": "23. Back in the U.S.S.R.",
+  "words": 3186,
+  "fn": 13
+ },
+ {
+  "line_start": 17825,
+  "line_end": 18749,
+  "level": 1,
+  "title": "24. Into the Nineties",
+  "words": 9003,
+  "fn": 6
+ },
+ {
+  "line_start": 18750,
+  "line_end": 18933,
+  "level": 1,
+  "title": "25. Ongoing Civilian Sightings",
+  "words": 1754,
+  "fn": 2
+ },
+ {
+  "line_start": 18934,
+  "line_end": 19398,
+  "level": 3,
+  "title": "END OF POSTED MESSAGE",
+  "words": 4462,
+  "fn": 4
+ },
+ {
+  "line_start": 19399,
+  "line_end": 20195,
+  "level": 1,
+  "title": "26. The Agency",
+  "words": 7278,
+  "fn": 12
+ },
+ {
+  "line_start": 20196,
+  "line_end": 21089,
+  "level": 1,
+  "title": "27. Roswell",
+  "words": 8111,
+  "fn": 15
+ },
+ {
+  "line_start": 21090,
+  "line_end": 21326,
+  "level": 3,
+  "title": "2002 SEALED AFFIDAVIT OF WALTER G. HAUT",
+  "words": 2013,
+  "fn": 3
+ },
+ {
+  "line_start": 21327,
+  "line_end": 21932,
+  "level": 1,
+  "title": "28. Warped and Hyper",
+  "words": 5263,
+  "fn": 16
+ },
+ {
+  "line_start": 21933,
+  "line_end": 22313,
+  "level": 1,
+  "title": "29. Lucky, So Far",
+  "words": 3520,
+  "fn": 11
+ },
+ {
+  "line_start": 22314,
+  "line_end": 22920,
+  "level": 1,
+  "title": "30. Buzzing Bangor",
+  "words": 6047,
+  "fn": 21
+ },
+ {
+  "line_start": 22921,
+  "line_end": 23379,
+  "level": 1,
+  "title": "31. Things Gone By, Things to Come",
+  "words": 4108,
+  "fn": 2
+ },
+ {
+  "line_start": 23380,
+  "line_end": 23387,
+  "level": 1,
+  "title": "Appendix A: Contact the Author",
+  "words": 64,
+  "fn": 0
+ },
+ {
+  "line_start": 23388,
+  "line_end": 23389,
+  "level": 2,
+  "title": "ufohastings.com",
+  "words": 2,
+  "fn": 0
+ },
+ {
+  "line_start": 23390,
+  "line_end": 23391,
+  "level": 2,
+  "title": "or",
+  "words": 2,
+  "fn": 0
+ },
+ {
+  "line_start": 23392,
+  "line_end": 23398,
+  "level": 2,
+  "title": "hastings444@atr.net",
+  "words": 19,
+  "fn": 0
+ },
+ {
+  "line_start": 23399,
+  "line_end": 23400,
+  "level": 1,
+  "title": "Appendix B: UFO Sightings at Commercial",
+  "words": 7,
+  "fn": 0
+ },
+ {
+  "line_start": 23401,
+  "line_end": 23547,
+  "level": 1,
+  "title": "Nuclear Power Plants",
+  "words": 1340,
+  "fn": 5
+ },
+ {
+  "line_start": 23548,
+  "line_end": 24184,
+  "level": 1,
+  "title": "References",
+  "words": 3057,
+  "fn": 0
+ },
+ {
+  "line_start": 24185,
+  "line_end": 24203,
+  "level": 1,
+  "title": "About the Author",
+  "words": 123,
+  "fn": 0
+ }
+]
