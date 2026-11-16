@@ -1054,5 +1054,17 @@
   "confidence": 1,
   "section_id": "SEC073",
   "line_ref": 10099
+ },
+ {
+  "evidence_id": "EVD089",
+  "description": "AARO's explanation for Echo, as far as I can establish: only second-hand. Per an advocate email (SRC048), ex-AARO deputy director Phillips said in interviews that a 'cascading transformer failure' triggered by an 'electrical storm' caused the shutdown, while a 6 Jun 2025 WSJ story citing AARO officials reportedly said an unannounced EMP test did; neither is in a primary AARO document that I could open (the Volume I historical report PDF could not be downloaded: 403/empty responses from aaro.mil, media.defense.gov and fas.org). Comparison with the wing history (SRC002): a 7.2 kV transformer did short near Winifred at ~1450 on 16 March, 6 hours after the 0845 shutdown, and the history ruled out weather and power switching as the cause, so a 'transformer cascade' explanation does not fit the timing or the record as transcribed; the same history says no cause was found. Hastings's email says later wing histories (mid-1967 and about a year later) record power tests as 'essentially negative' and speculate an EMP cause; I did not see those histories. An EMP-test explanation is therefore unsupported by any document I have, and the AARO transformer explanation conflicts with the one I have. AARO's actual wording is unknown to me.",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "SRC048; SRC002; search results",
+  "related_entities": "INC019;EVD085;EVD088;RQ025",
+  "significance": "HIGH",
+  "verification_status": "INSUFFICIENT_EVIDENCE",
+  "confidence": 1,
+  "section_id": "SEC073",
+  "line_ref": 10099
  }
 ]

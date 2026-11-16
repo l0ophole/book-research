@@ -388,5 +388,15 @@
   "query": "nicap.org pages",
   "result": "Full report/Kaminski letter not found; found 1996 10-volt pulse claim and November-same-morning claim contradicted by SRC002; EVD087-088",
   "limitations": "AARO and Kaminski items are secondhand blog claims; not verified"
+ },
+ {
+  "log_id": 40,
+  "log_date": "2026-11-16",
+  "action": "Searched for AARO statements on Malmstrom; tried to download AARO Historical Record Report Vol. I from aaro.mil, media.defense.gov and fas.org; read an advocate blog reposting Hastings email",
+  "reason": "Follow-up 3: AARO/official statement on Malmstrom",
+  "tool": "WebSearch; curl",
+  "query": "AARO Vol I; occultmystic blog",
+  "result": "AARO PDF not retrievable (403/empty); EVD089 records second-hand AARO claims and their conflict with SRC002",
+  "limitations": "AARO report and WSJ article not seen; all AARO content second-hand"
  }
 ]

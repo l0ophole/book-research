@@ -844,5 +844,23 @@
   "reliability_notes": "Advocacy; contains the Sparks interpretation, not evidence.",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC048",
+  "title": "UFOs at Missile Base: AARO Deputy Director Misstates Facts (blog repost of Hastings email to AARO members, 4-6 Aug 2025, quoting Marik von Rennenkampff)",
+  "author": "Robert Hastings / Marik von Rennenkampff (reposted by Occult Mystic)",
+  "organization": "occultmystic.blogspot.com",
+  "pub_date": "2025-08-07",
+  "source_type": "Advocacy blog repost of an email",
+  "classification": "SECONDARY",
+  "url": "https://occultmystic.blogspot.com/2025/08/ufos-at-missile-base-aaro-deputy.html",
+  "document_identifier": "",
+  "pages_sections": "intro and Malmstrom section",
+  "access_date": "2026-11-16",
+  "related_entities": "INC019;EVD089",
+  "extracted_information": "Reports AARO ex-deputy director Phillips said a cascading transformer failure from an electrical storm caused Echo; says a 6 Jun 2025 WSJ story citing AARO officials said an unannounced EMP test did; quotes 341st SMW histories (Jan-Mar 1967: commercial power switching not the cause; later histories: power tests essentially negative, EMP speculated).",
+  "reliability_notes": "Advocacy; second-hand paraphrase of AARO statements; the AARO report and WSJ story not seen by me.",
+  "verification_status": "INSUFFICIENT_EVIDENCE",
+  "examination_level": "EXAMINED"
  }
 ]
