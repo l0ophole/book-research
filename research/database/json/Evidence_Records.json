@@ -946,5 +946,17 @@
   "confidence": 1,
   "section_id": null,
   "line_ref": 0
+ },
+ {
+  "evidence_id": "EVD080",
+  "description": "Mars check at Malmstrom AFB (47.5N 111.2W, MST=UTC-7; analysis/salas_mars_1967.py, PyEphem). Mars was mag -0.7 to -0.8 on 16 Mar 1967 and about -1.0 to -1.1 on 24-25 Mar, i.e. brighter than every star except Sirius, a steady reddish point. Rise ~2115-2145 MST in the ESE, highest (alt ~31-33 deg) ~0230-0300 in the south, set ~0730-0800 in the WSW. At the Echo shutdown time (0845 MST, 16 Mar) Mars was below the horizon and the Sun was up, so Mars cannot be involved in the Echo event. For a night-time Oscar event ~24 Mar, Mars was available from ~2130 to ~0730, but a near-full Moon (95-100%) was also up for most of the night, which neither Salas nor the book mentions. Mars is a point source with no motion relative to the stars; Salas/book describe a ~30-40 ft red oval at the front gate, guards reporting maneuvering lights, and one injured guard. Mars therefore plausibly explains a red light seen low in the sky early in the evening but cannot by itself explain the 'hovering outside the gate' or 'maneuvering' descriptions; the time of the Oscar sighting is not given in the sources I have seen, so the test is inconclusive. This supersedes the untested EVD079.",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "analysis/salas_mars_1967.py",
+  "related_entities": "INC020;EXP039;EVD079",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC073",
+  "line_ref": 10002
  }
 ]

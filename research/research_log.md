@@ -238,3 +238,10 @@
 - Result: Built version matrix EVD077; assessment EVD078; added SRC042-044
 - Limitations: Affidavit page 2 not legible; Carlson letter quotes not checked against original; 1995 Tribune/MUFON originals not obtained; Metabunk/CBS read only for context
 
+### 35. 2026-11-16 — Computed Mars/Moon/Venus/Jupiter/Saturn positions for Malmstrom 15-25 Mar 1967
+- Reason: Follow-up 1: test Sheaffer Mars hypothesis
+- Tool: PyEphem
+- Query/target: analysis/salas_mars_1967.py
+- Result: Mars bright (-0.7 to -1.1) and up ~2130-0730 on the Oscar window, below horizon at Echo time 0845; near-full Moon also up; inconclusive without Oscar sighting time
+- Limitations: Time of the Oscar sighting not in sources read; elevation 1100 m assumed; no refraction
+

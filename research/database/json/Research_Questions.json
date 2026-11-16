@@ -271,5 +271,18 @@
   "verification_criteria": "Roster or log naming crew and flight",
   "status": "NOT_STARTED",
   "next_action": "Request Meiwald letter and rosters"
+ },
+ {
+  "question_id": "RQ022",
+  "question": "At what clock time and from what direction did the Oscar guards report the red light (needed to test Mars/Moon/aircraft explanations)?",
+  "priority": "HIGH",
+  "related_entities": "INC020;EVD080;EXP039",
+  "existing_evidence": "Date window and Mars/Moon geometry",
+  "missing_evidence": "Security-team time, azimuth/elevation, motion description from a primary record",
+  "potential_sources": "Meiwald letter, SP blotters, Salas notes",
+  "recommended_methods": "Get original Meiwald letter and Salas/Hastings notes",
+  "verification_criteria": "Time and bearing stated",
+  "status": "NOT_STARTED",
+  "next_action": "Ask for full text"
  }
 ]

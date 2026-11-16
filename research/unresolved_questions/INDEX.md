@@ -23,3 +23,4 @@
 | RQ019 | Can the Grand Forks 14 Oct 1974 report be dated and checked (moon discrepancy)? | MEDIUM | NOT_STARTED | Ask CUFOS |
 | RQ020 | Do the forensic claims about cattle mutilations (Ch.19) and their missile-field overlap survive independent veterinary/forensic and statistical review? | MEDIUM | NOT_STARTED | Gather county-level counts |
 | RQ021 | Do any primary records place Salas and Meiwald at Oscar (or November) on a specific date in March 1967? | CRITICAL | NOT_STARTED | Request Meiwald letter and rosters |
+| RQ022 | At what clock time and from what direction did the Oscar guards report the red light (needed to test Mars/Moon/aircraft explanations)? | HIGH | NOT_STARTED | Ask for full text |
