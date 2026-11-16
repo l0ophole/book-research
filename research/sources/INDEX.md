@@ -43,3 +43,6 @@
 | SRC039 | RAF Greenham Common | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/RAF_Greenham_Common |
 | SRC040 | Cattle mutilation | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/Cattle_mutilation |
 | SRC041 | Rommel Report / Operation Animal Mutilation (1980) — summary page | TERTIARY | DISCOVERED | INSUFFICIENT_EVIDENCE | https://ufopedia.pages.dev/raw/reports/rommel-operation-animal-mutilation-1980 |
+| SRC042 | Echo Flights of Fantasy: Robert Salas and the Malmstrom AFB Incident (critique) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | (PDF fetched during session; URL not recorded in notes) |
+| SRC043 | Salas affidavit, "on or about March 24th, 1967" (posted 11 Oct 2010) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://www.ufohastings.com/storage/files/image/2010-10-11/salas_01.jpg |
+| SRC044 | Wikipedia: Malmstrom UFO incident; Robert Salas | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/Malmstrom_UFO_incident |

@@ -328,5 +328,15 @@
   "query": "analysis/grandforks_moon_1974.py; mills_ellsworth_sky_1979.py",
   "result": "Moon claim for Grand Forks contradicted; Greenham F-111 statement wrong; Rommel/CBI outline consistent; commander and weather not found.",
   "limitations": "Spraker/Stone/Fenimore, Jan 1979 weather not verified; Fischbach and Safeguard pages not retrievable"
+ },
+ {
+  "log_id": 34,
+  "log_date": "2026-11-16",
+  "action": "Compared public versions of Salas account: Carlson critique, Klotz/Salas 1996, Skeptoid, Wikipedia, Metabunk, CBS, 2010 affidavit image, book text lines 9926-10034",
+  "reason": "Follow-up 2",
+  "tool": "curl; image view; Read; WebSearch",
+  "query": "n/a",
+  "result": "Built version matrix EVD077; assessment EVD078; added SRC042-044",
+  "limitations": "Affidavit page 2 not legible; Carlson letter quotes not checked against original; 1995 Tribune/MUFON originals not obtained; Metabunk/CBS read only for context"
  }
 ]

@@ -40,3 +40,4 @@
 | EXP036 | INC064;INC065;INC066 | Natural predation and scavenging of carcasses (Rommel, CBI, CSU); decomposition effects (bloat, insect and bird activity); hoaxes/pranks; media-driven mass hysteria; misidentified aircraft/stars/planets (Big Mama = a bright star/planet) | OPEN |
 | EXP037 | INC068 | Heat-shimmer mirage/optical illusion or aircraft seen against hangars; faulty memory of an event 26 years earlier; the supposed SR-71 departure crowd leaves no other reports | OPEN |
 | EXP038 | INC062 | Weather balloon/Mylar balloon, reflection, or perspective illusions viewed through a cockpit window; no corroboration by crew | OPEN |
+| EXP039 | INC020 | Conflation: Salas and Meiwald experienced a separate, minor event (UFO sighting by guards at Oscar, no outage) and Salas later merged it with the documented Echo shutdown; or Echo electrical fault only, no UFO | OPEN |

@@ -4,20 +4,20 @@
   "Documents": 1,
   "Document_Sections": 107,
   "Incidents": 69,
-  "Claims": 131,
-  "Witnesses": 85,
-  "Witness_Incidents": 90,
+  "Claims": 132,
+  "Witnesses": 86,
+  "Witness_Incidents": 91,
   "Government_Documents": 17,
   "Technical_Evidence": 9,
-  "Sources": 41,
+  "Sources": 44,
   "References": 358,
-  "Competing_Explanations": 38,
-  "Evidence_Records": 76,
-  "Missing_Records": 47,
-  "Research_Questions": 20,
-  "Relationships": 600,
-  "Document_Claim_Links": 131,
-  "Research_Log": 33,
+  "Competing_Explanations": 39,
+  "Evidence_Records": 79,
+  "Missing_Records": 48,
+  "Research_Questions": 21,
+  "Relationships": 622,
+  "Document_Claim_Links": 132,
+  "Research_Log": 34,
   "Pattern_Scan_Leads": 128,
   "Name_Mentions": 196
  },
@@ -80,7 +80,7 @@
   ],
   [
    "relationships",
-   600
+   622
   ]
  ]
 }

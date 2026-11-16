@@ -378,5 +378,15 @@
   "evaluation_status": "OPEN",
   "section_id": "SEC082",
   "line_ref": 13823
+ },
+ {
+  "explanation_id": "EXP039",
+  "target_entities": "INC020",
+  "explanation": "Conflation: Salas and Meiwald experienced a separate, minor event (UFO sighting by guards at Oscar, no outage) and Salas later merged it with the documented Echo shutdown; or Echo electrical fault only, no UFO",
+  "supporting_evidence": "Meiwald letter describes a sighting with no outage; Salas flight claims shifted 3 times; wing history documents one shutdown with no UFO; Sheaffer Mars idea",
+  "contradicting_evidence": "Salas, affidavit and Hastings assert both; Meiwald letter says Oscar; Echo crew vs Oscar crew contested; no documents either way",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10030
  }
 ]

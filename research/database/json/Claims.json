@@ -1570,5 +1570,17 @@
   "quotation": "",
   "section_id": "SEC086",
   "line_ref": 15838
+ },
+ {
+  "claim_id": "CLM132",
+  "claim_text": "Salas's 1996 recollection that his commander said 'the same thing happened at another flight' was Salas's alone; Meiwald's 1996 letter does not repeat it (as quoted by Carlson).",
+  "attribution": "Carlson (critic) quoting Meiwald letter",
+  "claim_type": "COMPARISON",
+  "importance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "quotation": "",
+  "section_id": "SEC073",
+  "line_ref": 10022
  }
 ]

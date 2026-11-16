@@ -231,3 +231,10 @@
 - Result: Moon claim for Grand Forks contradicted; Greenham F-111 statement wrong; Rommel/CBI outline consistent; commander and weather not found.
 - Limitations: Spraker/Stone/Fenimore, Jan 1979 weather not verified; Fischbach and Safeguard pages not retrievable
 
+### 34. 2026-11-16 — Compared public versions of Salas account: Carlson critique, Klotz/Salas 1996, Skeptoid, Wikipedia, Metabunk, CBS, 2010 affidavit image, book text lines 9926-10034
+- Reason: Follow-up 2
+- Tool: curl; image view; Read; WebSearch
+- Query/target: n/a
+- Result: Built version matrix EVD077; assessment EVD078; added SRC042-044
+- Limitations: Affidavit page 2 not legible; Carlson letter quotes not checked against original; 1995 Tribune/MUFON originals not obtained; Metabunk/CBS read only for context
+

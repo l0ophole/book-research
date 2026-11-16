@@ -258,5 +258,18 @@
   "verification_criteria": "Controlled comparison",
   "status": "NOT_STARTED",
   "next_action": "Gather county-level counts"
+ },
+ {
+  "question_id": "RQ021",
+  "question": "Do any primary records place Salas and Meiwald at Oscar (or November) on a specific date in March 1967?",
+  "priority": "CRITICAL",
+  "related_entities": "INC019;INC020;EVD077;EVD078",
+  "existing_evidence": "Version matrix; Meiwald letter (as quoted)",
+  "missing_evidence": "490th SMS alert rosters and logs; Meiwald original letter",
+  "potential_sources": "AFHRA; NARA; Hastings archive",
+  "recommended_methods": "Locate rosters; obtain letter in full",
+  "verification_criteria": "Roster or log naming crew and flight",
+  "status": "NOT_STARTED",
+  "next_action": "Request Meiwald letter and rosters"
  }
 ]

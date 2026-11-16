@@ -87,3 +87,4 @@
 | WIT082 | 2Lt temporary team chief (Delta-3) and two other targeting-team officers | Anonymous USAF officers | YES (per Mills) | ANONYMOUS |
 | WIT083 | Kenneth Rommel | Ex-FBI agent, director of New Mexico "Operation Animal Mutilation" (1979-80) | INVESTIGATOR | NAMED |
 | WIT084 | Gabe Valdez; Howard Burgess | NM State Police officer; investigator cited re magnetic anomaly | INVESTIGATORS | NAMED |
+| WIT086 | Col. (ret.) Eric D. Carlson | Missile Combat Crew Commander, Echo Flight, 16 Mar 1967 | YES (Echo) | NAMED |

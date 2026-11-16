@@ -910,5 +910,41 @@
   "confidence": 3,
   "section_id": "SEC086",
   "line_ref": 15367
+ },
+ {
+  "evidence_id": "EVD077",
+  "description": "Version matrix of Salas's public accounts (via SRC001, SRC042, SRC043, book): (1) Aug 1996 emails to Fowler: already decided it was 'November' after the wing history; commander not yet named. (2) Nov 1996 Klotz/Salas article: Echo Flight, 16 Mar 1967, 4-5 missiles, flight designation uncertain. (3) 1 Oct 1996 Meiwald letter: 'Our home site was Oscar'; guards saw the 'UFO', radio lost, two upset men; no injury recalled; no missile failures described in the quoted text. (4) 1997 MUFON: November Flight; Meiwald recalled about 5 of 10 shut down. (5) Dec 2000: Meiwald 'maybe seven or eight'. (6) Faded Giant 2005 / book 2008: Oscar Flight, 'probably March 24', 6-8 missiles; Echo a separate event ~8 days earlier. (7) 2010 affidavit: Oscar, 'on or about 24 March', all or nearly all ten. Flight: Echo -> November -> Oscar; count: 4-5 -> 5 -> 7-8 -> 6-8 -> 10; date: 16 Mar -> ~24 Mar. Per Carlson, Salas asserted November until 1999-2000.",
+  "evidence_type": "ANALYST_COMPARISON",
+  "provenance": "SRC001;SRC042;SRC043;book lines 9926-10034",
+  "related_entities": "INC019;INC020;CLM132",
+  "significance": "CRITICAL",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC073",
+  "line_ref": 9926
+ },
+ {
+  "evidence_id": "EVD078",
+  "description": "Settlement of the November-vs-Oscar question: it is not documentary. Only one flight, Oscar, comes from the other crew member (Meiwald, 1996 letter, as quoted by Carlson), and he later said he remembers little (per Carlson); Salas moved from Echo to November to Oscar as new information arrived. The only contemporaneous record located (SRC002) documents one shutdown, at Echo, 16 Mar 1967, 0845, and says UFO rumors were disproven. Best statement: the Oscar attribution rests on Meiwald's 1996 recollection and Salas's later adoption of it; no log or roster has been seen. Echo/Oscar conflation remains open (EXP039).",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "SRC002;SRC042;SRC043",
+  "related_entities": "INC019;INC020;RQ002;EXP039",
+  "significance": "CRITICAL",
+  "verification_status": "DISPUTED",
+  "confidence": 2,
+  "section_id": "SEC073",
+  "line_ref": 10030
+ },
+ {
+  "evidence_id": "EVD079",
+  "description": "Wikipedia's 'Malmstrom' page states Sheaffer's reading: UFO at Oscar probably Mars with no missiles off; Echo an electronic glitch with no UFO. I did not verify Mars position for any date; the mechanism rests on my reading of a secondary quote, not a calculation.",
+  "evidence_type": "TERTIARY_COMPARISON",
+  "provenance": "SRC044",
+  "related_entities": "EXP039",
+  "significance": "LOW",
+  "verification_status": "INSUFFICIENT_EVIDENCE",
+  "confidence": 1,
+  "section_id": null,
+  "line_ref": 0
  }
 ]

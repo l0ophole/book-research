@@ -22,3 +22,4 @@
 | RQ018 | Is the Delta-3 (Ellsworth, Dec 1978/Jan 1979) account compatible with winter weather, commercial power loss and the Echo-1967 power-fault precedent? | HIGH | NOT_STARTED | Pull NCEI daily summaries for Rapid City/Wall, 28 Dec 1978-10 Jan 1979 |
 | RQ019 | Can the Grand Forks 14 Oct 1974 report be dated and checked (moon discrepancy)? | MEDIUM | NOT_STARTED | Ask CUFOS |
 | RQ020 | Do the forensic claims about cattle mutilations (Ch.19) and their missile-field overlap survive independent veterinary/forensic and statistical review? | MEDIUM | NOT_STARTED | Gather county-level counts |
+| RQ021 | Do any primary records place Salas and Meiwald at Oscar (or November) on a specific date in March 1967? | CRITICAL | NOT_STARTED | Request Meiwald letter and rosters |
