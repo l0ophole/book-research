@@ -700,5 +700,18 @@
   "section_id": "SEC080",
   "line_ref": 12945,
   "notes": ""
+ },
+ {
+  "incident_id": "INC054",
+  "date_text": "1966-08-24",
+  "location": "Minot AFB missile field, ND",
+  "description": "Hynek (SEP, Dec 1966) summarized a preliminary AF report: launch control radio disrupted by static; guards saw a UFO that appeared to land; strike-team radio also disrupted ~10 miles from landing site; object rose and passed beneath a second identical object; Minot radar tracked both. Fowler later told the Christian Science Monitor (5 Dec 1973); the Air Force said SAC unit histories showed nothing.",
+  "significance": "HIGH",
+  "verification_status": "NOT_YET_INVESTIGATED",
+  "confidence": 0,
+  "evidence_basis": "PUBLISHED_SECONDARY",
+  "section_id": "SEC068",
+  "line_ref": 9402,
+  "notes": ""
  }
 ]

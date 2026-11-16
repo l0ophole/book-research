@@ -610,5 +610,89 @@
   "confidence": 3,
   "section_id": "SEC080",
   "line_ref": 12805
+ },
+ {
+  "evidence_id": "EVD052",
+  "description": "The 90th SMW's own report to FTD (SRC032) counts 148 objects reported by 143 personnel over three nights (31 Jul 75/70; 1 Aug 29/27; 2 Aug 44/46) — about one 'object' per observer — and describes them as mostly round, pinhead-to-nickel sized with colored lights flashing every 1-2 seconds, in V/echelon/cross/box formations, silent. The book, which relies on the Anspaugh log, does not mention this report, its counts, or these descriptors (checked by text search). Analyst note: scintillation-like flashing, star-like angular sizes and the mass-reporting pattern are what one expects from stars/planets under an inversion; they do not rule out something else.",
+  "evidence_type": "DOCUMENT_COMPARISON",
+  "provenance": "SRC032; book search",
+  "related_entities": "INC033;CLM052;CLM101",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC066",
+  "line_ref": 8814
+ },
+ {
+  "evidence_id": "EVD053",
+  "description": "Blue Book addendum of 20 Sep 1965 (SRC033): contemporaneous binocular and 40x-theodolite observations (Sioux Army Depot guard; nine military observers; Geodetic Survey Team) describe star-sized or pinhead-sized objects, some moving, and on four occasions 'a roaring jet-like noise at some distance behind' — contradicting the 6 Aug report's 'no sound' and suggesting aircraft in at least some cases. The theodolite observation (object in the Big Dipper resolving to three white objects) is an instrumented one rarely seen in such cases. Book does not mention these.",
+  "evidence_type": "DOCUMENT_COMPARISON",
+  "provenance": "SRC033",
+  "related_entities": "INC033",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC066",
+  "line_ref": 8814
+ },
+ {
+  "evidence_id": "EVD054",
+  "description": "A skeptical reviewer's reading of the Blue Book file (SRC034): reports were short, lacked positional data, clustered ~0500Z (2300 MDT), and plausibly involve Jupiter, Capella, Saturn, Vega, Altair, Betelgeuse, Echo 2 and aircraft under an inversion; Blue Book never assigned specific explanations to individual Warren reports; a Blue Book sergeant (Moody) asked for positional data and was ignored. This supports BOTH sides in part: the 'stars' label was weakly supported (Blue Book gave no case-by-case identification) yet the file also lacks any positional data to prove anything else.",
+  "evidence_type": "SECONDARY_ASSESSMENT",
+  "provenance": "SRC034",
+  "related_entities": "INC033;EXP032",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC066",
+  "line_ref": 8814
+ },
+ {
+  "evidence_id": "EVD055",
+  "description": "Analyst sky test (PyEphem 4.2.1; Cheyenne 41.15N 104.82W; script warren_sky_1965.py), 1 Aug 1965. If the Anspaugh log times are Mountain (Warren local): Jupiter (mag -1.9) rose ~0300 and stood at alt 9-13 deg, az 68-71 deg at 0317-0340; Aldebaran alt 15-19 deg az 81-85; Capella alt 26-29 az 50-53; Saturn alt ~41 az 175-182; Vega alt 37-41 az 290-292; Deneb alt 61-65. The 0340 entry 'one UFO at 70 deg azimuth' matches Jupiter's azimuth (71 deg); 'seven/six UFOs east' (0320-0325) and 'five going east' (Sioux Depot 0335) lie in the direction of Jupiter/Aldebaran/Capella; at 0400 'four NW, three NE' fits Vega/Deneb (WNW) and Capella/Jupiter (NE). But entries at 0130-0250 MDT have only Saturn, Capella (low NE), Vega, Altair, Deneb, Fomalhaut — no Jupiter. If the log times are Eastern (WPAFB; 2 h earlier locally) every entry falls before Jupiter rose and the match fails (Jupiter and Aldebaran not yet above the horizon). The time zone of the log is not stated in the book; Printy's '~0500Z' cluster (2300 MDT = 0100 EDT) fits the Eastern reading for the first entries. The test is therefore suggestive for some entries under one assumption, inconclusive overall.",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "analysis/warren_sky_1965.py; astro ephemeris",
+  "related_entities": "INC033;EXP032;CLM101",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC067",
+  "line_ref": 8834
+ },
+ {
+  "evidence_id": "EVD056",
+  "description": "Log internal timing: the Anspaugh entries mix call times and event times (e.g., 4:05 call about a 4:00 report; 4:40 call about 3:00 and 3:17 reports; later entries 3:20-3:40 follow the 4:40 call). Entries are not in chronological order and carry no time zone, so whether they are Eastern (Blue Book) or Mountain (Warren) cannot be determined from the text I have. The original memorandum and Hynek's printing (UFO Experience, 1972) were not examined.",
+  "evidence_type": "DOCUMENT_ANALYSIS",
+  "provenance": "book lines 8834-8883",
+  "related_entities": "INC033",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC067",
+  "line_ref": 8834
+ },
+ {
+  "evidence_id": "EVD057",
+  "description": "Bolender document: the key sentence is verbatim in NICAP's transcription ('reports of unidentified flying objects which could affect national security are made in accordance with JANAP 146 or Air Force Manual 55-11, and are not part of the Blue Book system (Atch 10)'). Differences from the book: NICAP calls it a draft, not a memorandum; whether it was signed or sent to all commands is not shown; the 16 attachments are missing; the same document says there is no evidence Blue Book reports served any intelligence function. The sentence supports 'national-security reports are outside Blue Book' but does not show that nuclear-site UFO reports existed in those channels.",
+  "evidence_type": "DOCUMENT_QUOTATION",
+  "provenance": "SRC035",
+  "related_entities": "CLM096",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC081",
+  "line_ref": 13153
+ },
+ {
+  "evidence_id": "EVD058",
+  "description": "Ch.16 states Blue Book 'blithely dismissed the sighting reports at each base as having no merit.' For Minot the file shows otherwise: Blue Book assigned aircraft/Sirius/plasma attributions, labelled the radar and air-visual 'possible plasma', and the file records SAC pressure to play the issue down (EVD044) — so the process was influenced, but the stated conclusions were specific explanations, not blanket dismissal. For Warren, Blue Book's disposition was 'insufficient data'/stars/'inversion effect' with no case-by-case identification (EVD054).",
+  "evidence_type": "DOCUMENT_COMPARISON",
+  "provenance": "SRC025; SRC030; SRC034",
+  "related_entities": "CLM095;CLM101;INC052;INC033",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC081",
+  "line_ref": 13074
  }
 ]

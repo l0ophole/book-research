@@ -228,5 +228,35 @@
   "query": "analysis/minot_frame_measure.py",
   "result": "Echoes recovered in 772 and 773; 771 not recovered; displacement 2.14 NM; calibration sensitivity ~30%.",
   "limitations": "Heading-up/constant-orientation assumption; JPEG print scans"
+ },
+ {
+  "log_id": 24,
+  "log_date": "2026-11-16",
+  "action": "Read book lines 8851-9481 (rest of Ch.10 Warren material through \"Hynek Opens the Door\") and Chapter 16 (12987-13288)",
+  "reason": "Follow-up question 1: check the 1 Aug 1965 Warren log vs \"stars\", then read Ch.16",
+  "tool": "Read tool",
+  "query": "offsets 8851-9481; 12987-13288",
+  "result": "Extracted Warren witness accounts (Tashner, Earnshaw, Stuck, Thompson), Hynek/Fowler 1966 Minot summary, Ch.16 claims.",
+  "limitations": ""
+ },
+ {
+  "log_id": 25,
+  "log_date": "2026-11-16",
+  "action": "Fetched ufohastings.com Warren page, UFOScans Blue Book Cheyenne PDF, SUNlite 14-3, NICAP Bolender page; searched for the original Anspaugh log",
+  "reason": "Verify Warren 1965 claims and Bolender quote",
+  "tool": "curl; pdftotext; WebSearch",
+  "query": "multiple",
+  "result": "Found 90th SMW counts/descriptions, Blue Book addendum, Printy review, Bolender quote; original Anspaugh log NOT found.",
+  "limitations": "OCR of Blue Book PDF poor; original log and time zone unresolved"
+ },
+ {
+  "log_id": 26,
+  "log_date": "2026-11-16",
+  "action": "Sky computation for Cheyenne, 1 Aug 1965, 2200-0430 MDT",
+  "reason": "Test \"stars\" explanation",
+  "tool": "Python/PyEphem 4.2.1",
+  "query": "analysis/warren_sky_1965.py",
+  "result": "Jupiter/Aldebaran/Capella east-NE at 0317-0340 MDT; 70-deg azimuth match for Jupiter at 0340 only if log is Mountain time.",
+  "limitations": "Log time zone unknown; satellites not modelled"
  }
 ]

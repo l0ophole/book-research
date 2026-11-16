@@ -56,3 +56,4 @@
 | INC051 | 1967 or 1968 | F.E. Warren AFB, India Flight LCC area | LOW | UNVERIFIED | 1 | 12722 |
 | INC052 | 1968-10-24 | Minot AFB, ND: LFs O-6, N-7, Oscar/November LCFs, Bowbells area; B-52 inbound (5th BW) | CRITICAL | PARTIALLY_VERIFIED | 3 | 12773 |
 | INC053 | 1966-1970 (Manross; 1967/68 for buzzing) | Minot AFB missile field | LOW | UNVERIFIED | 1 | 12945 |
+| INC054 | 1966-08-24 | Minot AFB missile field, ND | HIGH | NOT_YET_INVESTIGATED | 0 | 9402 |

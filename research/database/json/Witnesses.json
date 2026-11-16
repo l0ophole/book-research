@@ -648,5 +648,65 @@
   "notes": "",
   "section_id": "SEC080",
   "line_ref": 12945
+ },
+ {
+  "witness_id": "WIT065",
+  "name": "Richard E. Tashner",
+  "role": "Capt (ret.), deputy/launch commander 319th/320th SMS, F.E. Warren Dec 1964-Jun 1969",
+  "firsthand_status": "PARTIAL (relayed guard reports from Golf capsule)",
+  "identity_status": "NAMED",
+  "notes": "Remembers reporting to Wing Command Post on a night that sounds like 1 Aug 1965; no OSI debrief.",
+  "section_id": "SEC067",
+  "line_ref": 8964
+ },
+ {
+  "witness_id": "WIT066",
+  "name": "Jay Earnshaw",
+  "role": "Capt, MCCC, Echo Flight, 319th-321st SMS 1965-68",
+  "firsthand_status": "NO (second-hand)",
+  "identity_status": "NAMED",
+  "notes": "Heard of stacked lights over Echo; discouraged from reporting.",
+  "section_id": "SEC067",
+  "line_ref": 9033
+ },
+ {
+  "witness_id": "WIT067",
+  "name": "Terry Stuck",
+  "role": "Security policeman, Oscar Flight LCF, late summer 1965",
+  "firsthand_status": "YES (own sighting) / HEARSAY (night team)",
+  "identity_status": "NAMED",
+  "notes": "Told of Korean-war pilot captain sent to psychiatrist (hearsay).",
+  "section_id": "SEC067",
+  "line_ref": 9162
+ },
+ {
+  "witness_id": "WIT068",
+  "name": "Robert (Bob) Thompson",
+  "role": "A2C, 809th Combat Defense Sq, Quebec Flight LCF, 1965",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Date uncertain; may or may not be 1 Aug 1965.",
+  "section_id": "SEC067",
+  "line_ref": 9213
+ },
+ {
+  "witness_id": "WIT069",
+  "name": "Lt. Anspaugh",
+  "role": "Blue Book Officer on Duty who logged the Warren calls",
+  "firsthand_status": "RECORDER",
+  "identity_status": "NAMED",
+  "notes": "First name unknown (book).",
+  "section_id": "SEC066",
+  "line_ref": 8821
+ },
+ {
+  "witness_id": "WIT070",
+  "name": "Col Robert Johnson; Col Williams; Capt Snelling; Capt Howell",
+  "role": "Warren base commander; Sioux Army Depot CO; Warren command post officers named in the log",
+  "firsthand_status": "REPORTERS (via log)",
+  "identity_status": "NAMED",
+  "notes": "Named only in the Hynek-published log as relayed by the book.",
+  "section_id": "SEC067",
+  "line_ref": 8836
  }
 ]

@@ -4,9 +4,9 @@
 | Task | Status |
 |---|---|
 | Identify and inventory the document | **Completed** |
-| Read every chapter in full | **NOT completed** — 6,579 of 24,203 lines (27.2%) read verbatim after follow-up 1 (see `documents/coverage_matrix.md`). 41 sections FULL_READ, 9 PARTIAL_READ, 56 PATTERN_SCAN_ONLY, 1 PARSED (references) |
-| Extract every incident, witness and claim | **Partially completed** — records cover the read portions only (54 incidents, 86 claims, 65 witnesses). Unread chapters are represented by 160 machine-extracted leads and 196 auto-extracted name mentions, which are **unreviewed** |
-| Independent verification | **Partially completed** — 22 external sources recorded (17 examined, 5 discovered only); original PDFs for FBI/CIA/NORAD documents were **not** obtained |
+| Read every chapter in full | **NOT completed** — 7,512 of 24,203 lines (31.0%) read verbatim after follow-up 5 (see `documents/coverage_matrix.md`). 44 sections FULL_READ, 8 PARTIAL_READ, 54 PATTERN_SCAN_ONLY, 1 PARSED (references) |
+| Extract every incident, witness and claim | **Partially completed** — records cover the read portions only (55 incidents, 105 claims, 71 witnesses). Unread chapters are represented by machine-extracted leads (Pattern_Scan_Leads) and 196 auto-extracted name mentions, which are **unreviewed** |
+| Independent verification | **Partially completed** — 36 external sources recorded (31 examined, 5 discovered only); original PDFs for FBI/CIA/NORAD documents were **not** obtained |
 | Chapter-by-chapter evidence database | **Partially completed** (schema complete; coverage as above) |
 | SQLite/CSV/JSON/Markdown exports | **Completed** (all generated from the same SQLite file) |
 

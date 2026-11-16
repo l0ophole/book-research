@@ -33,3 +33,4 @@
 | EXP029 | INC052 (B-52 air visual) | Terrestrial light or other aircraft/ground source seen at long range, with range and height misjudged at night in haze (Blue Book offered "a light on the ground" as an alternative to Vega) | OPEN |
 | EXP030 | INC052 (Oscar-7 intrusion) | Unauthorised entry by someone holding a padlock key, e.g., a current/former Air Police member (three earlier similar incidents were so traced); not connected to the sightings | OPEN |
 | EXP031 | INC052 (airborne radar echo) | Internal malfunction of the B-52 radar/transmitter or an inversion-induced anomalous return (Quintanilla, 30 Oct) | OPEN |
+| EXP032 | INC033 | Stars, planets (Jupiter, Capella, Saturn, Vega, Altair), satellites (Echo 2), aircraft and meteors seen through a temperature inversion, with group suggestion/mass reporting once a few airmen reported (Blue Book label "inversion effect"; Printy) | OPEN |

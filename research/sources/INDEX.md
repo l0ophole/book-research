@@ -33,3 +33,8 @@
 | SRC029 | Transcript of approach-control tape, 24 Oct 1968, 0830-0928 (Blue Book doc 17) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/0017.pdf |
 | SRC030 | Project Blue Book case 12,548 memos and messages: Project 10073 record (doc 3), memos for the record (docs 5-7, 9-13), Werlich ground-observer summary (doc 15), FTD/SAC TWXs (docs 25-26), memos 27 and 29 | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/doc.php |
 | SRC031 | Independent measurement of radarscope frames 772-773 (this project) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/All-Radarscope-Photographs.pdf |
+| SRC032 | 90th Strategic Missile Wing report to FTD (6 Aug 1965) on UFO reports at F.E. Warren, as reproduced on ufohastings.com | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://ufohastings.com/articles/yet-another-nuclear-missile-launch-officer-talks-about-ufos-at-f-e-warren-afb |
+| SRC033 | Project 10073 record and 90th SMW addendum (20 Sep 1965) to the 6 Aug report, Cheyenne WY | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://www.ufoscans.com/raw/1965/1965-08-9371404-Cheyenne-Wyoming.pdf |
+| SRC034 | SUNlite 14-3: Project Blue Book review, July-August 1965 (Midwest flap and F.E. Warren sightings) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://www.astronomyufo.com/UFO/SUNlite14_3.pdf |
+| SRC035 | The Bolender Draft (Not Memo), Oct 20, 1969 (transcription and commentary) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://nicap.org/Bolender_Memo.htm |
+| SRC036 | "When The UFO's Harried the Air Force: Wyoming and Nebraska August 1965" | TERTIARY | EXAMINED | INSUFFICIENT_EVIDENCE | https://ufoskies.blogspot.com/2022/01/when-ufos-harried-air-force-wyoming-and.html |

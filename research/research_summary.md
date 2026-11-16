@@ -1,6 +1,6 @@
 # Research summary — *UFOs and Nukes* (Hastings, 2008)
 
-*Generated 2026-11-15 (v1.4.0). Read this with `research_limitations.md`: ~27% of the book has been read verbatim (v1.0 pass + follow-up 1).*
+*Generated 2026-11-15 (v1.5.0). Read this with `research_limitations.md`: ~27% of the book has been read verbatim (v1.0 pass + follow-up 1).*
 
 ## 1. Document reviewed
 `f3ff02a2-hastings-2008-ufos-and-nukes.md` — OCR-converted markdown of Robert L. Hastings, *UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites* (24,203 lines, ~222,700 words; Introduction, 31 chapters, Appendices A–B, 358 parsed endnotes). No page numbers, photographs or figures are present in the file.
@@ -56,7 +56,7 @@ See `sources/INDEX.md`, `evidence_records/INDEX.md`. Summary:
 See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md` (23 records).
 
 ---
-## Follow-up 1 (v1.4.0): Chapters 7, 12, 13, 14, 15 read in full and verified
+## Follow-up 1 (v1.5.0): Chapters 7, 12, 13, 14, 15 read in full and verified
 
 **New records:** incidents INC036–INC053, claims CLM057–CLM086, witnesses WIT033–WIT064, evidence EVD014–EVD022, sources SRC017–SRC022.
 
@@ -69,7 +69,7 @@ See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md`
 6. **Ch.13 is argument, not incident evidence.** Verified: the Low "trick memo" quotation and Frazier's Sandia employment (1983–2006, Wikipedia). Not verified: "91 sightings", "nearly 30% unknown", the Condon "horse-whipped" remark, Oberg's exact 1970–72 Kirtland dates, Klass's Inman/Graham letter. Hastings concedes he has no proof of any covert role (line 12461). Analyst note: employer affiliations do not by themselves refute a factual argument (CLM076).
 
 ---
-## Follow-up 2 (v1.4.0): Minot 24 Oct 1968 — recomputing the radar speed and checking the dispatcher log
+## Follow-up 2 (v1.5.0): Minot 24 Oct 1968 — recomputing the radar speed and checking the dispatcher log
 
 **Sources obtained** (all from the Tulien/Sign Oral History Project site): Blue Book Final Case Report (primary reproduction, SRC025), Base Operations Dispatcher Log (SRC026), the 14 radarscope scans (SRC027), and the Shough (SRC023) and Poher (SRC024) analyses.
 
@@ -84,7 +84,7 @@ See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md`
 **Assessment.** The aircraft/star explanation plausibly covers some ground reports; it does not demonstrably cover the later stationary-object entries or the airborne radar echo. The book's speed derivation is wrong, and its account omits the Oscar-7 intrusion and the dispatcher-log/airwork correlation. Neither side's evidence yet reaches a conclusion: the key remaining items are the pilots' AF Forms 117, the approach transcript clock offsets and the original film.
 
 ---
-## Follow-up 3 (v1.4.0): Minot 1968 — approach-control transcript, AF Forms 117, unified timeline
+## Follow-up 3 (v1.5.0): Minot 1968 — approach-control transcript, AF Forms 117, unified timeline
 
 Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcript (SRC029) and five AF 117s (SRC028); Adams and Jablonski forms not viewed.
 
@@ -97,7 +97,7 @@ Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcrip
 **Assessment.** The aircraft/star explanation covers part of the ground evidence better than I credited last time (jet-noise entries, Sirius-like descriptions) but fails for the B-52 air visual as Vega, and does not explain the airborne radar echo or the post-landing dispatcher entries. The book's later-interview details (windows, oblong shape) are not in the 1968 form. Still unresolved: the echo's true speed (assumption-bound), the clock offset, and the missing film.
 
 ---
-## Follow-up 4 (v1.4.0): remaining Minot case-file documents and independent frame measurement
+## Follow-up 4 (v1.5.0): remaining Minot case-file documents and independent frame measurement
 
 **Read:** Blue Book docs 3, 5–7, 9–13, 15, 25–27, 29 (typed memos/TWXs) and all seven AF Forms 117 (viewed as scans). Not read: docs 1, 2, 4, 14 (upper-air data), 30–31 (maps), and Werlich's own 29 Oct report; no OCR tool was available for scanned-only pages.
 
@@ -112,3 +112,20 @@ Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcrip
 **Independent measurement of the radarscope frames (SRC031, EVD048–EVD050).** From the 300-ppi scans I calibrated the rings (frame 771: 60/134/208 px, 74 px = 0.5 NM; hole edge 266 px = 2.14 NM, matching Shough's 2.1) and found the strongest echo in each of frames 772 and 773 (1.09 and 1.08 NM; Shough 1.05), with the same 158° angular separation. The 772→773 displacement is **2.14 NM** (Shough 2.06, +4%). I could **not** recover the frame-771 echo (it overlaps the third ring), so the 771→772 rate rests on Shough. The range calibration (no scale indicator on the photos) matters: without the short-range offset the displacement would be 1.46 NM (~1,750 kt at 3 s, ~4,040 kt at 1.3 s). Script: `database/build/analysis/minot_frame_measure.py`.
 
 **Assessment.** The documentary record now looks like this: a real, unexplained airborne radar/radio event (Werlich: not a malfunction; Shough: no conventional explanation fully convincing), plus a ground-sighting complex that Werlich himself thought mostly the B-52 and that Blue Book attributed mainly to aircraft and Sirius, with an evaluation process visibly shaped by SAC pressure. The book's claims are best supported on the radar/radio event and the handling of the case, and weakest on the ground sightings as evidence of a single hovering craft and on the stated speed.
+
+---
+## Follow-up 5 (v1.5.0): F.E. Warren, 1 Aug 1965 — the "stars" explanation — and Chapter 16
+
+**Read:** book lines 8851–9481 (remaining Warren material, Hynek/Fowler 1966 Minot) and all of Chapter 16 (12987–13288). **Not obtained:** the original Anspaugh log (the book and Hynek's 1972 printing are the only versions I have).
+
+### Warren, 31 Jul–2 Aug 1965
+1. **The book omits the wing's own report.** The 90th SMW report to FTD (reproduced on Hastings's site, SRC032) counts **148 objects reported by 143 personnel** over three nights (75/70, 29/27, 44/46), described as mostly round, pinhead-to-nickel sized, with colored lights flashing every 1–2 seconds, V/echelon/cross/box groupings, silent (EVD052). Those descriptors and counts are not in the book. A 20 Sep 1965 Blue Book addendum (SRC033) adds binocular and theodolite observations and, on four occasions, "a roaring jet-like noise" (EVD053).
+2. **Blue Book's handling was weak but not a single "stars" verdict.** The file lacks positional data, photos or triangulation; Blue Book labelled the whole flap "inversion effect," assigned no case-by-case identifications, and a Blue Book sergeant's request for positional data went unheeded (a skeptic's review, SRC034, EVD054). The book's claim that Blue Book called them "twinkling stars" rests on Hynek's account of Quintanilla (CLM100, not yet checked in *The UFO Experience*).
+3. **My sky test is inconclusive because the log has no time zone** (EVD055–EVD056). If the Anspaugh times are Mountain, Jupiter (mag −1.9), Aldebaran and Capella were rising in the east/north-east at 0317–0340, the "70° azimuth" entry matches Jupiter (71°), and "four NW / three NE" at 0400 fits Vega/Deneb and Capella/Jupiter. But the 0130–0250 entries have no Jupiter, and if the times are Eastern (Wright-Patterson), every entry falls before Jupiter rose and the match fails. The log's own timing is internally odd (calls after events, out of order).
+4. **Net:** the stars/planets/satellites/aircraft + inversion + group-suggestion explanation (EXP032) is plausible for much of the flap, especially the mass-report pattern, but cannot be shown entry by entry; the book's "patently absurd" is stronger than the evidence allows, and so is Blue Book's blanket attribution.
+5. **Witness accounts** (Tashner, Earnshaw, Stuck, Thompson) are second-hand or undated; Thompson's "NORAD tracking eight objects" has no documentation (CLM103).
+
+### Chapter 16
+- **Bolender document:** the key sentence is verbatim (“…which could affect national security are made in accordance with JANAP 146 or Air Force Manual 55-11, and are not part of the Blue Book system (Atch 10)”), but NICAP calls it a **draft**, not a signed memorandum to all commands; the same text says there is no evidence Blue Book reports served an intelligence function; the 16 attachments are missing (EVD057).
+- **"Blue Book dismissed Minot as having no merit"** is not what the file shows (aircraft/Sirius/plasma attributions, SAC pressure — EVD058).
+- Unchecked: Ruppelt's "63 cases" file, Aldrich's 4 Nov 1948 USAFE cable, OSI-never-reached-Blue-Book (CLM097–CLM099).

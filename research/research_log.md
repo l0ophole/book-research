@@ -161,3 +161,24 @@
 - Result: Echoes recovered in 772 and 773; 771 not recovered; displacement 2.14 NM; calibration sensitivity ~30%.
 - Limitations: Heading-up/constant-orientation assumption; JPEG print scans
 
+### 24. 2026-11-16 — Read book lines 8851-9481 (rest of Ch.10 Warren material through "Hynek Opens the Door") and Chapter 16 (12987-13288)
+- Reason: Follow-up question 1: check the 1 Aug 1965 Warren log vs "stars", then read Ch.16
+- Tool: Read tool
+- Query/target: offsets 8851-9481; 12987-13288
+- Result: Extracted Warren witness accounts (Tashner, Earnshaw, Stuck, Thompson), Hynek/Fowler 1966 Minot summary, Ch.16 claims.
+- Limitations: —
+
+### 25. 2026-11-16 — Fetched ufohastings.com Warren page, UFOScans Blue Book Cheyenne PDF, SUNlite 14-3, NICAP Bolender page; searched for the original Anspaugh log
+- Reason: Verify Warren 1965 claims and Bolender quote
+- Tool: curl; pdftotext; WebSearch
+- Query/target: multiple
+- Result: Found 90th SMW counts/descriptions, Blue Book addendum, Printy review, Bolender quote; original Anspaugh log NOT found.
+- Limitations: OCR of Blue Book PDF poor; original log and time zone unresolved
+
+### 26. 2026-11-16 — Sky computation for Cheyenne, 1 Aug 1965, 2200-0430 MDT
+- Reason: Test "stars" explanation
+- Tool: Python/PyEphem 4.2.1
+- Query/target: analysis/warren_sky_1965.py
+- Result: Jupiter/Aldebaran/Capella east-NE at 0317-0340 MDT; 70-deg azimuth match for Jupiter at 0340 only if log is Mountain time.
+- Limitations: Log time zone unknown; satellites not modelled
+

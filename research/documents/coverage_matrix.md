@@ -70,8 +70,8 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC064 | Chapter 9 | After Word | 8475 | 8584 | 933 | 5.5 | PARTIAL_READ |
 | SEC065 | Chapter 9 | Déjà Vu All Over Again | 8585 | 8656 | 636 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC066 | Chapter 10 | 10. Everyone Escalates | 8657 | 8833 | 1614 | 100.0 | FULL_READ |
-| SEC067 | Chapter 10 | THE LOG ENTRIES: | 8834 | 9365 | 5083 | 3.2 | PARTIAL_READ |
-| SEC068 | Chapter 10 | Hynek Opens the Door | 9366 | 9481 | 1020 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC067 | Chapter 10 | THE LOG ENTRIES: | 8834 | 9365 | 5083 | 100.0 | FULL_READ |
+| SEC068 | Chapter 10 | Hynek Opens the Door | 9366 | 9481 | 1020 | 100.0 | FULL_READ |
 | SEC069 | Chapter 10 | Missile Shutdowns at Ellsworth AFB | 9482 | 9662 | 1617 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC070 | Chapter 10 | Another Shutdown at Malmstrom AFB | 9663 | 9714 | 449 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC071 | Chapter 10 | 12/14/03 | 9715 | 9736 | 206 | 0.0 | PATTERN_SCAN_ONLY |
@@ -84,7 +84,7 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC078 | Chapter 13 | 13. Science, Sort of | 11308 | 12551 | 11034 | 100.0 | FULL_READ |
 | SEC079 | Chapter 14 | 14. Launch in Progress! | 12552 | 12770 | 2249 | 100.0 | FULL_READ |
 | SEC080 | Chapter 15 | 15. “Someone is seeing flying saucers again.” | 12771 | 12986 | 2034 | 100.0 | FULL_READ |
-| SEC081 | Chapter 16 | 16. Look Over Here, Not Over There! | 12987 | 13288 | 2798 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC081 | Chapter 16 | 16. Look Over Here, Not Over There! | 12987 | 13288 | 2798 | 100.0 | FULL_READ |
 | SEC082 | Chapter 17 | 17. Into the Seventies | 13289 | 13992 | 6605 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC083 | Chapter 18 | 18. The Northern Tier Incursions | 13993 | 14120 | 1080 | 100.0 | FULL_READ |
 | SEC084 | Chapter 18 | END OF NORAD LOG ENTRIES | 14121 | 14893 | 7426 | 17.1 | PARTIAL_READ |

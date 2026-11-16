@@ -67,3 +67,9 @@
 | WIT062 | A1C Lloyd Isley; A1C Robert O'Connor | 91st MIMS technicians who saw light en route to N-7 | YES | NAMED |
 | WIT063 | Maj. Hector Quintanilla Jr. | Chief, Project Blue Book (evaluator) | EVALUATOR | NAMED |
 | WIT064 | Larry Manross | Launch crew commander at Minot 1966-70 (Yahoo missile_talk post to Hastings 2005) | YES (heard security; was in capsule) | NAMED |
+| WIT065 | Richard E. Tashner | Capt (ret.), deputy/launch commander 319th/320th SMS, F.E. Warren Dec 1964-Jun 1969 | PARTIAL (relayed guard reports from Golf capsule) | NAMED |
+| WIT066 | Jay Earnshaw | Capt, MCCC, Echo Flight, 319th-321st SMS 1965-68 | NO (second-hand) | NAMED |
+| WIT067 | Terry Stuck | Security policeman, Oscar Flight LCF, late summer 1965 | YES (own sighting) / HEARSAY (night team) | NAMED |
+| WIT068 | Robert (Bob) Thompson | A2C, 809th Combat Defense Sq, Quebec Flight LCF, 1965 | YES | NAMED |
+| WIT069 | Lt. Anspaugh | Blue Book Officer on Duty who logged the Warren calls | RECORDER | NAMED |
+| WIT070 | Col Robert Johnson; Col Williams; Capt Snelling; Capt Howell | Warren base commander; Sioux Army Depot CO; Warren command post officers named in the log | REPORTERS (via log) | NAMED |

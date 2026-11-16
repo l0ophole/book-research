@@ -150,3 +150,23 @@
 - **Status:** PARTIALLY_COMPLETED
 - **Next action:** Obtain Adams/Jablonski forms and documents 5-15; measure photo features independently; get Werlich track overlay and approach-controller clock calibration
 
+## RQ016 [HIGH] — Can the 1 Aug 1965 Warren log entries be tied to specific stars/planets/satellites once the log's time zone and date are fixed?
+- **Related:** INC033;EVD055;EVD056;EXP032
+- **Existing evidence:** Sky computation; Printy review; 90th SMW report; Blue Book addendum
+- **Missing evidence:** Original Anspaugh log; positional data; Echo 2 and other satellite ephemerides for 1965; maps/plots in Blue Book file
+- **Potential sources:** Blue Book Cheyenne file; Hynek 1972; space-track/historical TLEs
+- **Methods:** Fix time zone; recompute alt/az for each entry; model satellite passes
+- **Verification criteria:** Entry-by-entry match table with explicit confidence
+- **Status:** IN_PROGRESS
+- **Next action:** Obtain original log; get Echo 2 ephemeris for 1965
+
+## RQ017 [MEDIUM] — Do Chapter 16's claims about Blue Book, OSI and missing national-security reports hold up against primary documents?
+- **Related:** CLM095;CLM096;CLM097;CLM098;CLM099;CLM100
+- **Existing evidence:** Bolender quote verified (draft)
+- **Missing evidence:** Original Bolender, 63-case file, USAFE cable, OSI reports
+- **Potential sources:** NARA; NICAP; Aldrich
+- **Methods:** Locate originals
+- **Verification criteria:** Original quotations and file lists
+- **Status:** IN_PROGRESS
+- **Next action:** Search NARA catalog for the USAFE cable and AF DI files
+

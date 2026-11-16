@@ -368,5 +368,45 @@
   "status": "OPEN",
   "section_id": "SEC080",
   "line_ref": 12805
+ },
+ {
+  "missing_id": "MIS038",
+  "description": "Original Anspaugh telephone log/memorandum (Blue Book, 1 Aug 1965) and Hynek's 1972 printing, with time zone; Blue Book Warren/Cheyenne file (300+ pp) including maps, plots and positional data",
+  "existence_status": "REFERENCED/KNOWN",
+  "potential_repository": "NARA T1206 Project Blue Book microfilm (Cheyenne WY, Jul-Aug 1965); UFOScans; Blue Book Archive",
+  "acquisition_method": "Download the Cheyenne file PDFs; compare with Hynek, The UFO Experience (1972)",
+  "status": "OPEN",
+  "section_id": "SEC067",
+  "line_ref": 8834
+ },
+ {
+  "missing_id": "MIS039",
+  "description": "NORAD/ADC radar records for 8 unknown objects near Quebec Flight (Thompson) and Warren Command Post logs, 31 Jul-2 Aug 1965",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "NORAD/ADC history; AFHRA; NARA",
+  "acquisition_method": "FOIA/AFHRA",
+  "status": "OPEN",
+  "section_id": "SEC067",
+  "line_ref": 9235
+ },
+ {
+  "missing_id": "MIS040",
+  "description": "Bolender document: signed/sent version and its 16 attachments (esp. Atch 8 and Atch 10)",
+  "existence_status": "KNOWN (draft released 1979; attachments missing)",
+  "potential_repository": "USAF Secretary's Office / NARA; Todd and Greenwood FOIA files",
+  "acquisition_method": "Locate scan on NICAP/DocumentCloud; request attachments",
+  "status": "OPEN",
+  "section_id": "SEC081",
+  "line_ref": 13153
+ },
+ {
+  "missing_id": "MIS041",
+  "description": "Ruppelt's \"file of 63 cases of UFOs over nuclear installations\" (LOOK, June 1952) and Aldrich's 4 Nov 1948 USAFE cable",
+  "existence_status": "REFERENCED",
+  "potential_repository": "NARA (AF Director of Intelligence files); Jan Aldrich's article",
+  "acquisition_method": "Contact Aldrich / NARA RG 341",
+  "status": "OPEN",
+  "section_id": "SEC081",
+  "line_ref": 13027
  }
 ]
