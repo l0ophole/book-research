@@ -38,3 +38,4 @@
 | SRC034 | SUNlite 14-3: Project Blue Book review, July-August 1965 (Midwest flap and F.E. Warren sightings) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://www.astronomyufo.com/UFO/SUNlite14_3.pdf |
 | SRC035 | The Bolender Draft (Not Memo), Oct 20, 1969 (transcription and commentary) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://nicap.org/Bolender_Memo.htm |
 | SRC036 | "When The UFO's Harried the Air Force: Wyoming and Nebraska August 1965" | TERTIARY | EXAMINED | INSUFFICIENT_EVIDENCE | https://ufoskies.blogspot.com/2022/01/when-ufos-harried-air-force-wyoming-and.html |
+| SRC037 | The UFO Experience: A Scientific Inquiry (1972), pp. 233-236 — printing of the Blue Book "Anspaugh" telephone log and Hynek's commentary | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://archive.org/download/the-ufo-experience-j.-allen-hynek/The%20UFO%20Experience%20-%20J.%20Allen%20Hynek_djvu.txt |

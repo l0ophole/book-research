@@ -258,5 +258,25 @@
   "query": "analysis/warren_sky_1965.py",
   "result": "Jupiter/Aldebaran/Capella east-NE at 0317-0340 MDT; 70-deg azimuth match for Jupiter at 0340 only if log is Mountain time.",
   "limitations": "Log time zone unknown; satellites not modelled"
+ },
+ {
+  "log_id": 27,
+  "log_date": "2026-11-16",
+  "action": "Located Hynek (1972) printing of the Warren log on archive.org (full text) and read pp.233-236",
+  "reason": "Fix the log time zone (follow-up question 1)",
+  "tool": "curl; archive.org full text",
+  "query": "the-ufo-experience-j.-allen-hynek",
+  "result": "Log is the Blue Book call log (Eastern clock inferred); book matches Hynek; Hynek also argues a lack-of-interest reading.",
+  "limitations": "Original Blue Book memo not seen; EST vs EDT unresolved"
+ },
+ {
+  "log_id": 28,
+  "log_date": "2026-11-16",
+  "action": "Per-entry sky test under three clock hypotheses incl. the Pleiades",
+  "reason": "Redo star-by-star test",
+  "tool": "Python/PyEphem 4.2.1",
+  "query": "analysis/warren_sky_by_entry.py",
+  "result": "Overhead=Deneb, east=Pleiades, NE=Capella plausible; unexplained: 3:17 flashing-red oval, az-120 entry, passing-through motions, four NW.",
+  "limitations": "No satellites or aircraft modelled; EVD055 corrected"
  }
 ]

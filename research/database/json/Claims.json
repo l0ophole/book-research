@@ -1193,8 +1193,8 @@
   "attribution": "Hynek via Hastings",
   "claim_type": "QUOTATION",
   "importance": "MEDIUM",
-  "verification_status": "NOT_YET_INVESTIGATED",
-  "confidence": 0,
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
   "quotation": "the sightings were nothing but stars",
   "section_id": "SEC067",
   "line_ref": 8905
@@ -1258,5 +1258,29 @@
   "quotation": "",
   "section_id": "SEC068",
   "line_ref": 9402
+ },
+ {
+  "claim_id": "CLM106",
+  "claim_text": "Blue Book dismissed the August 1965 Midwest flap as 'stars seen through inversion layers' (Hynek).",
+  "attribution": "Hynek 1972 p.233",
+  "claim_type": "DOCUMENT_QUOTATION",
+  "importance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "quotation": "",
+  "section_id": "SEC067",
+  "line_ref": 8905
+ },
+ {
+  "claim_id": "CLM107",
+  "claim_text": "Hynek himself judged Blue Book's weakness to be lack of interest and careerism ('they just didn't care') as much as cover-up.",
+  "attribution": "Hynek 1972 pp.235-236",
+  "claim_type": "DOCUMENT_QUOTATION",
+  "importance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "quotation": "",
+  "section_id": "SEC081",
+  "line_ref": 13042
  }
 ]

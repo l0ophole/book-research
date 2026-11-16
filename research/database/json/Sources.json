@@ -646,5 +646,23 @@
   "reliability_notes": "Low-authority blog; claims not independently verified.",
   "verification_status": "INSUFFICIENT_EVIDENCE",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC037",
+  "title": "The UFO Experience: A Scientific Inquiry (1972), pp. 233-236 — printing of the Blue Book \"Anspaugh\" telephone log and Hynek's commentary",
+  "author": "J. Allen Hynek",
+  "organization": "Henry Regnery Co. (archive.org scan, OCR text)",
+  "pub_date": "1972",
+  "source_type": "Book (scholarly/advocacy) quoting a Blue Book memo",
+  "classification": "SECONDARY",
+  "url": "https://archive.org/download/the-ufo-experience-j.-allen-hynek/The%20UFO%20Experience%20-%20J.%20Allen%20Hynek_djvu.txt",
+  "document_identifier": "Hynek 1972 pp.233-235",
+  "pages_sections": "pp. 233-236",
+  "access_date": "2026-11-16",
+  "related_entities": "INC033;EVD059;EVD060;CLM100",
+  "extracted_information": "Introduces the log as \"a direct transcript of a Blue Book memo: In the early morning hours of August 1, 1965, the following calls were received at the Blue Book offices by Lieutenant Anspaugh, who was on duty that night\"; reproduces entries 1:30-4:40 A.M. and 3:17-3:40 A.M.; states Blue Book dismissed the \"Midwest flap\" as \"stars seen through inversion layers\" and that Quintanilla said \"the sightings were nothing but stars!\"; then argues both a cover-up hypothesis and a \"foul-up / they just didn't care\" hypothesis.",
+  "reliability_notes": "Hynek's book is itself a secondary rendering; OCR text; original memo not seen; Hynek is an interested party.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

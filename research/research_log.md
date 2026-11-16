@@ -182,3 +182,17 @@
 - Result: Jupiter/Aldebaran/Capella east-NE at 0317-0340 MDT; 70-deg azimuth match for Jupiter at 0340 only if log is Mountain time.
 - Limitations: Log time zone unknown; satellites not modelled
 
+### 27. 2026-11-16 — Located Hynek (1972) printing of the Warren log on archive.org (full text) and read pp.233-236
+- Reason: Fix the log time zone (follow-up question 1)
+- Tool: curl; archive.org full text
+- Query/target: the-ufo-experience-j.-allen-hynek
+- Result: Log is the Blue Book call log (Eastern clock inferred); book matches Hynek; Hynek also argues a lack-of-interest reading.
+- Limitations: Original Blue Book memo not seen; EST vs EDT unresolved
+
+### 28. 2026-11-16 — Per-entry sky test under three clock hypotheses incl. the Pleiades
+- Reason: Redo star-by-star test
+- Tool: Python/PyEphem 4.2.1
+- Query/target: analysis/warren_sky_by_entry.py
+- Result: Overhead=Deneb, east=Pleiades, NE=Capella plausible; unexplained: 3:17 flashing-red oval, az-120 entry, passing-through motions, four NW.
+- Limitations: No satellites or aircraft modelled; EVD055 corrected
+

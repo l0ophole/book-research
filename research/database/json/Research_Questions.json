@@ -199,13 +199,13 @@
   "question": "Can the 1 Aug 1965 Warren log entries be tied to specific stars/planets/satellites once the log's time zone and date are fixed?",
   "priority": "HIGH",
   "related_entities": "INC033;EVD055;EVD056;EXP032",
-  "existing_evidence": "Sky computation; Printy review; 90th SMW report; Blue Book addendum",
+  "existing_evidence": "Sky computation; Printy review; 90th SMW report; Blue Book addendum; Hynek printing found (clock = Blue Book/Eastern); entry-by-entry test redone with Pleiades; Echo 2 not modelled",
   "missing_evidence": "Original Anspaugh log; positional data; Echo 2 and other satellite ephemerides for 1965; maps/plots in Blue Book file",
   "potential_sources": "Blue Book Cheyenne file; Hynek 1972; space-track/historical TLEs",
   "recommended_methods": "Fix time zone; recompute alt/az for each entry; model satellite passes",
   "verification_criteria": "Entry-by-entry match table with explicit confidence",
-  "status": "IN_PROGRESS",
-  "next_action": "Obtain original log; get Echo 2 ephemeris for 1965"
+  "status": "PARTIALLY_COMPLETED",
+  "next_action": "Obtain 1965 TLEs for Echo 1/2 (Space-Track) to test satellite passes; get Blue Book Cheyenne file positional data; check for EST vs EDT at Wright-Patterson in Aug 1965"
  },
  {
   "question_id": "RQ017",
