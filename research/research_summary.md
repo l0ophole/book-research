@@ -1,6 +1,6 @@
 # Research summary — *UFOs and Nukes* (Hastings, 2008)
 
-*Generated 2026-11-15 (v1.8.0). Read this with `research_limitations.md`: ~27% of the book has been read verbatim (v1.0 pass + follow-up 1).*
+*Generated 2026-11-15 (v1.9.0). Read this with `research_limitations.md`: ~27% of the book has been read verbatim (v1.0 pass + follow-up 1).*
 
 ## 1. Document reviewed
 `f3ff02a2-hastings-2008-ufos-and-nukes.md` — OCR-converted markdown of Robert L. Hastings, *UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites* (24,203 lines, ~222,700 words; Introduction, 31 chapters, Appendices A–B, 358 parsed endnotes). No page numbers, photographs or figures are present in the file.
@@ -56,7 +56,7 @@ See `sources/INDEX.md`, `evidence_records/INDEX.md`. Summary:
 See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md` (23 records).
 
 ---
-## Follow-up 1 (v1.8.0): Chapters 7, 12, 13, 14, 15 read in full and verified
+## Follow-up 1 (v1.9.0): Chapters 7, 12, 13, 14, 15 read in full and verified
 
 **New records:** incidents INC036–INC053, claims CLM057–CLM086, witnesses WIT033–WIT064, evidence EVD014–EVD022, sources SRC017–SRC022.
 
@@ -69,7 +69,7 @@ See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md`
 6. **Ch.13 is argument, not incident evidence.** Verified: the Low "trick memo" quotation and Frazier's Sandia employment (1983–2006, Wikipedia). Not verified: "91 sightings", "nearly 30% unknown", the Condon "horse-whipped" remark, Oberg's exact 1970–72 Kirtland dates, Klass's Inman/Graham letter. Hastings concedes he has no proof of any covert role (line 12461). Analyst note: employer affiliations do not by themselves refute a factual argument (CLM076).
 
 ---
-## Follow-up 2 (v1.8.0): Minot 24 Oct 1968 — recomputing the radar speed and checking the dispatcher log
+## Follow-up 2 (v1.9.0): Minot 24 Oct 1968 — recomputing the radar speed and checking the dispatcher log
 
 **Sources obtained** (all from the Tulien/Sign Oral History Project site): Blue Book Final Case Report (primary reproduction, SRC025), Base Operations Dispatcher Log (SRC026), the 14 radarscope scans (SRC027), and the Shough (SRC023) and Poher (SRC024) analyses.
 
@@ -84,7 +84,7 @@ See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md`
 **Assessment.** The aircraft/star explanation plausibly covers some ground reports; it does not demonstrably cover the later stationary-object entries or the airborne radar echo. The book's speed derivation is wrong, and its account omits the Oscar-7 intrusion and the dispatcher-log/airwork correlation. Neither side's evidence yet reaches a conclusion: the key remaining items are the pilots' AF Forms 117, the approach transcript clock offsets and the original film.
 
 ---
-## Follow-up 3 (v1.8.0): Minot 1968 — approach-control transcript, AF Forms 117, unified timeline
+## Follow-up 3 (v1.9.0): Minot 1968 — approach-control transcript, AF Forms 117, unified timeline
 
 Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcript (SRC029) and five AF 117s (SRC028); Adams and Jablonski forms not viewed.
 
@@ -97,7 +97,7 @@ Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcrip
 **Assessment.** The aircraft/star explanation covers part of the ground evidence better than I credited last time (jet-noise entries, Sirius-like descriptions) but fails for the B-52 air visual as Vega, and does not explain the airborne radar echo or the post-landing dispatcher entries. The book's later-interview details (windows, oblong shape) are not in the 1968 form. Still unresolved: the echo's true speed (assumption-bound), the clock offset, and the missing film.
 
 ---
-## Follow-up 4 (v1.8.0): remaining Minot case-file documents and independent frame measurement
+## Follow-up 4 (v1.9.0): remaining Minot case-file documents and independent frame measurement
 
 **Read:** Blue Book docs 3, 5–7, 9–13, 15, 25–27, 29 (typed memos/TWXs) and all seven AF Forms 117 (viewed as scans). Not read: docs 1, 2, 4, 14 (upper-air data), 30–31 (maps), and Werlich's own 29 Oct report; no OCR tool was available for scanned-only pages.
 
@@ -114,7 +114,7 @@ Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcrip
 **Assessment.** The documentary record now looks like this: a real, unexplained airborne radar/radio event (Werlich: not a malfunction; Shough: no conventional explanation fully convincing), plus a ground-sighting complex that Werlich himself thought mostly the B-52 and that Blue Book attributed mainly to aircraft and Sirius, with an evaluation process visibly shaped by SAC pressure. The book's claims are best supported on the radar/radio event and the handling of the case, and weakest on the ground sightings as evidence of a single hovering craft and on the stated speed.
 
 ---
-## Follow-up 5 (v1.8.0): F.E. Warren, 1 Aug 1965 — the "stars" explanation — and Chapter 16
+## Follow-up 5 (v1.9.0): F.E. Warren, 1 Aug 1965 — the "stars" explanation — and Chapter 16
 
 **Read:** book lines 8851–9481 (remaining Warren material, Hynek/Fowler 1966 Minot) and all of Chapter 16 (12987–13288). **Not obtained:** the original Anspaugh log (the book and Hynek's 1972 printing are the only versions I have).
 
@@ -131,7 +131,7 @@ Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcrip
 - Unchecked: Ruppelt's "63 cases" file, Aldrich's 4 Nov 1948 USAFE cable, OSI-never-reached-Blue-Book (CLM097–CLM099).
 
 ---
-## Follow-up 6 (v1.8.0): the Warren log's time zone and a redone star-by-star test
+## Follow-up 6 (v1.9.0): the Warren log's time zone and a redone star-by-star test
 
 **Found:** Hynek's printing of the log (*The UFO Experience*, 1972, pp. 233–236; archive.org full text, SRC037). The book's version matches it.
 
@@ -144,7 +144,7 @@ Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcrip
 **Revised assessment.** For the Warren flap, a stars-and-planets explanation (Deneb, the Pleiades, Capella, Vega) plausibly accounts for a larger share of the log than I credited last time, especially under the likely Eastern clock; it leaves a minority of aircraft-like or motion-based entries unexplained (and satellites/aircraft/autokinesis untested). The book's "patently absurd" overstates it; Blue Book's blanket "stars" also overstates it. The most probable truth is a mix of stars, aircraft, possibly satellites, and group suggestion, but the file lacks the positional data to say so entry by entry.
 
 ---
-## Follow-up 7 (v1.8.0): the Echo 2 satellite test for the Warren log
+## Follow-up 7 (v1.9.0): the Echo 2 satellite test for the Warren log
 
 **Data found without any user input:** the Smithsonian Astrophysical Observatory's published orbital elements for 1965 (SAO Special Report 289, [NTRS 19700026243](https://ntrs.nasa.gov/api/citations/19700026243/downloads/19700026243.pdf), SRC038): smoothed elements for Echo 2 (16 Jul–16 Aug 1965) and daily mean elements for Echo 1 (August 1965). (Echo 2 is NORAD 740; an early search used the wrong catalog number.)
 
@@ -157,10 +157,31 @@ Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcrip
 **Cumulative assessment of the 1 Aug 1965 Warren log.** Stars/planets (Deneb, the Pleiades, Capella, Vega) plausibly explain many entries under the likely Eastern clock; Echo 2 adds possible explanations for one or two moving-light entries at chance-level significance; a minority (flashing-red-light oval, "120° azimuth," crossing/stacking motions) remain unexplained by anything tested. The file's lack of positional data prevents entry-by-entry identification.
 
 ---
-## Follow-up 8 (v1.8.0): other satellites, faint stars, and what remains untested for the Warren log
+## Follow-up 8 (v1.9.0): other satellites, faint stars, and what remains untested for the Warren log
 
 - **1964-5A (Saturn SA-5 S-IV stage):** no visible pass over Cheyenne that night; it orbits at ~400 km and was in Earth's shadow except for one daylight pass (EVD068). Explorer 19, Explorer 8, Vanguard 2/3, Anna 1B and Injun 3 are too faint to be naked-eye reports.
 - **Correction to my "120° azimuth" point (EVD069):** I said no bright object lay there; true, but fainter stars (mag 2.0–2.5) do lie within ±15° of azimuth 120° under each clock reading (e.g., Alpheratz/Sirrah under EST). The entry gives no elevation or brightness, so it is not diagnostic either way.
 - **Still untested (EVD070):** the Pegasus series and their S-IV stages (Pegasus 3, 1965-060A, was launched 30 Jul 1965 — the day before the flap began — and its elements are not in any source I could retrieve), meteors, and aircraft (the 3:17 flashing-red-light "oval … descending … moving east" is aircraft-like).
 
 **Where this leaves the 1 Aug 1965 Warren log:** a plausible natural-explanation set (stars/planets under the likely Eastern clock; Echo 2 for a couple of entries at chance level) with a handful of entries still not explained or testable with available data. No amount of additional astronomy will settle it without the original Blue Book positional data.
+
+---
+## Follow-up 9 (v1.9.0): Chapters 17, 19 and 20 read in full
+
+**New records:** incidents INC055–INC068, claims CLM108–CLM131, witnesses WIT071–WIT084, evidence EVD071–EVD076, sources SRC039–SRC041, missing records MIS043–MIS047, research questions RQ018–RQ020. About 38% of the book is now read verbatim.
+
+### Chapter 17 (“Into the Seventies”)
+- **Evidence structure (EVD075):** only Phillips (Fischbach) and Hale (ALCS aircraft) report their own sightings; the Malmstrom 1972, Warren 1973–74, Safeguard and McConnell items are hearsay; no logs or records are cited for any.
+- **Warren 1973 India LCC (Billings):** a UFO hovering over a silo after Outer/Inner Security Zone alarms, heard by 19 other LCCs, plus a rumor that “target tapes” on three warheads were erased. Moore calls the letter believable and explains “tapes” as legacy terminology for Minuteman III; the item stays hearsay and uncorroborated.
+- **Grand Forks, 14 Oct 1974:** 14 SPs, 2 pilots and a B-52 supervisor reportedly saw two large dark ovals with five lights each; radio interference; tower radar off-line. It rests on an anonymous letter to Hynek. **Moon check (EVD071):** the book says “a last-quarter moon had risen in the east” at 9:09 pm; on that date the Moon was a new moon, below the horizon (last quarter was 8 Oct and rises near midnight). Either the date or the relayed lunar detail is wrong — a concrete reason to doubt the account's details as transmitted.
+- **Greenham Common (EVD072):** the claim that it hosted nuclear-capable F-111s in 1987–88 appears wrong; its nuclear mission was the 501st TMW's ground-launched cruise missiles.
+- **Fischbach 1974:** a single, dozing-guard account with a simultaneous power/phone/alarm failure; no corroboration.
+
+### Chapter 19 (“Mutilations”)
+Mostly assertion and press/law-enforcement testimony; claims of forensic uniqueness (cored rectum, no blood, avoided by scavengers) are disputed by the CBI, CSU and Rommel investigations, which attributed most cases to predation/scavenging; I verified the outline of the CBI (opened May 1975) and Rommel (LEAA-funded, 1979–80) investigations from secondary sources but not the Logan County counts or CSU's “300 cases, 9–10 human.” The missile-field overlap and “taunt” interpretation (CLM122) are speculation.
+
+### Chapter 20 (Mills, Ellsworth)
+- **Delta-3, Dec 1978/Jan 1979 (CLM125–CLM127):** hum, a dark region with a straight edge and angular corners hiding all stars overhead, loss of all site power and radio, G&C No-Go; other teams said to have seen the same; “12–13 missiles” down (hearsay); an angry denial from the now-colonel team chief. No records cited.
+- **Plausible conventional pattern (EXP035):** winter cloud/fog edge plus commercial-power loss and generator/battery failure — the same combination the 341 SMW history documents at Echo Flight (1967). My moon check (EVD074): 28–30 Dec had no Moon, but 1–8 Jan (“a week, maybe two, after Christmas”) had a 15–67% waxing Moon in the south that Mills does not mention; Capella is near the zenith then, so “no stars overhead” means a large dark cloud patch.
+- **Credibility features (EVD076):** documents shown to the author, self-correction (alert pad, not WSA), reluctance; against: 28-year gap, “getting our story straight” at the time, no logs, hearsay headline numbers.
+- **1980 flight-line sighting:** a triangular object invisible through binoculars; claimed Flash messages from the NCA to all SAC bases; no corroboration despite thousands of potential witnesses.

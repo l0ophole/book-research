@@ -57,3 +57,17 @@
 | INC052 | 1968-10-24 | Minot AFB, ND: LFs O-6, N-7, Oscar/November LCFs, Bowbells area; B-52 inbound (5th BW) | CRITICAL | PARTIALLY_VERIFIED | 3 | 12773 |
 | INC053 | 1966-1970 (Manross; 1967/68 for buzzing) | Minot AFB missile field | LOW | UNVERIFIED | 1 | 12945 |
 | INC054 | 1966-08-24 | Minot AFB missile field, ND | HIGH | NOT_YET_INVESTIGATED | 0 | 9402 |
+| INC055 | 1972-spring | Malmstrom AFB, LF M-6 ("Kilo Triangle"), MT | LOW | UNVERIFIED | 1 | 13298 |
+| INC056 | 1973-fall | F.E. Warren AFB, India LCC/LF (90th SMW) | HIGH | UNVERIFIED | 1 | 13359 |
+| INC057 | 1973-late fall | F.E. Warren AFB, Kilo LCC area silo | LOW | UNVERIFIED | 1 | 13424 |
+| INC058 | 1974-spring | F.E. Warren AFB, Charlie LCC | LOW | UNVERIFIED | 1 | 13433 |
+| INC059 | 1974 (possibly May), ~0300-0330 | Fischbach Army Depot (Area 3 special-weapons storage), Germany | MEDIUM | UNVERIFIED | 1 | 13488 |
+| INC060 | 1974-10-14 2109 (as reported) | Grand Forks AFB bomber alert area, ND | HIGH | UNVERIFIED | 1 | 13638 |
+| INC061 | 1974-76 | Safeguard ABM complex (Nekoma/Stanley R. Mickelson), ND | LOW | UNVERIFIED | 1 | 13728 |
+| INC062 | 1975 (believed) | Airborne Launch Control System aircraft, ~50 mi east of Ellsworth AFB, SD | LOW | UNVERIFIED | 1 | 13814 |
+| INC063 | 1973-1979 | McConnell AFB Titan II complexes, KS (381st SMW) | LOW | UNVERIFIED | 1 | 13888 |
+| INC064 | 1975-08 to 1977-08 | Logan County CO (inside F.E. Warren missile field) | MEDIUM | DISPUTED | 2 | 14977 |
+| INC065 | mid-1970s | Foxtrot Flight, Ellsworth AFB (near Mud Butte), SD | LOW | UNVERIFIED | 1 | 15077 |
+| INC066 | undated (interview 1988? text says 19SS) | Las Animas County, CO | LOW | UNVERIFIED | 1 | 15142 |
+| INC067 | 1978-12-late or 1979-01 early (~6-6:30 pm) | Delta-3 LF, Ellsworth AFB (Delta Flight, near Wall SD) | CRITICAL | UNVERIFIED | 1 | 15423 |
+| INC068 | 1980-05 (spring, early afternoon) | Ellsworth AFB flight line / B-52 alert pad, SD | MEDIUM | UNVERIFIED | 1 | 15753 |

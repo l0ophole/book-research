@@ -1,4 +1,4 @@
-# UFOs and Nukes — evidence archive (version 1.8.0, 2026-11-15)
+# UFOs and Nukes — evidence archive (version 1.9.0, 2026-11-15)
 
 Research archive built from the supplied book file, with independent checks of selected claims.
 
@@ -23,6 +23,6 @@ Research archive built from the supplied book file, with independent checks of s
 | Missing records | [missing_records/INDEX.md](missing_records/INDEX.md) |
 | Unreviewed leads | [database/leads_pattern_scan.md](database/leads_pattern_scan.md) |
 
-**Important:** ~31% of the book has been read verbatim (Ch.1–3, 6, 7, 9, 11–16 and parts of 10, 18, 21); records for unread chapters are leads only. See limitations.
+**Important:** ~38% of the book has been read verbatim (Ch.1–3, 6, 7, 9, 11–17, 19, 20 and parts of 10, 18, 21); records for unread chapters are leads only. See limitations.
 
 Rebuild: scripts in `database/build/` (paths inside refer to the original working directory).

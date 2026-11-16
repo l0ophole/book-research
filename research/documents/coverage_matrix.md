@@ -85,11 +85,11 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC079 | Chapter 14 | 14. Launch in Progress! | 12552 | 12770 | 2249 | 100.0 | FULL_READ |
 | SEC080 | Chapter 15 | 15. “Someone is seeing flying saucers again.” | 12771 | 12986 | 2034 | 100.0 | FULL_READ |
 | SEC081 | Chapter 16 | 16. Look Over Here, Not Over There! | 12987 | 13288 | 2798 | 100.0 | FULL_READ |
-| SEC082 | Chapter 17 | 17. Into the Seventies | 13289 | 13992 | 6605 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC082 | Chapter 17 | 17. Into the Seventies | 13289 | 13992 | 6605 | 100.0 | FULL_READ |
 | SEC083 | Chapter 18 | 18. The Northern Tier Incursions | 13993 | 14120 | 1080 | 100.0 | FULL_READ |
 | SEC084 | Chapter 18 | END OF NORAD LOG ENTRIES | 14121 | 14893 | 7426 | 17.1 | PARTIAL_READ |
-| SEC085 | Chapter 19 | 19. Mutilations | 14894 | 15330 | 3808 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC086 | Chapter 20 | 20. Like a Diamond in the Sky | 15331 | 15922 | 5875 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC085 | Chapter 19 | 19. Mutilations | 14894 | 15330 | 3808 | 100.0 | FULL_READ |
+| SEC086 | Chapter 20 | 20. Like a Diamond in the Sky | 15331 | 15922 | 5875 | 100.0 | FULL_READ |
 | SEC087 | Chapter 21 | 21. Beams of Light | 15923 | 17362 | 14758 | 9.6 | PARTIAL_READ |
 | SEC088 | Chapter 22 | 22. “Satellite” Alerts | 17363 | 17485 | 1177 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC089 | Chapter 23 | 23. Back in the U.S.S.R. | 17486 | 17824 | 3186 | 0.0 | PATTERN_SCAN_ONLY |

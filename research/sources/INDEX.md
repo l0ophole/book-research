@@ -40,3 +40,6 @@
 | SRC036 | "When The UFO's Harried the Air Force: Wyoming and Nebraska August 1965" | TERTIARY | EXAMINED | INSUFFICIENT_EVIDENCE | https://ufoskies.blogspot.com/2022/01/when-ufos-harried-air-force-wyoming-and.html |
 | SRC037 | The UFO Experience: A Scientific Inquiry (1972), pp. 233-236 — printing of the Blue Book "Anspaugh" telephone log and Hynek's commentary | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://archive.org/download/the-ufo-experience-j.-allen-hynek/The%20UFO%20Experience%20-%20J.%20Allen%20Hynek_djvu.txt |
 | SRC038 | SAO Special Report No. 289: Orbital Elements No. 0-19 (Echo 1 and Echo 2 sections for July-Dec 1965) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://ntrs.nasa.gov/api/citations/19700026243/downloads/19700026243.pdf |
+| SRC039 | RAF Greenham Common | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/RAF_Greenham_Common |
+| SRC040 | Cattle mutilation | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/Cattle_mutilation |
+| SRC041 | Rommel Report / Operation Animal Mutilation (1980) — summary page | TERTIARY | DISCOVERED | INSUFFICIENT_EVIDENCE | https://ufopedia.pages.dev/raw/reports/rommel-operation-animal-mutilation-1980 |

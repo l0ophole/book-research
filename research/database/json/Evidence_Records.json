@@ -838,5 +838,77 @@
   "confidence": 1,
   "section_id": "SEC067",
   "line_ref": 8834
+ },
+ {
+  "evidence_id": "EVD071",
+  "description": "Moon check for Grand Forks, 14 Oct 1974, 2109 CDT (analysis/grandforks_moon_1974.py): the Moon was a ~0% illuminated new moon (new moon 15 Oct 12:25 UTC), below the horizon (alt -32 deg), rising only at ~0811 CDT next morning; last quarter was 8 Oct 1974 (1945 UTC). No date in October 1974 has a last-quarter Moon risen in the east at 9 pm (last-quarter Moon rises near midnight). The book's moon detail therefore contradicts the astronomical record for the stated date; either the date or the lunar description (as relayed from the anonymous report) is wrong. The date itself cannot be checked because the report is not public.",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "analysis/grandforks_moon_1974.py",
+  "related_entities": "INC060;CLM113",
+  "significance": "HIGH",
+  "verification_status": "CONTRADICTED",
+  "confidence": 1,
+  "section_id": "SEC082",
+  "line_ref": 13641
+ },
+ {
+  "evidence_id": "EVD072",
+  "description": "Greenham Common: Wikipedia states the base's nuclear mission in 1982-91 was the 501st Tactical Missile Wing with BGM-109G ground-launched cruise missiles (last removed March 1991); no F-111 unit is described there (the infobox lists F-111 among aircraft associated with the base). The book's statement that Greenham deployed nuclear-capable F-111s in 1987-88, with cruise missiles 'that would have been carried by those aircraft', appears wrong or confused.",
+  "evidence_type": "TERTIARY_COMPARISON",
+  "provenance": "SRC039",
+  "related_entities": "CLM116;INC062",
+  "significance": "MEDIUM",
+  "verification_status": "DISPUTED",
+  "confidence": 2,
+  "section_id": "SEC082",
+  "line_ref": 13883
+ },
+ {
+  "evidence_id": "EVD073",
+  "description": "Official/secondary context for mutilations: Wikipedia records the Colorado Bureau of Investigation opened a mutilation investigation in May 1975 (Carl Whiteside) and the Rommel (New Mexico DA) investigation was funded by a $44,170 LEAA grant from May 1979 after the FBI declined jurisdiction; secondary summaries state Rommel concluded 'predominantly the result of natural predation' and scavenging. Book's account of Rommel and the CBI is consistent in outline; the Logan County counts, CBI 'nearly three-month' length and CSU '300 cases, 9-10 human' were not located.",
+  "evidence_type": "TERTIARY_COMPARISON",
+  "provenance": "SRC040; ufopedia summary (search result only)",
+  "related_entities": "CLM120;CLM123;INC064",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC085",
+  "line_ref": 15165
+ },
+ {
+  "evidence_id": "EVD074",
+  "description": "Moon at Wall SD around 1815 MST (analysis/mills_ellsworth_sky_1979.py): 28-30 Dec 1978 new/very thin crescent below horizon; 31 Dec 7% alt 7 deg; 1 Jan 15% alt 18; 2 Jan 24% alt 29; 3 Jan 35% alt 38 in the SW/S; 6 Jan 67% alt 54. Mills describes a 'pitch black' night, looking south and seeing 'more stars', and does not mention a Moon. The date window the book gives ('very late December 1978, or early January 1979'; 'a week, maybe two, after Christmas' -> ~1-8 Jan) would normally include a visible waxing Moon in the south; late-December dates (28-30 Dec) would not. Capella (mag 0.1) is near the zenith around 1815 in early January, so 'no stars overhead' is a large dark cloud patch rather than a faint-star effect.",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "analysis/mills_ellsworth_sky_1979.py",
+  "related_entities": "INC067;EXP035",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC086",
+  "line_ref": 15431
+ },
+ {
+  "evidence_id": "EVD075",
+  "description": "Evidence structure of Ch.17: of the incidents in the chapter, only Phillips (Fischbach) and Hale (ALCS) report their own sightings; the Malmstrom, Warren, Safeguard and McConnell items are hearsay; the strongest (Grand Forks) rests on an anonymous 1974 letter to Hynek the author cannot discuss. No document, log or record is cited for any of them.",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "book Ch.17",
+  "related_entities": "INC055;INC056;INC059;INC060;INC062;INC063",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC082",
+  "line_ref": 13289
+ },
+ {
+  "evidence_id": "EVD076",
+  "description": "Ch.20 (Mills) contains features that cut both ways: for credibility — documents (evaluations) shown to the author, a witness who corrected his own error (alert pad not WSA), reluctance to publicise, an officer's angry reaction; against — a 28-year gap, no logs/command-post records, admission the team 'got our story straight' then, similarity to the Echo 1967 'power-fault' pattern (EXP035), no mention of a Moon, hearsay for the headline '12-13 missiles', and a second incident (1980) whose claimed Flash messages are not documented and conflict with the lack of any other report from thousands of observers.",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "book Ch.20",
+  "related_entities": "INC067;INC068;CLM125;CLM126",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC086",
+  "line_ref": 15367
  }
 ]

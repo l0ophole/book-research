@@ -170,3 +170,33 @@
 - **Status:** IN_PROGRESS
 - **Next action:** Search NARA catalog for the USAFE cable and AF DI files
 
+## RQ018 [HIGH] — Is the Delta-3 (Ellsworth, Dec 1978/Jan 1979) account compatible with winter weather, commercial power loss and the Echo-1967 power-fault precedent?
+- **Related:** INC067;CLM125;CLM126;EXP035;EVD074
+- **Existing evidence:** Mills interview; moon phases
+- **Missing evidence:** Weather and power logs; Echo/Delta site logs; other crew testimony
+- **Potential sources:** NCEI/NWS; AFHRA; Mills and teams
+- **Methods:** Obtain weather/power data; compare to Minuteman power-system failure modes
+- **Verification criteria:** Documentary support or refutation
+- **Status:** NOT_STARTED
+- **Next action:** Pull NCEI daily summaries for Rapid City/Wall, 28 Dec 1978-10 Jan 1979
+
+## RQ019 [MEDIUM] — Can the Grand Forks 14 Oct 1974 report be dated and checked (moon discrepancy)?
+- **Related:** INC060;EVD071
+- **Existing evidence:** Book summary only
+- **Missing evidence:** Original letter and Hynek reply; base logs
+- **Potential sources:** CUFOS; AFHRA
+- **Methods:** Find CUFOS file; test alternative dates (e.g., waning moon dates)
+- **Verification criteria:** Date and sky details consistent
+- **Status:** NOT_STARTED
+- **Next action:** Ask CUFOS
+
+## RQ020 [MEDIUM] — Do the forensic claims about cattle mutilations (Ch.19) and their missile-field overlap survive independent veterinary/forensic and statistical review?
+- **Related:** CLM118;CLM119;CLM120;CLM121;CLM122
+- **Existing evidence:** Rommel/CBI summaries
+- **Missing evidence:** Independent lab studies; ranch-level counts vs base rates in missile fields
+- **Potential sources:** Colorado archives; veterinary pathology literature
+- **Methods:** Compare mutilation density in missile-field vs non-missile counties
+- **Verification criteria:** Controlled comparison
+- **Status:** NOT_STARTED
+- **Next action:** Gather county-level counts
+

@@ -308,5 +308,25 @@
   "query": "analysis/warren_s5_passes.py; warren_az120_check.py",
   "result": "1964-5A not visible that night; az-120 entry has fainter-star candidates; Pegasus 3 elements not found (launched 30 Jul 1965).",
   "limitations": "Pegasus series, aircraft and meteors untested"
+ },
+ {
+  "log_id": 32,
+  "log_date": "2026-11-16",
+  "action": "Read book lines 13289-13992 (Ch.17), 14894-15330 (Ch.19), 15331-15922 (Ch.20)",
+  "reason": "Follow-up question 1: Chapters 17 and 19-20 in full",
+  "tool": "Read tool",
+  "query": "offsets as listed",
+  "result": "Extracted INC055-INC068, CLM108-CLM131, witnesses WIT071-WIT084.",
+  "limitations": ""
+ },
+ {
+  "log_id": 33,
+  "log_date": "2026-11-16",
+  "action": "Checks: moon/sky for Grand Forks 1974 and Wall SD winter 1978-79; Wikipedia pages for Greenham Common and Cattle mutilation; searches for Rommel report, Ellsworth commander/weather",
+  "reason": "Verify Ch.17/19/20 claims",
+  "tool": "PyEphem; curl; WebSearch",
+  "query": "analysis/grandforks_moon_1974.py; mills_ellsworth_sky_1979.py",
+  "result": "Moon claim for Grand Forks contradicted; Greenham F-111 statement wrong; Rommel/CBI outline consistent; commander and weather not found.",
+  "limitations": "Spraker/Stone/Fenimore, Jan 1979 weather not verified; Fischbach and Safeguard pages not retrievable"
  }
 ]

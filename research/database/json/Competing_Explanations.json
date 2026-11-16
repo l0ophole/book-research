@@ -318,5 +318,65 @@
   "evaluation_status": "OPEN",
   "section_id": "SEC067",
   "line_ref": 8914
+ },
+ {
+  "explanation_id": "EXP033",
+  "target_entities": "INC060",
+  "explanation": "Low-flying unscheduled aircraft/helicopters or lights seen against dark sky; atmospheric/visual illusions; ball lightning or thunderstorm-type RF interference; anonymous secondhand report with an astronomical error (moon)",
+  "supporting_evidence": "\"No scheduled aircraft\" does not exclude unscheduled/military flights; radio interference like a thunderstorm; moon description wrong (EVD071)",
+  "contradicting_evidence": "14 SPs + 2 pilots + 1 supervisor independent reports within 3 min; dogs; tower radar off-line so no check",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC082",
+  "line_ref": 13651
+ },
+ {
+  "explanation_id": "EXP034",
+  "target_entities": "INC059",
+  "explanation": "Hypnopompic/dream experience after dozing in a tower; electrical storm or generator/transformer fault causing outage and alarm cascade; bright star/planet or aircraft beginning the episode",
+  "supporting_evidence": "Phillips admits he had just awakened from \"deep observation\"; alarms reset physically; no other witnesses; lack of any report",
+  "contradicting_evidence": "Detailed, consistent account; power and alarm failure physically recorded? (no record)",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC082",
+  "line_ref": 13520
+ },
+ {
+  "explanation_id": "EXP035",
+  "target_entities": "INC067",
+  "explanation": "Winter weather: a low cloud/fog/snow-squall deck with a sharp edge hiding stars overhead; commercial power loss with diesel/battery failure; wind/transformer/generator hum; fear and expectation; memory contamination over 28 years; Mills admits the team agreed on a story",
+  "supporting_evidence": "Weather in the Dakotas in late Dec/early Jan; Echo 1967 wing history shows power fluctuations and generator faults coincident with No-Go (SRC002); Mills said the hum stopped outside the fence; the moon is not mentioned (it was 0-7% on 28-31 Dec, 15-67% on 1-6 Jan: EVD074)",
+  "contradicting_evidence": "Straight edge with angular corners; simultaneous failure of commercial, diesel and battery power; two other teams report similar; officers pulled/passed over (anecdotal)",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC086",
+  "line_ref": 15461
+ },
+ {
+  "explanation_id": "EXP036",
+  "target_entities": "INC064;INC065;INC066",
+  "explanation": "Natural predation and scavenging of carcasses (Rommel, CBI, CSU); decomposition effects (bloat, insect and bird activity); hoaxes/pranks; media-driven mass hysteria; misidentified aircraft/stars/planets (Big Mama = a bright star/planet)",
+  "supporting_evidence": "Official investigations (Colorado CBI 1975, CSU lab study, Rommel 1980); Wikipedia summaries; sheriff photo files not forensically analyzed",
+  "contradicting_evidence": "Sheriffs/ranchers report clean cuts, no blood, no tracks; lights near scenes; unresolved by independent labs",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC085",
+  "line_ref": 14914
+ },
+ {
+  "explanation_id": "EXP037",
+  "target_entities": "INC068",
+  "explanation": "Heat-shimmer mirage/optical illusion or aircraft seen against hangars; faulty memory of an event 26 years earlier; the supposed SR-71 departure crowd leaves no other reports",
+  "supporting_evidence": "No contemporaneous report or Flash message located; Mills himself suggests a heat-wave effect; thousands of potential witnesses yet none reported",
+  "contradicting_evidence": "Mills and 3-4 companions agreed it vanished; claims of Flash messages are unverifiable",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC086",
+  "line_ref": 15780
+ },
+ {
+  "explanation_id": "EXP038",
+  "target_entities": "INC062",
+  "explanation": "Weather balloon/Mylar balloon, reflection, or perspective illusions viewed through a cockpit window; no corroboration by crew",
+  "supporting_evidence": "Other crew did not see it; no radar track; date unknown",
+  "contradicting_evidence": "Hale describes sudden climbs and high-speed maneuvers over 2-3 minutes",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC082",
+  "line_ref": 13823
  }
 ]

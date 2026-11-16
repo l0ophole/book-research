@@ -219,5 +219,44 @@
   "verification_criteria": "Original quotations and file lists",
   "status": "IN_PROGRESS",
   "next_action": "Search NARA catalog for the USAFE cable and AF DI files"
+ },
+ {
+  "question_id": "RQ018",
+  "question": "Is the Delta-3 (Ellsworth, Dec 1978/Jan 1979) account compatible with winter weather, commercial power loss and the Echo-1967 power-fault precedent?",
+  "priority": "HIGH",
+  "related_entities": "INC067;CLM125;CLM126;EXP035;EVD074",
+  "existing_evidence": "Mills interview; moon phases",
+  "missing_evidence": "Weather and power logs; Echo/Delta site logs; other crew testimony",
+  "potential_sources": "NCEI/NWS; AFHRA; Mills and teams",
+  "recommended_methods": "Obtain weather/power data; compare to Minuteman power-system failure modes",
+  "verification_criteria": "Documentary support or refutation",
+  "status": "NOT_STARTED",
+  "next_action": "Pull NCEI daily summaries for Rapid City/Wall, 28 Dec 1978-10 Jan 1979"
+ },
+ {
+  "question_id": "RQ019",
+  "question": "Can the Grand Forks 14 Oct 1974 report be dated and checked (moon discrepancy)?",
+  "priority": "MEDIUM",
+  "related_entities": "INC060;EVD071",
+  "existing_evidence": "Book summary only",
+  "missing_evidence": "Original letter and Hynek reply; base logs",
+  "potential_sources": "CUFOS; AFHRA",
+  "recommended_methods": "Find CUFOS file; test alternative dates (e.g., waning moon dates)",
+  "verification_criteria": "Date and sky details consistent",
+  "status": "NOT_STARTED",
+  "next_action": "Ask CUFOS"
+ },
+ {
+  "question_id": "RQ020",
+  "question": "Do the forensic claims about cattle mutilations (Ch.19) and their missile-field overlap survive independent veterinary/forensic and statistical review?",
+  "priority": "MEDIUM",
+  "related_entities": "CLM118;CLM119;CLM120;CLM121;CLM122",
+  "existing_evidence": "Rommel/CBI summaries",
+  "missing_evidence": "Independent lab studies; ranch-level counts vs base rates in missile fields",
+  "potential_sources": "Colorado archives; veterinary pathology literature",
+  "recommended_methods": "Compare mutilation density in missile-field vs non-missile counties",
+  "verification_criteria": "Controlled comparison",
+  "status": "NOT_STARTED",
+  "next_action": "Gather county-level counts"
  }
 ]

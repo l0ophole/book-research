@@ -73,3 +73,17 @@
 | WIT068 | Robert (Bob) Thompson | A2C, 809th Combat Defense Sq, Quebec Flight LCF, 1965 | YES | NAMED |
 | WIT069 | Lt. Anspaugh | Blue Book Officer on Duty who logged the Warren calls | RECORDER | NAMED |
 | WIT070 | Col Robert Johnson; Col Williams; Capt Snelling; Capt Howell | Warren base commander; Sioux Army Depot CO; Warren command post officers named in the log | REPORTERS (via log) | NAMED |
+| WIT071 | Anonymous retired Malmstrom SP (assignments 1962-64, 1969-72, 1975-77) | Security police; Standboard evaluator | NO (hearsay) | NAMED |
+| WIT072 | Walter F. Billings | 1Lt deputy crew commander, 90th SMW, F.E. Warren, 1972-74 | PARTIAL (overheard UHF; others hearsay) | NAMED |
+| WIT073 | R. Jack Phillips | PFC, 193rd MP Bn, Dahn Germany, 1974 | YES | NAMED |
+| WIT074 | Anonymous USAF officer (Grand Forks 1974) | Active-duty officer reporting to Hynek | YES (reporter; unclear if own sighting) | NAMED |
+| WIT075 | Frank Hale | Lt Col (ret.), ALCS crew 4th ACCS Ellsworth, later Greenham Common base commander | YES | NAMED |
+| WIT076 | Thomas J. Manson | SSgt, Missile Facilities Technician, 381st SMW McConnell, mid-1970s | NO (hearsay) | NAMED |
+| WIT077 | Kenneth Dziewulski | Capt (ret.), crew commander 381st SMW 1975-79 | NO (hearsay) | NAMED |
+| WIT078 | Harry L. "Tex" Graves | Logan County (CO) Sheriff | YES (mutilation investigations) | NAMED |
+| WIT079 | Bill and Martha Patterson | Ranchers near Mud Butte SD | YES | NAMED |
+| WIT080 | Lou Girodo | Las Animas County (CO) Sheriff | YES | NAMED |
+| WIT081 | John W. Mills III | TSgt (ret.), 44th OMMS combat targeting, Ellsworth 1978-80 | YES | NAMED |
+| WIT082 | 2Lt temporary team chief (Delta-3) and two other targeting-team officers | Anonymous USAF officers | YES (per Mills) | ANONYMOUS |
+| WIT083 | Kenneth Rommel | Ex-FBI agent, director of New Mexico "Operation Animal Mutilation" (1979-80) | INVESTIGATOR | NAMED |
+| WIT084 | Gabe Valdez; Howard Burgess | NM State Police officer; investigator cited re magnetic anomaly | INVESTIGATORS | NAMED |

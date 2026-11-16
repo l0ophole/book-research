@@ -4,9 +4,9 @@
 | Task | Status |
 |---|---|
 | Identify and inventory the document | **Completed** |
-| Read every chapter in full | **NOT completed** — 7,512 of 24,203 lines (31.0%) read verbatim after follow-up 5 (see `documents/coverage_matrix.md`). 44 sections FULL_READ, 8 PARTIAL_READ, 54 PATTERN_SCAN_ONLY, 1 PARSED (references) |
-| Extract every incident, witness and claim | **Partially completed** — records cover the read portions only (55 incidents, 105 claims, 71 witnesses). Unread chapters are represented by machine-extracted leads (Pattern_Scan_Leads) and 196 auto-extracted name mentions, which are **unreviewed** |
-| Independent verification | **Partially completed** — 36 external sources recorded (31 examined, 5 discovered only); original PDFs for FBI/CIA/NORAD documents were **not** obtained |
+| Read every chapter in full | **NOT completed** — 9,245 of 24,203 lines (38.2%) read verbatim after follow-up 9 (see `documents/coverage_matrix.md`). 47 sections FULL_READ, 8 PARTIAL_READ, 51 PATTERN_SCAN_ONLY, 1 PARSED (references) |
+| Extract every incident, witness and claim | **Partially completed** — records cover the read portions only (69 incidents, 131 claims, 85 witnesses). Unread chapters are represented by machine-extracted leads (Pattern_Scan_Leads) and 196 auto-extracted name mentions, which are **unreviewed** |
+| Independent verification | **Partially completed** — 41 external sources recorded (35 examined, 6 discovered only); original PDFs for FBI/CIA/NORAD documents were **not** obtained |
 | Chapter-by-chapter evidence database | **Partially completed** (schema complete; coverage as above) |
 | SQLite/CSV/JSON/Markdown exports | **Completed** (all generated from the same SQLite file) |
 
@@ -21,7 +21,7 @@ The book is ~330–430K tokens of text, larger than the working context; reading
 - Reference parsing is heuristic (358 entries; some merged); reference types are approximate.
 
 ## What you can do to help
-1. Tell me which chapters to read next (Ch.7 and Ch.12–15 are now done; recommended next: Ch.16–17, 19–20, 22–23, 26–27, 29–30).
+1. Tell me which chapters to read next (Ch.7 and Ch.12–15 are now done; recommended next: Ch.4–5, 8, 22–23, 24–25, 26–27, 29–30).
 2. Provide (or point me to) PDFs: *Faded Giant* (Salas/Klotz), Jacobs’s MUFON UFO Journal Jan 1989 article, Klotz’s FOIA response PDFs, NORAD/NMCC 1975 messages, Halt’s tape transcript.
 3. If you have a FOIA/Mandatory Declassification Review route, the highest-value requests are listed in `missing_records/INDEX.md` (MIS009–MIS012, MIS014, MIS017–MIS020).
 4. If you can run a browser session through an institutional login (CIA CREST, NARA catalog, newspaper archives), say so and I will extract exact records.

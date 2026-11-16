@@ -708,5 +708,145 @@
   "notes": "Named only in the Hynek-published log as relayed by the book.",
   "section_id": "SEC067",
   "line_ref": 8836
+ },
+ {
+  "witness_id": "WIT071",
+  "name": "Anonymous retired Malmstrom SP (assignments 1962-64, 1969-72, 1975-77)",
+  "role": "Security police; Standboard evaluator",
+  "firsthand_status": "NO (hearsay)",
+  "identity_status": "NAMED",
+  "notes": "Name withheld.",
+  "section_id": "SEC082",
+  "line_ref": 13298
+ },
+ {
+  "witness_id": "WIT072",
+  "name": "Walter F. Billings",
+  "role": "1Lt deputy crew commander, 90th SMW, F.E. Warren, 1972-74",
+  "firsthand_status": "PARTIAL (overheard UHF; others hearsay)",
+  "identity_status": "NAMED",
+  "notes": "Letter 2002 (also on ufohastings.com); no personal sighting on duty; dates vague; Moore calls statement believable; critic notes Minuteman III uses no tape (Moore: \"tapes\" legacy term).",
+  "section_id": "SEC082",
+  "line_ref": 13343
+ },
+ {
+  "witness_id": "WIT073",
+  "name": "R. Jack Phillips",
+  "role": "PFC, 193rd MP Bn, Dahn Germany, 1974",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Posted 2007 on Frank Warren's site; admits guards often slept on duty; only known witness.",
+  "section_id": "SEC082",
+  "line_ref": 13488
+ },
+ {
+  "witness_id": "WIT074",
+  "name": "Anonymous USAF officer (Grand Forks 1974)",
+  "role": "Active-duty officer reporting to Hynek",
+  "firsthand_status": "YES (reporter; unclear if own sighting)",
+  "identity_status": "NAMED",
+  "notes": "Declined interview 2007; name withheld; documents via Klotz/CUFOS.",
+  "section_id": "SEC082",
+  "line_ref": 13628
+ },
+ {
+  "witness_id": "WIT075",
+  "name": "Frank Hale",
+  "role": "Lt Col (ret.), ALCS crew 4th ACCS Ellsworth, later Greenham Common base commander",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Email 15 Oct 2002; date approximate (1975?).",
+  "section_id": "SEC082",
+  "line_ref": 13772
+ },
+ {
+  "witness_id": "WIT076",
+  "name": "Thomas J. Manson",
+  "role": "SSgt, Missile Facilities Technician, 381st SMW McConnell, mid-1970s",
+  "firsthand_status": "NO (hearsay)",
+  "identity_status": "NAMED",
+  "notes": "Interviewed 2006; saw nothing.",
+  "section_id": "SEC082",
+  "line_ref": 13888
+ },
+ {
+  "witness_id": "WIT077",
+  "name": "Kenneth Dziewulski",
+  "role": "Capt (ret.), crew commander 381st SMW 1975-79",
+  "firsthand_status": "NO (hearsay)",
+  "identity_status": "NAMED",
+  "notes": "Second-hand about a former commander.",
+  "section_id": "SEC082",
+  "line_ref": 13941
+ },
+ {
+  "witness_id": "WIT078",
+  "name": "Harry L. \"Tex\" Graves",
+  "role": "Logan County (CO) Sheriff",
+  "firsthand_status": "YES (mutilation investigations)",
+  "identity_status": "NAMED",
+  "notes": "Via Pratt (MUFON Journal) and Gazette Telegraph 1977.",
+  "section_id": "SEC085",
+  "line_ref": 14988
+ },
+ {
+  "witness_id": "WIT079",
+  "name": "Bill and Martha Patterson",
+  "role": "Ranchers near Mud Butte SD",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Reported to Hastings; names given.",
+  "section_id": "SEC085",
+  "line_ref": 15081
+ },
+ {
+  "witness_id": "WIT080",
+  "name": "Lou Girodo",
+  "role": "Las Animas County (CO) Sheriff",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Interview year garbled in OCR.",
+  "section_id": "SEC085",
+  "line_ref": 15144
+ },
+ {
+  "witness_id": "WIT081",
+  "name": "John W. Mills III",
+  "role": "TSgt (ret.), 44th OMMS combat targeting, Ellsworth 1978-80",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Provided evaluation records to Hastings; email 5 Mar 2006; two taped interviews; sworn silence per his account.",
+  "section_id": "SEC086",
+  "line_ref": 15367
+ },
+ {
+  "witness_id": "WIT082",
+  "name": "2Lt temporary team chief (Delta-3) and two other targeting-team officers",
+  "role": "Anonymous USAF officers",
+  "firsthand_status": "YES (per Mills)",
+  "identity_status": "ANONYMOUS",
+  "notes": "Current colonel angrily denied the event to Mills (\"an agreement 30 years ago that the incident never happened\").",
+  "section_id": "SEC086",
+  "line_ref": 15425
+ },
+ {
+  "witness_id": "WIT083",
+  "name": "Kenneth Rommel",
+  "role": "Ex-FBI agent, director of New Mexico \"Operation Animal Mutilation\" (1979-80)",
+  "firsthand_status": "INVESTIGATOR",
+  "identity_status": "NAMED",
+  "notes": "Concluded predation/scavenging.",
+  "section_id": "SEC085",
+  "line_ref": 15167
+ },
+ {
+  "witness_id": "WIT084",
+  "name": "Gabe Valdez; Howard Burgess",
+  "role": "NM State Police officer; investigator cited re magnetic anomaly",
+  "firsthand_status": "INVESTIGATORS",
+  "identity_status": "NAMED",
+  "notes": "Hastings cites Valdez for a magnetic-field distortion found by Burgess.",
+  "section_id": "SEC085",
+  "line_ref": 15123
  }
 ]
