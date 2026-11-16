@@ -245,3 +245,10 @@
 - Result: Mars bright (-0.7 to -1.1) and up ~2130-0730 on the Oscar window, below horizon at Echo time 0845; near-full Moon also up; inconclusive without Oscar sighting time
 - Limitations: Time of the Oscar sighting not in sources read; elevation 1100 m assumed; no refraction
 
+### 36. 2026-11-16 — Fetched and read the Hastings article (SRC045) with Meiwald partial transcripts and letter text
+- Reason: Follow-up 5: full text of Meiwald letter
+- Tool: curl; WebSearch
+- Query/target: ufohastings.com/articles/echo-flight-ufo-incident-not-unique
+- Result: Found partial transcripts and letter excerpt; no time/bearing; Meiwald assent to missile shutdown found in 1996 call; EVD081-082 added
+- Limitations: Audio not heard; letter image not viewed; transcripts advocate-edited; Hastings states "confidential" parts excluded
+

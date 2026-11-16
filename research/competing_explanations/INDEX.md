@@ -41,3 +41,4 @@
 | EXP037 | INC068 | Heat-shimmer mirage/optical illusion or aircraft seen against hangars; faulty memory of an event 26 years earlier; the supposed SR-71 departure crowd leaves no other reports | OPEN |
 | EXP038 | INC062 | Weather balloon/Mylar balloon, reflection, or perspective illusions viewed through a cockpit window; no corroboration by crew | OPEN |
 | EXP039 | INC020 | Conflation: Salas and Meiwald experienced a separate, minor event (UFO sighting by guards at Oscar, no outage) and Salas later merged it with the documented Echo shutdown; or Echo electrical fault only, no UFO | OPEN |
+| EXP040 | INC020 | Two separate observations were merged: Meiwald team-at-LF report (UFO seen from patrol; minor security alert) and the Salas gate object; plus missile faults electrical; both recollections 44 years later, with Salas leading the 1996 call | OPEN |

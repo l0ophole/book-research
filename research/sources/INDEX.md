@@ -46,3 +46,4 @@
 | SRC042 | Echo Flights of Fantasy: Robert Salas and the Malmstrom AFB Incident (critique) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | (PDF fetched during session; URL not recorded in notes) |
 | SRC043 | Salas affidavit, "on or about March 24th, 1967" (posted 11 Oct 2010) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://www.ufohastings.com/storage/files/image/2010-10-11/salas_01.jpg |
 | SRC044 | Wikipedia: Malmstrom UFO incident; Robert Salas | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/Malmstrom_UFO_incident |
+| SRC045 | Echo Flight UFO incident not unique (Hastings article with partial transcripts of Salas 1996 and Hastings 2011 calls with Meiwald, and text of Meiwald 1 Oct 1996 letter) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://ufohastings.com/articles/echo-flight-ufo-incident-not-unique |

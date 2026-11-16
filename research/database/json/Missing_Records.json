@@ -478,5 +478,15 @@
   "status": "OPEN",
   "section_id": "SEC073",
   "line_ref": 10002
+ },
+ {
+  "missing_id": "MIS049",
+  "description": "Original audio of Salas-Meiwald 1996 call and Hastings-Meiwald 2011 call; image of full 1 Oct 1996 Meiwald letter; Salas 9 May 2011 email",
+  "existence_status": "KNOWN (held by Hastings/Salas)",
+  "potential_repository": "ufohastings.com; Salas/Hastings archives",
+  "acquisition_method": "Listen to audio and view letter image; request unedited transcripts",
+  "status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10002
  }
 ]

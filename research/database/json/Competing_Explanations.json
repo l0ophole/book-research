@@ -388,5 +388,15 @@
   "evaluation_status": "OPEN",
   "section_id": "SEC073",
   "line_ref": 10030
+ },
+ {
+  "explanation_id": "EXP040",
+  "target_entities": "INC020",
+  "explanation": "Two separate observations were merged: Meiwald team-at-LF report (UFO seen from patrol; minor security alert) and the Salas gate object; plus missile faults electrical; both recollections 44 years later, with Salas leading the 1996 call",
+  "supporting_evidence": "Salas 2011 email: the two reports came separately; Meiwald does not remember the gate object; transcripts edited by advocate",
+  "contradicting_evidence": "Meiwald agrees on Oscar, team scared, missile problems; Salas consistent in core elements",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10002
  }
 ]

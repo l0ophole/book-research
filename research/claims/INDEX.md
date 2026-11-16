@@ -134,3 +134,4 @@
 | CLM130 | Calm, nonchalant reactions of witnesses (Mills; the Echo 1967 targeting man per Salas) suggest a 'mental-conditioning field' suppressing fear. | Hastings | LOW | UNVERIFIED | 1 | 15526 |
 | CLM131 | No UFO sightings on a ~4,000-person flight line were publicised because bases suppress local media. | Mills | MEDIUM | UNVERIFIED | 1 | 15838 |
 | CLM132 | Salas's 1996 recollection that his commander said 'the same thing happened at another flight' was Salas's alone; Meiwald's 1996 letter does not repeat it (as quoted by Carlson). | Carlson (critic) quoting Meiwald letter | HIGH | PARTIALLY_VERIFIED | 3 | 10022 |
+| CLM133 | Meiwald (1996, 2011) confirmed an Oscar Flight incident with security alarms, a team that saw a 'UFO' at an outlying LF, and missile problems; 'six to eight' missiles per Hastings. | Hastings via partial transcripts | CRITICAL | PARTIALLY_VERIFIED | 3 | 10002 |

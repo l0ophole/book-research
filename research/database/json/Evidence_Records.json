@@ -958,5 +958,29 @@
   "confidence": 3,
   "section_id": "SEC073",
   "line_ref": 10002
+ },
+ {
+  "evidence_id": "EVD081",
+  "description": "Meiwald's own words (SRC045). 1996 call with Salas (Salas leads: 'some of our missiles started shutting down. Is that right?'): Meiwald 'Uh huh ... Right. We had security alarms and, uh ... problems at a couple of the, uh, sites.' He recalls two guards who went to an LF, lost radio contact on return, were 'scared to death', relieved of duty; 'they had seen these, some crazy things.' 1 Oct 1996 letter (excerpt): 'Our home site was Oscar'; topside security reported the mobile team saw a 'UFO' near an LF just east of Highway 19 (Grass Range to the Missouri); radio contact lost; 'Two very upset young men'; no personnel injury recalled; the crew 'formed ... Sept 66 in N [status]'. 2011 call with Hastings: recalls being woken, 'unusual indications on the consol', a security violation, team reporting 'unusual activity'; does NOT remember Salas telling him of a bright object at the gate; 'I'm saying I don't remember'; 'We had an incident in October [sic] Flight' (sic by Hastings); recalls missile count as six to eight per Hastings (not in transcript excerpt). So: Meiwald independently affirms Oscar and a team's UFO report at an outlying LF, assents (to a leading question) to missiles shutting down, and does not corroborate the gate object, the injured guard, or the number ten. The Salas gate-object and the Meiwald LF-object are separate reports (Salas, 9 May 2011 email: the second came to Meiwald from the FSC). No date, time, or bearing appears. This partly corrects EVD077/EVD078: Meiwald's letter excerpt alone (as quoted by Carlson) omitted missiles, but the 1996 call shows assent.",
+  "evidence_type": "TRANSCRIPT_COMPARISON",
+  "provenance": "SRC045; SRC042",
+  "related_entities": "INC020;WIT012;EVD077;EVD078;CLM132",
+  "significance": "CRITICAL",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC073",
+  "line_ref": 10002
+ },
+ {
+  "evidence_id": "EVD082",
+  "description": "Evaluation of Carlson's claim (SRC042) that nowhere does Meiwald link the event he describes with missile failures and that transcripts show nothing of the kind: partly wrong. In the 1996 call Meiwald says 'Uh huh' and 'Right' to the missile-shutdown sequence, though he supplies no detail and the question was leading. Carlson's other points stand: no UFO at the gate, no injury, no date, a minor security alert is a possible reading, the 'N' in Meiwald's letter is crew status and not necessarily a flight (Hastings brackets it as 'November Flight'; the origin of Salas's 'November' is not established from this).",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "SRC045;SRC042",
+  "related_entities": "CLM132;EXP039",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC073",
+  "line_ref": 10002
  }
 ]

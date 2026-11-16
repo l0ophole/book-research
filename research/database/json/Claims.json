@@ -1582,5 +1582,17 @@
   "quotation": "",
   "section_id": "SEC073",
   "line_ref": 10022
+ },
+ {
+  "claim_id": "CLM133",
+  "claim_text": "Meiwald (1996, 2011) confirmed an Oscar Flight incident with security alarms, a team that saw a 'UFO' at an outlying LF, and missile problems; 'six to eight' missiles per Hastings.",
+  "attribution": "Hastings via partial transcripts",
+  "claim_type": "WITNESS_CONFIRMATION",
+  "importance": "CRITICAL",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "quotation": "",
+  "section_id": "SEC073",
+  "line_ref": 10002
  }
 ]

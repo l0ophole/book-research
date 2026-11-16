@@ -922,5 +922,12 @@
   "document_id": "DOC001",
   "section_id": "SEC073",
   "line_ref": 10022
+ },
+ {
+  "link_id": 133,
+  "claim_id": "CLM133",
+  "document_id": "DOC001",
+  "section_id": "SEC073",
+  "line_ref": 10002
  }
 ]
