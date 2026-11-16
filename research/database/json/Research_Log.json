@@ -298,5 +298,15 @@
   "query": "analysis/warren_echo2_passes.py; warren_echo1_passes.py; warren_echo2_coincidence.py",
   "result": "Echo 2: three visible passes; matches to log entries at chance; Echo 1: none. First run had a date-conversion bug (found and fixed).",
   "limitations": "Brightness not computed; other satellites untested"
+ },
+ {
+  "log_id": 31,
+  "log_date": "2026-11-16",
+  "action": "Parsed 1964-5A (Saturn stage) mean elements from SAO SR-289 p.81 image; propagated; checked fainter stars near azimuths 70/120; searched for Pegasus 3 elements",
+  "reason": "Follow-up question 1: other satellites and aircraft/meteor candidates",
+  "tool": "Python/PyEphem; image reading; WebSearch",
+  "query": "analysis/warren_s5_passes.py; warren_az120_check.py",
+  "result": "1964-5A not visible that night; az-120 entry has fainter-star candidates; Pegasus 3 elements not found (launched 30 Jul 1965).",
+  "limitations": "Pegasus series, aircraft and meteors untested"
  }
 ]

@@ -1,9 +1,9 @@
 import sqlite3,json,csv,os,re,shutil,datetime,hashlib
-import b01,b02,b03,b04,b05,b06,b07,b08,b09,b10,b11,b12,b13,b14,b15
+import b01,b02,b03,b04,b05,b06,b07,b08,b09,b10,b11,b12,b13,b14,b15,b16
 from kb import T,SM,sec
 BOOK='/root/.claude/uploads/0041f4a6-627b-57d1-a860-4a04cf581a1e/f3ff02a2-hastings-2008-ufos-and-nukes.md'
 OUT='/home/user/book-research/research'
-SCHEMA_VERSION='1.7.0'; GEN=datetime.date(2026,11,15).isoformat()
+SCHEMA_VERSION='1.8.0'; GEN=datetime.date(2026,11,15).isoformat()
 for _d in ['database','documents','incidents','witnesses','claims','government_documents','technical_evidence','sources','competing_explanations','missing_records','unresolved_questions','evidence_records']:
     if _d=='database':
         for _s in ['csv','json']: shutil.rmtree(f'{OUT}/database/{_s}',ignore_errors=True)

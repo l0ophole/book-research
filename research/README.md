@@ -1,4 +1,4 @@
-# UFOs and Nukes — evidence archive (version 1.7.0, 2026-11-15)
+# UFOs and Nukes — evidence archive (version 1.8.0, 2026-11-15)
 
 Research archive built from the supplied book file, with independent checks of selected claims.
 

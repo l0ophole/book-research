@@ -12,12 +12,12 @@
   "Sources": 38,
   "References": 358,
   "Competing_Explanations": 32,
-  "Evidence_Records": 67,
+  "Evidence_Records": 70,
   "Missing_Records": 42,
   "Research_Questions": 17,
-  "Relationships": 515,
+  "Relationships": 521,
   "Document_Claim_Links": 107,
-  "Research_Log": 30,
+  "Research_Log": 31,
   "Pattern_Scan_Leads": 143,
   "Name_Mentions": 196
  },
@@ -80,7 +80,7 @@
   ],
   [
    "relationships",
-   515
+   521
   ]
  ]
 }

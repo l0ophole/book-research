@@ -152,13 +152,13 @@
 
 ## RQ016 [HIGH] — Can the 1 Aug 1965 Warren log entries be tied to specific stars/planets/satellites once the log's time zone and date are fixed?
 - **Related:** INC033;EVD055;EVD056;EXP032
-- **Existing evidence:** Sky computation; Printy review; 90th SMW report; Blue Book addendum; Hynek printing found (clock = Blue Book/Eastern); entry-by-entry test redone with Pleiades; Echo 2 not modelled; SAO 1965 elements found; Echo 1 and Echo 2 passes computed; coincidence at chance
+- **Existing evidence:** Sky computation; Printy review; 90th SMW report; Blue Book addendum; Hynek printing found (clock = Blue Book/Eastern); entry-by-entry test redone with Pleiades; Echo 2 not modelled; SAO 1965 elements found; Echo 1 and Echo 2 passes computed; coincidence at chance; 1964-5A and other SAO satellites checked (none visible/too faint); az-120 check done
 - **Missing evidence:** Original Anspaugh log; positional data; Echo 2 and other satellite ephemerides for 1965; maps/plots in Blue Book file
 - **Potential sources:** Blue Book Cheyenne file; Hynek 1972; space-track/historical TLEs
 - **Methods:** Fix time zone; recompute alt/az for each entry; model satellite passes
 - **Verification criteria:** Entry-by-entry match table with explicit confidence
 - **Status:** LARGELY_COMPLETED (analysis); entry-level identification impossible without the original positional data
-- **Next action:** Test other bright satellites listed in SAO SR-289 (Explorer 19 balloon, 1964-5A Saturn stage, Anna 1B, Explorer 8) and aircraft/meteor candidates; obtain Blue Book Cheyenne file maps/plots; check EST vs EDT at Wright-Patterson
+- **Next action:** Obtain Pegasus 1/2/3 and S-IV stage elements (Space-Track history or other SAO volumes); check 1965 air traffic near Cheyenne; obtain Blue Book Cheyenne file maps/plots; EST vs EDT at Wright-Patterson
 
 ## RQ017 [MEDIUM] — Do Chapter 16's claims about Blue Book, OSI and missing national-security reports hold up against primary documents?
 - **Related:** CLM095;CLM096;CLM097;CLM098;CLM099;CLM100
