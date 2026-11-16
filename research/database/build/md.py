@@ -65,4 +65,5 @@ for x in rows('SELECT * FROM Research_Log ORDER BY log_id'): lg+=f"### {x['log_i
 w('research_log.md',lg)
 w('database/leads_pattern_scan.md','# Pattern-scan leads (unreviewed, machine-extracted)\n\nThese are paragraphs from sections NOT read verbatim, selected by date + facility keywords. They are *leads*, not extracted facts.\n\n'+table(['lead_id','section_id','line_ref','matched_date','score','verbatim_excerpt'],rows('SELECT * FROM Pattern_Scan_Leads')))
 w('database/name_mentions.md','# Auto-extracted ranked-name mentions (unverified)\n\n'+table(['normalized_name','rank_or_title','mention_count','first_line','last_line'],rows('SELECT * FROM Name_Mentions ORDER BY mention_count DESC LIMIT 100'))+'\n\n*(Top 100 shown; all rows in Name_Mentions.)*\n')
+import shutil;shutil.copy('/tmp/claude-0/-home-user-book-research/0041f4a6-627b-57d1-a860-4a04cf581a1e/scratchpad/timeline_minot.md',f'{OUT}/documents/minot_1968_timeline.md')
 print('md ok')

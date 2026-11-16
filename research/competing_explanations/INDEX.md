@@ -30,3 +30,4 @@
 | EXP026 | INC052 | B-52 itself (upper airwork, VOR penetration, low approach with landing lights, missed approach) plus haze/inversion explaining many ground sightings (Blue Book discussion) | OPEN |
 | EXP027 | INC052 | Radar artefacts/natural: meteor echo, anomalous propagation, multiple-trip returns, lightning, ECM/other B-52 radar interference, balloon, satellite, birds/insects (all tested by Shough) | OPEN |
 | EXP028 | INC052 (ground observers) | Sirius under temperature inversion/haze with scintillation, autokinesis, passing cloud (Blue Book Atch) | OPEN |
+| EXP029 | INC052 (B-52 air visual) | Terrestrial light or other aircraft/ground source seen at long range, with range and height misjudged at night in haze (Blue Book offered "a light on the ground" as an alternative to Vega) | OPEN |

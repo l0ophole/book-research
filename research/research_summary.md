@@ -1,6 +1,6 @@
 # Research summary — *UFOs and Nukes* (Hastings, 2008)
 
-*Generated 2026-11-15 (v1.2.0). Read this with `research_limitations.md`: ~27% of the book has been read verbatim (v1.0 pass + follow-up 1).*
+*Generated 2026-11-15 (v1.3.0). Read this with `research_limitations.md`: ~27% of the book has been read verbatim (v1.0 pass + follow-up 1).*
 
 ## 1. Document reviewed
 `f3ff02a2-hastings-2008-ufos-and-nukes.md` — OCR-converted markdown of Robert L. Hastings, *UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites* (24,203 lines, ~222,700 words; Introduction, 31 chapters, Appendices A–B, 358 parsed endnotes). No page numbers, photographs or figures are present in the file.
@@ -56,7 +56,7 @@ See `sources/INDEX.md`, `evidence_records/INDEX.md`. Summary:
 See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md` (23 records).
 
 ---
-## Follow-up 1 (v1.2.0): Chapters 7, 12, 13, 14, 15 read in full and verified
+## Follow-up 1 (v1.3.0): Chapters 7, 12, 13, 14, 15 read in full and verified
 
 **New records:** incidents INC036–INC053, claims CLM057–CLM086, witnesses WIT033–WIT064, evidence EVD014–EVD022, sources SRC017–SRC022.
 
@@ -69,7 +69,7 @@ See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md`
 6. **Ch.13 is argument, not incident evidence.** Verified: the Low "trick memo" quotation and Frazier's Sandia employment (1983–2006, Wikipedia). Not verified: "91 sightings", "nearly 30% unknown", the Condon "horse-whipped" remark, Oberg's exact 1970–72 Kirtland dates, Klass's Inman/Graham letter. Hastings concedes he has no proof of any covert role (line 12461). Analyst note: employer affiliations do not by themselves refute a factual argument (CLM076).
 
 ---
-## Follow-up 2 (v1.2.0): Minot 24 Oct 1968 — recomputing the radar speed and checking the dispatcher log
+## Follow-up 2 (v1.3.0): Minot 24 Oct 1968 — recomputing the radar speed and checking the dispatcher log
 
 **Sources obtained** (all from the Tulien/Sign Oral History Project site): Blue Book Final Case Report (primary reproduction, SRC025), Base Operations Dispatcher Log (SRC026), the 14 radarscope scans (SRC027), and the Shough (SRC023) and Poher (SRC024) analyses.
 
@@ -82,3 +82,16 @@ See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md`
 **Dispatcher log vs. the Blue Book explanation.** The Blue Book text confirms the Oscar-7 sentence, the Sirius/B-52/plasma/Vega verdict, and that the B-52 flew upper airwork near the area from about the time of the first sighting; later sightings “correlate with” its VOR penetration/low approach/missed approach. But (EVD028): the 0828–0830Z jet-noise entries precede the B-52's low approach (~0904–0917 COM), and the 0940–1010Z entries, after the log says the B-52 landed, describe a stationary object *west* of N-7 near the ground. **Astronomical check** (EVD029): Sirius was at azimuth 132–162°, altitude 11–23° throughout, fitting the early “S/E of N-7” entries but not the later “west of N-7” ones; Vega was low in the NNW and set ~0940Z, while the pilot's light was “west-northwest”.
 
 **Assessment.** The aircraft/star explanation plausibly covers some ground reports; it does not demonstrably cover the later stationary-object entries or the airborne radar echo. The book's speed derivation is wrong, and its account omits the Oscar-7 intrusion and the dispatcher-log/airwork correlation. Neither side's evidence yet reaches a conclusion: the key remaining items are the pilots' AF Forms 117, the approach transcript clock offsets and the original film.
+
+---
+## Follow-up 3 (v1.3.0): Minot 1968 — approach-control transcript, AF Forms 117, unified timeline
+
+Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcript (SRC029) and five AF 117s (SRC028); Adams and Jablonski forms not viewed.
+
+1. **Correction to my last report.** Shough and Poher do not really disagree on *when* the frames fall: both altitude models put them at ~10–11.5 k ft MSL, i.e., 3–5 minutes after the echo was first reported near FL200 and shortly before it was last reported (~10 k ft); they differ on the radarscope-clock offset (Shough 7–8 min, Poher 9, my linear-descent estimate 5–6). Consequence: the fast 771→773 transit is **not** the "initial" approach that Werlich's 3,000 mph memo and McCaslin describe, so the photos cannot test that speed (EVD034).
+2. **Partin's own form vs. the book.** His 30 Oct 1968 questionnaire describes a stationary "bright orange ball of light," ~15 miles away at one o'clock, "on the ground or just slightly above," a "miniature sun placed on the ground." It does not mention an oblong shape, windows or a tube; those appear in later interviews (EVD035). His stated time (0430–0435 CDT) matches neither the transcript (downwind leg ≈0410 CDT) nor the file's note "should be 0335."
+3. **Blue Book's Vega explanation fails on brightness.** Direction fits (≈328–332° predicted vs. Vega 336–337°), but at ~1° altitude Vega's atmospheric extinction makes it roughly magnitude 5–7, not a "bright orange ball" (EVD037). A star also cannot be passed "one mile to the south, and above it." A terrestrial light or other aircraft, with misjudged range, fits better but is untested (EXP029).
+4. **Ground observers are not uniform.** Smith (burnt orange, twinkling like a star, on the horizon) and O'Connor (white→green→amber; file annotation "characteristic colors of Sirius"; last bearing ESE–SE at ~20°, matching Sirius) fit a scintillating star; Isley (headlight/landing-light-like lights plus a green flashing light) sounds more like an aircraft; Bond reports a point of light with fuzzy edges and a nearby town light (EVD038).
+5. **What the transcript adds.** The 0835 "flying saucers again" line is real, but at 0852 the B-52 reported "nothing on our airborne radar" and "thick haze." No general-officer diversion appears in the transcript (a gap, not a refutation). A B-52 was near Minot at ~0828–0834Z, so the earliest "jet engines heard" entries may be it (correction to EVD028, see EVD040). An internal conflict remains: 0913Z "missile site personnel don't see anything anymore" vs. dispatcher entries of an object near N-7 until ~1010Z (EVD039).
+
+**Assessment.** The aircraft/star explanation covers part of the ground evidence better than I credited last time (jet-noise entries, Sirius-like descriptions) but fails for the B-52 air visual as Vega, and does not explain the airborne radar echo or the post-landing dispatcher entries. The book's later-interview details (windows, oblong shape) are not in the 1968 form. Still unresolved: the echo's true speed (assumption-bound), the clock offset, and the missing film.

@@ -484,5 +484,41 @@
   "reliability_notes": "Prints, not original negatives; no range-scale indicator on frame.",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC028",
+  "title": "AF Forms 117 (Sighting of Unidentified Phenomena Questionnaires), Minot 24 Oct 1968: Partin, Bond, Smith, Isley, O'Connor (Adams, Jablonski not viewed)",
+  "author": "Maj James A. Partin; Sgt James Bond; William E. Smith Jr.; Lloyd M. Isley; Robert O'Connor",
+  "organization": "USAF Project Blue Book case 12,548 (reproduction on minotb52ufo.com)",
+  "pub_date": "1968-10-24..30",
+  "source_type": "Contemporaneous witness questionnaires (scanned handwriting)",
+  "classification": "PRIMARY",
+  "url": "https://minotb52ufo.com/pdf/AF-117-Partin.pdf",
+  "document_identifier": "Blue Book case 12,548 AF 117s",
+  "pages_sections": "9 pp each",
+  "access_date": "2026-11-16",
+  "related_entities": "INC052;EVD033;EVD035;EVD036;EVD037",
+  "extracted_information": "Partin (completed 30 Oct): bright orange ball of light at 1 o'clock ~15 mi, on/just above ground, stationary; \"looked like a miniature sun placed on the ground below the aircraft\"; sketch \"orange ball of light\" with \"a very dim ring of soft white light\"; time 0430-0435 CDT annotated \"should be 0335\"; \"Only stars\" as illumination. Smith: reddish burnt orange, twinkling like a star, slight green, on horizon. Isley: headlight/landing-light-like lights and green flashing light, two objects at one time. Bond: point of light, fuzzy edges, 2 objects, Mohall town light 4 mi. O'Connor: white ball -> dim green -> dim amber, \"stingray\".",
+  "reliability_notes": "Handwriting read from scans at 65-90 dpi; compass marks and some times uncertain; Adams and Jablonski forms not viewed.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC029",
+  "title": "Transcript of approach-control tape, 24 Oct 1968, 0830-0928 (Blue Book doc 17)",
+  "author": "Minot AFB Approach Control (transcriber unknown)",
+  "organization": "USAF Project Blue Book case 12,548 (reproduction on minotb52ufo.com)",
+  "pub_date": "1968-10-24",
+  "source_type": "Radio transcript (typed, 3 pp)",
+  "classification": "PRIMARY",
+  "url": "https://minotb52ufo.com/pdf/0017.pdf",
+  "document_identifier": "Blue Book doc 17",
+  "pages_sections": "pp. 1-3",
+  "access_date": "2026-11-16",
+  "related_entities": "INC052;GOV016;EVD030;EVD031;EVD032",
+  "extracted_information": "Contains the \"Somebody is seeing flying saucers again\" line (0835), weather-radar report and B-52 \"nothing on our airborne radar\" (0852), radio trouble 0858-0902, pilot statements at 0902/0904, \"going around\" 0906, 0913 \"missile site personnel advise they don't see anything anymore\", landing arrangements.",
+  "reliability_notes": "Transcriber unknown; lacunae and garbled passages noted by Shough; no mention of a general-officer diversion.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

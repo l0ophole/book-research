@@ -313,7 +313,7 @@
  },
  {
   "evidence_id": "EVD027",
-  "description": "Timeline dispute between analysts: Shough concludes frames 771-783 were taken late in the event near the missed approach (so the 'fast' echo transit is not the start); Poher concludes the radarscope clock (0906Z) runs ~9 min ahead of the approach-controller clock so frames coincide with radio loss at ~0858 COM when the B-52 was ~21 nm out (early). The question of when the high-speed transit occurred relative to ground sightings is unresolved in the sources I read.",
+  "description": "[SUPERSEDED by EVD034] Timeline dispute between analysts: Shough concludes frames 771-783 were taken late in the event near the missed approach (so the 'fast' echo transit is not the start); Poher concludes the radarscope clock (0906Z) runs ~9 min ahead of the approach-controller clock so frames coincide with radio loss at ~0858 COM when the B-52 was ~21 nm out (early). The question of when the high-speed transit occurred relative to ground sightings is unresolved in the sources I read.",
   "evidence_type": "ANALYST_DISAGREEMENT",
   "provenance": "SRC023 vs SRC024 Appendix 1",
   "related_entities": "INC052",
@@ -325,7 +325,7 @@
  },
  {
   "evidence_id": "EVD028",
-  "description": "Dispatcher log vs B-52 explanation: entries 0828-0830Z mention jet engines; the B-52 low approach/missed approach was ~0904-0917 COM (Poher). So the Blue Book statement that 'later sightings ... correlate with' the B-52 low approach is plausible for entries after ~0900Z but not demonstrated for the 0800-0858Z entries; and entries 0940-1010Z (after the log says the B-52 landed at 0940Z) describe a stationary object west of N-7 on/near the ground, which the B-52 cannot explain.",
+  "description": "[PARTLY SUPERSEDED by EVD040] Dispatcher log vs B-52 explanation: entries 0828-0830Z mention jet engines; the B-52 low approach/missed approach was ~0904-0917 COM (Poher). So the Blue Book statement that 'later sightings ... correlate with' the B-52 low approach is plausible for entries after ~0900Z but not demonstrated for the 0800-0858Z entries; and entries 0940-1010Z (after the log says the B-52 landed at 0940Z) describe a stationary object west of N-7 on/near the ground, which the B-52 cannot explain.",
   "evidence_type": "DOCUMENT_COMPARISON",
   "provenance": "SRC025; SRC026; SRC024",
   "related_entities": "INC052;EXP024;EXP026",
@@ -358,5 +358,125 @@
   "confidence": 3,
   "section_id": "SEC080",
   "line_ref": 12816
+ },
+ {
+  "evidence_id": "EVD031",
+  "description": "Transcript time base: COM clock is Zulu (landing 0940Z matches dispatcher log and pilot's request to 'touch down at 40 past'; CDT = Z-5 with DST still in effect on 24 Oct 1968). All earlier 'local time' mismatches in the file are 1-hr/20-min inconsistencies in individual witness entries, not in the transcript.",
+  "evidence_type": "ANALYSIS_RESULT",
+  "provenance": "SRC029; SRC026",
+  "related_entities": "INC052",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12842
+ },
+ {
+  "evidence_id": "EVD032",
+  "description": "Transcript 0852: controller says weather radar also sees the object at the B-52's 1:00, 3 miles; B-52 replies 'We have nothing on our airborne radar and I'm in some pretty thick haze'. Omitted from the book's narrative, which says RAPCON was told weather radar tracked the object 'near Bowbells, ND, 38 nm NW' (Bowbells does not appear in the transcript).",
+  "evidence_type": "DOCUMENT_COMPARISON",
+  "provenance": "SRC029 vs book 12850-12853",
+  "related_entities": "INC052",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12850
+ },
+ {
+  "evidence_id": "EVD033",
+  "description": "Pilot radio reports (transcript 0902/0904): echo at ~1.25-1.5 mi left of the aircraft from 'about the time we left 200 to about 14 [thousand]' and 'till about 10'; radio trouble began 'exactly' then. Together with the ~10-11.5 k ft altitude derived from the photos, this places frames 771-783 in the latter part of the echo episode (about 0858-0902Z), 3-5 min after first report near FL200.",
+  "evidence_type": "DOCUMENT_COMPARISON",
+  "provenance": "SRC029; SRC023; SRC024; analyst calculation",
+  "related_entities": "INC052;TEC008",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12842
+ },
+ {
+  "evidence_id": "EVD034",
+  "description": "CORRECTION to EVD027: the Shough/Poher 'early vs late' contrast is narrower than I first reported. Both altitude models put the frames at ~10-11.5 k ft MSL, i.e., late in the echo episode and after the FL200 turn; they differ mainly on clock offset (Shough 7-8 min with caveats; Poher 9 min; my linear-descent estimate 5-6 min). The fast transit in frames 771-773 is therefore not the 'initial' fast approach described by Werlich/McCaslin. See documents/minot_1968_timeline.md.",
+  "evidence_type": "CORRECTION",
+  "provenance": "SRC023; SRC024; SRC029; analyst calculation",
+  "related_entities": "INC052;EVD027",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12862
+ },
+ {
+  "evidence_id": "EVD035",
+  "description": "Partin's Form 117 (30 Oct 1968) describes a stationary 'bright orange ball of light' ~15 mi away at 1 o'clock on/just above the ground, 'miniature sun placed on the ground'; it does not mention an oblong shape, windows, or a tubular section. Those details appear in later interviews quoted by the book (Partin: 'oblong ... windows'; Runyon: barn-sized with a tube, 32 yrs later). The form's sketch shows a small circle with 'a very dim ring of soft white light'.",
+  "evidence_type": "DOCUMENT_VS_LATER_ACCOUNT",
+  "provenance": "SRC028 vs book 12889-12904",
+  "related_entities": "INC052;WIT058;WIT061",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12889
+ },
+ {
+  "evidence_id": "EVD036",
+  "description": "Partin's reported time (0430-0435 CDT = 0930-0935Z) does not match the transcript (downwind leg 0910Z = 0410 CDT; final 0928Z); the file's annotation 'should be 0335 CDT' (an hour earlier) matches neither. Blue Book used 0435 for its Vega calculation.",
+  "evidence_type": "TIMING_DISCREPANCY",
+  "provenance": "SRC028; SRC029; SRC025",
+  "related_entities": "INC052",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12889
+ },
+ {
+  "evidence_id": "EVD037",
+  "description": "Vega test of the Blue Book 'air visual' explanation (analyst calculation): bearing OK — Partin's 1 o'clock from heading 290 magnetic is ~328-332 deg true (declination 8-12 E) vs Vega az 336-337 deg at 0906-0910Z. Brightness FAILS — Vega was only ~1.4 deg->0.4 deg high (airmass 23-33): extinction ~4.6-6.9 mag at 0906Z (k 0.2-0.3), so Vega would appear ~mag 5-7 or fainter, not a 'bright orange ball'/'miniature sun'. Also the light 'remained stationary as we flew toward it' and the aircraft passed ~1 mi south of it, which a star cannot do. A terrestrial light (e.g., ground light, other aircraft) or misjudged range is more consistent than Vega.",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "Computed; positions ~0.5 deg; extinction coefficients assumed",
+  "related_entities": "INC052;EXP026;EXP029",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12916
+ },
+ {
+  "evidence_id": "EVD038",
+  "description": "Ground-observer forms: Smith — reddish burnt orange, twinkling like a star, slight green, on the horizon, ~15 deg elevation, no edges (compass mark appears S-SW; Sirius was SE-SSE: low-res reading, needs checking); O'Connor — white ball -> dim green -> dim amber, facing south, final mark ESE-SE at ~20 deg (matches Sirius direction/elevation) and a Blue Book annotation 'Characteristic colors of Sirius'; Isley — lights 'like head lights or landing lights' on the front and a green flashing light toward the middle or rear, shape/size not determinable, two objects at one time (more aircraft-like); Bond — point of light with fuzzy edges ~10 mi from N-7, two objects, second seen ~3 min, Mohall town lights 4 mi. The observers' descriptions are not uniform: some fit a scintillating Sirius, one suggests an aircraft.",
+  "evidence_type": "WITNESS_STATEMENTS",
+  "provenance": "SRC028",
+  "related_entities": "INC052;EXP026;EXP028",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12805
+ },
+ {
+  "evidence_id": "EVD039",
+  "description": "Internal conflict in the file: transcript 0913Z says missile-site personnel 'don't see anything anymore'; dispatcher entries 0940-1010Z say N-7 still sees an object 3 mi west, stationary near the ground. Different sites/time bases are not established.",
+  "evidence_type": "DOCUMENT_COMPARISON",
+  "provenance": "SRC029 vs SRC026",
+  "related_entities": "INC052",
+  "significance": "MEDIUM",
+  "verification_status": "DISPUTED",
+  "confidence": 2,
+  "section_id": "SEC080",
+  "line_ref": 12811
+ },
+ {
+  "evidence_id": "EVD040",
+  "description": "CORRECTION to EVD028: the transcript shows the B-52 was in the Minot area around 0828-0834Z ('TA calibration check to rw 11', climbing out on heading 290 at 0834), so the 0828-0830Z 'jet engines heard' entries may well be the B-52 — partly supporting the Blue Book aircraft explanation for the earliest entries. The post-0940Z entries (object W of N-7 after the B-52 landed) remain unexplained by it.",
+  "evidence_type": "CORRECTION",
+  "provenance": "SRC029; SRC026",
+  "related_entities": "INC052;EXP026",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12811
  }
 ]

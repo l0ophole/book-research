@@ -102,7 +102,7 @@
 
 ## RQ011 [CRITICAL] — What do the primary Blue Book case 12,548 documents show for Minot 24 Oct 1968, and do aircraft/star explanations account for the ground and radar observations?
 - **Related:** INC052;GOV014;GOV015;GOV016;EXP024;EXP025
-- **Existing evidence:** Tulien report; Quintanilla statement; dispatcher log; Shough & Poher reports; Blue Book final report; dispatcher log; speed recomputation (EVD023-EVD029)
+- **Existing evidence:** Tulien report; Quintanilla statement; dispatcher log; Shough & Poher reports; Blue Book final report; dispatcher log; speed recomputation (EVD023-EVD029); AF 117s (5 of 7 viewed) and transcript examined
 - **Missing evidence:** Radarscope prints and film; SAC (Werlich) investigation; Oscar-7 break-in report; B-52 flight track
 - **Potential sources:** NARA Blue Book; Tulien; AFHRA
 - **Methods:** Download file; compare book narrative with documents; reconstruct B-52 track/star positions
@@ -142,11 +142,11 @@
 
 ## RQ015 [CRITICAL] — When did the fast echo transit occur relative to the ground sightings (Shough: late; Poher: early), and does a consistent clock reconstruction support a single-target interpretation?
 - **Related:** INC052;EVD027;TEC008
-- **Existing evidence:** Two analyses with opposite conclusions
+- **Existing evidence:** Two analyses with opposite conclusions; transcript and AF 117s read; unified timeline built (documents/minot_1968_timeline.md); analysts agree on frame altitude, differ on clock offset 5-9 min
 - **Missing evidence:** Synchronised clocks (RAPCON transcript, dispatcher log, radarscope clock); AF Forms 117; B-52 track
 - **Potential sources:** minotb52ufo.com PDFs; NARA T1206
 - **Methods:** Rebuild a unified timeline from transcript + radar clock offset
 - **Verification criteria:** Consistent timeline reproducible by an independent analyst
-- **Status:** NOT_STARTED
-- **Next action:** Extract timestamped events from SRC024 App.1 and the approach transcript
+- **Status:** PARTIALLY_COMPLETED
+- **Next action:** Obtain Adams/Jablonski forms and documents 5-15; measure photo features independently; get Werlich track overlay and approach-controller clock calibration
 

@@ -1066,5 +1066,29 @@
   "quotation": "",
   "section_id": "SEC080",
   "line_ref": 12862
+ },
+ {
+  "claim_id": "CLM090",
+  "claim_text": "Partin saw an oblong object with lit windows (book, from later interview) — his own 1968 form describes only a bright orange ball/'miniature sun' on the ground.",
+  "attribution": "Partin; contemporaneous form",
+  "claim_type": "DOCUMENT_VS_LATER_ACCOUNT",
+  "importance": "HIGH",
+  "verification_status": "DISPUTED",
+  "confidence": 2,
+  "quotation": "",
+  "section_id": "SEC080",
+  "line_ref": 12889
+ },
+ {
+  "claim_id": "CLM091",
+  "claim_text": "The B-52 was 'unexpectedly diverted' by an unidentified general officer to overfly the UFO.",
+  "attribution": "Book (Runyon/others)",
+  "claim_type": "WITNESS_CLAIM",
+  "importance": "MEDIUM",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "quotation": "",
+  "section_id": "SEC080",
+  "line_ref": 12879
  }
 ]

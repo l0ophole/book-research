@@ -1,4 +1,4 @@
-# UFOs and Nukes — evidence archive (version 1.2.0, 2026-11-15)
+# UFOs and Nukes — evidence archive (version 1.3.0, 2026-11-15)
 
 Research archive built from the supplied book file, with independent checks of selected claims.
 
@@ -10,6 +10,7 @@ Research archive built from the supplied book file, with independent checks of s
 | Research log | [research_log.md](research_log.md) |
 | Database (authoritative) | [database/evidence.sqlite](database/evidence.sqlite) · [schema](database/schema.md) |
 | CSV / JSON exports | `database/csv/`, `database/json/` (`_complete_export.json`) |
+| Minot 1968 timeline | [documents/minot_1968_timeline.md](documents/minot_1968_timeline.md) |
 | Coverage matrix | [documents/coverage_matrix.md](documents/coverage_matrix.md) |
 | Incidents | [incidents/INDEX.md](incidents/INDEX.md) |
 | Witnesses | [witnesses/INDEX.md](witnesses/INDEX.md) |

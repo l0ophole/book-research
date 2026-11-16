@@ -338,5 +338,15 @@
   "status": "OPEN",
   "section_id": "SEC080",
   "line_ref": 12884
+ },
+ {
+  "missing_id": "MIS035",
+  "description": "Blue Book case 12,548 documents 5-15 (memos for the record, upper-air data, witness list, log of events) and AF 117s of Adams and Jablonski",
+  "existence_status": "KNOWN (listed on minotb52ufo.com)",
+  "potential_repository": "minotb52ufo.com; NARA T1206",
+  "acquisition_method": "Download and read",
+  "status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12788
  }
 ]

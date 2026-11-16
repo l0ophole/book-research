@@ -91,3 +91,5 @@
 | CLM087 | Werlich's initial memo gave the UFO's initial speed as ~3,000 mph (2½ miles in 3 seconds). | Werlich memo via Shough | MEDIUM | PARTIALLY_VERIFIED | 3 | 12862 |
 | CLM088 | Hastings' statement that Clark derived 3,900 mph from two miles in one 3-second sweep is not supported: arithmetic gives 2,400 mph; Shough reconstructs 3,900 KNOTS as an average of two paint-time-corrected co-altitude upper-limit rates. | Analyst finding (EVD024, EVD025) | HIGH | PARTIALLY_VERIFIED | 3 | 12862 |
 | CLM089 | Poher: acceleration of ~189 g and speed ~Mach 8 for the 6,100 m to 1,930 m move in <3 s; could theoretically allow interstellar travel. | Poher via Tulien site | LOW | UNVERIFIED | 1 | 12862 |
+| CLM090 | Partin saw an oblong object with lit windows (book, from later interview) — his own 1968 form describes only a bright orange ball/'miniature sun' on the ground. | Partin; contemporaneous form | HIGH | DISPUTED | 2 | 12889 |
+| CLM091 | The B-52 was 'unexpectedly diverted' by an unidentified general officer to overfly the UFO. | Book (Runyon/others) | MEDIUM | UNVERIFIED | 1 | 12879 |

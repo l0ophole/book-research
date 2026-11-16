@@ -133,3 +133,17 @@
 - Result: Sirius SE-SSE alt 11-23 deg; Vega NW-NNW low, setting ~0940Z.
 - Limitations: No refraction; approximate coordinates
 
+### 20. 2026-11-16 — Read transcript (doc 17), viewed Partin, Bond, Smith, Isley, O'Connor AF 117s; built unified timeline
+- Reason: Follow-up question 1 (settle Shough vs Poher timeline)
+- Tool: pdftotext, pdftoppm, image viewing, Python
+- Query/target: pdf/0017.pdf; pdf/AF-117-*.pdf
+- Result: Timeline reconciled to the transcript Zulu clock; analysts agree on altitude; offset 5-9 min; Partin form differs from later account; Vega fails brightness test.
+- Limitations: Handwriting resolution limited; Adams/Jablonski not viewed; no NARA originals
+
+### 21. 2026-11-16 — Analyst calculation: Vega bearing, altitude and extinction at 0906-0935Z
+- Reason: Test Blue Book Vega explanation
+- Tool: Python
+- Query/target: Minot coordinates; Kasten-Young airmass
+- Result: Bearing consistent; brightness inconsistent (mag ~5-7).
+- Limitations: Extinction coefficients assumed; refraction/ducting not modelled
+

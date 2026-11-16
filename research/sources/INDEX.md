@@ -29,3 +29,5 @@
 | SRC025 | Project Blue Book Final Case Report, Minot AFB 24 Oct 1968 (FTD 13 Nov 1968 + Discussion of Background Information) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/Blue-Book-Final-Case-Report.pdf |
 | SRC026 | Base Operations Dispatcher Log, Minot AFB, 24 Oct 1968 (Zulu times) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/Base-Operations-Dispatcher-Log.pdf |
 | SRC027 | B-52 radarscope photographs 771-784 (14 frames), scans of Blue Book prints | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/All-Radarscope-Photographs.pdf |
+| SRC028 | AF Forms 117 (Sighting of Unidentified Phenomena Questionnaires), Minot 24 Oct 1968: Partin, Bond, Smith, Isley, O'Connor (Adams, Jablonski not viewed) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/AF-117-Partin.pdf |
+| SRC029 | Transcript of approach-control tape, 24 Oct 1968, 0830-0928 (Blue Book doc 17) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/0017.pdf |

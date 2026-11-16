@@ -621,5 +621,19 @@
   "document_id": "DOC001",
   "section_id": "SEC080",
   "line_ref": 12862
+ },
+ {
+  "link_id": 90,
+  "claim_id": "CLM090",
+  "document_id": "DOC001",
+  "section_id": "SEC080",
+  "line_ref": 12889
+ },
+ {
+  "link_id": 91,
+  "claim_id": "CLM091",
+  "document_id": "DOC001",
+  "section_id": "SEC080",
+  "line_ref": 12879
  }
 ]

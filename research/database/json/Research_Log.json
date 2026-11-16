@@ -188,5 +188,25 @@
   "query": "Minot AFB coordinates; precession-corrected coordinates",
   "result": "Sirius SE-SSE alt 11-23 deg; Vega NW-NNW low, setting ~0940Z.",
   "limitations": "No refraction; approximate coordinates"
+ },
+ {
+  "log_id": 20,
+  "log_date": "2026-11-16",
+  "action": "Read transcript (doc 17), viewed Partin, Bond, Smith, Isley, O'Connor AF 117s; built unified timeline",
+  "reason": "Follow-up question 1 (settle Shough vs Poher timeline)",
+  "tool": "pdftotext, pdftoppm, image viewing, Python",
+  "query": "pdf/0017.pdf; pdf/AF-117-*.pdf",
+  "result": "Timeline reconciled to the transcript Zulu clock; analysts agree on altitude; offset 5-9 min; Partin form differs from later account; Vega fails brightness test.",
+  "limitations": "Handwriting resolution limited; Adams/Jablonski not viewed; no NARA originals"
+ },
+ {
+  "log_id": 21,
+  "log_date": "2026-11-16",
+  "action": "Analyst calculation: Vega bearing, altitude and extinction at 0906-0935Z",
+  "reason": "Test Blue Book Vega explanation",
+  "tool": "Python",
+  "query": "Minot coordinates; Kasten-Young airmass",
+  "result": "Bearing consistent; brightness inconsistent (mag ~5-7).",
+  "limitations": "Extinction coefficients assumed; refraction/ducting not modelled"
  }
 ]
