@@ -1618,5 +1618,17 @@
   "quotation": "",
   "section_id": "SEC073",
   "line_ref": 10065
+ },
+ {
+  "claim_id": "CLM136",
+  "claim_text": "Klotz/Salas 1996: a second LCC (November Flight) lost 4-5 missiles at the same time as Echo's ten and its guards saw a red saucer outside the front gate.",
+  "attribution": "Klotz and Salas 1996",
+  "claim_type": "INCIDENT_CLAIM",
+  "importance": "CRITICAL",
+  "verification_status": "CONTRADICTED",
+  "confidence": 1,
+  "quotation": "",
+  "section_id": "SEC073",
+  "line_ref": 10030
  }
 ]

@@ -310,5 +310,18 @@
   "verification_criteria": "Team routes recorded",
   "status": "NOT_STARTED",
   "next_action": "Request full report 23 Mar 1967"
+ },
+ {
+  "question_id": "RQ025",
+  "question": "What did the full Echo engineering report conclude about externally injected pulses and about UFO rumors, and what did the Mobile Strike Team actually check?",
+  "priority": "HIGH",
+  "related_entities": "INC019;EVD087;EVD088;RQ024",
+  "existing_evidence": "Excerpt of wing history; secondary accounts",
+  "missing_evidence": "Full report; Kaminski letter; AARO findings",
+  "potential_sources": "AFHRA; Klotz; AARO",
+  "recommended_methods": "Locate full texts",
+  "verification_criteria": "Primary text of the report",
+  "status": "NOT_STARTED",
+  "next_action": "Look for AARO Malmstrom release"
  }
 ]

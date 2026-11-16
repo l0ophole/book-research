@@ -826,5 +826,23 @@
   "reliability_notes": "Real recorded calls but my access is to the advocate-written text, not the audio; Hastings flags several of his own misstatements.",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC047",
+  "title": "NICAP Nuclear Connection Project directory page on Malmstrom/Echo Flight (Ridge; Sparks comment)",
+  "author": "Francis Ridge (coordinator); Brad Sparks quoted",
+  "organization": "NICAP",
+  "pub_date": "updated 2006-02-03",
+  "source_type": "Advocacy directory page",
+  "classification": "SECONDARY",
+  "url": "https://www.nicap.org/babylon/670316_malmstromE.htm",
+  "document_identifier": "",
+  "pages_sections": "whole page",
+  "access_date": "2026-11-16",
+  "related_entities": "INC019;EVD087;EVD088",
+  "extracted_information": "Says Boeing, not NSA, investigated and issued a SECRET Report of Engineering Investigation of Echo Flight Incident; claims UFO rumors were denied so the shutdown could be investigated separately.",
+  "reliability_notes": "Advocacy; contains the Sparks interpretation, not evidence.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

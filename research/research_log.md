@@ -266,3 +266,10 @@
 - Result: EVD085-086; RQ024; EXP035 corrected
 - Limitations: Transcription by a third party; original not seen; Boeing noise-injection result not in excerpt
 
+### 39. 2026-11-16 — Searched for the full Engineering Investigation report, Kaminski letter, AARO statement; read NICAP 1996 mirror and NICAP directory page
+- Reason: Follow-up 3: Boeing noise-injection finding
+- Tool: WebSearch; curl
+- Query/target: nicap.org pages
+- Result: Full report/Kaminski letter not found; found 1996 10-volt pulse claim and November-same-morning claim contradicted by SRC002; EVD087-088
+- Limitations: AARO and Kaminski items are secondhand blog claims; not verified
+

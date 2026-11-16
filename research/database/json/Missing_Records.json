@@ -498,5 +498,15 @@
   "status": "OPEN",
   "section_id": "SEC073",
   "line_ref": 10065
+ },
+ {
+  "missing_id": "MIS051",
+  "description": "Full Report of Engineering Investigation of Echo Flight Incident (23 Mar 1967); Kaminski 1 Feb 1997 letter to Klotz; Boeing Seattle test report; AARO case file on Malmstrom (if any)",
+  "existence_status": "KNOWN / SUSPECTED",
+  "potential_repository": "AFHRA; Boeing; Klotz; AARO",
+  "acquisition_method": "Request AARO historical records; ask Klotz/Hastings",
+  "status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10099
  }
 ]

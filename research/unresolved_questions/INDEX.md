@@ -26,3 +26,4 @@
 | RQ022 | At what clock time and from what direction did the Oscar guards report the red light (needed to test Mars/Moon/aircraft explanations)? | HIGH | NOT_STARTED | Ask for full text |
 | RQ023 | Do Echo-era security/maintenance logs record UFO reports before or after 0845 on 16 Mar 1967? | CRITICAL | NOT_STARTED | Obtain Figel tapes |
 | RQ024 | Why does the wing history cite a Mobile Strike Team that checked November Flight LFs as disproving UFO rumors at Echo, and did it also cover Echo LFs? | HIGH | NOT_STARTED | Request full report 23 Mar 1967 |
+| RQ025 | What did the full Echo engineering report conclude about externally injected pulses and about UFO rumors, and what did the Mobile Strike Team actually check? | HIGH | NOT_STARTED | Look for AARO Malmstrom release |

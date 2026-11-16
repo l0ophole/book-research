@@ -378,5 +378,15 @@
   "query": "rr0.netlify.app Malmstrom",
   "result": "EVD085-086; RQ024; EXP035 corrected",
   "limitations": "Transcription by a third party; original not seen; Boeing noise-injection result not in excerpt"
+ },
+ {
+  "log_id": 39,
+  "log_date": "2026-11-16",
+  "action": "Searched for the full Engineering Investigation report, Kaminski letter, AARO statement; read NICAP 1996 mirror and NICAP directory page",
+  "reason": "Follow-up 3: Boeing noise-injection finding",
+  "tool": "WebSearch; curl",
+  "query": "nicap.org pages",
+  "result": "Full report/Kaminski letter not found; found 1996 10-volt pulse claim and November-same-morning claim contradicted by SRC002; EVD087-088",
+  "limitations": "AARO and Kaminski items are secondhand blog claims; not verified"
  }
 ]

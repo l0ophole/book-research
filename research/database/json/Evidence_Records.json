@@ -1030,5 +1030,29 @@
   "confidence": 3,
   "section_id": "SEC073",
   "line_ref": 10099
+ },
+ {
+  "evidence_id": "EVD087",
+  "description": "Re-reading SRC001 (Klotz/Salas, 27 Nov 1996, NICAP mirror) against the wing history (SRC002): the 1996 article places Salas as DMCCC in NOVEMBER Flight on the morning of 16 March 1967, with a SECOND, separate shutdown of 'four or five' missiles at November 'at or about the same time' as Echo's ten, and describes UFOs seen at the November LCC and one N LF as well as at Echo LFs. SRC002 says 'No other Wing I configuration lost strategic alert at that time' (0845) and that the only mobile team named checked November's LFs and saw nothing. So the 1996 two-flight same-morning version is contradicted by the one contemporaneous record, and the Oscar relocation (2005 on) is partly the repair of that contradiction. The 1996 article also says early-morning reports came from more than one patrol and maintenance crew (Echo) and the missiles shut down 'over the next half-minute' (matching the crew's 10-40 s estimate, not Figel's 2010 3-4 minutes).",
+  "evidence_type": "ANALYST_COMPARISON",
+  "provenance": "SRC001; SRC002",
+  "related_entities": "INC019;INC020;EVD077;EVD085",
+  "significance": "CRITICAL",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC073",
+  "line_ref": 10030
+ },
+ {
+  "evidence_id": "EVD088",
+  "description": "Boeing/Klotz reproduction claim: the 1996 article says the effects were reproduced only by directly introducing a 10-volt pulse onto a data line and that this could be done from outside the shielded system only by an electromagnetic pulse of unknown origin; Sparks (NICAP) says Boeing issued the SECRET engineering report. The wing-history excerpt calls an externally generated signal 'very remote' and says no cause was found; it does not mention a 10 V pulse. Neither the full Engineering Investigation Team report (23 Mar 1967) nor Kaminski's 1 Feb 1997 letter to Klotz has been seen by me; I found a blog repost claiming AARO attributed the event to a 'cascading transformer failure' during an 'electrical storm' - unverified and in conflict with the wing history, which ruled out weather and put the transformer short at ~1450. Wikipedia's mention of a 2025 Pentagon EMP report also remains unsupported.",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "SRC001; SRC002; SRC047; search results",
+  "related_entities": "INC019;GOV006;EVD085",
+  "significance": "HIGH",
+  "verification_status": "INSUFFICIENT_EVIDENCE",
+  "confidence": 1,
+  "section_id": "SEC073",
+  "line_ref": 10099
  }
 ]

@@ -240,3 +240,13 @@
 - **Status:** NOT_STARTED
 - **Next action:** Request full report 23 Mar 1967
 
+## RQ025 [HIGH] — What did the full Echo engineering report conclude about externally injected pulses and about UFO rumors, and what did the Mobile Strike Team actually check?
+- **Related:** INC019;EVD087;EVD088;RQ024
+- **Existing evidence:** Excerpt of wing history; secondary accounts
+- **Missing evidence:** Full report; Kaminski letter; AARO findings
+- **Potential sources:** AFHRA; Klotz; AARO
+- **Methods:** Locate full texts
+- **Verification criteria:** Primary text of the report
+- **Status:** NOT_STARTED
+- **Next action:** Look for AARO Malmstrom release
+

@@ -48,3 +48,4 @@
 | SRC044 | Wikipedia: Malmstrom UFO incident; Robert Salas | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/Malmstrom_UFO_incident |
 | SRC045 | Echo Flight UFO incident not unique (Hastings article with partial transcripts of Salas 1996 and Hastings 2011 calls with Meiwald, and text of Meiwald 1 Oct 1996 letter) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://ufohastings.com/articles/echo-flight-ufo-incident-not-unique |
 | SRC046 | Telephonic Interviews with Colonel Walter Figel (USAF Ret) - Hastings summaries of taped calls of 20 Oct 2008, 8 Jan 2009, 8 Mar 2010 | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://www.ufohastings.com/articles/telephonic-interviews-with-colonel-walter-figel-usaf-ret |
+| SRC047 | NICAP Nuclear Connection Project directory page on Malmstrom/Echo Flight (Ridge; Sparks comment) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://www.nicap.org/babylon/670316_malmstromE.htm |
