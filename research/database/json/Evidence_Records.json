@@ -1006,5 +1006,29 @@
   "confidence": 2,
   "section_id": "SEC073",
   "line_ref": 10065
+ },
+ {
+  "evidence_id": "EVD085",
+  "description": "Re-read of the 341st SMW history Echo section (SRC002, rr0 transcription, pp.33-38) for electrical/timing detail. (1) 0845 loss of alert, all ten LFs, VRSA ch.9 and 12 No-Go; no other flight affected. (2) Crew (questioned 16 Mar by DCMET, OOAMA and Boeing) estimated the interval between loss of alert and fault indication at 10-40 seconds and the start of the event no more than 2-3 minutes before the 0845 log time; Figel's 2010 '3-4 minutes' for all ten to drop is longer than the crew's same-day estimate. (3) The deputy was turned away from the console briefing the commander who had just been awakened when the faults appeared; the commander saw them first. This is the same scene Salas and Hastings narrate for Oscar. (4) No electrical equipment in use; E-8 was on diesel (ch.26) and its generator ran intermittently; E-2 door-actuator motor failed. (5) Power events at E-1: transformer short south of Winifred substation at ~1450, fluctuations at 1453 and 1510-1600, commercial power back 1921 - all hours AFTER the 0845 shutdown, so they do not by themselves explain it. (6) Investigation: G&C channel 50 dumps from E-7/E-8 showed shutdown by external influence on G&C, not a G&C No-Go; the Logic Coupler could generate ch.9+12 but only if all ten were affected within seconds or partially reset the same way ('very remote'); weather, EWO, radar (801st RS), PAS and Boeing modification teams (at B-1, K-1, O-1 after the event) ruled out; power switching test of 28 Mar not the cause; 'LCC power fault transmitted on the hardened cable' judged the only power fault capable; no logical cause found. Similar Alpha Flight event 19 Dec 1966 with the same capsule crew. (7) 'Rumors of UFOs ... disproven' rests on a Mobile Strike Team that checked all NOVEMBER Flight LFs that morning; the text does not say Echo LFs were checked or that Echo guards were interviewed. The history itself shows that UFO rumors existed in the wing by mid-1967 (Gamble per the book). The Boeing 'noise injected into the logic coupler' result cited by Klotz in the book is not in this excerpt. The excerpt gives neither confirmation nor refutation of any UFO report from Echo; it does show the cause of the shutdown was officially undetermined.",
+  "evidence_type": "GOVERNMENT_RECORD_TRANSCRIPT",
+  "provenance": "SRC002",
+  "related_entities": "INC019;GOV005;GOV006;EXP020;EXP041;EVD083",
+  "significance": "CRITICAL",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC073",
+  "line_ref": 10099
+ },
+ {
+  "evidence_id": "EVD086",
+  "description": "Correction of an earlier record: EXP035 (Delta-3 Mills explanation) had cited the Echo wing history as showing power fluctuations 'coincident with No-Go'; the history places them ~6 hours after the shutdown (EVD085). EXP035 text corrected at source; the Delta-3 power-loss explanation now rests only on the generic winter-weather argument plus Mills's own report that all power (commercial, diesel, battery) was lost.",
+  "evidence_type": "ANALYST_CORRECTION",
+  "provenance": "SRC002",
+  "related_entities": "EXP035;INC067;RQ018",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC073",
+  "line_ref": 10099
  }
 ]

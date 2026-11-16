@@ -259,3 +259,10 @@
 - Result: Version matrix EVD083-084; claims CLM134-135; EXP041
 - Limitations: Audio not heard; only advocate-written summaries and one short excerpt; Carlson/Figel quotes disputed by Hastings and Carlson
 
+### 38. 2026-11-16 — Re-read SRC002 wing history Echo section in full (rr0 transcription); compared with Figel timing and Salas Oscar scene; corrected EXP035
+- Reason: Follow-up 5: wing-history November line, power events, Boeing findings
+- Tool: curl; Read
+- Query/target: rr0.netlify.app Malmstrom
+- Result: EVD085-086; RQ024; EXP035 corrected
+- Limitations: Transcription by a third party; original not seen; Boeing noise-injection result not in excerpt
+

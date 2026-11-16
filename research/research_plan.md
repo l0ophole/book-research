@@ -230,3 +230,13 @@
 - **Status:** NOT_STARTED
 - **Next action:** Obtain Figel tapes
 
+## RQ024 [HIGH] — Why does the wing history cite a Mobile Strike Team that checked November Flight LFs as disproving UFO rumors at Echo, and did it also cover Echo LFs?
+- **Related:** INC019;EVD085
+- **Existing evidence:** Wing history text
+- **Missing evidence:** Strike team logs; Engineering Investigation Team report p.27 (Gamble draft)
+- **Potential sources:** AFHRA; Klotz; NARA
+- **Methods:** Obtain the full report and Mobile Strike Team log
+- **Verification criteria:** Team routes recorded
+- **Status:** NOT_STARTED
+- **Next action:** Request full report 23 Mar 1967
+

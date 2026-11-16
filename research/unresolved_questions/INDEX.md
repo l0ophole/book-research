@@ -25,3 +25,4 @@
 | RQ021 | Do any primary records place Salas and Meiwald at Oscar (or November) on a specific date in March 1967? | CRITICAL | NOT_STARTED | Request Meiwald letter and rosters |
 | RQ022 | At what clock time and from what direction did the Oscar guards report the red light (needed to test Mars/Moon/aircraft explanations)? | HIGH | NOT_STARTED | Ask for full text |
 | RQ023 | Do Echo-era security/maintenance logs record UFO reports before or after 0845 on 16 Mar 1967? | CRITICAL | NOT_STARTED | Obtain Figel tapes |
+| RQ024 | Why does the wing history cite a Mobile Strike Team that checked November Flight LFs as disproving UFO rumors at Echo, and did it also cover Echo LFs? | HIGH | NOT_STARTED | Request full report 23 Mar 1967 |
