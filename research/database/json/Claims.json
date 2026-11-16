@@ -1030,5 +1030,41 @@
   "quotation": "",
   "section_id": "SEC080",
   "line_ref": 12928
+ },
+ {
+  "claim_id": "CLM087",
+  "claim_text": "Werlich's initial memo gave the UFO's initial speed as ~3,000 mph (2½ miles in 3 seconds).",
+  "attribution": "Werlich memo via Shough",
+  "claim_type": "DOCUMENT",
+  "importance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "quotation": "",
+  "section_id": "SEC080",
+  "line_ref": 12862
+ },
+ {
+  "claim_id": "CLM088",
+  "claim_text": "Hastings' statement that Clark derived 3,900 mph from two miles in one 3-second sweep is not supported: arithmetic gives 2,400 mph; Shough reconstructs 3,900 KNOTS as an average of two paint-time-corrected co-altitude upper-limit rates.",
+  "attribution": "Analyst finding (EVD024, EVD025)",
+  "claim_type": "ANALYST_FINDING",
+  "importance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "quotation": "",
+  "section_id": "SEC080",
+  "line_ref": 12862
+ },
+ {
+  "claim_id": "CLM089",
+  "claim_text": "Poher: acceleration of ~189 g and speed ~Mach 8 for the 6,100 m to 1,930 m move in <3 s; could theoretically allow interstellar travel.",
+  "attribution": "Poher via Tulien site",
+  "claim_type": "INTERPRETATION",
+  "importance": "LOW",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "quotation": "",
+  "section_id": "SEC080",
+  "line_ref": 12862
  }
 ]

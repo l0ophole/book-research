@@ -134,13 +134,13 @@
   "question": "What do the primary Blue Book case 12,548 documents show for Minot 24 Oct 1968, and do aircraft/star explanations account for the ground and radar observations?",
   "priority": "CRITICAL",
   "related_entities": "INC052;GOV014;GOV015;GOV016;EXP024;EXP025",
-  "existing_evidence": "Tulien report; Quintanilla statement; dispatcher log",
+  "existing_evidence": "Tulien report; Quintanilla statement; dispatcher log; Shough & Poher reports; Blue Book final report; dispatcher log; speed recomputation (EVD023-EVD029)",
   "missing_evidence": "Radarscope prints and film; SAC (Werlich) investigation; Oscar-7 break-in report; B-52 flight track",
   "potential_sources": "NARA Blue Book; Tulien; AFHRA",
   "recommended_methods": "Download file; compare book narrative with documents; reconstruct B-52 track/star positions",
   "verification_criteria": "Independent radar-speed recalculation; documented intrusion explanation",
-  "status": "IN_PROGRESS",
-  "next_action": "Pull Tulien PDF and verify against NARA roll"
+  "status": "PARTIALLY_COMPLETED",
+  "next_action": "Read AF Forms 117 and approach transcript; reconcile Shough vs Poher timeline (EVD027); derive speed with elevation uncertainty; verify against NARA T1206 roll"
  },
  {
   "question_id": "RQ012",
@@ -180,5 +180,18 @@
   "verification_criteria": "Original quotations located",
   "status": "IN_PROGRESS",
   "next_action": "Fetch Condon Report summary and Low memo from Project1947"
+ },
+ {
+  "question_id": "RQ015",
+  "question": "When did the fast echo transit occur relative to the ground sightings (Shough: late; Poher: early), and does a consistent clock reconstruction support a single-target interpretation?",
+  "priority": "CRITICAL",
+  "related_entities": "INC052;EVD027;TEC008",
+  "existing_evidence": "Two analyses with opposite conclusions",
+  "missing_evidence": "Synchronised clocks (RAPCON transcript, dispatcher log, radarscope clock); AF Forms 117; B-52 track",
+  "potential_sources": "minotb52ufo.com PDFs; NARA T1206",
+  "recommended_methods": "Rebuild a unified timeline from transcript + radar clock offset",
+  "verification_criteria": "Consistent timeline reproducible by an independent analyst",
+  "status": "NOT_STARTED",
+  "next_action": "Extract timestamped events from SRC024 App.1 and the approach transcript"
  }
 ]

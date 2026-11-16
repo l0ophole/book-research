@@ -158,5 +158,35 @@
   "query": "Barry Krause letter NICAP ...",
   "result": "Not found.",
   "limitations": "Absence of search hit is not evidence of absence; try CUFOS/NICAP archive"
+ },
+ {
+  "log_id": 17,
+  "log_date": "2026-11-16",
+  "action": "Fetch minotb52ufo.com documentation index, Shough and Poher reports, Blue Book Final Case Report, dispatcher log, radarscope scans",
+  "reason": "Follow-up question 1: recompute radar speed from frames and dispatcher log",
+  "tool": "curl via proxy; pdftotext; pdftoppm",
+  "query": "pdf/Blue-Book-Final-Case-Report.pdf; shough/pdf/SHOUGH_Report.pdf; poher/pdf/POHER_Report.pdf; pdf/Base-Operations-Dispatcher-Log.pdf; pdf/All-Radarscope-Photographs.pdf",
+  "result": "All downloaded and text-extracted; frame 771 viewed; 13 other documents listed but not read.",
+  "limitations": "NARA microfilm T1206 not accessed; original negatives not located"
+ },
+ {
+  "log_id": 18,
+  "log_date": "2026-11-16",
+  "action": "Analyst calculation: echo displacement/speed from Shough positions",
+  "reason": "Test the book/Clark 3,900 mph figure",
+  "tool": "Python (analysis/minot_speed.py)",
+  "query": "positions 771-773",
+  "result": "Naive 3.0 s: ~2,500 kt; paint-time corrected: 2,020 and 5,710 kt; simple mean 3,865 kt; time-weighted mean ~2,960 kt.",
+  "limitations": "Uses Shough measurements; I did not measure the photographs myself"
+ },
+ {
+  "log_id": 19,
+  "log_date": "2026-11-16",
+  "action": "Analyst calculation: Sirius/Vega azimuth-altitude over Minot, 0800-1010Z 24 Oct 1968",
+  "reason": "Test Blue Book star explanation against dispatcher log directions",
+  "tool": "Python (analysis/minot_sirius.py)",
+  "query": "Minot AFB coordinates; precession-corrected coordinates",
+  "result": "Sirius SE-SSE alt 11-23 deg; Vega NW-NNW low, setting ~0940Z.",
+  "limitations": "No refraction; approximate coordinates"
  }
 ]

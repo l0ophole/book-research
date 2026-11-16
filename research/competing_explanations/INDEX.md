@@ -27,3 +27,6 @@
 | EXP023 | INC050 | Electrical/EMI noise or maintenance fault causing spurious indications; false alarms from security system; storm/power anomaly; later conflation of memory (Schuur admits fog) | OPEN |
 | EXP024 | INC052 | Misidentification of Sirius, Vega, and the B-52 itself (Base Ops dispatcher log: lights correlate with B-52 VOR penetration, low approach, missed approach); anomalous propagation/ball-lightning-like plasma (Blue Book); radar scope artefacts | OPEN |
 | EXP025 | INC052 | Unrelated physical intrusion at Oscar-7 LF (padlock open, combination dial moved) at 0449 CDT — possible human intruder activity; distractor or cause of alarm | OPEN |
+| EXP026 | INC052 | B-52 itself (upper airwork, VOR penetration, low approach with landing lights, missed approach) plus haze/inversion explaining many ground sightings (Blue Book discussion) | OPEN |
+| EXP027 | INC052 | Radar artefacts/natural: meteor echo, anomalous propagation, multiple-trip returns, lightning, ECM/other B-52 radar interference, balloon, satellite, birds/insects (all tested by Shough) | OPEN |
+| EXP028 | INC052 (ground observers) | Sirius under temperature inversion/haze with scintillation, autokinesis, passing cloud (Blue Book Atch) | OPEN |

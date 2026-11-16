@@ -262,5 +262,101 @@
   "confidence": 0,
   "section_id": "SEC078",
   "line_ref": 12116
+ },
+ {
+  "evidence_id": "EVD023",
+  "description": "Werlich's Memo for the Record (24 Oct 1968), quoted by Shough: 'Initially the target traveled approximately 2½ mile in 3 sec or at about 3,000 mi/hr' (arithmetic: 2.5 mi/3 s = 3,000 mph). His 29 Oct telex instead says an echo closed from 3 mi to ~1 mi off the left wing, with no speed. The Blue Book file therefore has TWO different official speed statements; neither is '2 miles in 3 s = 3,900 mph'.",
+  "evidence_type": "DOCUMENT_QUOTATION",
+  "provenance": "SRC023 (quoting Blue Book file); verification of original memo pending",
+  "related_entities": "INC052;CLM083",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12862
+ },
+ {
+  "evidence_id": "EVD024",
+  "description": "Origin of '3,900': Shough reconstructs it as the simple average of two rates computed from echo displacements relative to the B-52 between frames 771-772 and 772-773, using antenna paint-time-corrected intervals (3.8 s and 1.3 s): ~1,990 kt and ~5,870 kt, co-altitude upper limits, mean ~3,900 KNOTS (~4,450 statute mph). Hence Clark's number is knots, a mean of very unequal rates, an upper limit, and not '2 miles per sweep'.",
+  "evidence_type": "ANALYSIS_RESULT",
+  "provenance": "SRC023 section 6",
+  "related_entities": "INC052;CLM083;TEC008",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12862
+ },
+ {
+  "evidence_id": "EVD025",
+  "description": "Analyst recomputation (this project): from Shough's measured echo positions (771: 138 deg/1.62 NM; 772: 242 deg/1.05 NM; 773: 40 deg/1.05 NM; azimuth from nose, slant range) the displacements are 2.13 and 2.06 NM. With a naive 3.0 s per frame: ~2,560 and ~2,470 kt (~2,950/2,850 mph) relative speed. With Shough's paint-time intervals (3.8, 1.3 s): ~2,020 kt and ~5,710 kt (matches Shough ~1,990/5,870 within ~3%); their simple mean is ~3,865 kt (reproducing '3,900'), but the time-weighted mean over the 5.1 s is only ~2,960 kt (~3,400 mph). Script: database/build/analysis/minot_speed.py.",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "Derived from SRC023 numerical values; not independent measurement of the photographs",
+  "related_entities": "INC052;CLM083",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12862
+ },
+ {
+  "evidence_id": "EVD026",
+  "description": "Assumptions behind any speed figure: (i) the three echoes are one target (Shough: cannot be justified from two possibly unrelated echoes; elongated echoes are suggestive but not conclusive); (ii) co-altitude (a depression angle lowers true separation; e.g. at 50 deg the naive horizontal speed would be ~1,650 kt, ~1,900 mph); (iii) range scale inferred (~5 NM display, no indicator on photographs); (iv) only 14 of probably >100 frames survive. The result is an upper-limit estimate, not a measurement of a 3,900 mph object.",
+  "evidence_type": "METHODOLOGICAL_LIMIT",
+  "provenance": "SRC023; analyst calculation",
+  "related_entities": "INC052;TEC008",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12862
+ },
+ {
+  "evidence_id": "EVD027",
+  "description": "Timeline dispute between analysts: Shough concludes frames 771-783 were taken late in the event near the missed approach (so the 'fast' echo transit is not the start); Poher concludes the radarscope clock (0906Z) runs ~9 min ahead of the approach-controller clock so frames coincide with radio loss at ~0858 COM when the B-52 was ~21 nm out (early). The question of when the high-speed transit occurred relative to ground sightings is unresolved in the sources I read.",
+  "evidence_type": "ANALYST_DISAGREEMENT",
+  "provenance": "SRC023 vs SRC024 Appendix 1",
+  "related_entities": "INC052",
+  "significance": "HIGH",
+  "verification_status": "DISPUTED",
+  "confidence": 2,
+  "section_id": "SEC080",
+  "line_ref": 12862
+ },
+ {
+  "evidence_id": "EVD028",
+  "description": "Dispatcher log vs B-52 explanation: entries 0828-0830Z mention jet engines; the B-52 low approach/missed approach was ~0904-0917 COM (Poher). So the Blue Book statement that 'later sightings ... correlate with' the B-52 low approach is plausible for entries after ~0900Z but not demonstrated for the 0800-0858Z entries; and entries 0940-1010Z (after the log says the B-52 landed at 0940Z) describe a stationary object west of N-7 on/near the ground, which the B-52 cannot explain.",
+  "evidence_type": "DOCUMENT_COMPARISON",
+  "provenance": "SRC025; SRC026; SRC024",
+  "related_entities": "INC052;EXP024;EXP026",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12811
+ },
+ {
+  "evidence_id": "EVD029",
+  "description": "Analyst astronomical check (this project; simple GMST/precession, Minot AFB 48.42N 101.36W, 24 Oct 1968): Sirius altitude 11-23 deg, azimuth 132-162 deg (SE to SSE) from 0800Z to 1010Z; Vega 7 deg->-2 deg altitude, azimuth 325-348 deg (NW-NNW), setting ~0940Z. Dispatcher entries 0800Z 'S/E of N-7' fit Sirius direction; entries 0940-1010Z 'west of N-7' do not (~110 deg off); Blue Book cites Vega at azimuth 345 at 0435 local (matches my 342 deg) but the pilot's light was 'west-northwest' (~50 deg away) - requires check of the AF Forms 117. Script: database/build/analysis/minot_sirius.py.",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "Computed; positions accurate to ~0.5 deg; atmospheric refraction ignored",
+  "related_entities": "INC052;EXP024;EXP026",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12916
+ },
+ {
+  "evidence_id": "EVD030",
+  "description": "Blue Book's own text (SRC025) says no data were submitted for the possible 0335 local air visual and 0352 weather-radar paint, and that the pilot's Form 117 puts his sighting at ~0435 local, not 0335: official file acknowledges data gaps in the timeline; Hastings' narrative does not.",
+  "evidence_type": "DOCUMENT_QUOTATION",
+  "provenance": "SRC025 p.3",
+  "related_entities": "INC052",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC080",
+  "line_ref": 12816
  }
 ]

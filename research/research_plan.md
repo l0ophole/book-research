@@ -102,13 +102,13 @@
 
 ## RQ011 [CRITICAL] — What do the primary Blue Book case 12,548 documents show for Minot 24 Oct 1968, and do aircraft/star explanations account for the ground and radar observations?
 - **Related:** INC052;GOV014;GOV015;GOV016;EXP024;EXP025
-- **Existing evidence:** Tulien report; Quintanilla statement; dispatcher log
+- **Existing evidence:** Tulien report; Quintanilla statement; dispatcher log; Shough & Poher reports; Blue Book final report; dispatcher log; speed recomputation (EVD023-EVD029)
 - **Missing evidence:** Radarscope prints and film; SAC (Werlich) investigation; Oscar-7 break-in report; B-52 flight track
 - **Potential sources:** NARA Blue Book; Tulien; AFHRA
 - **Methods:** Download file; compare book narrative with documents; reconstruct B-52 track/star positions
 - **Verification criteria:** Independent radar-speed recalculation; documented intrusion explanation
-- **Status:** IN_PROGRESS
-- **Next action:** Pull Tulien PDF and verify against NARA roll
+- **Status:** PARTIALLY_COMPLETED
+- **Next action:** Read AF Forms 117 and approach transcript; reconcile Shough vs Poher timeline (EVD027); derive speed with elevation uncertainty; verify against NARA T1206 roll
 
 ## RQ012 [HIGH] — Can the Walker AFB (579th SMS) sightings be corroborated by contemporaneous records, and did the Krause letter exist as quoted?
 - **Related:** INC037;INC038;INC041;INC042;GOV013
@@ -139,4 +139,14 @@
 - **Verification criteria:** Original quotations located
 - **Status:** IN_PROGRESS
 - **Next action:** Fetch Condon Report summary and Low memo from Project1947
+
+## RQ015 [CRITICAL] — When did the fast echo transit occur relative to the ground sightings (Shough: late; Poher: early), and does a consistent clock reconstruction support a single-target interpretation?
+- **Related:** INC052;EVD027;TEC008
+- **Existing evidence:** Two analyses with opposite conclusions
+- **Missing evidence:** Synchronised clocks (RAPCON transcript, dispatcher log, radarscope clock); AF Forms 117; B-52 track
+- **Potential sources:** minotb52ufo.com PDFs; NARA T1206
+- **Methods:** Rebuild a unified timeline from transcript + radar clock offset
+- **Verification criteria:** Consistent timeline reproducible by an independent analyst
+- **Status:** NOT_STARTED
+- **Next action:** Extract timestamped events from SRC024 App.1 and the approach transcript
 

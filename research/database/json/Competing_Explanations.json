@@ -248,5 +248,35 @@
   "evaluation_status": "OPEN",
   "section_id": "SEC080",
   "line_ref": 12805
+ },
+ {
+  "explanation_id": "EXP026",
+  "target_entities": "INC052",
+  "explanation": "B-52 itself (upper airwork, VOR penetration, low approach with landing lights, missed approach) plus haze/inversion explaining many ground sightings (Blue Book discussion)",
+  "supporting_evidence": "SRC025 text; SRC026 jet-noise entries 0828-0830Z; B-52 on 50-nm radius clearance maneuvering near the area",
+  "contradicting_evidence": "Timeline: early log entries precede low approach; entries 0940-1010Z after B-52 landed; ground observers distinguished two objects; aircraft cannot explain radar echo on the B-52 itself",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12916
+ },
+ {
+  "explanation_id": "EXP027",
+  "target_entities": "INC052",
+  "explanation": "Radar artefacts/natural: meteor echo, anomalous propagation, multiple-trip returns, lightning, ECM/other B-52 radar interference, balloon, satellite, birds/insects (all tested by Shough)",
+  "supporting_evidence": "Shough: some can explain individual echoes (e.g., meteor for 771-772) at the cost of coincidence",
+  "contradicting_evidence": "Shough: none convincing for the whole pattern; UHF loss and 20-mi pacing difficult",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12873
+ },
+ {
+  "explanation_id": "EXP028",
+  "target_entities": "INC052 (ground observers)",
+  "explanation": "Sirius under temperature inversion/haze with scintillation, autokinesis, passing cloud (Blue Book Atch)",
+  "supporting_evidence": "SRC025; Sirius up at az 132-162 deg, alt 11-23 deg over the log period (EVD029)",
+  "contradicting_evidence": "Directions in log entries after 0940Z are W of N-7; objects reported hovering at ~500-1000 ft, 50 ft above ground, moving toward observers",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12916
  }
 ]

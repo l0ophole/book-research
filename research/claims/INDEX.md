@@ -88,3 +88,6 @@
 | CLM084 | Blue Book's explanation (Sirius, B-52, ball-lightning-like plasma, Vega) is 'highly implausible'. | Hastings | HIGH | DISPUTED | 2 | 12928 |
 | CLM085 | UHF transmitter on B-52 disrupted while object paced it and resumed when it left. | Crew via Tulien/Hastings | HIGH | UNVERIFIED | 1 | 12870 |
 | CLM086 | Same pattern as 1 Aug 1965 Warren case where Quintanilla attributed up to nine UFOs to twinkling stars. | Hastings | MEDIUM | PARTIALLY_VERIFIED | 3 | 12928 |
+| CLM087 | Werlich's initial memo gave the UFO's initial speed as ~3,000 mph (2½ miles in 3 seconds). | Werlich memo via Shough | MEDIUM | PARTIALLY_VERIFIED | 3 | 12862 |
+| CLM088 | Hastings' statement that Clark derived 3,900 mph from two miles in one 3-second sweep is not supported: arithmetic gives 2,400 mph; Shough reconstructs 3,900 KNOTS as an average of two paint-time-corrected co-altitude upper-limit rates. | Analyst finding (EVD024, EVD025) | HIGH | PARTIALLY_VERIFIED | 3 | 12862 |
+| CLM089 | Poher: acceleration of ~189 g and speed ~Mach 8 for the 6,100 m to 1,930 m move in <3 s; could theoretically allow interstellar travel. | Poher via Tulien site | LOW | UNVERIFIED | 1 | 12862 |

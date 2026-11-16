@@ -1,6 +1,6 @@
 # Research summary — *UFOs and Nukes* (Hastings, 2008)
 
-*Generated 2026-11-15 (v1.1.0). Read this with `research_limitations.md`: ~27% of the book has been read verbatim (v1.0 pass + follow-up 1).*
+*Generated 2026-11-15 (v1.2.0). Read this with `research_limitations.md`: ~27% of the book has been read verbatim (v1.0 pass + follow-up 1).*
 
 ## 1. Document reviewed
 `f3ff02a2-hastings-2008-ufos-and-nukes.md` — OCR-converted markdown of Robert L. Hastings, *UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites* (24,203 lines, ~222,700 words; Introduction, 31 chapters, Appendices A–B, 358 parsed endnotes). No page numbers, photographs or figures are present in the file.
@@ -56,7 +56,7 @@ See `sources/INDEX.md`, `evidence_records/INDEX.md`. Summary:
 See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md` (23 records).
 
 ---
-## Follow-up 1 (v1.1.0): Chapters 7, 12, 13, 14, 15 read in full and verified
+## Follow-up 1 (v1.2.0): Chapters 7, 12, 13, 14, 15 read in full and verified
 
 **New records:** incidents INC036–INC053, claims CLM057–CLM086, witnesses WIT033–WIT064, evidence EVD014–EVD022, sources SRC017–SRC022.
 
@@ -67,3 +67,18 @@ See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md`
 4. **Schuur (Ch.14)** is a single, uncorroborated 2007 recollection with admitted foggy memory and no technical records; the "Launch in Progress" claim is CRITICAL/UNVERIFIED. The wing history shows spurious/No-Go indications were a known fault pattern (SRC002), an untested alternative.
 5. **Ch.12 (FAA controllers):** several named controllers recall unknown fast radar targets at Malmstrom; some first denied any and recalled only after prompting (CLM064). The author's own 1967 five-target event remains **uncorroborated** (CLM063).
 6. **Ch.13 is argument, not incident evidence.** Verified: the Low "trick memo" quotation and Frazier's Sandia employment (1983–2006, Wikipedia). Not verified: "91 sightings", "nearly 30% unknown", the Condon "horse-whipped" remark, Oberg's exact 1970–72 Kirtland dates, Klass's Inman/Graham letter. Hastings concedes he has no proof of any covert role (line 12461). Analyst note: employer affiliations do not by themselves refute a factual argument (CLM076).
+
+---
+## Follow-up 2 (v1.2.0): Minot 24 Oct 1968 — recomputing the radar speed and checking the dispatcher log
+
+**Sources obtained** (all from the Tulien/Sign Oral History Project site): Blue Book Final Case Report (primary reproduction, SRC025), Base Operations Dispatcher Log (SRC026), the 14 radarscope scans (SRC027), and the Shough (SRC023) and Poher (SRC024) analyses.
+
+**Speed figures.** The file contains *two different official speed statements*: Werlich's 24 Oct memo (“2½ mile in 3 sec or about 3,000 mi/hr”) and his 29 Oct telex (echo closing from ~3 to ~1 mile, no speed). Clark's later “3,900” is, per Shough, **knots**, the simple mean of two paint-time-corrected co-altitude upper-limit rates (~1,990 kt for frames 771→772 and ~5,870 kt for 772→773). The book's derivation (“two miles in one three-second sweep”) would give 2,400 mph and is not how the number arose (EVD023, EVD024).
+
+**My recomputation** from Shough's measured positions (EVD025): displacements 2.13 and 2.06 NM. Naive 3.0 s/frame → ~2,500 kt (~2,900 mph). Paint-time-corrected → ~2,020 and ~5,710 kt (matches Shough within ~3%); their simple mean reproduces ~3,900 kt, but the **time-weighted mean over the 5.1 s is only ~2,960 kt (~3,400 mph)**. These are upper limits that assume (i) one target, (ii) the same altitude as the B-52, (iii) an inferred range scale, and (iv) only 14 of probably >100 frames survive (EVD026). A sloping geometry lowers them (e.g., ~1,650 kt at 50° depression). So “a 3,900 mph object” is not a measurement.
+
+**Timeline dispute (unresolved).** Shough: frames were taken *late* in the event; Poher: the radarscope clock runs ~9 min ahead, so they coincide with the early radio loss (EVD027). This changes how the fast transit should be related to the ground sightings.
+
+**Dispatcher log vs. the Blue Book explanation.** The Blue Book text confirms the Oscar-7 sentence, the Sirius/B-52/plasma/Vega verdict, and that the B-52 flew upper airwork near the area from about the time of the first sighting; later sightings “correlate with” its VOR penetration/low approach/missed approach. But (EVD028): the 0828–0830Z jet-noise entries precede the B-52's low approach (~0904–0917 COM), and the 0940–1010Z entries, after the log says the B-52 landed, describe a stationary object *west* of N-7 near the ground. **Astronomical check** (EVD029): Sirius was at azimuth 132–162°, altitude 11–23° throughout, fitting the early “S/E of N-7” entries but not the later “west of N-7” ones; Vega was low in the NNW and set ~0940Z, while the pilot's light was “west-northwest”.
+
+**Assessment.** The aircraft/star explanation plausibly covers some ground reports; it does not demonstrably cover the later stationary-object entries or the airborne radar echo. The book's speed derivation is wrong, and its account omits the Oscar-7 intrusion and the dispatcher-log/airwork correlation. Neither side's evidence yet reaches a conclusion: the key remaining items are the pilots' AF Forms 117, the approach transcript clock offsets and the original film.

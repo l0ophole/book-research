@@ -112,3 +112,24 @@
 - Result: Not found.
 - Limitations: Absence of search hit is not evidence of absence; try CUFOS/NICAP archive
 
+### 17. 2026-11-16 — Fetch minotb52ufo.com documentation index, Shough and Poher reports, Blue Book Final Case Report, dispatcher log, radarscope scans
+- Reason: Follow-up question 1: recompute radar speed from frames and dispatcher log
+- Tool: curl via proxy; pdftotext; pdftoppm
+- Query/target: pdf/Blue-Book-Final-Case-Report.pdf; shough/pdf/SHOUGH_Report.pdf; poher/pdf/POHER_Report.pdf; pdf/Base-Operations-Dispatcher-Log.pdf; pdf/All-Radarscope-Photographs.pdf
+- Result: All downloaded and text-extracted; frame 771 viewed; 13 other documents listed but not read.
+- Limitations: NARA microfilm T1206 not accessed; original negatives not located
+
+### 18. 2026-11-16 — Analyst calculation: echo displacement/speed from Shough positions
+- Reason: Test the book/Clark 3,900 mph figure
+- Tool: Python (analysis/minot_speed.py)
+- Query/target: positions 771-773
+- Result: Naive 3.0 s: ~2,500 kt; paint-time corrected: 2,020 and 5,710 kt; simple mean 3,865 kt; time-weighted mean ~2,960 kt.
+- Limitations: Uses Shough measurements; I did not measure the photographs myself
+
+### 19. 2026-11-16 — Analyst calculation: Sirius/Vega azimuth-altitude over Minot, 0800-1010Z 24 Oct 1968
+- Reason: Test Blue Book star explanation against dispatcher log directions
+- Tool: Python (analysis/minot_sirius.py)
+- Query/target: Minot AFB coordinates; precession-corrected coordinates
+- Result: Sirius SE-SSE alt 11-23 deg; Vega NW-NNW low, setting ~0940Z.
+- Limitations: No refraction; approximate coordinates
+

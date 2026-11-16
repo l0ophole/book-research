@@ -305,13 +305,13 @@
   "existence_status": "KNOWN",
   "potential_repository": "NARA Blue Book microfilm; Tulien/Sign Oral History Project; Fold3/Blue Book Archive",
   "acquisition_method": "Download from Tulien site; verify with NARA roll",
-  "status": "OPEN",
+  "status": "PARTIALLY_OBTAINED (Final Case Report, dispatcher log, 14 scope scans downloaded; other documents not read)",
   "section_id": "SEC080",
   "line_ref": 12788
  },
  {
   "missing_id": "MIS032",
-  "description": "Original B-52 radarscope film (35 mm) and any SAC photo analysis report",
+  "description": "Original B-52 radarscope film (35 mm) and any SAC photo analysis report [Shough: only ~1/10 of original frames (14 of probably >100) survive as prints; negative not located]",
   "existence_status": "SUSPECTED",
   "potential_repository": "AFHRA; NARA; Tulien collection",
   "acquisition_method": "Inquire with Tulien/ SOHP",
@@ -328,5 +328,15 @@
   "status": "OPEN",
   "section_id": "SEC080",
   "line_ref": 12805
+ },
+ {
+  "missing_id": "MIS034",
+  "description": "Pilot/crew AF Forms 117 for the B-52 (Partin, Runyon etc.) and Blue Book supporting docs 17 (RAPCON/approach transcript), 14 (upper-air data), 32 (13 prints)",
+  "existence_status": "KNOWN (listed on Tulien site as PDFs)",
+  "potential_repository": "minotb52ufo.com/pdf/; NARA T1206",
+  "acquisition_method": "Download and read (not yet read)",
+  "status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12884
  }
 ]

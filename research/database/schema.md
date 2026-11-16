@@ -11,7 +11,7 @@ SQLite file `evidence.sqlite` is authoritative; CSV and JSON files in sibling fo
 **Provenance:** every record carrying `line_ref` points to a line number in the supplied markdown file (`f3ff02a2-hastings-2008-ufos-and-nukes.md`); the markdown has no page numbers. `section_id` joins to Document_Sections.
 
 ## Claims
-Rows: 86
+Rows: 89
 
 | name | type | pk |
 |---|---|---|
@@ -29,7 +29,7 @@ Rows: 86
 Foreign keys: section_id → Document_Sections
 
 ## Competing_Explanations
-Rows: 25
+Rows: 28
 
 | name | type | pk |
 |---|---|---|
@@ -45,7 +45,7 @@ Rows: 25
 Foreign keys: section_id → Document_Sections
 
 ## Document_Claim_Links
-Rows: 86
+Rows: 89
 
 | name | type | pk |
 |---|---|---|
@@ -95,7 +95,7 @@ Rows: 1
 | access_limitations | TEXT | 0 |
 
 ## Evidence_Records
-Rows: 22
+Rows: 30
 
 | name | type | pk |
 |---|---|---|
@@ -151,7 +151,7 @@ Rows: 54
 Foreign keys: section_id → Document_Sections
 
 ## Missing_Records
-Rows: 33
+Rows: 34
 
 | name | type | pk |
 |---|---|---|
@@ -214,7 +214,7 @@ Rows: 358
 Foreign keys: section_id → Document_Sections
 
 ## Relationships
-Rows: 330
+Rows: 368
 
 | name | type | pk |
 |---|---|---|
@@ -225,7 +225,7 @@ Rows: 330
 | note | TEXT | 0 |
 
 ## Research_Log
-Rows: 16
+Rows: 19
 
 | name | type | pk |
 |---|---|---|
@@ -239,7 +239,7 @@ Rows: 16
 | limitations | TEXT | 0 |
 
 ## Research_Questions
-Rows: 14
+Rows: 15
 
 | name | type | pk |
 |---|---|---|
@@ -264,7 +264,7 @@ Rows: 4
 | value | TEXT | 0 |
 
 ## Sources
-Rows: 22
+Rows: 27
 
 | name | type | pk |
 |---|---|---|

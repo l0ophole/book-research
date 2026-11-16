@@ -24,3 +24,8 @@
 | SRC020 | Kendrick Frazier | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://www.wikipedia.org/wiki/Kendrick_Frazier |
 | SRC021 | SM-65 Atlas | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/SM-65_Atlas |
 | SRC022 | Search for Krause letter to NICAP (20 Dec 1964) | UNKNOWN | DISCOVERED | SOURCE_UNAVAILABLE |  |
+| SRC023 | Anomalous Echoes Captured by a B-52 Airborne Radarscope Camera: A Preliminary Report | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/shough/pdf/SHOUGH_Report.pdf |
+| SRC024 | Analysis of Radar and Air-Visual UFO Observations on 24 October 1968 at Minot AFB | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/poher/pdf/POHER_Report.pdf |
+| SRC025 | Project Blue Book Final Case Report, Minot AFB 24 Oct 1968 (FTD 13 Nov 1968 + Discussion of Background Information) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/Blue-Book-Final-Case-Report.pdf |
+| SRC026 | Base Operations Dispatcher Log, Minot AFB, 24 Oct 1968 (Zulu times) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/Base-Operations-Dispatcher-Log.pdf |
+| SRC027 | B-52 radarscope photographs 771-784 (14 frames), scans of Blue Book prints | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/All-Radarscope-Photographs.pdf |

@@ -1,5 +1,5 @@
 {
- "schema_version": "1.1.0",
+ "schema_version": "1.2.0",
  "generated": "2026-11-15",
  "tables": {
   "Claims": [
@@ -1034,6 +1034,42 @@
     "quotation": "",
     "section_id": "SEC080",
     "line_ref": 12928
+   },
+   {
+    "claim_id": "CLM087",
+    "claim_text": "Werlich's initial memo gave the UFO's initial speed as ~3,000 mph (2½ miles in 3 seconds).",
+    "attribution": "Werlich memo via Shough",
+    "claim_type": "DOCUMENT",
+    "importance": "MEDIUM",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "confidence": 3,
+    "quotation": "",
+    "section_id": "SEC080",
+    "line_ref": 12862
+   },
+   {
+    "claim_id": "CLM088",
+    "claim_text": "Hastings' statement that Clark derived 3,900 mph from two miles in one 3-second sweep is not supported: arithmetic gives 2,400 mph; Shough reconstructs 3,900 KNOTS as an average of two paint-time-corrected co-altitude upper-limit rates.",
+    "attribution": "Analyst finding (EVD024, EVD025)",
+    "claim_type": "ANALYST_FINDING",
+    "importance": "HIGH",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "confidence": 3,
+    "quotation": "",
+    "section_id": "SEC080",
+    "line_ref": 12862
+   },
+   {
+    "claim_id": "CLM089",
+    "claim_text": "Poher: acceleration of ~189 g and speed ~Mach 8 for the 6,100 m to 1,930 m move in <3 s; could theoretically allow interstellar travel.",
+    "attribution": "Poher via Tulien site",
+    "claim_type": "INTERPRETATION",
+    "importance": "LOW",
+    "verification_status": "UNVERIFIED",
+    "confidence": 1,
+    "quotation": "",
+    "section_id": "SEC080",
+    "line_ref": 12862
    }
   ],
   "Competing_Explanations": [
@@ -1286,6 +1322,36 @@
     "evaluation_status": "OPEN",
     "section_id": "SEC080",
     "line_ref": 12805
+   },
+   {
+    "explanation_id": "EXP026",
+    "target_entities": "INC052",
+    "explanation": "B-52 itself (upper airwork, VOR penetration, low approach with landing lights, missed approach) plus haze/inversion explaining many ground sightings (Blue Book discussion)",
+    "supporting_evidence": "SRC025 text; SRC026 jet-noise entries 0828-0830Z; B-52 on 50-nm radius clearance maneuvering near the area",
+    "contradicting_evidence": "Timeline: early log entries precede low approach; entries 0940-1010Z after B-52 landed; ground observers distinguished two objects; aircraft cannot explain radar echo on the B-52 itself",
+    "evaluation_status": "OPEN",
+    "section_id": "SEC080",
+    "line_ref": 12916
+   },
+   {
+    "explanation_id": "EXP027",
+    "target_entities": "INC052",
+    "explanation": "Radar artefacts/natural: meteor echo, anomalous propagation, multiple-trip returns, lightning, ECM/other B-52 radar interference, balloon, satellite, birds/insects (all tested by Shough)",
+    "supporting_evidence": "Shough: some can explain individual echoes (e.g., meteor for 771-772) at the cost of coincidence",
+    "contradicting_evidence": "Shough: none convincing for the whole pattern; UHF loss and 20-mi pacing difficult",
+    "evaluation_status": "OPEN",
+    "section_id": "SEC080",
+    "line_ref": 12873
+   },
+   {
+    "explanation_id": "EXP028",
+    "target_entities": "INC052 (ground observers)",
+    "explanation": "Sirius under temperature inversion/haze with scintillation, autokinesis, passing cloud (Blue Book Atch)",
+    "supporting_evidence": "SRC025; Sirius up at az 132-162 deg, alt 11-23 deg over the log period (EVD029)",
+    "contradicting_evidence": "Directions in log entries after 0940Z are W of N-7; objects reported hovering at ~500-1000 ft, 50 ft above ground, moving toward observers",
+    "evaluation_status": "OPEN",
+    "section_id": "SEC080",
+    "line_ref": 12916
    }
   ],
   "Document_Claim_Links": [
@@ -1890,6 +1956,27 @@
     "document_id": "DOC001",
     "section_id": "SEC080",
     "line_ref": 12928
+   },
+   {
+    "link_id": 87,
+    "claim_id": "CLM087",
+    "document_id": "DOC001",
+    "section_id": "SEC080",
+    "line_ref": 12862
+   },
+   {
+    "link_id": 88,
+    "claim_id": "CLM088",
+    "document_id": "DOC001",
+    "section_id": "SEC080",
+    "line_ref": 12862
+   },
+   {
+    "link_id": 89,
+    "claim_id": "CLM089",
+    "document_id": "DOC001",
+    "section_id": "SEC080",
+    "line_ref": 12862
    }
   ],
   "Document_Sections": [
@@ -3671,6 +3758,102 @@
     "confidence": 0,
     "section_id": "SEC078",
     "line_ref": 12116
+   },
+   {
+    "evidence_id": "EVD023",
+    "description": "Werlich's Memo for the Record (24 Oct 1968), quoted by Shough: 'Initially the target traveled approximately 2½ mile in 3 sec or at about 3,000 mi/hr' (arithmetic: 2.5 mi/3 s = 3,000 mph). His 29 Oct telex instead says an echo closed from 3 mi to ~1 mi off the left wing, with no speed. The Blue Book file therefore has TWO different official speed statements; neither is '2 miles in 3 s = 3,900 mph'.",
+    "evidence_type": "DOCUMENT_QUOTATION",
+    "provenance": "SRC023 (quoting Blue Book file); verification of original memo pending",
+    "related_entities": "INC052;CLM083",
+    "significance": "HIGH",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "confidence": 3,
+    "section_id": "SEC080",
+    "line_ref": 12862
+   },
+   {
+    "evidence_id": "EVD024",
+    "description": "Origin of '3,900': Shough reconstructs it as the simple average of two rates computed from echo displacements relative to the B-52 between frames 771-772 and 772-773, using antenna paint-time-corrected intervals (3.8 s and 1.3 s): ~1,990 kt and ~5,870 kt, co-altitude upper limits, mean ~3,900 KNOTS (~4,450 statute mph). Hence Clark's number is knots, a mean of very unequal rates, an upper limit, and not '2 miles per sweep'.",
+    "evidence_type": "ANALYSIS_RESULT",
+    "provenance": "SRC023 section 6",
+    "related_entities": "INC052;CLM083;TEC008",
+    "significance": "HIGH",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "confidence": 3,
+    "section_id": "SEC080",
+    "line_ref": 12862
+   },
+   {
+    "evidence_id": "EVD025",
+    "description": "Analyst recomputation (this project): from Shough's measured echo positions (771: 138 deg/1.62 NM; 772: 242 deg/1.05 NM; 773: 40 deg/1.05 NM; azimuth from nose, slant range) the displacements are 2.13 and 2.06 NM. With a naive 3.0 s per frame: ~2,560 and ~2,470 kt (~2,950/2,850 mph) relative speed. With Shough's paint-time intervals (3.8, 1.3 s): ~2,020 kt and ~5,710 kt (matches Shough ~1,990/5,870 within ~3%); their simple mean is ~3,865 kt (reproducing '3,900'), but the time-weighted mean over the 5.1 s is only ~2,960 kt (~3,400 mph). Script: database/build/analysis/minot_speed.py.",
+    "evidence_type": "ANALYST_CALCULATION",
+    "provenance": "Derived from SRC023 numerical values; not independent measurement of the photographs",
+    "related_entities": "INC052;CLM083",
+    "significance": "HIGH",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "confidence": 3,
+    "section_id": "SEC080",
+    "line_ref": 12862
+   },
+   {
+    "evidence_id": "EVD026",
+    "description": "Assumptions behind any speed figure: (i) the three echoes are one target (Shough: cannot be justified from two possibly unrelated echoes; elongated echoes are suggestive but not conclusive); (ii) co-altitude (a depression angle lowers true separation; e.g. at 50 deg the naive horizontal speed would be ~1,650 kt, ~1,900 mph); (iii) range scale inferred (~5 NM display, no indicator on photographs); (iv) only 14 of probably >100 frames survive. The result is an upper-limit estimate, not a measurement of a 3,900 mph object.",
+    "evidence_type": "METHODOLOGICAL_LIMIT",
+    "provenance": "SRC023; analyst calculation",
+    "related_entities": "INC052;TEC008",
+    "significance": "HIGH",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "confidence": 3,
+    "section_id": "SEC080",
+    "line_ref": 12862
+   },
+   {
+    "evidence_id": "EVD027",
+    "description": "Timeline dispute between analysts: Shough concludes frames 771-783 were taken late in the event near the missed approach (so the 'fast' echo transit is not the start); Poher concludes the radarscope clock (0906Z) runs ~9 min ahead of the approach-controller clock so frames coincide with radio loss at ~0858 COM when the B-52 was ~21 nm out (early). The question of when the high-speed transit occurred relative to ground sightings is unresolved in the sources I read.",
+    "evidence_type": "ANALYST_DISAGREEMENT",
+    "provenance": "SRC023 vs SRC024 Appendix 1",
+    "related_entities": "INC052",
+    "significance": "HIGH",
+    "verification_status": "DISPUTED",
+    "confidence": 2,
+    "section_id": "SEC080",
+    "line_ref": 12862
+   },
+   {
+    "evidence_id": "EVD028",
+    "description": "Dispatcher log vs B-52 explanation: entries 0828-0830Z mention jet engines; the B-52 low approach/missed approach was ~0904-0917 COM (Poher). So the Blue Book statement that 'later sightings ... correlate with' the B-52 low approach is plausible for entries after ~0900Z but not demonstrated for the 0800-0858Z entries; and entries 0940-1010Z (after the log says the B-52 landed at 0940Z) describe a stationary object west of N-7 on/near the ground, which the B-52 cannot explain.",
+    "evidence_type": "DOCUMENT_COMPARISON",
+    "provenance": "SRC025; SRC026; SRC024",
+    "related_entities": "INC052;EXP024;EXP026",
+    "significance": "HIGH",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "confidence": 3,
+    "section_id": "SEC080",
+    "line_ref": 12811
+   },
+   {
+    "evidence_id": "EVD029",
+    "description": "Analyst astronomical check (this project; simple GMST/precession, Minot AFB 48.42N 101.36W, 24 Oct 1968): Sirius altitude 11-23 deg, azimuth 132-162 deg (SE to SSE) from 0800Z to 1010Z; Vega 7 deg->-2 deg altitude, azimuth 325-348 deg (NW-NNW), setting ~0940Z. Dispatcher entries 0800Z 'S/E of N-7' fit Sirius direction; entries 0940-1010Z 'west of N-7' do not (~110 deg off); Blue Book cites Vega at azimuth 345 at 0435 local (matches my 342 deg) but the pilot's light was 'west-northwest' (~50 deg away) - requires check of the AF Forms 117. Script: database/build/analysis/minot_sirius.py.",
+    "evidence_type": "ANALYST_CALCULATION",
+    "provenance": "Computed; positions accurate to ~0.5 deg; atmospheric refraction ignored",
+    "related_entities": "INC052;EXP024;EXP026",
+    "significance": "HIGH",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "confidence": 3,
+    "section_id": "SEC080",
+    "line_ref": 12916
+   },
+   {
+    "evidence_id": "EVD030",
+    "description": "Blue Book's own text (SRC025) says no data were submitted for the possible 0335 local air visual and 0352 weather-radar paint, and that the pilot's Form 117 puts his sighting at ~0435 local, not 0335: official file acknowledges data gaps in the timeline; Hastings' narrative does not.",
+    "evidence_type": "DOCUMENT_QUOTATION",
+    "provenance": "SRC025 p.3",
+    "related_entities": "INC052",
+    "significance": "MEDIUM",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "confidence": 3,
+    "section_id": "SEC080",
+    "line_ref": 12816
    }
   ],
   "Government_Documents": [
@@ -4907,13 +5090,13 @@
     "existence_status": "KNOWN",
     "potential_repository": "NARA Blue Book microfilm; Tulien/Sign Oral History Project; Fold3/Blue Book Archive",
     "acquisition_method": "Download from Tulien site; verify with NARA roll",
-    "status": "OPEN",
+    "status": "PARTIALLY_OBTAINED (Final Case Report, dispatcher log, 14 scope scans downloaded; other documents not read)",
     "section_id": "SEC080",
     "line_ref": 12788
    },
    {
     "missing_id": "MIS032",
-    "description": "Original B-52 radarscope film (35 mm) and any SAC photo analysis report",
+    "description": "Original B-52 radarscope film (35 mm) and any SAC photo analysis report [Shough: only ~1/10 of original frames (14 of probably >100) survive as prints; negative not located]",
     "existence_status": "SUSPECTED",
     "potential_repository": "AFHRA; NARA; Tulien collection",
     "acquisition_method": "Inquire with Tulien/ SOHP",
@@ -4930,6 +5113,16 @@
     "status": "OPEN",
     "section_id": "SEC080",
     "line_ref": 12805
+   },
+   {
+    "missing_id": "MIS034",
+    "description": "Pilot/crew AF Forms 117 for the B-52 (Partin, Runyon etc.) and Blue Book supporting docs 17 (RAPCON/approach transcript), 14 (upper-air data), 32 (13 prints)",
+    "existence_status": "KNOWN (listed on Tulien site as PDFs)",
+    "potential_repository": "minotb52ufo.com/pdf/; NARA T1206",
+    "acquisition_method": "Download and read (not yet read)",
+    "status": "OPEN",
+    "section_id": "SEC080",
+    "line_ref": 12884
    }
   ],
   "Name_Mentions": [
@@ -12299,1931 +12492,2197 @@
    },
    {
     "relationship_id": 55,
+    "from_id": "CLM087",
+    "to_id": "INC052",
+    "relationship_type": "CLAIM_ABOUT",
+    "note": ""
+   },
+   {
+    "relationship_id": 56,
+    "from_id": "CLM088",
+    "to_id": "INC052",
+    "relationship_type": "CLAIM_ABOUT",
+    "note": ""
+   },
+   {
+    "relationship_id": 57,
+    "from_id": "CLM089",
+    "to_id": "INC052",
+    "relationship_type": "CLAIM_ABOUT",
+    "note": ""
+   },
+   {
+    "relationship_id": 58,
     "from_id": "EVD001",
     "to_id": "INC019",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 56,
+    "relationship_id": 59,
     "from_id": "EVD002",
     "to_id": "CLM035",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 57,
+    "relationship_id": 60,
     "from_id": "EVD002",
     "to_id": "INC019",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 58,
+    "relationship_id": 61,
     "from_id": "EVD003",
     "to_id": "EXP009",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 59,
+    "relationship_id": 62,
     "from_id": "EVD003",
     "to_id": "INC019",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 60,
+    "relationship_id": 63,
     "from_id": "EVD004",
     "to_id": "INC019",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 61,
+    "relationship_id": 64,
     "from_id": "EVD005",
     "to_id": "INC019",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 62,
+    "relationship_id": 65,
     "from_id": "EVD005",
     "to_id": "INC020",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 63,
+    "relationship_id": 66,
     "from_id": "EVD005",
     "to_id": "WIT011",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 64,
+    "relationship_id": 67,
     "from_id": "EVD006",
     "to_id": "GOV006",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 65,
+    "relationship_id": 68,
     "from_id": "EVD006",
     "to_id": "INC019",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 66,
+    "relationship_id": 69,
     "from_id": "EVD007",
     "to_id": "CLM045",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 67,
+    "relationship_id": 70,
     "from_id": "EVD007",
     "to_id": "INC025",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 68,
+    "relationship_id": 71,
     "from_id": "EVD008",
     "to_id": "EXP019",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 69,
+    "relationship_id": 72,
     "from_id": "EVD008",
     "to_id": "INC025",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 70,
+    "relationship_id": 73,
     "from_id": "EVD009",
     "to_id": "INC025",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 71,
+    "relationship_id": 74,
     "from_id": "EVD010",
     "to_id": "INC029",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 72,
+    "relationship_id": 75,
     "from_id": "EVD011",
     "to_id": "GOV001",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 73,
+    "relationship_id": 76,
     "from_id": "EVD011",
     "to_id": "INC001",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 74,
+    "relationship_id": 77,
     "from_id": "EVD012",
     "to_id": "INC034",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 75,
+    "relationship_id": 78,
     "from_id": "EVD013",
     "to_id": "CLM021",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 76,
+    "relationship_id": 79,
     "from_id": "EVD013",
     "to_id": "GOV004",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 77,
+    "relationship_id": 80,
     "from_id": "EVD014",
     "to_id": "GOV015",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 78,
+    "relationship_id": 81,
     "from_id": "EVD014",
     "to_id": "INC052",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 79,
+    "relationship_id": 82,
     "from_id": "EVD015",
     "to_id": "EXP024",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 80,
+    "relationship_id": 83,
     "from_id": "EVD015",
     "to_id": "INC052",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 81,
+    "relationship_id": 84,
     "from_id": "EVD016",
     "to_id": "CLM082",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 82,
+    "relationship_id": 85,
     "from_id": "EVD016",
     "to_id": "INC052",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 83,
+    "relationship_id": 86,
     "from_id": "EVD017",
     "to_id": "CLM083",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 84,
+    "relationship_id": 87,
     "from_id": "EVD017",
     "to_id": "INC052",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 85,
+    "relationship_id": 88,
     "from_id": "EVD018",
     "to_id": "INC037",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 86,
+    "relationship_id": 89,
     "from_id": "EVD018",
     "to_id": "INC038",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 87,
+    "relationship_id": 90,
     "from_id": "EVD018",
     "to_id": "WIT033",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 88,
+    "relationship_id": 91,
     "from_id": "EVD019",
     "to_id": "CLM058",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 89,
+    "relationship_id": 92,
     "from_id": "EVD019",
     "to_id": "CLM059",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 90,
+    "relationship_id": 93,
     "from_id": "EVD020",
     "to_id": "CLM065",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 91,
+    "relationship_id": 94,
     "from_id": "EVD020",
     "to_id": "CLM066",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 92,
+    "relationship_id": 95,
     "from_id": "EVD020",
     "to_id": "CLM067",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 93,
+    "relationship_id": 96,
     "from_id": "EVD021",
     "to_id": "CLM071",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 94,
+    "relationship_id": 97,
     "from_id": "EVD022",
     "to_id": "CLM074",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 95,
+    "relationship_id": 98,
     "from_id": "EVD022",
     "to_id": "CLM076",
     "relationship_type": "RELATES_TO",
     "note": ""
    },
    {
-    "relationship_id": 96,
+    "relationship_id": 99,
+    "from_id": "EVD023",
+    "to_id": "CLM083",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 100,
+    "from_id": "EVD023",
+    "to_id": "INC052",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 101,
+    "from_id": "EVD024",
+    "to_id": "CLM083",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 102,
+    "from_id": "EVD024",
+    "to_id": "INC052",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 103,
+    "from_id": "EVD025",
+    "to_id": "CLM083",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 104,
+    "from_id": "EVD025",
+    "to_id": "INC052",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 105,
+    "from_id": "EVD026",
+    "to_id": "INC052",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 106,
+    "from_id": "EVD027",
+    "to_id": "INC052",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 107,
+    "from_id": "EVD028",
+    "to_id": "EXP024",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 108,
+    "from_id": "EVD028",
+    "to_id": "EXP026",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 109,
+    "from_id": "EVD028",
+    "to_id": "INC052",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 110,
+    "from_id": "EVD029",
+    "to_id": "EXP024",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 111,
+    "from_id": "EVD029",
+    "to_id": "EXP026",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 112,
+    "from_id": "EVD029",
+    "to_id": "INC052",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 113,
+    "from_id": "EVD030",
+    "to_id": "INC052",
+    "relationship_type": "RELATES_TO",
+    "note": ""
+   },
+   {
+    "relationship_id": 114,
     "from_id": "EXP001",
     "to_id": "INC001",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 97,
+    "relationship_id": 115,
     "from_id": "EXP001",
     "to_id": "INC012",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 98,
+    "relationship_id": 116,
     "from_id": "EXP002",
     "to_id": "INC004",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 99,
+    "relationship_id": 117,
     "from_id": "EXP003",
     "to_id": "INC006",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 100,
+    "relationship_id": 118,
     "from_id": "EXP004",
     "to_id": "INC008",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 101,
+    "relationship_id": 119,
     "from_id": "EXP005",
     "to_id": "INC010",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 102,
+    "relationship_id": 120,
     "from_id": "EXP006",
     "to_id": "INC015",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 103,
+    "relationship_id": 121,
     "from_id": "EXP006",
     "to_id": "INC016",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 104,
+    "relationship_id": 122,
     "from_id": "EXP006",
     "to_id": "INC017",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 105,
+    "relationship_id": 123,
     "from_id": "EXP007",
     "to_id": "INC013",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 106,
+    "relationship_id": 124,
     "from_id": "EXP008",
     "to_id": "INC018",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 107,
+    "relationship_id": 125,
     "from_id": "EXP009",
     "to_id": "INC019",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 108,
+    "relationship_id": 126,
     "from_id": "EXP010",
     "to_id": "INC020",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 109,
+    "relationship_id": 127,
     "from_id": "EXP011",
     "to_id": "INC019",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 110,
+    "relationship_id": 128,
     "from_id": "EXP011",
     "to_id": "INC020",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 111,
+    "relationship_id": 129,
     "from_id": "EXP012",
     "to_id": "INC025",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 112,
+    "relationship_id": 130,
     "from_id": "EXP013",
     "to_id": "INC025",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 113,
+    "relationship_id": 131,
     "from_id": "EXP014",
     "to_id": "INC025",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 114,
+    "relationship_id": 132,
     "from_id": "EXP015",
     "to_id": "INC027",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 115,
+    "relationship_id": 133,
     "from_id": "EXP016",
     "to_id": "INC029",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 116,
+    "relationship_id": 134,
     "from_id": "EXP017",
     "to_id": "INC034",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 117,
+    "relationship_id": 135,
     "from_id": "EXP018",
     "to_id": "INC035",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 118,
+    "relationship_id": 136,
     "from_id": "EXP019",
     "to_id": "INC025",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 119,
+    "relationship_id": 137,
     "from_id": "EXP020",
     "to_id": "INC019",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 120,
+    "relationship_id": 138,
     "from_id": "EXP021",
     "to_id": "INC037",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 121,
+    "relationship_id": 139,
     "from_id": "EXP021",
     "to_id": "INC038",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 122,
+    "relationship_id": 140,
     "from_id": "EXP021",
     "to_id": "INC041",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 123,
+    "relationship_id": 141,
     "from_id": "EXP021",
     "to_id": "INC042",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 124,
+    "relationship_id": 142,
     "from_id": "EXP022",
     "to_id": "INC045",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 125,
+    "relationship_id": 143,
     "from_id": "EXP022",
     "to_id": "INC048",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 126,
+    "relationship_id": 144,
     "from_id": "EXP022",
     "to_id": "INC049",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 127,
+    "relationship_id": 145,
     "from_id": "EXP023",
     "to_id": "INC050",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 128,
+    "relationship_id": 146,
     "from_id": "EXP024",
     "to_id": "INC052",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 129,
+    "relationship_id": 147,
     "from_id": "EXP025",
     "to_id": "INC052",
     "relationship_type": "EXPLAINS",
     "note": ""
    },
    {
-    "relationship_id": 130,
+    "relationship_id": 148,
+    "from_id": "EXP026",
+    "to_id": "INC052",
+    "relationship_type": "EXPLAINS",
+    "note": ""
+   },
+   {
+    "relationship_id": 149,
+    "from_id": "EXP027",
+    "to_id": "INC052",
+    "relationship_type": "EXPLAINS",
+    "note": ""
+   },
+   {
+    "relationship_id": 150,
+    "from_id": "EXP028",
+    "to_id": "INC052",
+    "relationship_type": "EXPLAINS",
+    "note": ""
+   },
+   {
+    "relationship_id": 151,
     "from_id": "GOV001",
     "to_id": "INC001",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 131,
+    "relationship_id": 152,
     "from_id": "GOV002",
     "to_id": "INC001",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 132,
+    "relationship_id": 153,
     "from_id": "GOV002",
     "to_id": "INC012",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 133,
+    "relationship_id": 154,
     "from_id": "GOV003",
     "to_id": "INC008",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 134,
+    "relationship_id": 155,
     "from_id": "GOV004",
     "to_id": "INC001",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 135,
+    "relationship_id": 156,
     "from_id": "GOV005",
     "to_id": "INC019",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 136,
+    "relationship_id": 157,
     "from_id": "GOV006",
     "to_id": "INC019",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 137,
+    "relationship_id": 158,
     "from_id": "GOV007",
     "to_id": "INC022",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 138,
+    "relationship_id": 159,
     "from_id": "GOV008",
     "to_id": "INC027",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 139,
+    "relationship_id": 160,
     "from_id": "GOV009",
     "to_id": "INC027",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 140,
+    "relationship_id": 161,
     "from_id": "GOV009",
     "to_id": "INC029",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 141,
+    "relationship_id": 162,
     "from_id": "GOV010",
     "to_id": "INC029",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 142,
+    "relationship_id": 163,
     "from_id": "GOV011",
     "to_id": "INC033",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 143,
+    "relationship_id": 164,
     "from_id": "GOV012",
     "to_id": "INC034",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 144,
+    "relationship_id": 165,
     "from_id": "GOV013",
     "to_id": "INC042",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 145,
+    "relationship_id": 166,
     "from_id": "GOV014",
     "to_id": "INC052",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 146,
+    "relationship_id": 167,
     "from_id": "GOV015",
     "to_id": "INC052",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 147,
+    "relationship_id": 168,
     "from_id": "GOV016",
     "to_id": "INC052",
     "relationship_type": "DOCUMENTS",
     "note": ""
    },
    {
-    "relationship_id": 148,
+    "relationship_id": 169,
     "from_id": "RQ001",
     "to_id": "GOV005",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 149,
+    "relationship_id": 170,
     "from_id": "RQ001",
     "to_id": "GOV006",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 150,
+    "relationship_id": 171,
     "from_id": "RQ001",
     "to_id": "INC019",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 151,
+    "relationship_id": 172,
     "from_id": "RQ001",
     "to_id": "INC020",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 152,
+    "relationship_id": 173,
     "from_id": "RQ002",
     "to_id": "EVD005",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 153,
+    "relationship_id": 174,
     "from_id": "RQ002",
     "to_id": "INC019",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 154,
+    "relationship_id": 175,
     "from_id": "RQ002",
     "to_id": "INC020",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 155,
+    "relationship_id": 176,
     "from_id": "RQ003",
     "to_id": "EVD008",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 156,
+    "relationship_id": 177,
     "from_id": "RQ003",
     "to_id": "EVD009",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 157,
+    "relationship_id": 178,
     "from_id": "RQ003",
     "to_id": "GOV012",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 158,
+    "relationship_id": 179,
     "from_id": "RQ003",
     "to_id": "INC025",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 159,
+    "relationship_id": 180,
     "from_id": "RQ004",
     "to_id": "GOV008",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 160,
+    "relationship_id": 181,
     "from_id": "RQ004",
     "to_id": "GOV009",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 161,
+    "relationship_id": 182,
     "from_id": "RQ004",
     "to_id": "GOV010",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 162,
+    "relationship_id": 183,
     "from_id": "RQ004",
     "to_id": "INC027",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 163,
+    "relationship_id": 184,
     "from_id": "RQ004",
     "to_id": "INC029",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 164,
+    "relationship_id": 185,
     "from_id": "RQ004",
     "to_id": "INC030",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 165,
+    "relationship_id": 186,
     "from_id": "RQ005",
     "to_id": "GOV001",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 166,
+    "relationship_id": 187,
     "from_id": "RQ005",
     "to_id": "GOV002",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 167,
+    "relationship_id": 188,
     "from_id": "RQ005",
     "to_id": "GOV003",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 168,
+    "relationship_id": 189,
     "from_id": "RQ005",
     "to_id": "GOV004",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 169,
+    "relationship_id": 190,
     "from_id": "RQ005",
     "to_id": "INC001",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 170,
+    "relationship_id": 191,
     "from_id": "RQ005",
     "to_id": "INC002",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 171,
+    "relationship_id": 192,
     "from_id": "RQ005",
     "to_id": "INC003",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 172,
+    "relationship_id": 193,
     "from_id": "RQ005",
     "to_id": "INC004",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 173,
+    "relationship_id": 194,
     "from_id": "RQ005",
     "to_id": "INC005",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 174,
+    "relationship_id": 195,
     "from_id": "RQ005",
     "to_id": "INC006",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 175,
+    "relationship_id": 196,
     "from_id": "RQ005",
     "to_id": "INC007",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 176,
+    "relationship_id": 197,
     "from_id": "RQ005",
     "to_id": "INC008",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 177,
+    "relationship_id": 198,
     "from_id": "RQ005",
     "to_id": "INC009",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 178,
+    "relationship_id": 199,
     "from_id": "RQ005",
     "to_id": "INC010",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 179,
+    "relationship_id": 200,
     "from_id": "RQ005",
     "to_id": "INC011",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 180,
+    "relationship_id": 201,
     "from_id": "RQ005",
     "to_id": "INC012",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 181,
+    "relationship_id": 202,
     "from_id": "RQ006",
     "to_id": "CLM001",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 182,
+    "relationship_id": 203,
     "from_id": "RQ006",
     "to_id": "CLM002",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 183,
+    "relationship_id": 204,
     "from_id": "RQ007",
     "to_id": "CLM025",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 184,
+    "relationship_id": 205,
     "from_id": "RQ007",
     "to_id": "INC014",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 185,
+    "relationship_id": 206,
     "from_id": "RQ007",
     "to_id": "INC015",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 186,
+    "relationship_id": 207,
     "from_id": "RQ007",
     "to_id": "INC016",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 187,
+    "relationship_id": 208,
     "from_id": "RQ007",
     "to_id": "INC017",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 188,
+    "relationship_id": 209,
     "from_id": "RQ008",
     "to_id": "INC018",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 189,
+    "relationship_id": 210,
     "from_id": "RQ008",
     "to_id": "WIT008",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 190,
+    "relationship_id": 211,
     "from_id": "RQ008",
     "to_id": "WIT009",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 191,
+    "relationship_id": 212,
     "from_id": "RQ009",
     "to_id": "INC035",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 192,
+    "relationship_id": 213,
     "from_id": "RQ009",
     "to_id": "WIT031",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 193,
+    "relationship_id": 214,
     "from_id": "RQ011",
     "to_id": "EXP024",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 194,
+    "relationship_id": 215,
     "from_id": "RQ011",
     "to_id": "EXP025",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 195,
+    "relationship_id": 216,
     "from_id": "RQ011",
     "to_id": "GOV014",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 196,
+    "relationship_id": 217,
     "from_id": "RQ011",
     "to_id": "GOV015",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 197,
+    "relationship_id": 218,
     "from_id": "RQ011",
     "to_id": "GOV016",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 198,
+    "relationship_id": 219,
     "from_id": "RQ011",
     "to_id": "INC052",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 199,
+    "relationship_id": 220,
     "from_id": "RQ012",
     "to_id": "GOV013",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 200,
+    "relationship_id": 221,
     "from_id": "RQ012",
     "to_id": "INC037",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 201,
+    "relationship_id": 222,
     "from_id": "RQ012",
     "to_id": "INC038",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 202,
+    "relationship_id": 223,
     "from_id": "RQ012",
     "to_id": "INC041",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 203,
+    "relationship_id": 224,
     "from_id": "RQ012",
     "to_id": "INC042",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 204,
+    "relationship_id": 225,
     "from_id": "RQ013",
     "to_id": "CLM077",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 205,
+    "relationship_id": 226,
     "from_id": "RQ013",
     "to_id": "CLM079",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 206,
+    "relationship_id": 227,
     "from_id": "RQ013",
     "to_id": "INC050",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 207,
+    "relationship_id": 228,
     "from_id": "RQ014",
     "to_id": "CLM065",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 208,
+    "relationship_id": 229,
     "from_id": "RQ014",
     "to_id": "CLM066",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 209,
+    "relationship_id": 230,
     "from_id": "RQ014",
     "to_id": "CLM067",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 210,
+    "relationship_id": 231,
     "from_id": "RQ014",
     "to_id": "CLM068",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 211,
+    "relationship_id": 232,
     "from_id": "RQ014",
     "to_id": "CLM071",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 212,
+    "relationship_id": 233,
     "from_id": "RQ014",
     "to_id": "CLM072",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 213,
+    "relationship_id": 234,
     "from_id": "RQ014",
     "to_id": "CLM073",
     "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
-    "relationship_id": 214,
-    "from_id": "SRC001",
-    "to_id": "INC019",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 215,
-    "from_id": "SRC001",
-    "to_id": "INC020",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 216,
-    "from_id": "SRC001",
-    "to_id": "WIT011",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 217,
-    "from_id": "SRC002",
-    "to_id": "GOV005",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 218,
-    "from_id": "SRC002",
-    "to_id": "GOV006",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 219,
-    "from_id": "SRC002",
-    "to_id": "INC019",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 220,
-    "from_id": "SRC003",
-    "to_id": "CLM021",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 221,
-    "from_id": "SRC003",
-    "to_id": "GOV004",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 222,
-    "from_id": "SRC004",
-    "to_id": "CLM043",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 223,
-    "from_id": "SRC004",
-    "to_id": "CLM044",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 224,
-    "from_id": "SRC004",
-    "to_id": "EXP012",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 225,
-    "from_id": "SRC004",
-    "to_id": "INC025",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 226,
-    "from_id": "SRC005",
-    "to_id": "CLM043",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 227,
-    "from_id": "SRC005",
-    "to_id": "INC025",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 228,
-    "from_id": "SRC006",
-    "to_id": "INC025",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 229,
-    "from_id": "SRC007",
-    "to_id": "INC025",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 230,
-    "from_id": "SRC008",
-    "to_id": "CLM001",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 231,
-    "from_id": "SRC008",
-    "to_id": "GOV001",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 232,
-    "from_id": "SRC009",
-    "to_id": "GOV009",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 233,
-    "from_id": "SRC009",
-    "to_id": "INC027",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
-    "relationship_id": 234,
-    "from_id": "SRC009",
-    "to_id": "INC029",
-    "relationship_type": "INFORMS",
-    "note": ""
-   },
-   {
     "relationship_id": 235,
-    "from_id": "SRC010",
-    "to_id": "INC029",
-    "relationship_type": "INFORMS",
+    "from_id": "RQ015",
+    "to_id": "EVD027",
+    "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
     "relationship_id": 236,
-    "from_id": "SRC011",
-    "to_id": "INC029",
-    "relationship_type": "INFORMS",
+    "from_id": "RQ015",
+    "to_id": "INC052",
+    "relationship_type": "INVESTIGATES",
     "note": ""
    },
    {
     "relationship_id": 237,
-    "from_id": "SRC012",
+    "from_id": "SRC001",
     "to_id": "INC019",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
     "relationship_id": 238,
-    "from_id": "SRC012",
+    "from_id": "SRC001",
     "to_id": "INC020",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
     "relationship_id": 239,
+    "from_id": "SRC001",
+    "to_id": "WIT011",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 240,
+    "from_id": "SRC002",
+    "to_id": "GOV005",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 241,
+    "from_id": "SRC002",
+    "to_id": "GOV006",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 242,
+    "from_id": "SRC002",
+    "to_id": "INC019",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 243,
+    "from_id": "SRC003",
+    "to_id": "CLM021",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 244,
+    "from_id": "SRC003",
+    "to_id": "GOV004",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 245,
+    "from_id": "SRC004",
+    "to_id": "CLM043",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 246,
+    "from_id": "SRC004",
+    "to_id": "CLM044",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 247,
+    "from_id": "SRC004",
+    "to_id": "EXP012",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 248,
+    "from_id": "SRC004",
+    "to_id": "INC025",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 249,
+    "from_id": "SRC005",
+    "to_id": "CLM043",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 250,
+    "from_id": "SRC005",
+    "to_id": "INC025",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 251,
+    "from_id": "SRC006",
+    "to_id": "INC025",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 252,
+    "from_id": "SRC007",
+    "to_id": "INC025",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 253,
+    "from_id": "SRC008",
+    "to_id": "CLM001",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 254,
+    "from_id": "SRC008",
+    "to_id": "GOV001",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 255,
+    "from_id": "SRC009",
+    "to_id": "GOV009",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 256,
+    "from_id": "SRC009",
+    "to_id": "INC027",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 257,
+    "from_id": "SRC009",
+    "to_id": "INC029",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 258,
+    "from_id": "SRC010",
+    "to_id": "INC029",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 259,
+    "from_id": "SRC011",
+    "to_id": "INC029",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 260,
+    "from_id": "SRC012",
+    "to_id": "INC019",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 261,
+    "from_id": "SRC012",
+    "to_id": "INC020",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 262,
     "from_id": "SRC013",
     "to_id": "INC019",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 240,
+    "relationship_id": 263,
     "from_id": "SRC014",
     "to_id": "EXP017",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 241,
+    "relationship_id": 264,
     "from_id": "SRC014",
     "to_id": "INC034",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 242,
+    "relationship_id": 265,
     "from_id": "SRC015",
     "to_id": "GOV004",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 243,
+    "relationship_id": 266,
     "from_id": "SRC016",
     "to_id": "GOV004",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 244,
+    "relationship_id": 267,
     "from_id": "SRC017",
     "to_id": "EVD014",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 245,
+    "relationship_id": 268,
     "from_id": "SRC017",
     "to_id": "EVD015",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 246,
+    "relationship_id": 269,
     "from_id": "SRC017",
     "to_id": "GOV014",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 247,
+    "relationship_id": 270,
     "from_id": "SRC017",
     "to_id": "GOV015",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 248,
+    "relationship_id": 271,
     "from_id": "SRC017",
     "to_id": "GOV016",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 249,
+    "relationship_id": 272,
     "from_id": "SRC017",
     "to_id": "INC052",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 250,
+    "relationship_id": 273,
     "from_id": "SRC018",
     "to_id": "EVD018",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 251,
+    "relationship_id": 274,
     "from_id": "SRC018",
     "to_id": "INC037",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 252,
+    "relationship_id": 275,
     "from_id": "SRC018",
     "to_id": "INC038",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 253,
+    "relationship_id": 276,
     "from_id": "SRC019",
     "to_id": "CLM065",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 254,
+    "relationship_id": 277,
     "from_id": "SRC019",
     "to_id": "CLM066",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 255,
+    "relationship_id": 278,
     "from_id": "SRC019",
     "to_id": "CLM067",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 256,
+    "relationship_id": 279,
     "from_id": "SRC019",
     "to_id": "EVD020",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 257,
+    "relationship_id": 280,
     "from_id": "SRC020",
     "to_id": "CLM071",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 258,
+    "relationship_id": 281,
     "from_id": "SRC020",
     "to_id": "EVD021",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 259,
+    "relationship_id": 282,
     "from_id": "SRC021",
     "to_id": "CLM058",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 260,
+    "relationship_id": 283,
     "from_id": "SRC021",
     "to_id": "CLM059",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 261,
+    "relationship_id": 284,
     "from_id": "SRC021",
     "to_id": "EVD019",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 262,
+    "relationship_id": 285,
     "from_id": "SRC022",
     "to_id": "GOV013",
     "relationship_type": "INFORMS",
     "note": ""
    },
    {
-    "relationship_id": 263,
+    "relationship_id": 286,
+    "from_id": "SRC023",
+    "to_id": "CLM083",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 287,
+    "from_id": "SRC023",
+    "to_id": "EVD023",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 288,
+    "from_id": "SRC023",
+    "to_id": "EVD024",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 289,
+    "from_id": "SRC023",
+    "to_id": "INC052",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 290,
+    "from_id": "SRC024",
+    "to_id": "EVD025",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 291,
+    "from_id": "SRC024",
+    "to_id": "EVD026",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 292,
+    "from_id": "SRC024",
+    "to_id": "INC052",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 293,
+    "from_id": "SRC025",
+    "to_id": "EXP024",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 294,
+    "from_id": "SRC025",
+    "to_id": "EXP026",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 295,
+    "from_id": "SRC025",
+    "to_id": "GOV015",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 296,
+    "from_id": "SRC025",
+    "to_id": "INC052",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 297,
+    "from_id": "SRC026",
+    "to_id": "EVD027",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 298,
+    "from_id": "SRC026",
+    "to_id": "GOV016",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 299,
+    "from_id": "SRC026",
+    "to_id": "INC052",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 300,
+    "from_id": "SRC027",
+    "to_id": "INC052",
+    "relationship_type": "INFORMS",
+    "note": ""
+   },
+   {
+    "relationship_id": 301,
     "from_id": "WIT000",
     "to_id": "INC000",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 264,
+    "relationship_id": 302,
     "from_id": "WIT001",
     "to_id": "INC000",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 265,
+    "relationship_id": 303,
     "from_id": "WIT002",
     "to_id": "INC000",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 266,
+    "relationship_id": 304,
     "from_id": "WIT003",
     "to_id": "INC013",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 267,
+    "relationship_id": 305,
     "from_id": "WIT004",
     "to_id": "INC013",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 268,
+    "relationship_id": 306,
     "from_id": "WIT005",
     "to_id": "INC014",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 269,
+    "relationship_id": 307,
     "from_id": "WIT007",
     "to_id": "INC015",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 270,
+    "relationship_id": 308,
     "from_id": "WIT008",
     "to_id": "INC018",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 271,
+    "relationship_id": 309,
     "from_id": "WIT009",
     "to_id": "INC018",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 272,
+    "relationship_id": 310,
     "from_id": "WIT010",
     "to_id": "INC018",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 273,
+    "relationship_id": 311,
     "from_id": "WIT011",
     "to_id": "INC019",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 274,
+    "relationship_id": 312,
     "from_id": "WIT011",
     "to_id": "INC020",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 275,
+    "relationship_id": 313,
     "from_id": "WIT012",
     "to_id": "INC020",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 276,
+    "relationship_id": 314,
     "from_id": "WIT013",
     "to_id": "INC019",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 277,
+    "relationship_id": 315,
     "from_id": "WIT014",
     "to_id": "INC019",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 278,
+    "relationship_id": 316,
     "from_id": "WIT015",
     "to_id": "INC019",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 279,
+    "relationship_id": 317,
     "from_id": "WIT016",
     "to_id": "INC019",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 280,
+    "relationship_id": 318,
     "from_id": "WIT017",
     "to_id": "INC021",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 281,
+    "relationship_id": 319,
     "from_id": "WIT018",
     "to_id": "INC021",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 282,
+    "relationship_id": 320,
     "from_id": "WIT019",
     "to_id": "INC022",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 283,
+    "relationship_id": 321,
     "from_id": "WIT020",
     "to_id": "INC024",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 284,
+    "relationship_id": 322,
     "from_id": "WIT021",
     "to_id": "INC019",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 285,
+    "relationship_id": 323,
     "from_id": "WIT021",
     "to_id": "INC020",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 286,
+    "relationship_id": 324,
     "from_id": "WIT022",
     "to_id": "INC023",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 287,
+    "relationship_id": 325,
     "from_id": "WIT023",
     "to_id": "INC025",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 288,
+    "relationship_id": 326,
     "from_id": "WIT024",
     "to_id": "INC025",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 289,
+    "relationship_id": 327,
     "from_id": "WIT025",
     "to_id": "INC025",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 290,
+    "relationship_id": 328,
     "from_id": "WIT026",
     "to_id": "INC025",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 291,
+    "relationship_id": 329,
     "from_id": "WIT028",
     "to_id": "INC031",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 292,
+    "relationship_id": 330,
     "from_id": "WIT029",
     "to_id": "INC030",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 293,
+    "relationship_id": 331,
     "from_id": "WIT031",
     "to_id": "INC034",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 294,
+    "relationship_id": 332,
     "from_id": "WIT031",
     "to_id": "INC035",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 295,
+    "relationship_id": 333,
     "from_id": "WIT032",
     "to_id": "INC034",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 296,
+    "relationship_id": 334,
     "from_id": "WIT033",
     "to_id": "INC037",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 297,
+    "relationship_id": 335,
     "from_id": "WIT034",
     "to_id": "INC038",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 298,
+    "relationship_id": 336,
     "from_id": "WIT034",
     "to_id": "INC039",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 299,
+    "relationship_id": 337,
     "from_id": "WIT035",
     "to_id": "INC039",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 300,
+    "relationship_id": 338,
     "from_id": "WIT035",
     "to_id": "INC040",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 301,
+    "relationship_id": 339,
     "from_id": "WIT036",
     "to_id": "INC037",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 302,
+    "relationship_id": 340,
     "from_id": "WIT037",
     "to_id": "INC041",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 303,
+    "relationship_id": 341,
     "from_id": "WIT038",
     "to_id": "INC041",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 304,
+    "relationship_id": 342,
     "from_id": "WIT039",
     "to_id": "INC041",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 305,
+    "relationship_id": 343,
     "from_id": "WIT040",
     "to_id": "INC037",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 306,
+    "relationship_id": 344,
     "from_id": "WIT041",
     "to_id": "INC042",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 307,
+    "relationship_id": 345,
     "from_id": "WIT042",
     "to_id": "INC042",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 308,
+    "relationship_id": 346,
     "from_id": "WIT043",
     "to_id": "INC037",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 309,
+    "relationship_id": 347,
     "from_id": "WIT043",
     "to_id": "INC038",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 310,
+    "relationship_id": 348,
     "from_id": "WIT044",
     "to_id": "INC043",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 311,
+    "relationship_id": 349,
     "from_id": "WIT045",
     "to_id": "INC044",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 312,
+    "relationship_id": 350,
     "from_id": "WIT046",
     "to_id": "INC044",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 313,
+    "relationship_id": 351,
     "from_id": "WIT047",
     "to_id": "INC045",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 314,
+    "relationship_id": 352,
     "from_id": "WIT047",
     "to_id": "INC046",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 315,
+    "relationship_id": 353,
     "from_id": "WIT048",
     "to_id": "INC048",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 316,
+    "relationship_id": 354,
     "from_id": "WIT049",
     "to_id": "INC048",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 317,
+    "relationship_id": 355,
     "from_id": "WIT050",
     "to_id": "INC000",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 318,
+    "relationship_id": 356,
     "from_id": "WIT051",
     "to_id": "INC049",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 319,
+    "relationship_id": 357,
     "from_id": "WIT052",
     "to_id": "INC049",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 320,
+    "relationship_id": 358,
     "from_id": "WIT054",
     "to_id": "INC049",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 321,
+    "relationship_id": 359,
     "from_id": "WIT055",
     "to_id": "INC050",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 322,
+    "relationship_id": 360,
     "from_id": "WIT056",
     "to_id": "INC051",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 323,
+    "relationship_id": 361,
     "from_id": "WIT057",
     "to_id": "INC052",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 324,
+    "relationship_id": 362,
     "from_id": "WIT058",
     "to_id": "INC052",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 325,
+    "relationship_id": 363,
     "from_id": "WIT059",
     "to_id": "INC052",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 326,
+    "relationship_id": 364,
     "from_id": "WIT060",
     "to_id": "INC052",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 327,
+    "relationship_id": 365,
     "from_id": "WIT061",
     "to_id": "INC052",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 328,
+    "relationship_id": 366,
     "from_id": "WIT062",
     "to_id": "INC052",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 329,
+    "relationship_id": 367,
     "from_id": "WIT063",
     "to_id": "INC052",
     "relationship_type": "WITNESS_TO",
     "note": ""
    },
    {
-    "relationship_id": 330,
+    "relationship_id": 368,
     "from_id": "WIT064",
     "to_id": "INC053",
     "relationship_type": "WITNESS_TO",
@@ -14390,6 +14849,36 @@
     "query": "Barry Krause letter NICAP ...",
     "result": "Not found.",
     "limitations": "Absence of search hit is not evidence of absence; try CUFOS/NICAP archive"
+   },
+   {
+    "log_id": 17,
+    "log_date": "2026-11-16",
+    "action": "Fetch minotb52ufo.com documentation index, Shough and Poher reports, Blue Book Final Case Report, dispatcher log, radarscope scans",
+    "reason": "Follow-up question 1: recompute radar speed from frames and dispatcher log",
+    "tool": "curl via proxy; pdftotext; pdftoppm",
+    "query": "pdf/Blue-Book-Final-Case-Report.pdf; shough/pdf/SHOUGH_Report.pdf; poher/pdf/POHER_Report.pdf; pdf/Base-Operations-Dispatcher-Log.pdf; pdf/All-Radarscope-Photographs.pdf",
+    "result": "All downloaded and text-extracted; frame 771 viewed; 13 other documents listed but not read.",
+    "limitations": "NARA microfilm T1206 not accessed; original negatives not located"
+   },
+   {
+    "log_id": 18,
+    "log_date": "2026-11-16",
+    "action": "Analyst calculation: echo displacement/speed from Shough positions",
+    "reason": "Test the book/Clark 3,900 mph figure",
+    "tool": "Python (analysis/minot_speed.py)",
+    "query": "positions 771-773",
+    "result": "Naive 3.0 s: ~2,500 kt; paint-time corrected: 2,020 and 5,710 kt; simple mean 3,865 kt; time-weighted mean ~2,960 kt.",
+    "limitations": "Uses Shough measurements; I did not measure the photographs myself"
+   },
+   {
+    "log_id": 19,
+    "log_date": "2026-11-16",
+    "action": "Analyst calculation: Sirius/Vega azimuth-altitude over Minot, 0800-1010Z 24 Oct 1968",
+    "reason": "Test Blue Book star explanation against dispatcher log directions",
+    "tool": "Python (analysis/minot_sirius.py)",
+    "query": "Minot AFB coordinates; precession-corrected coordinates",
+    "result": "Sirius SE-SSE alt 11-23 deg; Vega NW-NNW low, setting ~0940Z.",
+    "limitations": "No refraction; approximate coordinates"
    }
   ],
   "Research_Questions": [
@@ -14528,13 +15017,13 @@
     "question": "What do the primary Blue Book case 12,548 documents show for Minot 24 Oct 1968, and do aircraft/star explanations account for the ground and radar observations?",
     "priority": "CRITICAL",
     "related_entities": "INC052;GOV014;GOV015;GOV016;EXP024;EXP025",
-    "existing_evidence": "Tulien report; Quintanilla statement; dispatcher log",
+    "existing_evidence": "Tulien report; Quintanilla statement; dispatcher log; Shough & Poher reports; Blue Book final report; dispatcher log; speed recomputation (EVD023-EVD029)",
     "missing_evidence": "Radarscope prints and film; SAC (Werlich) investigation; Oscar-7 break-in report; B-52 flight track",
     "potential_sources": "NARA Blue Book; Tulien; AFHRA",
     "recommended_methods": "Download file; compare book narrative with documents; reconstruct B-52 track/star positions",
     "verification_criteria": "Independent radar-speed recalculation; documented intrusion explanation",
-    "status": "IN_PROGRESS",
-    "next_action": "Pull Tulien PDF and verify against NARA roll"
+    "status": "PARTIALLY_COMPLETED",
+    "next_action": "Read AF Forms 117 and approach transcript; reconcile Shough vs Poher timeline (EVD027); derive speed with elevation uncertainty; verify against NARA T1206 roll"
    },
    {
     "question_id": "RQ012",
@@ -14574,12 +15063,25 @@
     "verification_criteria": "Original quotations located",
     "status": "IN_PROGRESS",
     "next_action": "Fetch Condon Report summary and Low memo from Project1947"
+   },
+   {
+    "question_id": "RQ015",
+    "question": "When did the fast echo transit occur relative to the ground sightings (Shough: late; Poher: early), and does a consistent clock reconstruction support a single-target interpretation?",
+    "priority": "CRITICAL",
+    "related_entities": "INC052;EVD027;TEC008",
+    "existing_evidence": "Two analyses with opposite conclusions",
+    "missing_evidence": "Synchronised clocks (RAPCON transcript, dispatcher log, radarscope clock); AF Forms 117; B-52 track",
+    "potential_sources": "minotb52ufo.com PDFs; NARA T1206",
+    "recommended_methods": "Rebuild a unified timeline from transcript + radar clock offset",
+    "verification_criteria": "Consistent timeline reproducible by an independent analyst",
+    "status": "NOT_STARTED",
+    "next_action": "Extract timestamped events from SRC024 App.1 and the approach transcript"
    }
   ],
   "Schema_Info": [
    {
     "key": "schema_version",
-    "value": "1.1.0"
+    "value": "1.2.0"
    },
    {
     "key": "generated",
@@ -14990,6 +15492,96 @@
     "reliability_notes": "Unsuccessful search is not proof of absence.",
     "verification_status": "SOURCE_UNAVAILABLE",
     "examination_level": "DISCOVERED"
+   },
+   {
+    "source_id": "SRC023",
+    "title": "Anomalous Echoes Captured by a B-52 Airborne Radarscope Camera: A Preliminary Report",
+    "author": "Martin Shough",
+    "organization": "Sign Oral History Project (minotb52ufo.com)",
+    "pub_date": "2005-2011",
+    "source_type": "Independent radar analysis (PDF, ~36,000 words)",
+    "classification": "SECONDARY",
+    "url": "https://minotb52ufo.com/shough/pdf/SHOUGH_Report.pdf",
+    "document_identifier": "",
+    "pages_sections": "frame descriptions; sections 3-7",
+    "access_date": "2026-11-15",
+    "related_entities": "INC052;TEC008;CLM083;EVD023;EVD024",
+    "extracted_information": "Frame-by-frame description of scans 771-783; quotes Werlich memo (\"2½ mile in 3 sec or about 3,000 mi/hr\"); reconstructs the \"3900\" figure as the average of two paint-time-corrected rates (~1,990 kt and ~5,870 kt co-altitude, relative to B-52; ~3,900 kt); notes 3000 mph cannot be recovered from photos; only ~1/10 of original frames survive; tests meteor, AP, multiple-trip, ECM, balloon, aircraft hypotheses; concludes none fully convincing.",
+    "reliability_notes": "Independent of Tulien/Poher in method but part of the same project; \"preliminary\"; assumptions (co-altitude, single target, range-scale 5 NM inferred as no scale indicator on photos) stated.",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "examination_level": "EXAMINED"
+   },
+   {
+    "source_id": "SRC024",
+    "title": "Analysis of Radar and Air-Visual UFO Observations on 24 October 1968 at Minot AFB",
+    "author": "Claude Poher",
+    "organization": "Sign Oral History Project (minotb52ufo.com)",
+    "pub_date": "2005-08 (amended 2006)",
+    "source_type": "Technical analysis (PDF, 62 MB)",
+    "classification": "SECONDARY",
+    "url": "https://minotb52ufo.com/poher/pdf/POHER_Report.pdf",
+    "document_identifier": "",
+    "pages_sections": "Part 1; Appendix 1",
+    "access_date": "2026-11-15",
+    "related_entities": "INC052;EVD025;EVD026",
+    "extracted_information": "Estimates 189 g / Mach 8 for the 6,100->1,930 m move in <3 s; reconstructs B-52 trajectory timing: radarscope clock runs ~9 min ahead of approach-controller clock; photos 771-783 coincide with radio loss at ~0858 COM, ~21 nm from Deering TACAN (i.e., early in the event) - conflicts with Shough.",
+    "reliability_notes": "Poher states the UFO hypothesis (\"exceptional UFO case\"); only abstract, Part 1 and Appendix 1 portions read by me.",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "examination_level": "EXAMINED"
+   },
+   {
+    "source_id": "SRC025",
+    "title": "Project Blue Book Final Case Report, Minot AFB 24 Oct 1968 (FTD 13 Nov 1968 + Discussion of Background Information)",
+    "author": "Lt Col Hector Quintanilla Jr. (FTD)",
+    "organization": "USAF Project Blue Book (reproduction on minotb52ufo.com)",
+    "pub_date": "1968-11-13",
+    "source_type": "Official evaluation (PDF, 23 pp)",
+    "classification": "PRIMARY",
+    "url": "https://minotb52ufo.com/pdf/Blue-Book-Final-Case-Report.pdf",
+    "document_identifier": "Blue Book case 12,548",
+    "pages_sections": "pp. 1-4 text + atch",
+    "access_date": "2026-11-15",
+    "related_entities": "GOV015;INC052;EXP024;EXP026",
+    "extracted_information": "Confirms: Sirius + B-52; plasma similar to ball lightning for radar contact/UHF loss; Vega or ground light/plasma for air visual; \"physical violation of the lock of OSCAR 7 does not seem to be related to UFOs\"; says B-52 arrived on a 50-nm radius clearance flying \"vertical S\" upper airwork \"at almost the same time as the first sighting\"; later sightings \"correlate with the B-52 making a VOR penetration, low approach, and missed approach\"; temperature inversion and haze; no data submitted on 0335 local visual / 0352 weather-radar paint.",
+    "reliability_notes": "Official explanation itself criticised by Shough/Tulien/Hastings; scan quality good; reproduction hosted by a case investigator.",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "examination_level": "EXAMINED"
+   },
+   {
+    "source_id": "SRC026",
+    "title": "Base Operations Dispatcher Log, Minot AFB, 24 Oct 1968 (Zulu times)",
+    "author": "Base Operations dispatcher",
+    "organization": "USAF Minot AFB (Blue Book file doc 16)",
+    "pub_date": "1968-10-24",
+    "source_type": "Contemporaneous log (PDF extract)",
+    "classification": "PRIMARY",
+    "url": "https://minotb52ufo.com/pdf/Base-Operations-Dispatcher-Log.pdf",
+    "document_identifier": "Blue Book case 12,548 doc 16",
+    "pages_sections": "",
+    "access_date": "2026-11-15",
+    "related_entities": "INC052;GOV016;EVD027",
+    "extracted_information": "Entries 0800Z-1010Z: bright object S/E of N-7 hovering, 0828-0830Z \"jet engines heard\"; 0926Z B-52 \"had on radar 20,000 feet\" object followed B-52 15 mi, radio lost; 0940Z \"B-52 landed\"; 0940-1010Z object 3 mi west of N-7, stationary/on ground, orange->white->green, later \"approximately 50 feet off ground\".",
+    "reliability_notes": "Only extract of the log; operator wording informal; time base Zulu per 0800Z=0300 CDT.",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "examination_level": "EXAMINED"
+   },
+   {
+    "source_id": "SRC027",
+    "title": "B-52 radarscope photographs 771-784 (14 frames), scans of Blue Book prints",
+    "author": "USAF 5th Bomb Wing (Clark prints)",
+    "organization": "Blue Book file 12,548 (reproduction on minotb52ufo.com)",
+    "pub_date": "1968-10-24",
+    "source_type": "Photographic scans (PDF)",
+    "classification": "PRIMARY",
+    "url": "https://minotb52ufo.com/pdf/All-Radarscope-Photographs.pdf",
+    "document_identifier": "Blue Book doc 32",
+    "pages_sections": "14 pages",
+    "access_date": "2026-11-15",
+    "related_entities": "TEC008;INC052",
+    "extracted_information": "Frame 771 viewed at 70 dpi: half-completed sweep, three inner range rings, bezel azimuth ring, analogue clock, data plate, numbering meter \"771\". I could not independently locate the faint echo at that resolution.",
+    "reliability_notes": "Prints, not original negatives; no range-scale indicator on frame.",
+    "verification_status": "PARTIALLY_VERIFIED",
+    "examination_level": "EXAMINED"
    }
   ],
   "Technical_Evidence": [
