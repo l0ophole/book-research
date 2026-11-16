@@ -408,5 +408,15 @@
   "status": "OPEN",
   "section_id": "SEC081",
   "line_ref": 13027
+ },
+ {
+  "missing_id": "MIS042",
+  "description": "Orbital elements for other bright 1965 satellites/rocket bodies (Pegasus series, Cosmos rocket bodies, Proton 1, 1964-5A) for 31 Jul-2 Aug 1965; SAO SR-289 covers Explorer 19 and 1964-5A but not all",
+  "existence_status": "PARTIALLY_AVAILABLE",
+  "potential_repository": "NTRS (SAO SR-289 and sibling reports); Space-Track archive",
+  "acquisition_method": "Parse additional sections of SR-289; request Space-Track history",
+  "status": "OPEN",
+  "section_id": "SEC067",
+  "line_ref": 8834
  }
 ]

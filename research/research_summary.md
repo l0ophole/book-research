@@ -1,6 +1,6 @@
 # Research summary — *UFOs and Nukes* (Hastings, 2008)
 
-*Generated 2026-11-15 (v1.6.0). Read this with `research_limitations.md`: ~27% of the book has been read verbatim (v1.0 pass + follow-up 1).*
+*Generated 2026-11-15 (v1.7.0). Read this with `research_limitations.md`: ~27% of the book has been read verbatim (v1.0 pass + follow-up 1).*
 
 ## 1. Document reviewed
 `f3ff02a2-hastings-2008-ufos-and-nukes.md` — OCR-converted markdown of Robert L. Hastings, *UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites* (24,203 lines, ~222,700 words; Introduction, 31 chapters, Appendices A–B, 358 parsed endnotes). No page numbers, photographs or figures are present in the file.
@@ -56,7 +56,7 @@ See `sources/INDEX.md`, `evidence_records/INDEX.md`. Summary:
 See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md` (23 records).
 
 ---
-## Follow-up 1 (v1.6.0): Chapters 7, 12, 13, 14, 15 read in full and verified
+## Follow-up 1 (v1.7.0): Chapters 7, 12, 13, 14, 15 read in full and verified
 
 **New records:** incidents INC036–INC053, claims CLM057–CLM086, witnesses WIT033–WIT064, evidence EVD014–EVD022, sources SRC017–SRC022.
 
@@ -69,7 +69,7 @@ See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md`
 6. **Ch.13 is argument, not incident evidence.** Verified: the Low "trick memo" quotation and Frazier's Sandia employment (1983–2006, Wikipedia). Not verified: "91 sightings", "nearly 30% unknown", the Condon "horse-whipped" remark, Oberg's exact 1970–72 Kirtland dates, Klass's Inman/Graham letter. Hastings concedes he has no proof of any covert role (line 12461). Analyst note: employer affiliations do not by themselves refute a factual argument (CLM076).
 
 ---
-## Follow-up 2 (v1.6.0): Minot 24 Oct 1968 — recomputing the radar speed and checking the dispatcher log
+## Follow-up 2 (v1.7.0): Minot 24 Oct 1968 — recomputing the radar speed and checking the dispatcher log
 
 **Sources obtained** (all from the Tulien/Sign Oral History Project site): Blue Book Final Case Report (primary reproduction, SRC025), Base Operations Dispatcher Log (SRC026), the 14 radarscope scans (SRC027), and the Shough (SRC023) and Poher (SRC024) analyses.
 
@@ -84,7 +84,7 @@ See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md`
 **Assessment.** The aircraft/star explanation plausibly covers some ground reports; it does not demonstrably cover the later stationary-object entries or the airborne radar echo. The book's speed derivation is wrong, and its account omits the Oscar-7 intrusion and the dispatcher-log/airwork correlation. Neither side's evidence yet reaches a conclusion: the key remaining items are the pilots' AF Forms 117, the approach transcript clock offsets and the original film.
 
 ---
-## Follow-up 3 (v1.6.0): Minot 1968 — approach-control transcript, AF Forms 117, unified timeline
+## Follow-up 3 (v1.7.0): Minot 1968 — approach-control transcript, AF Forms 117, unified timeline
 
 Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcript (SRC029) and five AF 117s (SRC028); Adams and Jablonski forms not viewed.
 
@@ -97,7 +97,7 @@ Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcrip
 **Assessment.** The aircraft/star explanation covers part of the ground evidence better than I credited last time (jet-noise entries, Sirius-like descriptions) but fails for the B-52 air visual as Vega, and does not explain the airborne radar echo or the post-landing dispatcher entries. The book's later-interview details (windows, oblong shape) are not in the 1968 form. Still unresolved: the echo's true speed (assumption-bound), the clock offset, and the missing film.
 
 ---
-## Follow-up 4 (v1.6.0): remaining Minot case-file documents and independent frame measurement
+## Follow-up 4 (v1.7.0): remaining Minot case-file documents and independent frame measurement
 
 **Read:** Blue Book docs 3, 5–7, 9–13, 15, 25–27, 29 (typed memos/TWXs) and all seven AF Forms 117 (viewed as scans). Not read: docs 1, 2, 4, 14 (upper-air data), 30–31 (maps), and Werlich's own 29 Oct report; no OCR tool was available for scanned-only pages.
 
@@ -114,7 +114,7 @@ Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcrip
 **Assessment.** The documentary record now looks like this: a real, unexplained airborne radar/radio event (Werlich: not a malfunction; Shough: no conventional explanation fully convincing), plus a ground-sighting complex that Werlich himself thought mostly the B-52 and that Blue Book attributed mainly to aircraft and Sirius, with an evaluation process visibly shaped by SAC pressure. The book's claims are best supported on the radar/radio event and the handling of the case, and weakest on the ground sightings as evidence of a single hovering craft and on the stated speed.
 
 ---
-## Follow-up 5 (v1.6.0): F.E. Warren, 1 Aug 1965 — the "stars" explanation — and Chapter 16
+## Follow-up 5 (v1.7.0): F.E. Warren, 1 Aug 1965 — the "stars" explanation — and Chapter 16
 
 **Read:** book lines 8851–9481 (remaining Warren material, Hynek/Fowler 1966 Minot) and all of Chapter 16 (12987–13288). **Not obtained:** the original Anspaugh log (the book and Hynek's 1972 printing are the only versions I have).
 
@@ -131,7 +131,7 @@ Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcrip
 - Unchecked: Ruppelt's "63 cases" file, Aldrich's 4 Nov 1948 USAFE cable, OSI-never-reached-Blue-Book (CLM097–CLM099).
 
 ---
-## Follow-up 6 (v1.6.0): the Warren log's time zone and a redone star-by-star test
+## Follow-up 6 (v1.7.0): the Warren log's time zone and a redone star-by-star test
 
 **Found:** Hynek's printing of the log (*The UFO Experience*, 1972, pp. 233–236; archive.org full text, SRC037). The book's version matches it.
 
@@ -142,3 +142,16 @@ Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcrip
 5. **Not done (EVD063):** Echo 2 and other satellite passes — no 1965 orbital elements were available; satellites remain an untested candidate for the moving "UFOs."
 
 **Revised assessment.** For the Warren flap, a stars-and-planets explanation (Deneb, the Pleiades, Capella, Vega) plausibly accounts for a larger share of the log than I credited last time, especially under the likely Eastern clock; it leaves a minority of aircraft-like or motion-based entries unexplained (and satellites/aircraft/autokinesis untested). The book's "patently absurd" overstates it; Blue Book's blanket "stars" also overstates it. The most probable truth is a mix of stars, aircraft, possibly satellites, and group suggestion, but the file lacks the positional data to say so entry by entry.
+
+---
+## Follow-up 7 (v1.7.0): the Echo 2 satellite test for the Warren log
+
+**Data found without any user input:** the Smithsonian Astrophysical Observatory's published orbital elements for 1965 (SAO Special Report 289, [NTRS 19700026243](https://ntrs.nasa.gov/api/citations/19700026243/downloads/19700026243.pdf), SRC038): smoothed elements for Echo 2 (16 Jul–16 Aug 1965) and daily mean elements for Echo 1 (August 1965). (Echo 2 is NORAD 740; an early search used the wrong catalog number.)
+
+**Result (EVD064–EVD067).** Over Cheyenne on 1 Aug 1965 (UTC) Echo 2 made three visible passes (sunlit, sky dark): 0502–0508Z (peak 10°, east→north-east), **0650–0659Z (peak 66°, rising ESE, peaking east, ending north)** and 0839–0848Z (peak 25°, west→north-north-west). The two element sets agree to ~10 s. Echo 1 had no visible pass. In printed-clock terms the passes fall at 23:02/00:50/02:39 (Mountain), 00:02/01:50/03:39 (EST) or 01:02/02:50/04:39 (EDT).
+
+**Does it explain the log?** Not diagnostically. With ±3 min slack, 1 entry matches under Mountain, 3 under EST (1:48, 1:49, 3:40) and 3 under EDT (2:50, 3:00, and the 4:40 call). A random clock shift gives ~1.9 of 18 entries matched by chance (P(≥3) ≈ 0.26). Echo 2 is a single, silent, steadily moving light crossing the sky in minutes, so it is only a candidate for isolated "moving light" entries (e.g., "nine more UFOs" at 2:50 or "overhead" at 3:00 under EDT), not for formations, stacking or crossing paths.
+
+**Self-correction.** My first run had a date-conversion sign error that put the Sun ~90 days off; I caught it from an implausible Sun altitude and all results above are from the fixed code.
+
+**Cumulative assessment of the 1 Aug 1965 Warren log.** Stars/planets (Deneb, the Pleiades, Capella, Vega) plausibly explain many entries under the likely Eastern clock; Echo 2 adds possible explanations for one or two moving-light entries at chance-level significance; a minority (flashing-red-light oval, "120° azimuth," crossing/stacking motions) remain unexplained by anything tested. The file's lack of positional data prevents entry-by-entry identification.

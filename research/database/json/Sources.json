@@ -664,5 +664,23 @@
   "reliability_notes": "Hynek's book is itself a secondary rendering; OCR text; original memo not seen; Hynek is an interested party.",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC038",
+  "title": "SAO Special Report No. 289: Orbital Elements No. 0-19 (Echo 1 and Echo 2 sections for July-Dec 1965)",
+  "author": "Beatrice Miller (ed.); elements derived by Donald Chittick, Smithsonian Astrophysical Observatory",
+  "organization": "Smithsonian Astrophysical Observatory / NASA NTRS",
+  "pub_date": "1968-12-24",
+  "source_type": "Published orbital-element tables (smoothed and mean elements from Baker-Nunn and other observations)",
+  "classification": "PRIMARY",
+  "url": "https://ntrs.nasa.gov/api/citations/19700026243/downloads/19700026243.pdf",
+  "document_identifier": "NTRS 19700026243; SAO SR-289",
+  "pages_sections": "Echo 2 pp.63-68; Echo 1 p.22 (August table)",
+  "access_date": "2026-11-16",
+  "related_entities": "INC033;EVD064;EVD065",
+  "extracted_information": "Echo 2 smoothed elements (T0=MJD 38965.0 for 16 Jul-1 Aug and T0=MJD 38981.0 for 1-16 Aug 1965) and Echo 1 daily mean elements for August 1965 (row MJD 38973.0 = 1 Aug 1965 0h UT).",
+  "reliability_notes": "OCR of the smoothed-element polynomials is imperfect (checked for internal consistency across the two sets and against the n/a relation); Echo 1 table was read from an image of the page.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

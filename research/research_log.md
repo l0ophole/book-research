@@ -196,3 +196,17 @@
 - Result: Overhead=Deneb, east=Pleiades, NE=Capella plausible; unexplained: 3:17 flashing-red oval, az-120 entry, passing-through motions, four NW.
 - Limitations: No satellites or aircraft modelled; EVD055 corrected
 
+### 29. 2026-11-16 — Located SAO Special Report 289 (NTRS 19700026243) with Echo 1/Echo 2 mean elements for July-Dec 1965
+- Reason: Follow-up question 1 (satellite test) — no user-supplied elements needed
+- Tool: curl; pdftotext; image reading
+- Query/target: ntrs.nasa.gov/api/citations/19700026243
+- Result: Echo 2 smoothed elements for 16 Jul-16 Aug 1965 and Echo 1 daily elements for 1 Aug obtained; first search used wrong NORAD number (614 vs 740) but did not affect the SAO data.
+- Limitations: OCR of polynomial elements imperfect; consistency-checked
+
+### 30. 2026-11-16 — Propagated Echo 1 and Echo 2; listed visible passes over Cheyenne; tested coincidence with log times against chance
+- Reason: Test satellite explanation for Warren entries
+- Tool: Python/PyEphem/numpy
+- Query/target: analysis/warren_echo2_passes.py; warren_echo1_passes.py; warren_echo2_coincidence.py
+- Result: Echo 2: three visible passes; matches to log entries at chance; Echo 1: none. First run had a date-conversion bug (found and fixed).
+- Limitations: Brightness not computed; other satellites untested
+

@@ -278,5 +278,25 @@
   "query": "analysis/warren_sky_by_entry.py",
   "result": "Overhead=Deneb, east=Pleiades, NE=Capella plausible; unexplained: 3:17 flashing-red oval, az-120 entry, passing-through motions, four NW.",
   "limitations": "No satellites or aircraft modelled; EVD055 corrected"
+ },
+ {
+  "log_id": 29,
+  "log_date": "2026-11-16",
+  "action": "Located SAO Special Report 289 (NTRS 19700026243) with Echo 1/Echo 2 mean elements for July-Dec 1965",
+  "reason": "Follow-up question 1 (satellite test) — no user-supplied elements needed",
+  "tool": "curl; pdftotext; image reading",
+  "query": "ntrs.nasa.gov/api/citations/19700026243",
+  "result": "Echo 2 smoothed elements for 16 Jul-16 Aug 1965 and Echo 1 daily elements for 1 Aug obtained; first search used wrong NORAD number (614 vs 740) but did not affect the SAO data.",
+  "limitations": "OCR of polynomial elements imperfect; consistency-checked"
+ },
+ {
+  "log_id": 30,
+  "log_date": "2026-11-16",
+  "action": "Propagated Echo 1 and Echo 2; listed visible passes over Cheyenne; tested coincidence with log times against chance",
+  "reason": "Test satellite explanation for Warren entries",
+  "tool": "Python/PyEphem/numpy",
+  "query": "analysis/warren_echo2_passes.py; warren_echo1_passes.py; warren_echo2_coincidence.py",
+  "result": "Echo 2: three visible passes; matches to log entries at chance; Echo 1: none. First run had a date-conversion bug (found and fixed).",
+  "limitations": "Brightness not computed; other satellites untested"
  }
 ]
