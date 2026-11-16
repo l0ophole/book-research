@@ -31,3 +31,5 @@
 | EXP027 | INC052 | Radar artefacts/natural: meteor echo, anomalous propagation, multiple-trip returns, lightning, ECM/other B-52 radar interference, balloon, satellite, birds/insects (all tested by Shough) | OPEN |
 | EXP028 | INC052 (ground observers) | Sirius under temperature inversion/haze with scintillation, autokinesis, passing cloud (Blue Book Atch) | OPEN |
 | EXP029 | INC052 (B-52 air visual) | Terrestrial light or other aircraft/ground source seen at long range, with range and height misjudged at night in haze (Blue Book offered "a light on the ground" as an alternative to Vega) | OPEN |
+| EXP030 | INC052 (Oscar-7 intrusion) | Unauthorised entry by someone holding a padlock key, e.g., a current/former Air Police member (three earlier similar incidents were so traced); not connected to the sightings | OPEN |
+| EXP031 | INC052 (airborne radar echo) | Internal malfunction of the B-52 radar/transmitter or an inversion-induced anomalous return (Quintanilla, 30 Oct) | OPEN |

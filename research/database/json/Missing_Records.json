@@ -348,5 +348,25 @@
   "status": "OPEN",
   "section_id": "SEC080",
   "line_ref": 12788
+ },
+ {
+  "missing_id": "MIS036",
+  "description": "Minot weather-radar record/description of the target (0852Z transcript) and any RAPCON radar tapes referred to by Werlich (\"sending the RAPCON TAPES, PHOTOS, and an overlay\")",
+  "existence_status": "REFERENCED",
+  "potential_repository": "Blue Book file (NARA T1206); Minot AFB records; Tulien archive",
+  "acquisition_method": "Check remaining file documents; ask Tulien/SOHP",
+  "status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12850
+ },
+ {
+  "missing_id": "MIS037",
+  "description": "Local-authority and OSI/Security Police investigation of the Oscar-7 break-in (Oct-Nov 1968) and the three earlier incidents",
+  "existence_status": "REFERENCED",
+  "potential_repository": "Minot AFB security police; 91st SMW history; AFOSI",
+  "acquisition_method": "FOIA/AFHRA",
+  "status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12805
  }
 ]

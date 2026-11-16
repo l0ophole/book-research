@@ -520,5 +520,41 @@
   "reliability_notes": "Transcriber unknown; lacunae and garbled passages noted by Shough; no mention of a general-officer diversion.",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC030",
+  "title": "Project Blue Book case 12,548 memos and messages: Project 10073 record (doc 3), memos for the record (docs 5-7, 9-13), Werlich ground-observer summary (doc 15), FTD/SAC TWXs (docs 25-26), memos 27 and 29",
+  "author": "Lt Marano, Sgt Jones, Lt Col Quintanilla (FTD); Lt Col Werlich (Minot)",
+  "organization": "USAF Project Blue Book (reproduction on minotb52ufo.com)",
+  "pub_date": "1968-10-24..1968-11-14",
+  "source_type": "Official file memoranda and messages (typed, text extracted)",
+  "classification": "PRIMARY",
+  "url": "https://minotb52ufo.com/doc.php",
+  "document_identifier": "Blue Book case 12,548, docs 3,5-7,9-13,15,25-27,29",
+  "pages_sections": "~25 pp",
+  "access_date": "2026-11-16",
+  "related_entities": "INC052;GOV014;EVD041;EVD042;EVD043;EVD044;EVD045;EVD046;EVD047",
+  "extracted_information": "Werlich phone relay of \"2½ mile in 3 sec ... 3,000 mi/hr\"; Werlich 31 Oct: \"Almost 80 per cent were looking at the B-52\", camera started late at pilot's suggestion, Oscar-7 padlock events traced to Air Police in three prior cases; Quintanilla/Pullen exchange on playing the issue down; preliminary plasma/celestial TWX before raw data; staff note that Smith's separation claim is not on his AF 117.",
+  "reliability_notes": "Telephone memos are second-hand summaries written by FTD staff; Werlich's own report/TWX (docs 17 area) not all read; originals not examined.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC031",
+  "title": "Independent measurement of radarscope frames 772-773 (this project)",
+  "author": "Analyst",
+  "organization": "Computed from SRC027 scans (300 ppi)",
+  "pub_date": "2026-11-16",
+  "source_type": "Image measurement",
+  "classification": "PRIMARY",
+  "url": "https://minotb52ufo.com/pdf/All-Radarscope-Photographs.pdf",
+  "document_identifier": "database/build/analysis/minot_frame_measure.py",
+  "pages_sections": "frames 771-773",
+  "access_date": "2026-11-16",
+  "related_entities": "TEC008;EVD048;EVD049;EVD050",
+  "extracted_information": "Strongest blobs inside the altitude hole: frame 772 at r=111 px, screen angle 124 deg (slant 1.09 NM); frame 773 at r=109 px, 282 deg (1.08 NM); angular separation 158 deg matches Shough; displacement 2.14 NM (Shough 2.06). Frame 771 echo not recovered (overlaps third ring).",
+  "reliability_notes": "Scans are prints, JPEG-compressed; range calibration assumes rings at 0.75/1.25/1.75 NM; orientation assumed heading-up and constant.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

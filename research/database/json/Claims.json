@@ -1090,5 +1090,41 @@
   "quotation": "",
   "section_id": "SEC080",
   "line_ref": 12879
+ },
+ {
+  "claim_id": "CLM092",
+  "claim_text": "Werlich himself judged that most of the original ground sightings (about 80%) were of the B-52, while the radar/aircraft event could not be identified.",
+  "attribution": "Werlich phone memo 31 Oct 1968 (Blue Book doc 12)",
+  "claim_type": "DOCUMENT",
+  "importance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "quotation": "",
+  "section_id": "SEC080",
+  "line_ref": 12916
+ },
+ {
+  "claim_id": "CLM093",
+  "claim_text": "HQ SAC (Col Pullen) asked Blue Book to emphasise other aircraft incidents so as to 'play the issue down'; Blue Book issued a preliminary plasma/celestial explanation before receiving raw data.",
+  "attribution": "Blue Book memo 30 Oct 1968; TWX 1 Nov 1968",
+  "claim_type": "DOCUMENT",
+  "importance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "quotation": "",
+  "section_id": "SEC080",
+  "line_ref": 12916
+ },
+ {
+  "claim_id": "CLM094",
+  "claim_text": "SSgt Smith saw the object separate in two parts (book via Wing Security Controller summary) — Blue Book staff noted Smith does not say this on his AF 117.",
+  "attribution": "Blue Book doc 15 annotation",
+  "claim_type": "CONTRADICTION",
+  "importance": "MEDIUM",
+  "verification_status": "DISPUTED",
+  "confidence": 2,
+  "quotation": "",
+  "section_id": "SEC080",
+  "line_ref": 12835
  }
 ]

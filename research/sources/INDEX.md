@@ -31,3 +31,5 @@
 | SRC027 | B-52 radarscope photographs 771-784 (14 frames), scans of Blue Book prints | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/All-Radarscope-Photographs.pdf |
 | SRC028 | AF Forms 117 (Sighting of Unidentified Phenomena Questionnaires), Minot 24 Oct 1968: Partin, Bond, Smith, Isley, O'Connor (Adams, Jablonski not viewed) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/AF-117-Partin.pdf |
 | SRC029 | Transcript of approach-control tape, 24 Oct 1968, 0830-0928 (Blue Book doc 17) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/0017.pdf |
+| SRC030 | Project Blue Book case 12,548 memos and messages: Project 10073 record (doc 3), memos for the record (docs 5-7, 9-13), Werlich ground-observer summary (doc 15), FTD/SAC TWXs (docs 25-26), memos 27 and 29 | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/doc.php |
+| SRC031 | Independent measurement of radarscope frames 772-773 (this project) | PRIMARY | EXAMINED | PARTIALLY_VERIFIED | https://minotb52ufo.com/pdf/All-Radarscope-Photographs.pdf |

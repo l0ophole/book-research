@@ -32,3 +32,8 @@ All times **Zulu** (= approach-control "COM" clock; CDT = Z − 5; DST was still
 2. **The fast 771→773 transit is therefore not the "initial" approach** that Werlich's first memo (3,000 mph) and McCaslin describe near the FL200 turn. The photos cannot test that initial speed.
 3. **Transcript gaps:** no instruction to overfly the ground light or any "general officer" diversion appears in the transcript text; Shough notes lacunae.
 4. **Internal conflict:** 0913Z "missile site personnel … don't see anything" vs. dispatcher entries 0940–1010Z of an object still near N-7 (different sites/time bases not established).
+
+## Addendum (v1.4.0): file memos
+- **Werlich's initial time.** His 24 Oct telephone summary (doc 5) puts the B-52 radar blip at "about 0300 hours local"; the transcript puts radio/radar events at ~0356–0358 local (0856–0858Z), and the ground reports began at 0308 local (doc 15). The file's early times are about an hour inconsistent in places (see also Partin's "should be 0335").
+- **Camera timing.** Werlich (doc 12, 31 Oct): the scope camera was not started "until the pilot said why don't you take some photos. This was towards the end." This supports Shough's late placement of the frames.
+- **Observer count.** Doc 15 lists the ground reports at 0308 (maintenance team, Nov-1/Oscar-1 camper teams) to 0325 local; Werlich estimates "about 45 minutes" of observation.

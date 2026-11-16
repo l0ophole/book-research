@@ -1,6 +1,6 @@
 # Research summary — *UFOs and Nukes* (Hastings, 2008)
 
-*Generated 2026-11-15 (v1.3.0). Read this with `research_limitations.md`: ~27% of the book has been read verbatim (v1.0 pass + follow-up 1).*
+*Generated 2026-11-15 (v1.4.0). Read this with `research_limitations.md`: ~27% of the book has been read verbatim (v1.0 pass + follow-up 1).*
 
 ## 1. Document reviewed
 `f3ff02a2-hastings-2008-ufos-and-nukes.md` — OCR-converted markdown of Robert L. Hastings, *UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites* (24,203 lines, ~222,700 words; Introduction, 31 chapters, Appendices A–B, 358 parsed endnotes). No page numbers, photographs or figures are present in the file.
@@ -56,7 +56,7 @@ See `sources/INDEX.md`, `evidence_records/INDEX.md`. Summary:
 See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md` (23 records).
 
 ---
-## Follow-up 1 (v1.3.0): Chapters 7, 12, 13, 14, 15 read in full and verified
+## Follow-up 1 (v1.4.0): Chapters 7, 12, 13, 14, 15 read in full and verified
 
 **New records:** incidents INC036–INC053, claims CLM057–CLM086, witnesses WIT033–WIT064, evidence EVD014–EVD022, sources SRC017–SRC022.
 
@@ -69,7 +69,7 @@ See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md`
 6. **Ch.13 is argument, not incident evidence.** Verified: the Low "trick memo" quotation and Frazier's Sandia employment (1983–2006, Wikipedia). Not verified: "91 sightings", "nearly 30% unknown", the Condon "horse-whipped" remark, Oberg's exact 1970–72 Kirtland dates, Klass's Inman/Graham letter. Hastings concedes he has no proof of any covert role (line 12461). Analyst note: employer affiliations do not by themselves refute a factual argument (CLM076).
 
 ---
-## Follow-up 2 (v1.3.0): Minot 24 Oct 1968 — recomputing the radar speed and checking the dispatcher log
+## Follow-up 2 (v1.4.0): Minot 24 Oct 1968 — recomputing the radar speed and checking the dispatcher log
 
 **Sources obtained** (all from the Tulien/Sign Oral History Project site): Blue Book Final Case Report (primary reproduction, SRC025), Base Operations Dispatcher Log (SRC026), the 14 radarscope scans (SRC027), and the Shough (SRC023) and Poher (SRC024) analyses.
 
@@ -84,7 +84,7 @@ See `research_plan.md` (10 prioritized questions) and `missing_records/INDEX.md`
 **Assessment.** The aircraft/star explanation plausibly covers some ground reports; it does not demonstrably cover the later stationary-object entries or the airborne radar echo. The book's speed derivation is wrong, and its account omits the Oscar-7 intrusion and the dispatcher-log/airwork correlation. Neither side's evidence yet reaches a conclusion: the key remaining items are the pilots' AF Forms 117, the approach transcript clock offsets and the original film.
 
 ---
-## Follow-up 3 (v1.3.0): Minot 1968 — approach-control transcript, AF Forms 117, unified timeline
+## Follow-up 3 (v1.4.0): Minot 1968 — approach-control transcript, AF Forms 117, unified timeline
 
 Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcript (SRC029) and five AF 117s (SRC028); Adams and Jablonski forms not viewed.
 
@@ -95,3 +95,20 @@ Full reconciled timeline: `documents/minot_1968_timeline.md`. Sources: transcrip
 5. **What the transcript adds.** The 0835 "flying saucers again" line is real, but at 0852 the B-52 reported "nothing on our airborne radar" and "thick haze." No general-officer diversion appears in the transcript (a gap, not a refutation). A B-52 was near Minot at ~0828–0834Z, so the earliest "jet engines heard" entries may be it (correction to EVD028, see EVD040). An internal conflict remains: 0913Z "missile site personnel don't see anything anymore" vs. dispatcher entries of an object near N-7 until ~1010Z (EVD039).
 
 **Assessment.** The aircraft/star explanation covers part of the ground evidence better than I credited last time (jet-noise entries, Sirius-like descriptions) but fails for the B-52 air visual as Vega, and does not explain the airborne radar echo or the post-landing dispatcher entries. The book's later-interview details (windows, oblong shape) are not in the 1968 form. Still unresolved: the echo's true speed (assumption-bound), the clock offset, and the missing film.
+
+---
+## Follow-up 4 (v1.4.0): remaining Minot case-file documents and independent frame measurement
+
+**Read:** Blue Book docs 3, 5–7, 9–13, 15, 25–27, 29 (typed memos/TWXs) and all seven AF Forms 117 (viewed as scans). Not read: docs 1, 2, 4, 14 (upper-air data), 30–31 (maps), and Werlich's own 29 Oct report; no OCR tool was available for scanned-only pages.
+
+**What the file adds (SRC030, EVD041–EVD047)**
+1. **Origin of "3,000 mph":** a same-day telephone relay from Werlich to FTD (doc 5): "2½ mile in 3 sec or at about 3,000 mi/hr." It is not a photo-derived value.
+2. **Werlich's own view (doc 12, 31 Oct):** "Most of the original sightings were of the aircraft … almost 80 per cent were looking at the B-52"; the unidentified item is the radar/aircraft event, which "couldn't be a malfunction because they transmitted before and afterwards." He also says the scope camera was started late ("towards the end"), supporting Shough's placement of the frames. The book uses his data but not this assessment.
+3. **Oscar-7 intrusion:** three earlier padlock/combination incidents had been traced to Air Police; "99 chances out of 100" someone with a key; no tracks found. The book omits both the intrusion and these precedents.
+4. **Command pressure on Blue Book (doc 10):** HQ SAC's Col Pullen asked Quintanilla to "get this thing simmered down" and to "hit a little heavy on what has happened to other aircraft … this would help play the issue down." Quintanilla sent no one to investigate (four-person staff) and issued a preliminary "plasma / celestial bodies" TWX (doc 25) calling the reports "fairly routine" before raw data arrived. This supports the book's theme of a hasty, command-influenced evaluation, though docs 11–13 show Blue Book also tried to obtain data.
+5. **Smith's "separation":** a Blue Book staff note says "Smith does not say this on 117"; my reading of his form agrees. Isley, Adams and Jablonski do describe two lights with one disappearing (EVD045, EVD051).
+6. **Weather radar:** the transcript says the weather radar saw the target, but Blue Book calls on 8 and 13 Nov to ask about it went unanswered; no weather-radar record is in the file I read (EVD046).
+
+**Independent measurement of the radarscope frames (SRC031, EVD048–EVD050).** From the 300-ppi scans I calibrated the rings (frame 771: 60/134/208 px, 74 px = 0.5 NM; hole edge 266 px = 2.14 NM, matching Shough's 2.1) and found the strongest echo in each of frames 772 and 773 (1.09 and 1.08 NM; Shough 1.05), with the same 158° angular separation. The 772→773 displacement is **2.14 NM** (Shough 2.06, +4%). I could **not** recover the frame-771 echo (it overlaps the third ring), so the 771→772 rate rests on Shough. The range calibration (no scale indicator on the photos) matters: without the short-range offset the displacement would be 1.46 NM (~1,750 kt at 3 s, ~4,040 kt at 1.3 s). Script: `database/build/analysis/minot_frame_measure.py`.
+
+**Assessment.** The documentary record now looks like this: a real, unexplained airborne radar/radio event (Werlich: not a malfunction; Shough: no conventional explanation fully convincing), plus a ground-sighting complex that Werlich himself thought mostly the B-52 and that Blue Book attributed mainly to aircraft and Sirius, with an evaluation process visibly shaped by SAC pressure. The book's claims are best supported on the radar/radio event and the handling of the case, and weakest on the ground sightings as evidence of a single hovering craft and on the stated speed.

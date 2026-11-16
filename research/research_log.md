@@ -147,3 +147,17 @@
 - Result: Bearing consistent; brightness inconsistent (mag ~5-7).
 - Limitations: Extinction coefficients assumed; refraction/ducting not modelled
 
+### 22. 2026-11-16 — Downloaded and read Blue Book docs 3, 5-7, 9-13, 15, 25-27, 29; viewed Adams and Jablonski AF 117s
+- Reason: Follow-up question 1 (read remaining case-file documents)
+- Tool: curl, pdftotext, image viewing
+- Query/target: minotb52ufo.com/pdf/00xx.pdf
+- Result: Found Werlich 80% B-52 opinion, SAC play-down request, Smith note, Oscar-7 prior cases, weather-radar gap; origin of 3,000 mph.
+- Limitations: No OCR tool available, so scanned-only documents (AF 117s, docs 1, 2, 4, 14, 30, 31) were viewed or skipped; docs 14, 30, 31 (upper-air data, overlay map, area map) not read
+
+### 23. 2026-11-16 — Independent image measurement of radarscope frames 771-773
+- Reason: Measure echoes rather than rely on Shough
+- Tool: Python/numpy/PIL on pdfimages output
+- Query/target: analysis/minot_frame_measure.py
+- Result: Echoes recovered in 772 and 773; 771 not recovered; displacement 2.14 NM; calibration sensitivity ~30%.
+- Limitations: Heading-up/constant-orientation assumption; JPEG print scans
+

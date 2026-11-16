@@ -102,13 +102,13 @@
 
 ## RQ011 [CRITICAL] — What do the primary Blue Book case 12,548 documents show for Minot 24 Oct 1968, and do aircraft/star explanations account for the ground and radar observations?
 - **Related:** INC052;GOV014;GOV015;GOV016;EXP024;EXP025
-- **Existing evidence:** Tulien report; Quintanilla statement; dispatcher log; Shough & Poher reports; Blue Book final report; dispatcher log; speed recomputation (EVD023-EVD029); AF 117s (5 of 7 viewed) and transcript examined
+- **Existing evidence:** Tulien report; Quintanilla statement; dispatcher log; Shough & Poher reports; Blue Book final report; dispatcher log; speed recomputation (EVD023-EVD029); AF 117s (5 of 7 viewed) and transcript examined; all case-file memos/TWXs read (SRC030); all seven AF 117s viewed; frames 772-773 measured independently (SRC031)
 - **Missing evidence:** Radarscope prints and film; SAC (Werlich) investigation; Oscar-7 break-in report; B-52 flight track
 - **Potential sources:** NARA Blue Book; Tulien; AFHRA
 - **Methods:** Download file; compare book narrative with documents; reconstruct B-52 track/star positions
 - **Verification criteria:** Independent radar-speed recalculation; documented intrusion explanation
-- **Status:** PARTIALLY_COMPLETED
-- **Next action:** Read AF Forms 117 and approach transcript; reconcile Shough vs Poher timeline (EVD027); derive speed with elevation uncertainty; verify against NARA T1206 roll
+- **Status:** LARGELY_COMPLETED (documentary); film original still missing
+- **Next action:** Obtain Werlich TWXs (29 Oct) and the track overlay; obtain NARA T1206 roll to compare with online reproductions; locate original negatives/weather-radar records
 
 ## RQ012 [HIGH] — Can the Walker AFB (579th SMS) sightings be corroborated by contemporaneous records, and did the Krause letter exist as quoted?
 - **Related:** INC037;INC038;INC041;INC042;GOV013

@@ -75,7 +75,7 @@
   "originating_system": "B-52 bombardment/navigation radar with scope camera",
   "evidence_date": "1968-10-24",
   "raw_data_availability": "Blue Book file contains prints; original film availability unknown",
-  "notes": "Speed estimate 3900 mph by Clark; analysis disputed by Poher (2005 radar analysis) per search summary.",
+  "notes": "Speed estimate 3900 mph by Clark; analysis disputed by Poher (2005 radar analysis) per search summary. | Independent measurement of frames 772-773 (SRC031) agrees with Shough within ~4% under his range calibration; frame 771 echo not recovered; calibration uncertainty ~30% (EVD048-EVD050).",
   "section_id": "SEC080",
   "line_ref": 12860
  },

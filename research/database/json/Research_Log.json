@@ -208,5 +208,25 @@
   "query": "Minot coordinates; Kasten-Young airmass",
   "result": "Bearing consistent; brightness inconsistent (mag ~5-7).",
   "limitations": "Extinction coefficients assumed; refraction/ducting not modelled"
+ },
+ {
+  "log_id": 22,
+  "log_date": "2026-11-16",
+  "action": "Downloaded and read Blue Book docs 3, 5-7, 9-13, 15, 25-27, 29; viewed Adams and Jablonski AF 117s",
+  "reason": "Follow-up question 1 (read remaining case-file documents)",
+  "tool": "curl, pdftotext, image viewing",
+  "query": "minotb52ufo.com/pdf/00xx.pdf",
+  "result": "Found Werlich 80% B-52 opinion, SAC play-down request, Smith note, Oscar-7 prior cases, weather-radar gap; origin of 3,000 mph.",
+  "limitations": "No OCR tool available, so scanned-only documents (AF 117s, docs 1, 2, 4, 14, 30, 31) were viewed or skipped; docs 14, 30, 31 (upper-air data, overlay map, area map) not read"
+ },
+ {
+  "log_id": 23,
+  "log_date": "2026-11-16",
+  "action": "Independent image measurement of radarscope frames 771-773",
+  "reason": "Measure echoes rather than rely on Shough",
+  "tool": "Python/numpy/PIL on pdfimages output",
+  "query": "analysis/minot_frame_measure.py",
+  "result": "Echoes recovered in 772 and 773; 771 not recovered; displacement 2.14 NM; calibration sensitivity ~30%.",
+  "limitations": "Heading-up/constant-orientation assumption; JPEG print scans"
  }
 ]

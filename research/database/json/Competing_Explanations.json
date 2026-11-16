@@ -288,5 +288,25 @@
   "evaluation_status": "OPEN",
   "section_id": "SEC080",
   "line_ref": 12916
+ },
+ {
+  "explanation_id": "EXP030",
+  "target_entities": "INC052 (Oscar-7 intrusion)",
+  "explanation": "Unauthorised entry by someone holding a padlock key, e.g., a current/former Air Police member (three earlier similar incidents were so traced); not connected to the sightings",
+  "supporting_evidence": "Werlich 31 Oct memo (doc 12); Quintanilla: not related to UFOs",
+  "contradicting_evidence": "No suspect identified; no tracks found; timing coincident with sightings (0449 CDT)",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12805
+ },
+ {
+  "explanation_id": "EXP031",
+  "target_entities": "INC052 (airborne radar echo)",
+  "explanation": "Internal malfunction of the B-52 radar/transmitter or an inversion-induced anomalous return (Quintanilla, 30 Oct)",
+  "supporting_evidence": "Quintanilla; Goff (TDPA) suggested plasma instead; echoes elongated like a rapidly moving target (Shough)",
+  "contradicting_evidence": "Werlich: radios worked before and after, not a malfunction; discrete moving echoes across 13 scans; Shough: no conventional explanation fully convincing",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC080",
+  "line_ref": 12870
  }
 ]
