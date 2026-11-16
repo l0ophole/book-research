@@ -252,3 +252,10 @@
 - Result: Found partial transcripts and letter excerpt; no time/bearing; Meiwald assent to missile shutdown found in 1996 call; EVD081-082 added
 - Limitations: Audio not heard; letter image not viewed; transcripts advocate-edited; Hastings states "confidential" parts excluded
 
+### 37. 2026-11-16 — Read Hastings Figel-interview page (SRC046) and re-read book Echo narrative (lines 10040-10110)
+- Reason: Follow-up 3: Figel statements vs Echo records
+- Tool: curl; Read
+- Query/target: ufohastings.com Figel page
+- Result: Version matrix EVD083-084; claims CLM134-135; EXP041
+- Limitations: Audio not heard; only advocate-written summaries and one short excerpt; Carlson/Figel quotes disputed by Hastings and Carlson
+

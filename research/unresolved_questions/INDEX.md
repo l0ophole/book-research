@@ -24,3 +24,4 @@
 | RQ020 | Do the forensic claims about cattle mutilations (Ch.19) and their missile-field overlap survive independent veterinary/forensic and statistical review? | MEDIUM | NOT_STARTED | Gather county-level counts |
 | RQ021 | Do any primary records place Salas and Meiwald at Oscar (or November) on a specific date in March 1967? | CRITICAL | NOT_STARTED | Request Meiwald letter and rosters |
 | RQ022 | At what clock time and from what direction did the Oscar guards report the red light (needed to test Mars/Moon/aircraft explanations)? | HIGH | NOT_STARTED | Ask for full text |
+| RQ023 | Do Echo-era security/maintenance logs record UFO reports before or after 0845 on 16 Mar 1967? | CRITICAL | NOT_STARTED | Obtain Figel tapes |

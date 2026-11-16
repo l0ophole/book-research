@@ -808,5 +808,23 @@
   "reliability_notes": "Advocate-edited transcripts of real calls; best available text of Meiwald statements; not the original audio or letter.",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC046",
+  "title": "Telephonic Interviews with Colonel Walter Figel (USAF Ret) - Hastings summaries of taped calls of 20 Oct 2008, 8 Jan 2009, 8 Mar 2010",
+  "author": "Robert L. Hastings",
+  "organization": "ufohastings.com",
+  "pub_date": "posted 2011-06-04",
+  "source_type": "Advocacy page with highlights, short verbatim excerpt and audio links",
+  "classification": "SECONDARY",
+  "url": "https://www.ufohastings.com/articles/telephonic-interviews-with-colonel-walter-figel-usaf-ret",
+  "document_identifier": "",
+  "pages_sections": "text read; audio not heard",
+  "access_date": "2026-11-16",
+  "related_entities": "INC019;WIT015;EVD083;EVD084",
+  "extracted_information": "Highlights and comments written by Hastings, with one short verbatim excerpt (2008 call).",
+  "reliability_notes": "Real recorded calls but my access is to the advocate-written text, not the audio; Hastings flags several of his own misstatements.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

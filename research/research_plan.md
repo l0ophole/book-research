@@ -220,3 +220,13 @@
 - **Status:** NOT_STARTED
 - **Next action:** Ask for full text
 
+## RQ023 [CRITICAL] — Do Echo-era security/maintenance logs record UFO reports before or after 0845 on 16 Mar 1967?
+- **Related:** INC019;EVD083;EVD084;EXP041
+- **Existing evidence:** Taped testimonies and wing history
+- **Missing evidence:** Deputy log, SAT/SP blotter, maintenance team report
+- **Potential sources:** AFHRA; NARA; Hastings audio
+- **Methods:** Hear audio; request logs
+- **Verification criteria:** Contemporaneous entry or its absence
+- **Status:** NOT_STARTED
+- **Next action:** Obtain Figel tapes
+

@@ -398,5 +398,15 @@
   "evaluation_status": "OPEN",
   "section_id": "SEC073",
   "line_ref": 10002
+ },
+ {
+  "explanation_id": "EXP041",
+  "target_entities": "INC019",
+  "explanation": "Electrical/EMI cause only; guard report misperceived (vehicle lights, flares, cloud/low object, or humor/prank) or recollected after the fact and shaped by later discussion; Figel himself did not credit it",
+  "supporting_evidence": "Figel doubted the guard; no contemporaneous record; wing history documents power fluctuations and a transformer short and says UFO rumors were disproven; detail drift (pre-dawn vs after failure; seconds vs minutes)",
+  "contradicting_evidence": "Figel repeatedly confirms the guard report and the SAT sightings on tape across 2008-10 and 1996; Barlow/Kaminski hearsay of UFO talk; Gamble said superiors altered UFO wording (Klotz via the book)",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10065
  }
 ]

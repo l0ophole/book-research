@@ -982,5 +982,29 @@
   "confidence": 3,
   "section_id": "SEC073",
   "line_ref": 10002
+ },
+ {
+  "evidence_id": "EVD083",
+  "description": "Figel's statements about Echo, per Hastings summaries of three taped calls (SRC046): (a) a guard already at the silo reported 'a large, round object ... directly over the site', 'seconds after' the missile failed; Figel 'was thinking he was yanking my chain', but the guard 'seemed to be serious'; (b) Figel sent two Security Alert Teams, who (2010) reported seeing the hovering UFO although he had not told them what to look for (in 1996, to Salas, both teams reported it; in the 2008 call he once said the first report came from a team, which Hastings calls a misspeak); (c) all ten missiles dropped over 'three or four minutes', not 'within seconds' as Salas wrote; (d) he saw a Channel 9 No-Go in the capsule while a technician (Barlow) says no VRSA code showed at the silos, which Figel concedes may be possible; (e) he kept no personal log, only the official deputy log; (f) 'Thank you very much, don't talk about it, and go home. I didn't sign anything'; (g) he does not believe an Oscar event happened, ascribing Salas's story to 'faulty memory' not malice. Mutual disagreement exists over what Figel said about Carlson: James Carlson says Figel thought the guard was joking; Hastings's excerpt shows Figel believed the guard serious but did not take him seriously. Source quality: Hastings's text only.",
+  "evidence_type": "TRANSCRIPT_COMPARISON",
+  "provenance": "SRC046; SRC042",
+  "related_entities": "INC019;WIT015;CLM134",
+  "significance": "CRITICAL",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC073",
+  "line_ref": 10065
+ },
+ {
+  "evidence_id": "EVD084",
+  "description": "Three-way comparison of Echo accounts. Book Ch.5-6 (via Don Crawford, who relieved the crew and was told by Figel, secondhand): maintenance teams at two LFs reported maneuvering lights before dawn, confirmed by a mobile SAT; at ~0830 missiles dropped 'within seconds'; two SATs then went to each LF, found the objects gone, but personnel there reported them hovering near the silos. Figel's taped version (SRC046): a single on-site guard's call after the first missile failed; two SATs later reported seeing the object; no pre-dawn calls appear in Hastings's summaries (and he admits mixing Salas's Oscar 'lights at a distance' call into questions about Echo); failure took 3-4 minutes. Wing history (SRC002): all Echo sites lost alert ~0845 'nearly simultaneously', with 'rumors of UFOs ... disproven' by a Mobile Strike Team that checked November Flight LFs. Differences: timing of reports (pre-dawn vs after failure), source of first report (maintenance at two LFs vs one guard), duration, object location (near silos vs directly over). No contemporaneous log of any UFO report has been seen.",
+  "evidence_type": "ANALYST_COMPARISON",
+  "provenance": "book Ch.; SRC046; SRC002",
+  "related_entities": "INC019;WIT013;WIT015;CLM134",
+  "significance": "HIGH",
+  "verification_status": "DISPUTED",
+  "confidence": 2,
+  "section_id": "SEC073",
+  "line_ref": 10065
  }
 ]

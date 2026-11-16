@@ -488,5 +488,15 @@
   "status": "OPEN",
   "section_id": "SEC073",
   "line_ref": 10002
+ },
+ {
+  "missing_id": "MIS050",
+  "description": "Echo Flight LCC deputy log and Flight Security Controller/SAT logs for 15-16 Mar 1967; 341st SMW Security Police blotter; Gamble draft history",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "AFHRA; NARA; USAF SP records",
+  "acquisition_method": "FOIA/AFHRA search",
+  "status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10065
  }
 ]

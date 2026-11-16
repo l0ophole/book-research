@@ -42,3 +42,4 @@
 | EXP038 | INC062 | Weather balloon/Mylar balloon, reflection, or perspective illusions viewed through a cockpit window; no corroboration by crew | OPEN |
 | EXP039 | INC020 | Conflation: Salas and Meiwald experienced a separate, minor event (UFO sighting by guards at Oscar, no outage) and Salas later merged it with the documented Echo shutdown; or Echo electrical fault only, no UFO | OPEN |
 | EXP040 | INC020 | Two separate observations were merged: Meiwald team-at-LF report (UFO seen from patrol; minor security alert) and the Salas gate object; plus missile faults electrical; both recollections 44 years later, with Salas leading the 1996 call | OPEN |
+| EXP041 | INC019 | Electrical/EMI cause only; guard report misperceived (vehicle lights, flares, cloud/low object, or humor/prank) or recollected after the fact and shaped by later discussion; Figel himself did not credit it | OPEN |

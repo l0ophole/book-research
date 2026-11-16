@@ -1594,5 +1594,29 @@
   "quotation": "",
   "section_id": "SEC073",
   "line_ref": 10002
+ },
+ {
+  "claim_id": "CLM134",
+  "claim_text": "Figel (2008-10): a guard at an Echo silo reported a large round object hovering directly over it seconds after the missile failed, and later SATs reported seeing it; Figel doubted the report at the time.",
+  "attribution": "Figel via Hastings summaries",
+  "claim_type": "WITNESS_ACCOUNT",
+  "importance": "CRITICAL",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "quotation": "",
+  "section_id": "SEC073",
+  "line_ref": 10065
+ },
+ {
+  "claim_id": "CLM135",
+  "claim_text": "Figel says Oscar probably did not occur and Salas suffers 'faulty memory', not malice; and that he signed no NDA but was told not to talk.",
+  "attribution": "Figel via Hastings summaries",
+  "claim_type": "WITNESS_ACCOUNT",
+  "importance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "quotation": "",
+  "section_id": "SEC073",
+  "line_ref": 10065
  }
 ]

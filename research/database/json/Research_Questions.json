@@ -284,5 +284,18 @@
   "verification_criteria": "Time and bearing stated",
   "status": "NOT_STARTED",
   "next_action": "Ask for full text"
+ },
+ {
+  "question_id": "RQ023",
+  "question": "Do Echo-era security/maintenance logs record UFO reports before or after 0845 on 16 Mar 1967?",
+  "priority": "CRITICAL",
+  "related_entities": "INC019;EVD083;EVD084;EXP041",
+  "existing_evidence": "Taped testimonies and wing history",
+  "missing_evidence": "Deputy log, SAT/SP blotter, maintenance team report",
+  "potential_sources": "AFHRA; NARA; Hastings audio",
+  "recommended_methods": "Hear audio; request logs",
+  "verification_criteria": "Contemporaneous entry or its absence",
+  "status": "NOT_STARTED",
+  "next_action": "Obtain Figel tapes"
  }
 ]

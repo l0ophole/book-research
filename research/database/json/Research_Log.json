@@ -358,5 +358,15 @@
   "query": "ufohastings.com/articles/echo-flight-ufo-incident-not-unique",
   "result": "Found partial transcripts and letter excerpt; no time/bearing; Meiwald assent to missile shutdown found in 1996 call; EVD081-082 added",
   "limitations": "Audio not heard; letter image not viewed; transcripts advocate-edited; Hastings states \"confidential\" parts excluded"
+ },
+ {
+  "log_id": 37,
+  "log_date": "2026-11-16",
+  "action": "Read Hastings Figel-interview page (SRC046) and re-read book Echo narrative (lines 10040-10110)",
+  "reason": "Follow-up 3: Figel statements vs Echo records",
+  "tool": "curl; Read",
+  "query": "ufohastings.com Figel page",
+  "result": "Version matrix EVD083-084; claims CLM134-135; EXP041",
+  "limitations": "Audio not heard; only advocate-written summaries and one short excerpt; Carlson/Figel quotes disputed by Hastings and Carlson"
  }
 ]
