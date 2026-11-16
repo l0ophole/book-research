@@ -508,5 +508,15 @@
   "status": "OPEN",
   "section_id": "SEC073",
   "line_ref": 10099
+ },
+ {
+  "missing_id": "MIS052",
+  "description": "AARO Historical Record Report Volume II (if published) and AARO case files cited in Vol I footnotes 98-109 (Malmstrom interviewee case files)",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "AARO",
+  "acquisition_method": "Check aaro.mil and request via FOIA/Mandatory declassification",
+  "status": "OPEN",
+  "section_id": "SEC073",
+  "line_ref": 10099
  }
 ]

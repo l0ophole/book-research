@@ -215,3 +215,7 @@ I did not find the full Engineering Investigation report (23 Mar 1967), Kaminski
 ## Follow-up 16: AARO's explanation for Echo — v1.16.0
 
 I could not open AARO's Historical Record Report Vol. I (downloads blocked or empty) or the 6 June 2025 WSJ story, so AARO's position is known only second-hand (EVD089). Per an advocate's email, an ex-AARO deputy director attributed Echo to a "cascading transformer failure" in an "electrical storm", while the WSJ reportedly cited an unannounced EMP test. Neither matches the one contemporaneous document I hold: its transformer short was ~1450, six hours after the 0845 shutdown, weather and power switching were ruled out, and no cause was found. Limits: second-hand, advocacy source; AARO text unseen.
+
+## Follow-up 17: AARO Volume I itself — v1.17.0
+
+Obtained AARO's Historical Record Report Vol. I (Black Vault mirror; SRC049; EVD090). Its nuclear passage names Malmstrom among four bases with five interviewees, reports claims of launch facilities going offline or losing all power, says AARO reached conclusions on "the majority" of claims but defers the unresolved ones to Volume II, and addresses only one nuclear item (a 1964 reentry-vehicle film matched to an ABM test). **It gives no cause for Echo or Oscar and does not mention transformers, storms or an EMP test**; those statements (EVD089) came from interviews/press. It also reports no UAP-specific NDAs found in records AARO reviewed, which bears on but does not refute the Salas/Meiwald NDA claim. Limits: mirror copy; Volume II unconfirmed; case files not public.

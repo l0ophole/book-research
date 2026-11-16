@@ -280,3 +280,10 @@
 - Result: AARO PDF not retrievable (403/empty); EVD089 records second-hand AARO claims and their conflict with SRC002
 - Limitations: AARO report and WSJ article not seen; all AARO content second-hand
 
+### 41. 2026-11-16 — Located and read the AARO Historical Record Report Volume I (Black Vault mirror), nuclear passage and ToC; searched for Volume II
+- Reason: Follow-up 3: AARO position on Malmstrom
+- Tool: WebSearch; curl; pdftotext
+- Query/target: documents2.theblackvault.com AARO PDF
+- Result: AARO Vol I does not give a cause for Echo/Oscar; deferred to Vol II; no UAP NDAs found; EVD090
+- Limitations: Mirror copy not aaro.mil; Volume II existence unconfirmed; AARO case files not public
+
