@@ -129,3 +129,9 @@
 | INC125 | 1980-12-26 to 1981-01-01 (night; ~2200-2400 per Carey, before 0325 GMT 28 Dec per Eastern Radar) | Bentwaters air traffic control tower | HIGH | UNVERIFIED | 1 | 17110 |
 | INC126 | 1980-02 to 1982-11 (series) | RAF Bentwaters / Woodbridge, Suffolk | LOW | UNVERIFIED | 1 | 16961 |
 | INC127 | 1980-12 to 1981-01 (Burris: 1-2 weeks after the second event) | Bentwaters WSA/airfield | HIGH | UNVERIFIED | 1 | 16878 |
+| INC128 | 1975 fall, before 31 Oct 1975 (Chassey left the USAF Oct 1975); date unknown | Malmstrom AFB Weapons Storage Area (east side of base), Montana | HIGH | UNVERIFIED | 1 | 14254 |
+| INC129 | 1975 fall (Peisher: heard from others, third-hand) | Echo Launch Control Facility, Malmstrom missile field | MEDIUM | UNVERIFIED | 1 | 14400 |
+| INC130 | 1975-10-27 1945 to 1975-10-28 (same hour) | Loring AFB, Maine, WSA and flight line | HIGH | PARTIALLY_VERIFIED | 3 | 14525 |
+| INC131 | 1975-10-30 about 2210 to 2300 local (NORAD log: incident 0355Z 31 Oct) | Wurtsmith AFB, Michigan (WSA, Lake Huron, Saginaw Bay) | HIGH | PARTIALLY_VERIFIED | 3 | 14601 |
+| INC132 | unknown date, Jan 1975 - Aug 1976 (Erikson assigned then) | Wurtsmith AFB WSA | MEDIUM | UNVERIFIED | 1 | 14652 |
+| INC133 | 1977 early summer, 0100-0300 | Loring AFB WSA (north end), Maine | MEDIUM | UNVERIFIED | 1 | 14777 |

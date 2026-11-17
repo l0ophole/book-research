@@ -658,5 +658,15 @@
   "evaluation_status": "OPEN",
   "section_id": "SEC087",
   "line_ref": 16066
+ },
+ {
+  "explanation_id": "EXP067",
+  "target_entities": "INC130;INC131;INC132;INC133",
+  "explanation": "Helicopter or other conventional aircraft (hovering, rotor-like sound, running lights, lights off over the WSA) as stated in the NORAD and message traffic; Wurtsmith: no aircraft identified, Michigan DNR had none up. For INC132 and INC133: memory conflation with INC131 (Erikson, 20 years later) and bright planet or aircraft light misjudged at night (Dunn, 30 years later). No evidence found here to test any of these.",
+  "supporting_evidence": "NORAD log and 11 Nov 1975 CINCNORAD message use the word helicopter; Wurtsmith witnesses heard helicopter-like sound; Taylor estimates are rough.",
+  "contradicting_evidence": "Taylor reports speed ~1000 kt and 200 kt chase by estimate; radar paint ~10 s; no helicopter identified; DNR denial reported by Clear Intent only; Eichner object not helicopter.",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC084",
+  "line_ref": 14607
  }
 ]

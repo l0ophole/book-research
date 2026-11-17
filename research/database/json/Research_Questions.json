@@ -479,5 +479,18 @@
   "verification_criteria": "Documented event or none",
   "status": "NOT_STARTED",
   "next_action": "Look for the 1981 blotter and MOD DEFE files"
+ },
+ {
+  "question_id": "RQ038",
+  "question": "Do any primary records identify the Oct 1975 Loring and Wurtsmith craft, or place anything over the Malmstrom WSA in fall 1975?",
+  "priority": "HIGH",
+  "related_entities": "INC128;INC130;INC131;CLM261;CLM265;CLM267",
+  "existing_evidence": "Secondary quotations only",
+  "missing_evidence": "Originals of NORAD log, messages, SP statements, Malmstrom helicopter flight logs; Pease/Loring aircraft records; Michigan DNR flight logs",
+  "potential_sources": "NARA; AFHRA; CUFOS",
+  "recommended_methods": "FOIA; archival request",
+  "verification_criteria": "Each case turns on whether helicopters were airborne",
+  "status": "NOT_STARTED",
+  "next_action": "Obtain the CIA FOIA PDF and NICAP Wurtsmith document set"
  }
 ]

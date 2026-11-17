@@ -406,3 +406,10 @@
 - Result: Memo has no WSA mention; stars at ~10 deg N and S match; all WSA witnesses deny beams; weapons-removal and radar stories unlogged hearsay
 - Limitations: Lighthouse bearing not tested; Cosmos 749 timing from search snippets only; no logs seen
 
+### 59. 2026-11-17 — Read book lines 14253-14893 (Malmstrom WSA 1975, Loring 1975 and 1977, Wurtsmith 1975); fetched NICAP Wurtsmith pages and the CIA reading room item page
+- Reason: Finish line coverage; cross-check Wurtsmith/Loring against released-document quotations
+- Tool: Read; curl; WebSearch
+- Query/target: NICAP Wurtsmith, Clear Intent excerpt
+- Result: Clear Intent excerpt confirms the official helicopter wording and shows Taylor memo dated 1979; CIA page fetch returned the generic reading room homepage, not the document
+- Limitations: Original documents not seen; Malmstrom and Loring 1977 accounts remain unsupported by documents
+

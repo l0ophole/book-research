@@ -1649,5 +1649,83 @@
   "section_id": "SEC087",
   "line_ref": 16878,
   "notes": ""
+ },
+ {
+  "incident_id": "INC128",
+  "date_text": "1975 fall, before 31 Oct 1975 (Chassey left the USAF Oct 1975); date unknown",
+  "location": "Malmstrom AFB Weapons Storage Area (east side of base), Montana",
+  "description": "Chassey (secondhand, overheard SP radio call at midnight chow): unknown intruder over the WSA. Rumor next day: Malmstrom helicopters chased an extremely bright light east toward Belt and it returned to base, outrunning them. Peisher (Det 5, 37th ARS, helicopter CO) says 'that sounds right' but learned of it only 'much later'.",
+  "significance": "HIGH",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "evidence_basis": "HEARSAY",
+  "section_id": "SEC084",
+  "line_ref": 14254,
+  "notes": ""
+ },
+ {
+  "incident_id": "INC129",
+  "date_text": "1975 fall (Peisher: heard from others, third-hand)",
+  "location": "Echo Launch Control Facility, Malmstrom missile field",
+  "description": "Peisher was told that a UFO 'the size of a football field' flew silently at low altitude over Echo LCF and an NCO outside became nauseous. Peisher knew of no Echo missile malfunction in 1975.",
+  "significance": "MEDIUM",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "evidence_basis": "HEARSAY",
+  "section_id": "SEC084",
+  "line_ref": 14400,
+  "notes": ""
+ },
+ {
+  "incident_id": "INC130",
+  "date_text": "1975-10-27 1945 to 1975-10-28 (same hour)",
+  "location": "Loring AFB, Maine, WSA and flight line",
+  "description": "27 Oct about 1945: low craft (~300 ft, circling, within 300 yd of WSA at ~150 ft), SP Danny K. Lewis, base alerted, messages to NMCC/CSAF/SAC; described as 'helicopter' in message traffic. 28 Oct: Sgt Steven Eichner (B-52 crew chief) says elongated reddish-orange football 'as long as four cars' hovered near WSA, 5 ft up, 300 ft from his truck; sworn affidavit. Sams (2003) says .50-cal jeeps from Pease were to be fetched but the flight was cancelled.",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "evidence_basis": "DOCUMENT_BASED",
+  "section_id": "SEC084",
+  "line_ref": 14525,
+  "notes": ""
+ },
+ {
+  "incident_id": "INC131",
+  "date_text": "1975-10-30 about 2210 to 2300 local (NORAD log: incident 0355Z 31 Oct)",
+  "location": "Wurtsmith AFB, Michigan (WSA, Lake Huron, Saginaw Bay)",
+  "description": "Several SPs report a low craft with running lights, then a lightless craft hovering over the WSA ~5 min; RAPCON tracks low objects SE; KC-135 (Taylor) vectored to intercept sees flashing lights, 1 radar paint ~10 s, object recedes ('approx 1000 knots'). NORAD log calls it a helicopter; FBI/police notified; Michigan DNR had no aircraft up. Per NICAP/Clear Intent, no explanation was ever given.",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "evidence_basis": "DOCUMENT_BASED",
+  "section_id": "SEC084",
+  "line_ref": 14601,
+  "notes": ""
+ },
+ {
+  "incident_id": "INC132",
+  "date_text": "unknown date, Jan 1975 - Aug 1976 (Erikson assigned then)",
+  "location": "Wurtsmith AFB WSA",
+  "description": "'John Erikson' (anonymous K-9 SP) says SP radio chatter reported a bright silent light hovering over the WSA, he could not see it, F-106s from K.I. Sawyer were scrambled and he heard no jets, SPs told not to discuss. Hastings thinks this may be a different event than 30 Oct 1975 but says no document supports it.",
+  "significance": "MEDIUM",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "evidence_basis": "WITNESS_NARRATIVE",
+  "section_id": "SEC084",
+  "line_ref": 14652,
+  "notes": ""
+ },
+ {
+  "incident_id": "INC133",
+  "date_text": "1977 early summer, 0100-0300",
+  "location": "Loring AFB WSA (north end), Maine",
+  "description": "Dunn (K-9, 42nd SPS): intense white light shone at ~45 degrees onto the WSA area commander's truck cab (green glow), 5-15 s, silent; two F-106s overflew 4-5 min later after a radar bogey; both men felt it was non-threatening and 'alien'; no debrief. Sergeant unnamed.",
+  "significance": "MEDIUM",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "evidence_basis": "WITNESS_NARRATIVE",
+  "section_id": "SEC084",
+  "line_ref": 14777,
+  "notes": ""
  }
 ]

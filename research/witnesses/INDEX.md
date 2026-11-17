@@ -133,3 +133,10 @@
 | WIT129 | Rick Bobo; Robert "Charlie" Waters; Tim Egercic; Michael Christian | 81st SPS Security Police, Bentwaters 1980 | YES (Bobo, Waters); NO (Egercic: alarm monitor; Christian left before Dec 1980) | NAMED |
 | WIT130 | James H. Carey and Ivan "Ike" Barker | Air traffic controllers, 2164th Comm Sq, Bentwaters | YES (radar; Barker visual) | NAMED |
 | WIT131 | James D. "J.D." Burris | Senior Airman, 81st SPS CSC, Bentwaters 1980 | NO (blotter and C-5A hearsay); YES (1982 sighting) | NAMED |
+| WIT132 | Joseph M. Chassey | SSgt, 341st Missile Maintenance Sqn, Malmstrom (parts runner); in USAF Oct 1971-Oct 1975 | NO (overheard call; rumor) | NAMED |
+| WIT133 | Robert Peisher (Lt Col, ret.) | CO, Det 5, 37th Air Rescue Sqn (Malmstrom helicopters) to late Nov 1975 | NO (third-hand) | NAMED |
+| WIT134 | Keith Wolverton | Capt/Deputy Sheriff, Cascade County Sheriff Dept (1975) | YES (mutilations); NOT interviewed by Hastings | NAMED |
+| WIT135 | Steven Eichner; Danny K. Lewis; Dean M. Sams | Loring: B-52 crew chief; Security Police; boom operator, 407th ARS | YES (Eichner affidavit, Lewis in Clear Intent); Sams NO (cancelled sortie) | NAMED |
+| WIT136 | Myron Taylor; Robert J. Anderson; Martin E. Tackabury; Michael J. Myers; Roger Skipper; James A. Miller | Wurtsmith: KC-135 instructor navigator; SPs and airmen (names from Clear Intent) | YES | NAMED |
+| WIT137 | "John Erikson" (pseudonym) | K-9 security policeman, 379th SPS, Wurtsmith Jan 1975-Aug 1976 | YES (but did not see the light) | ANONYMOUS |
+| WIT138 | James M. Dunn | Senior Airman, K-9, 42nd SPS, Loring 1977 | YES | NAMED |

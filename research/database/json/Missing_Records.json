@@ -688,5 +688,15 @@
   "status": "OPEN",
   "section_id": "SEC087",
   "line_ref": 16878
+ },
+ {
+  "missing_id": "MIS070",
+  "description": "NORAD Command Director log extracts and 11 Nov 1975 CINCNORAD message; Wurtsmith SP statements; Taylor 18 Jan 1979 Memo for the Record; Loring SP blotters, NMCC priority messages of 27-28 Oct 1975; Eichner affidavit; Malmstrom 341 SMW/37 ARS Det 5 logs for fall 1975",
+  "existence_status": "REFERENCED",
+  "potential_repository": "NARA/USAF/Archives; CIA reading room item 764905 (not opened here: listing page only)",
+  "acquisition_method": "FOIA/MDR requests; NICAP/CUFOS holdings",
+  "status": "OPEN",
+  "section_id": "SEC084",
+  "line_ref": 14525
  }
 ]

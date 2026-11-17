@@ -1171,8 +1171,8 @@
   "line_end": 14893,
   "word_count": 7426,
   "footnote_markers": 3,
-  "pct_lines_read": 17.1,
-  "coverage_status": "PARTIAL_READ",
+  "pct_lines_read": 100.0,
+  "coverage_status": "FULL_READ",
   "notes": ""
  },
  {

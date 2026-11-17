@@ -1308,5 +1308,75 @@
   "notes": "",
   "section_id": "SEC087",
   "line_ref": 16806
+ },
+ {
+  "witness_id": "WIT132",
+  "name": "Joseph M. Chassey",
+  "role": "SSgt, 341st Missile Maintenance Sqn, Malmstrom (parts runner); in USAF Oct 1971-Oct 1975",
+  "firsthand_status": "NO (overheard call; rumor)",
+  "identity_status": "NAMED",
+  "notes": "Service dates confirmed to Hastings by his records per the book. Says he wishes he had seen it first hand.",
+  "section_id": "SEC084",
+  "line_ref": 14254
+ },
+ {
+  "witness_id": "WIT133",
+  "name": "Robert Peisher (Lt Col, ret.)",
+  "role": "CO, Det 5, 37th Air Rescue Sqn (Malmstrom helicopters) to late Nov 1975",
+  "firsthand_status": "NO (third-hand)",
+  "identity_status": "NAMED",
+  "notes": "Interviewed July 2004. Timeline conflict: Chassey left Oct 1975 but Peisher says he heard of the chase only much later. Hastings did not press. Peisher believes mutilations, UFOs and the missile field were connected.",
+  "section_id": "SEC084",
+  "line_ref": 14303
+ },
+ {
+  "witness_id": "WIT134",
+  "name": "Keith Wolverton",
+  "role": "Capt/Deputy Sheriff, Cascade County Sheriff Dept (1975)",
+  "firsthand_status": "YES (mutilations); NOT interviewed by Hastings",
+  "identity_status": "NAMED",
+  "notes": "Co-author of Mystery Stalks the Prairie per the book; known here only via Peisher.",
+  "section_id": "SEC084",
+  "line_ref": 14326
+ },
+ {
+  "witness_id": "WIT135",
+  "name": "Steven Eichner; Danny K. Lewis; Dean M. Sams",
+  "role": "Loring: B-52 crew chief; Security Police; boom operator, 407th ARS",
+  "firsthand_status": "YES (Eichner affidavit, Lewis in Clear Intent); Sams NO (cancelled sortie)",
+  "identity_status": "NAMED",
+  "notes": "Sams told Hastings in 2003.",
+  "section_id": "SEC084",
+  "line_ref": 14548
+ },
+ {
+  "witness_id": "WIT136",
+  "name": "Myron Taylor; Robert J. Anderson; Martin E. Tackabury; Michael J. Myers; Roger Skipper; James A. Miller",
+  "role": "Wurtsmith: KC-135 instructor navigator; SPs and airmen (names from Clear Intent)",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Taylor statement is a Memo for the Record to the wing historian dated 18 Jan 1979, over three years after the event; he says it was around 1 November. Names are from the NICAP-hosted Clear Intent text, not the book.",
+  "section_id": "SEC084",
+  "line_ref": 14634
+ },
+ {
+  "witness_id": "WIT137",
+  "name": "\"John Erikson\" (pseudonym)",
+  "role": "K-9 security policeman, 379th SPS, Wurtsmith Jan 1975-Aug 1976",
+  "firsthand_status": "YES (but did not see the light)",
+  "identity_status": "ANONYMOUS",
+  "notes": "Anonymous; Hastings says he checked assignment records; wants no further contact; thinks the incident is still classified.",
+  "section_id": "SEC084",
+  "line_ref": 14664
+ },
+ {
+  "witness_id": "WIT138",
+  "name": "James M. Dunn",
+  "role": "Senior Airman, K-9, 42nd SPS, Loring 1977",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Sergeant in the truck is unnamed (redacted) in the book.",
+  "section_id": "SEC084",
+  "line_ref": 14777
  }
 ]

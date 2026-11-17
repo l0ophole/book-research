@@ -87,7 +87,7 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC081 | Chapter 16 | 16. Look Over Here, Not Over There! | 12987 | 13288 | 2798 | 100.0 | FULL_READ |
 | SEC082 | Chapter 17 | 17. Into the Seventies | 13289 | 13992 | 6605 | 100.0 | FULL_READ |
 | SEC083 | Chapter 18 | 18. The Northern Tier Incursions | 13993 | 14120 | 1080 | 100.0 | FULL_READ |
-| SEC084 | Chapter 18 | END OF NORAD LOG ENTRIES | 14121 | 14893 | 7426 | 17.1 | PARTIAL_READ |
+| SEC084 | Chapter 18 | END OF NORAD LOG ENTRIES | 14121 | 14893 | 7426 | 100.0 | FULL_READ |
 | SEC085 | Chapter 19 | 19. Mutilations | 14894 | 15330 | 3808 | 100.0 | FULL_READ |
 | SEC086 | Chapter 20 | 20. Like a Diamond in the Sky | 15331 | 15922 | 5875 | 100.0 | FULL_READ |
 | SEC087 | Chapter 21 | 21. Beams of Light | 15923 | 17362 | 14758 | 100.0 | FULL_READ |

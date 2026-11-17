@@ -1258,5 +1258,41 @@
   "reliability_notes": "Official text; descriptive of witnesses' claims, not an investigation.",
   "verification_status": "VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC071",
+  "title": "Wurtsmith AFB Incursion (NCP summary, incl. NORAD log extract)",
+  "author": "Francis Ridge (NICAP/NCP)",
+  "organization": "NICAP",
+  "pub_date": "2006-03-15",
+  "source_type": "Web case summary",
+  "classification": "SECONDARY",
+  "url": "https://nicap.org/babylon/751030_wurtsmith.htm",
+  "document_identifier": "",
+  "pages_sections": "whole page",
+  "access_date": "2026-11-17",
+  "related_entities": "INC131;CLM267;CLM269",
+  "extracted_information": "Names the NORAD entry 31 Oct 75 0445Z for incident at 0355Z, helicopter hovered over SAC WSA, tanker visual + skin paint, object tracked 25 NM SE over Lake Huron; says FBI Saginaw and police notified, DNR contacted, never explained. Cites Good, Fawcett and Greenwood, Stone.",
+  "reliability_notes": "Secondary compilation of a FOIA release; do not treat as the original log.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC072",
+  "title": "Clear Intent chapter \"Wurtsmith and Others\" (excerpt), 1984",
+  "author": "Lawrence Fawcett and Barry Greenwood",
+  "organization": "NICAP (reposted 2007)",
+  "pub_date": "2007-06-06",
+  "source_type": "Book chapter excerpt",
+  "classification": "SECONDARY",
+  "url": "https://nicap.org/articles/CI-Wurtsmith.htm",
+  "document_identifier": "",
+  "pages_sections": "pp. 41-56",
+  "access_date": "2026-11-17",
+  "related_entities": "INC130;INC131;CLM265;CLM267;CLM268;CLM269",
+  "extracted_information": "Gives SP/KC-135 names, Taylor Memo for the Record of 18 Jan 1979, wing historian Cahill research log, and the CINCNORAD message of 11 Nov 1975 describing Loring and Wurtsmith objects as helicopters. Says Taylor never called the craft a helicopter. Quotes Taylor: speed ~200 kt, 1 mile off, 1000 kt recession; radar paint 10 s.",
+  "reliability_notes": "Secondary but quotes released documents at length; originals not seen.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

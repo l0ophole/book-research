@@ -39,3 +39,4 @@
 | RQ035 | Does Wilson's fireball/UFO-after-test correlation survive a null model using a complete fireball/UFO report catalogue and actual fallout trajectories? | MEDIUM | NOT_STARTED | Get Wilson dataset or reconstruct from Blue Book |
 | RQ036 | Do any Malmstrom or Ellsworth records show whether Mike, Oscar or November lost missiles in March-April 1967 (or Juliet-03/05 in 1966), and can the 24/25 Mar Oscar date be tested against the 341st SMW history for Jan-Jun 1967? | CRITICAL | NOT_STARTED | Obtain full histories |
 | RQ037 | Do any records place a beam, light or UFO at the Bentwaters WSA in Dec 1980, and was there a weapons movement linked to it? | HIGH | NOT_STARTED | Look for the 1981 blotter and MOD DEFE files |
+| RQ038 | Do any primary records identify the Oct 1975 Loring and Wurtsmith craft, or place anything over the Malmstrom WSA in fall 1975? | HIGH | NOT_STARTED | Obtain the CIA FOIA PDF and NICAP Wurtsmith document set |

@@ -1630,5 +1630,29 @@
   "confidence": 3,
   "section_id": "SEC087",
   "line_ref": 16243
+ },
+ {
+  "evidence_id": "EVD137",
+  "description": "The Wurtsmith 30 Oct 1975 case rests on released AF documents quoted in Clear Intent: SP statements, a NORAD log entry, a CINCNORAD message, and a Taylor memo written 18 Jan 1979. The log and message say helicopter; Taylor and the SPs do not. Taylor dates it 'around the 1st of November', 3 days later than the log. Original documents not seen here.",
+  "evidence_type": "GOVERNMENT_RECORD",
+  "provenance": "SRC071; SRC072; book 14607-14650",
+  "related_entities": "INC131;CLM267;CLM268;CLM269",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC084",
+  "line_ref": 14607
+ },
+ {
+  "evidence_id": "EVD138",
+  "description": "Malmstrom WSA 1975: no document, only Chassey's rumor and Peisher's agreement. Peisher's timeline conflict with Chassey's separation date is noted by Hastings. A separate Nov 1975 Malmstrom event (radar 7 kt, F-106 scramble) in the CINCNORAD message is not this event.",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "book 14254-14483; SRC072",
+  "related_entities": "INC128;CLM261;CLM262",
+  "significance": "MEDIUM",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "section_id": "SEC084",
+  "line_ref": 14301
  }
 ]

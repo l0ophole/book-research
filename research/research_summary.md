@@ -330,3 +330,10 @@ Read the rest of Ch.21 (lines 16061–17362; coverage 82.9%) and the Halt memo i
 - **Sky:** on the night of 27/28 Dec 1980, Deneb and Vega stood ~10° up in the north and Sirius (S-SSW) and Jupiter/Saturn (ESE-SE) were low in the south, matching the memo's "about 10 degrees off the horizon" star-like objects (I did not test the lighthouse bearing).
 - **Weapons removal and radar** are anonymous or unlogged recollections (Burris saw only a guarded C-5A; Halt calls such movements routine; the controllers disagree on direction, a right-angle turn and a visual; Eastern Radar's 28 Dec 0325 GMT log shows a flashing light and nothing on radar).
 Limits: Cosmos 749 timing from search snippets; no logs seen.
+
+## Follow-up 35: Malmstrom, Loring and Wurtsmith, fall 1975 and 1977 (book lines 14253-14893) — v1.35.0
+- Recorded INC128-INC133, WIT132-WIT138, CLM261-CLM273, EXP067, SRC071-072, EVD137-138, MIS070, RQ038. Line coverage now 85.6%.
+- Malmstrom WSA hover (INC128) rests on Chassey's overheard radio call and next-day rumor. Peisher says "that sounds right" but dates his learning of it after Nov 1975, which conflicts with Chassey leaving in Oct 1975; Hastings notes the gap and drops it. No document supports it.
+- Loring 27-28 Oct and Wurtsmith 30 Oct 1975 have released-document support (via Clear Intent, not original documents). The NORAD log and the 11 Nov 1975 CINCNORAD message call the objects helicopters. Taylor's statement is a Memo for the Record of 18 Jan 1979, over three years later, and puts the event "around the 1st of November". Taylor reports one radar paint of ~10 s and speeds that are estimates.
+- Erikson (INC132) and Dunn (INC133, 1977) are single-witness recollections decades later with no document. Hastings's argument that Erikson not seeing the light makes him more credible is recorded as an argument, not evidence.
+- Not done: the CIA reading room fetch returned only the site homepage, so item 764905 was not read; no original NORAD or SP documents were seen.
