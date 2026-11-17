@@ -1168,5 +1168,23 @@
   "reliability_notes": "Snippets only.",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "OPENED"
+ },
+ {
+  "source_id": "SRC066",
+  "title": "NUFORC database records (mirror in a public GitHub dataset), entries dated 4/22/98",
+  "author": "National UFO Reporting Center (via DataHerb GitHub mirror)",
+  "organization": "NUFORC; raw.githubusercontent.com/DataHerb/nuforc-ufo-records",
+  "pub_date": "mirror accessed 2026-11-17",
+  "source_type": "Database export (CSV; summaries truncated)",
+  "classification": "SECONDARY",
+  "url": "https://raw.githubusercontent.com/DataHerb/nuforc-ufo-records/master/dataset/nuforc_ufo_records.csv",
+  "document_identifier": "",
+  "pages_sections": "11 WA/OR/BC/NV entries for 22 Apr 1998",
+  "access_date": "2026-11-17",
+  "related_entities": "INC090;EVD121;CLM206",
+  "extracted_information": "Eleven NUFORC entries dated 22 Apr 1998 in WA, OR, BC (and one in NV), including the Bangor entry; saved as analysis/nuforc_1998-04-22_wa_or_bc.csv.",
+  "reliability_notes": "Third-party mirror of a self-report database; summaries truncated; dates and durations are as submitted.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

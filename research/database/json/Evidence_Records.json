@@ -1438,5 +1438,17 @@
   "confidence": 3,
   "section_id": "SEC099",
   "line_ref": 22937
+ },
+ {
+  "evidence_id": "EVD121",
+  "description": "NUFORC records for 22 Apr 1998 (SRC066; analysis/nuforc_1998-04-22_wa_or_bc.csv): ten WA/OR/BC entries between 2120 and 2130 PDT, plus a later neon-green light at Reno NV (2325): Whistler BC 2120 'green fireball ... southbound' (2-5 s); Friday Harbor WA 2120 'bright greenish object ... moving south' (few s); Portland OR 2120 'bright green glowing ball' (6 s); Snohomish WA 2120 'intense white oval ... flashed and vanished' (30-40 s); Shelton WA 2122 'large, round, glowing object passed directly in front' (3 s); Bangor 2123 (Swanson) 'disk ... bottom glowing' (duration entered as 2 seconds); Pacific WA 2124 'blue-green lite pass south-west under Sea-Tac flight traffic' (3-4 s); Federal Way 2130 green light W to NW (3 s); Yakima 2130 'blue object ... south to north' (2-3 s); Vancouver WA 2130 'oval light blue/green ... north to south' (5 s). So (a) the book's '10 separate reports' is confirmed and Swanson's own report is one of them; (b) the other nine describe brief (2-6 s, one 30-40 s), blue-green, fast, mostly southbound objects over a wide region within ~10 min, consistent with a bright fireball or similar (I could not find a catalogue entry or news item identifying it); (c) Swanson's database entry gives a duration of 2 seconds and was timed 2123, within the same window, while his narrative to Hastings (and the book) describes slow, silent, low flight at 50-60 mph; 50-60 mph for 2 s covers ~150 ft, which cannot match a 100-ft disc 'gliding slowly' across a base 3 miles long; (d) the book says Swanson saw no green flash, and no other witness reports a ring or hole, so the identification of his object with the fireball is unproven but its timing is the same. The book's claim that the object descended to low altitude only over Bangor rests on Swanson's estimate alone. Conclusion: the NUFORC data make it more likely than not that Swanson's sighting was part of the same brief regional event, but they do not prove it.",
+  "evidence_type": "DATABASE_COMPARISON",
+  "provenance": "SRC066",
+  "related_entities": "INC090;CLM205;CLM206;EXP056;RQ034",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC098",
+  "line_ref": 22343
  }
 ]

@@ -207,7 +207,7 @@
 | CLM203 | 25 Jan 1995: Russian radars mistook a Norwegian scientific rocket for a Trident launch; Norway had notified 35 countries on 16 January. | Phillips via Hastings | MEDIUM | PARTIALLY_VERIFIED | 3 | 22251 |
 | CLM204 | Able Archer 83 (2 Nov 1983) led the Soviet leadership to believe an attack was imminent; both governments have since acknowledged its seriousness. | Hastings | LOW | NOT_YET_INVESTIGATED | 0 | 22266 |
 | CLM205 | Swanson (22 Apr 1998): a ~100 ft ring-shaped disc flew silently over Bangor's weapons storage area at 300-400 ft; Hastings's Google Earth reconstruction puts it just west of the bunkers. | Swanson via Hastings | HIGH | UNVERIFIED | 1 | 22343 |
-| CLM206 | The same object was seen elsewhere in WA, OR and BC the same night; NUFORC got 10 reports, and it was at low altitude only over Bangor. | Davenport via Hastings | MEDIUM | UNVERIFIED | 1 | 22455 |
+| CLM206 | The same object was seen elsewhere in WA, OR and BC the same night; NUFORC got 10 reports, and it was at low altitude only over Bangor. | Davenport via Hastings | MEDIUM | PARTIALLY_VERIFIED | 3 | 22455 |
 | CLM207 | The Navy reacted aggressively (helicopters, jets from Whidbey), may have videotaped it, and forbade Davenport to speak to base personnel; a FOIA request by Aldrich was answered that the Navy knew nothing. | Davenport (back channels) via Hastings | MEDIUM | UNVERIFIED | 1 | 22410 |
 | CLM208 | Bangor/Bremerton sightings 1995-2007 (NUFORC) show a continuing pattern of unusual lights near the nuclear submarine base. | Hastings | MEDIUM | UNVERIFIED | 1 | 22491 |
 | CLM209 | UFOs seen near Bangor are not U.S. secret aircraft because exposure would be 'never, ever' allowed. | Hastings | MEDIUM | UNVERIFIED | 1 | 22770 |

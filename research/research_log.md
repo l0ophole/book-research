@@ -357,3 +357,10 @@
 - Result: Swanson disc not astronomical; Junkin light matches Arcturus candidate; Fernandina crescent Moon supports account timing; Indian Point date conflict; Ch.31 conclusion not supported by documents
 - Limitations: Snippets only for web checks; times and directions approximate; no NUFORC original entries read
 
+### 52. 2026-11-17 — Searched for fireball catalogue entries (none found); downloaded a public mirror of the NUFORC database and extracted all 22 Apr 1998 WA/OR/BC entries
+- Reason: Follow-up 1: AMS/NUFORC check of the 22 Apr 1998 Bangor event
+- Tool: curl; python; WebSearch
+- Query/target: analysis/nuforc_1998-04-22_wa_or_bc.csv
+- Result: 10 WA/OR/BC reports at 2120-2130 PDT, mostly brief blue-green southbound lights; Swanson entry timed 2123 with 2 s duration; EVD121
+- Limitations: No AMS/NASA/news identification found; mirror is third-party, summaries truncated; durations as submitted
+

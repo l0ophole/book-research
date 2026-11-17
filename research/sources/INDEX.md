@@ -67,3 +67,4 @@
 | SRC063 | Alcubierre drive (summary via search); arXiv gr-qc/0207109 (Hart et al., 2002) | TERTIARY | OPENED | PARTIALLY_VERIFIED | https://arxiv.org/abs/gr-qc/0207109 |
 | SRC064 | Brief Chronology of START II; START II treaty page | SECONDARY | OPENED | PARTIALLY_VERIFIED | https://www.armscontrol.org/factsheets/start2chron |
 | SRC065 | 1984 Hudson Valley UFO sightings (summary via search); NICAP Indian Point directory page | TERTIARY | OPENED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings |
+| SRC066 | NUFORC database records (mirror in a public GitHub dataset), entries dated 4/22/98 | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://raw.githubusercontent.com/DataHerb/nuforc-ufo-records/master/dataset/nuforc_ufo_records.csv |

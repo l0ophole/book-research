@@ -2465,8 +2465,8 @@
   "attribution": "Davenport via Hastings",
   "claim_type": "COMPARISON",
   "importance": "MEDIUM",
-  "verification_status": "UNVERIFIED",
-  "confidence": 1,
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
   "quotation": "",
   "section_id": "SEC098",
   "line_ref": 22455
