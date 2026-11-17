@@ -1755,5 +1755,19 @@
   "document_id": "DOC001",
   "section_id": "SEC074",
   "line_ref": 10721
+ },
+ {
+  "link_id": 252,
+  "claim_id": "CLM252",
+  "document_id": "DOC001",
+  "section_id": "SEC073",
+  "line_ref": 10099
+ },
+ {
+  "link_id": 253,
+  "claim_id": "CLM253",
+  "document_id": "DOC001",
+  "section_id": "SEC073",
+  "line_ref": 10099
  }
 ]

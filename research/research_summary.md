@@ -309,3 +309,11 @@ Read the previously skipped Minuteman material (coverage now 77.5%; 79 sections 
 - **Oscar rests on memory:** Jamison, Koertner and Meiwald each recall an Oscar event, but the wing history records none, Evans recalls none for 16 March, and Salas, Jamison and Klotz disagree on date and number; Jamison saw no UFO and signed no NDA. The Belt sighting (24 Mar 1967) is documented in Blue Book and the Tribune (per search results) and fits Jamison's overheard radio chatter, but not any missile outage.
 - **Ellsworth 1966, Fowler 1966, Vandenberg 1967:** single-source or secondhand, no documents.
 Limits: Belt details from search snippets; no records for any new account.
+
+## Follow-up 32: the 341st SMW history scans themselves — v1.32.0
+
+I did not file any request, but a public copy of the FOIA release exists: an 88-page Black Vault scan of excerpts of five quarterly 341st SMW histories (1 Jan 1967–31 Mar 1968; SRC069). Reading the Echo sections (OCR text):
+- **The Boeing finding is verified** (EVD131, CLM252): a 30-microsecond, −10-to-0 V pulse on the self-test command line shut the system down with channels 9 and 12 No-Go in 7 of 10 trials; the SIN cable shields couple into that line.
+- **The Air Force's own leading 1967 hypothesis was a transformer-failure ground current** (EVD132, CLM253). Tests at Malmstrom in the week of 15 May 1967 found no significant noise propagation, and the history concluded the cause was "of the EMP or electrostatic nature"; the Q3 history says all tests were negative. So the "cascading transformer failure" later attributed to AARO officials was a hypothesis the Air Force had itself tested and found essentially negative.
+- **No Oscar, Mike, November or India shutdown appears in the excerpts** (EVD133), but they are excerpts, so this is not proof of absence; the scan confirms my earlier rr0-based reading (0845, "No other Wing I configuration lost strategic alert", UFO rumors "disproven"). Engineering reports existed (23 Mar 1967 and later interim reports).
+Limits: OCR noisy; excerpts only; I read perhaps a quarter of the text; I could not confirm the timing of the transformer event in the passage on the leading hypothesis.

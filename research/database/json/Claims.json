@@ -3010,5 +3010,29 @@
   "quotation": "",
   "section_id": "SEC074",
   "line_ref": 10721
+ },
+ {
+  "claim_id": "CLM252",
+  "claim_text": "Boeing/Autonetics reproduced the Echo shutdown (channels 9 and 12 No-Go) by applying a 30 microsecond, -10 to 0 V pulse to the self-test command line at the coupler, in 7 of 10 trials.",
+  "attribution": "Wing history Q2 1967",
+  "claim_type": "DOCUMENT",
+  "importance": "HIGH",
+  "verification_status": "VERIFIED",
+  "confidence": 4,
+  "quotation": "",
+  "section_id": "SEC073",
+  "line_ref": 10099
+ },
+ {
+  "claim_id": "CLM253",
+  "claim_text": "The Air Force's own 1967 leading hypothesis was a transformer failure inducing ground-current noise on the intersite cable shields; tests in May 1967 found no significant noise propagation, and the history concluded the cause was of EMP or electrostatic nature.",
+  "attribution": "Wing history Q2/Q3 1967",
+  "claim_type": "DOCUMENT",
+  "importance": "HIGH",
+  "verification_status": "VERIFIED",
+  "confidence": 4,
+  "quotation": "",
+  "section_id": "SEC073",
+  "line_ref": 10099
  }
 ]

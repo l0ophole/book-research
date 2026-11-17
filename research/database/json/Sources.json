@@ -1222,5 +1222,23 @@
   "reliability_notes": "Same mirror as SRC067; text via OCR with gaps.",
   "verification_status": "VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC069",
+  "title": "341st Strategic Missile Wing histories, excerpts for 1 Jan-31 Mar 1967, 1 Apr-30 Jun 1967, 1 Jul-30 Sep 1967, 1 Oct-31 Dec 1967, 1 Jan-31 Mar 1968 (88-page FOIA release, J. Greenewald, 2001)",
+  "author": "USAF 341st SMW historians (SAC history program); released by USAF under FOIA",
+  "organization": "The Black Vault (hosting the scanned release)",
+  "pub_date": "1967-1968 (released 2001)",
+  "source_type": "Official unit histories, excerpts (scanned PDF, OCR text)",
+  "classification": "PRIMARY",
+  "url": "http://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+  "document_identifier": "HQ SAC history series (DXIH)",
+  "pages_sections": "Echo Flight investigation sections in all five volumes; I read the Q1, Q2 and parts of Q3/Q4 excerpts",
+  "access_date": "2026-11-17",
+  "related_entities": "INC019;INC020;EVD131;EVD132;EVD133",
+  "extracted_information": "Original scans (88 pp, OCR text noisy); Echo Flight investigation: 0845 shutdown, channels 9 and 12 No-Go, \"No other Wing I configuration lost strategic alert at that time\", UFO rumors disproven, Boeing/Autonetics pulse tests, power and EMP tests.",
+  "reliability_notes": "Excerpts only (about 84 pages of five volumes); OCR errors; I read perhaps a quarter of the text; absence of Oscar or other incidents in excerpts is not conclusive.",
+  "verification_status": "VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

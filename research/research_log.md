@@ -385,3 +385,10 @@
 - Result: Extracted INC115-INC121, CLM239-CLM251; Barlow timeline after 0845; VRSA channel mismatch; Belt documented but no outage record
 - Limitations: No documents for any of the new accounts; Belt details from search snippets
 
+### 56. 2026-11-17 — Located and downloaded the 88-page Black Vault FOIA release of five 341st SMW quarterly history excerpts (1967-68) and read the Echo investigation sections (OCR) in Q1, Q2 and parts of Q3/Q4
+- Reason: Follow-up 1: obtain the wing histories (public copy) to test the Oscar/Mike/November claims and the Boeing noise finding
+- Tool: WebSearch; curl; pdftotext
+- Query/target: documents.theblackvault.com malmstromufo.pdf
+- Result: Verified the Boeing 30 us pulse reproduction (7 of 10); transformer-ground-current hypothesis tested negative May 1967 and history ends with EMP/electrostatic nature; no Oscar/Mike/November mention in the excerpts; rr0 transcription confirmed
+- Limitations: I did not file any request; OCR noisy; only excerpts; large parts unread
+
