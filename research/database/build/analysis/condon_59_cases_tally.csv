@@ -1,0 +1,60 @@
+case,title,category,basis
+1,Case 1: Sighting by Meteorologist,INCONCLUSIVE,altitude unknowable; debris possible
+2,Case 2: USAF/RAF Radar Sighting,UNEXPLAINED,"genuine UFO probability ""fairly high"""
+3,Case 3: Material Deposit from UFO (Radar Chaff),EXPLAINED,radar chaff
+4,Case 4: Magnesium Fragment,INCONCLUSIVE,sample; no evidence of origin
+5,"Case 5: B-47 Crew, Radar/Visual Sighting",INCONCLUSIVE,no record; recollection only
+6,Case 6: UFO Sighting Over a School,EXPLAINED,Jupiter; close-encounter part not explained
+7,Case 7: Photos Allegedly Taken from C-47 Cockpit,EXPLAINED,ordinary object thrown
+8,Case 8: Sighting of Disk by Motorist,INCONCLUSIVE,single witness; cannot verify or refute
+9,Case 9: Sighting by USAF Base Guards,EXPLAINED,Capella probable; not definite
+10,Case 10: Pulsating Light Seen from Car,UNEXPLAINED,titled No Explanation
+11,Case 11: DC-8 Flight Crew Sighting,EXPLAINED,Agena reentry
+12,Case 12: Claim of UFO Effect on Automobile Functions,UNEXPLAINED,"""interesting but unexplained"""
+13,Case 13: Lighted Disc Seen from Car,UNEXPLAINED,"""unexplained for lack of knowledge of context"""
+14,Case 14: Multiple Sightings by Police Officers,UNEXPLAINED,six sightings; 3 identified; 1 strong unidentified
+15,Case 15: Bright Planets Perceived as UFO's,EXPLAINED,planet
+16,Case 16: Low-Quality Radar Sightings,EXPLAINED,commonplace phenomena
+17,"Case 17: Claimed UFO Effect on Car, Plus Other Sightings",INCONCLUSIVE,impossible to say if real
+18,Case 18: Plastic-Bag Hot Air Balloons,EXPLAINED,plastic-bag hot-air balloons
+19,Case 19: Psychic Prediction of UFO Landing,HOAX_NOEVENT_OR_PSYCH,predicted event did not occur
+20,Case 20: Owls ID'd as Source of Beeping Sounds,EXPLAINED,saw-whet owl
+21,Case 21: Airport Radar Sighting,UNEXPLAINED,"""not satisfactorily explained""; radar artifact favoured"
+22,Case 22: Claim of UFO Landing,INCONCLUSIVE,not probative
+23,Case 23: Hunters Illuminated by Light from Overhead,EXPLAINED,airplane
+24,Case 24: Claimed Polaroid Photos of UFO,INCONCLUSIVE,photos not worth analysis
+25,"Case 25: Noise, Flashes, Power Interruptions",EXPLAINED,power-line arcs
+26,Case 26: Story Fabricated by Security Guard,HOAX_NOEVENT_OR_PSYCH,fabricated by witness
+27,Case 27: Attempted Instrumentation of UFO Sightings,INCONCLUSIVE,instruments found nothing
+28,Case 28: Sighting Series ID'd as USAF Aerial Refueling Training,EXPLAINED,USAF aerial refueling
+29,Case 29: Aerial Flare Drop,EXPLAINED,flare drop
+30,Case 30: Rumored sighting in connection with X-15 Flight,INCONCLUSIVE,rumor; could not confirm or deny
+31,Case 31: Lights Sighted Over Road,UNEXPLAINED,"tower ""not a fully satisfactory explanation"""
+32,Case 32: Horse Death,HOAX_NOEVENT_OR_PSYCH,no evidence of abnormal cause of horse death
+33,Case 33: Hovering Object,INCONCLUSIVE,serious doubts; unverifiable
+34,Case 34: Canadian Naval Maritime Command,INCONCLUSIVE,no further investigation
+35,"Case 35: Lights Over Ocean, Missile-tracking Radar Involved",EXPLAINED,anomalous radar conditions; interpretation issue
+36,Case 36: Fireball Meteor,EXPLAINED,fireball
+37,Case 37: Planets Venus & Jupiter,EXPLAINED,Venus
+38,"Case 38: Spurious Sightings, Amateur UFO Researchers",EXPLAINED,airplanes and stars
+39,Case 39: Automobile Malfunction + UFO Sighting,INCONCLUSIVE,vague; not pursued
+40,Case 40: Headlights Across a Valley,EXPLAINED,headlights/hunters
+41,Case 41: Weather Balloon,EXPLAINED,weather balloon
+42,Case 42: State Trooper Sighting,HOAX_NOEVENT_OR_PSYCH,psychological assessment; no confidence in reality
+43,Case 43: Confused Reports from Teenagers,UNEXPLAINED,"""left as unidentified"""
+44,"Case 44: Roadway Sighting, Witness with Emotional Problems",HOAX_NOEVENT_OR_PSYCH,witness under severe stress
+45,Case 45: Prank with Plastic Dry-cleaning Bag,EXPLAINED,balloon
+46,Case 46: McMinnville Photographs,UNEXPLAINED,McMinnville: all factors consistent with extraordinary object; cannot rule out fabrication
+47,Case 47: Great Falls Movie Film,UNEXPLAINED,"Great Falls film: airplanes ""strains credibility"" but not entirely ruled out"
+48,"Case 48: Bara Da Tijuca, Brazil",HOAX_NOEVENT_OR_PSYCH,internal inconsistency in photographs
+49,"Case 49: Tremonton, Utah - Movie Film",EXPLAINED,probably gulls
+50,"Case 50: Ft Belvoir ""Atom Bomb Demonstration""",EXPLAINED,atomic-bomb simulation
+51,Case 51: Vandenberg AFB,EXPLAINED,Venus
+52,Case 52: Traffic Investigator Photographs,INCONCLUSIVE,evidence not probative
+53,Case 53: Illuminated Model Fabrication,INCONCLUSIVE,little value
+54,Case 54: Gulfstream Aircraft,EXPLAINED,sub-sun hypothesis
+55,Case 55: American Airlines Flight,EXPLAINED,man-made flare test
+56,Case 56: Backyard Photograph,INCONCLUSIVE,inconsistency impairs usefulness
+57,Case 57: Ranger Station Photograph,INCONCLUSIVE,consistent with testimony but hand-thrown model not excluded
+58,Case 58: Movie Production Photograph,INCONCLUSIVE,real objects; low information
+59,Case 59: Connecticut Cluster Sightings,INCONCLUSIVE,little basis for identification

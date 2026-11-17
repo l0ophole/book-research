@@ -308,3 +308,10 @@
 - Result: Conclusion quote verified; Low memo and Elmira quotes verified in substance; 59 cases vs book 91; 30% and Good God/horse-whip not located; EVD097-101
 - Limitations: Did not read individual case analyses or tabulate classifications; original Low memo and newspaper not seen
 
+### 45. 2026-11-17 — Fetched all 59 case pages from the NCAS online Condon Report; read conclusion passages; tallied categories
+- Reason: Follow-up 1: test the "nearly 30% unknown" claim
+- Tool: curl; python
+- Query/target: analysis/condon_59_cases_tally.py
+- Result: 10 unexplained (17%), 18 inconclusive (31%), 25 explained (42%), 6 hoax/no-event/psych (10%); EVD102-103
+- Limitations: Subjective classification, single reader; conclusions only; case counts could shift by a few
+

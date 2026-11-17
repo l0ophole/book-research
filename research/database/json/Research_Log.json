@@ -438,5 +438,15 @@
   "query": "files.ncas.org/condon; project1947.com",
   "result": "Conclusion quote verified; Low memo and Elmira quotes verified in substance; 59 cases vs book 91; 30% and Good God/horse-whip not located; EVD097-101",
   "limitations": "Did not read individual case analyses or tabulate classifications; original Low memo and newspaper not seen"
+ },
+ {
+  "log_id": 45,
+  "log_date": "2026-11-17",
+  "action": "Fetched all 59 case pages from the NCAS online Condon Report; read conclusion passages; tallied categories",
+  "reason": "Follow-up 1: test the \"nearly 30% unknown\" claim",
+  "tool": "curl; python",
+  "query": "analysis/condon_59_cases_tally.py",
+  "result": "10 unexplained (17%), 18 inconclusive (31%), 25 explained (42%), 6 hoax/no-event/psych (10%); EVD102-103",
+  "limitations": "Subjective classification, single reader; conclusions only; case counts could shift by a few"
  }
 ]
