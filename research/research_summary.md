@@ -219,3 +219,13 @@ I could not open AARO's Historical Record Report Vol. I (downloads blocked or em
 ## Follow-up 17: AARO Volume I itself — v1.17.0
 
 Obtained AARO's Historical Record Report Vol. I (Black Vault mirror; SRC049; EVD090). Its nuclear passage names Malmstrom among four bases with five interviewees, reports claims of launch facilities going offline or losing all power, says AARO reached conclusions on "the majority" of claims but defers the unresolved ones to Volume II, and addresses only one nuclear item (a 1964 reentry-vehicle film matched to an ABM test). **It gives no cause for Echo or Oscar and does not mention transformers, storms or an EMP test**; those statements (EVD089) came from interviews/press. It also reports no UAP-specific NDAs found in records AARO reviewed, which bears on but does not refute the Salas/Meiwald NDA claim. Limits: mirror copy; Volume II unconfirmed; case files not public.
+
+## Follow-up 18: Chapters 22–23 read in full — v1.18.0
+
+Read lines 17363–17824 in full (coverage now 40.1% of lines, 49 sections FULL_READ) and extracted 5 incidents (INC069–INC073), 11 claims, 4 witnesses. Findings:
+- **F.E. Warren "satellite alerts" (INC069):** one witness (DeSisto) who saw no UFOs; Hastings's UFO inference is explicitly speculative; no document found.
+- **Kirtland/Manzano 8 Aug 1980 (INC070):** rests on a real AFOSI form (quoted); no Moon or bright planet was up at 2350 (EVD091); a secondary summary says AFOSI found no aerial tests there. Open.
+- **Byelokoroviche 4 Oct 1982 (INC071):** the book calls it an ICBM base; the 1987 INF Treaty MOU lists Belokorovichi as an **SS-20 (intermediate-range) base** (EVD092; CLM143 contradicted). I could not find the ABC transcript or KGB files; the flare explanation is an unverified official statement; the sky had Venus, Jupiter, Saturn, Mars low at dusk and a near-full Moon rising ~2000 (not tested against witness directions).
+- **Katta-Kurgan (INC072):** the INF MOU confirms the book's 9 SS-12 missiles / 5 launchers (CLM144 verified); the 1984 sighting itself is unverified.
+- **Kapustin Yar 28 Jul 1989 (INC073):** no astronomical object matches the first part of the window; the book's claim of 12 operational "RT-14" missiles in 1989 and a "prominent" Cuban-crisis role is contradicted (R-14 withdrawn by 1984; no R-14s reached Cuba) (EVD093).
+Limits: tertiary/secondhand Soviet material; time-zone assumptions in sky checks; INF section headings inferred from a flattened web copy.

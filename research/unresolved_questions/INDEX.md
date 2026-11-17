@@ -27,3 +27,5 @@
 | RQ023 | Do Echo-era security/maintenance logs record UFO reports before or after 0845 on 16 Mar 1967? | CRITICAL | NOT_STARTED | Obtain Figel tapes |
 | RQ024 | Why does the wing history cite a Mobile Strike Team that checked November Flight LFs as disproving UFO rumors at Echo, and did it also cover Echo LFs? | HIGH | NOT_STARTED | Request full report 23 Mar 1967 |
 | RQ025 | What did the full Echo engineering report conclude about externally injected pulses and about UFO rumors, and what did the Mobile Strike Team actually check? | HIGH | NOT_STARTED | Look for AARO Malmstrom release |
+| RQ026 | What were the "satellite alerts" at F.E. Warren in 1980-81, and do they match any documented concealment-from-satellite procedure? | LOW | NOT_STARTED | Read 90th SMW history |
+| RQ027 | Can the 1982 Byelokoroviche incident be dated, located and tied to a primary Soviet record, and what did the sky look like to the witnesses? | HIGH | NOT_STARTED | Locate ABC transcript |

@@ -51,3 +51,5 @@
 | SRC047 | NICAP Nuclear Connection Project directory page on Malmstrom/Echo Flight (Ridge; Sparks comment) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://www.nicap.org/babylon/670316_malmstromE.htm |
 | SRC048 | UFOs at Missile Base: AARO Deputy Director Misstates Facts (blog repost of Hastings email to AARO members, 4-6 Aug 2025, quoting Marik von Rennenkampff) | SECONDARY | EXAMINED | INSUFFICIENT_EVIDENCE | https://occultmystic.blogspot.com/2025/08/ufos-at-missile-base-aaro-deputy.html |
 | SRC049 | Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I (DOPSR-2024-0263) | PRIMARY | EXAMINED | VERIFIED | https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf |
+| SRC050 | Treaty between the US and USSR on the Elimination of Their Intermediate-Range and Shorter-Range Missiles: Memorandum of Understanding (data as of 1 Nov 1987) | PRIMARY | EXAMINED | VERIFIED | https://nuke.fas.org/control/inf/text/inf3.htm |
+| SRC051 | R-14 Chusovaya | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/R-14_Chusovaya |

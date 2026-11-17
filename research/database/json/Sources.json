@@ -880,5 +880,41 @@
   "reliability_notes": "Primary for AARO’s own stated position; mirror copy from The Black Vault (not aaro.mil).",
   "verification_status": "VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC050",
+  "title": "Treaty between the US and USSR on the Elimination of Their Intermediate-Range and Shorter-Range Missiles: Memorandum of Understanding (data as of 1 Nov 1987)",
+  "author": "US and USSR",
+  "organization": "fas.org (nuke.fas.org/control/inf/text/inf3.htm)",
+  "pub_date": "1987-12-08",
+  "source_type": "Treaty MOU data lists",
+  "classification": "PRIMARY",
+  "url": "https://nuke.fas.org/control/inf/text/inf3.htm",
+  "document_identifier": "",
+  "pages_sections": "Section III",
+  "access_date": "2026-11-16",
+  "related_entities": "INC071;INC072;EVD092",
+  "extracted_information": "Belokorovichi: SS-20 operating base (9 launchers); Kattakurgan: SS-12 base (9 missiles, 5 launchers); Kapustin Yar: test range.",
+  "reliability_notes": "Treaty data; section heading inferred from list order in a flattened web copy.",
+  "verification_status": "VERIFIED",
+  "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC051",
+  "title": "R-14 Chusovaya",
+  "author": "Wikipedia contributors",
+  "organization": "Wikipedia",
+  "pub_date": "accessed 2026-11-16",
+  "source_type": "Encyclopedic article",
+  "classification": "TERTIARY",
+  "url": "https://en.wikipedia.org/wiki/R-14_Chusovaya",
+  "document_identifier": "",
+  "pages_sections": "",
+  "access_date": "2026-11-16",
+  "related_entities": "CLM146;EVD093",
+  "extracted_information": "Service 1962-1984; completely withdrawn 1984; for Cuba 24 warheads arrived, no missiles shipped.",
+  "reliability_notes": "Tertiary.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

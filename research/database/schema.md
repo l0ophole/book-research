@@ -11,7 +11,7 @@ SQLite file `evidence.sqlite` is authoritative; CSV and JSON files in sibling fo
 **Provenance:** every record carrying `line_ref` points to a line number in the supplied markdown file (`f3ff02a2-hastings-2008-ufos-and-nukes.md`); the markdown has no page numbers. `section_id` joins to Document_Sections.
 
 ## Claims
-Rows: 136
+Rows: 147
 
 | name | type | pk |
 |---|---|---|
@@ -29,7 +29,7 @@ Rows: 136
 Foreign keys: section_id → Document_Sections
 
 ## Competing_Explanations
-Rows: 41
+Rows: 45
 
 | name | type | pk |
 |---|---|---|
@@ -45,7 +45,7 @@ Rows: 41
 Foreign keys: section_id → Document_Sections
 
 ## Document_Claim_Links
-Rows: 136
+Rows: 147
 
 | name | type | pk |
 |---|---|---|
@@ -95,7 +95,7 @@ Rows: 1
 | access_limitations | TEXT | 0 |
 
 ## Evidence_Records
-Rows: 90
+Rows: 94
 
 | name | type | pk |
 |---|---|---|
@@ -132,7 +132,7 @@ Rows: 17
 Foreign keys: section_id → Document_Sections
 
 ## Incidents
-Rows: 69
+Rows: 74
 
 | name | type | pk |
 |---|---|---|
@@ -151,7 +151,7 @@ Rows: 69
 Foreign keys: section_id → Document_Sections
 
 ## Missing_Records
-Rows: 52
+Rows: 56
 
 | name | type | pk |
 |---|---|---|
@@ -183,7 +183,7 @@ Rows: 196
 Foreign keys: first_section_id → Document_Sections
 
 ## Pattern_Scan_Leads
-Rows: 128
+Rows: 118
 
 | name | type | pk |
 |---|---|---|
@@ -214,7 +214,7 @@ Rows: 358
 Foreign keys: section_id → Document_Sections
 
 ## Relationships
-Rows: 692
+Rows: 730
 
 | name | type | pk |
 |---|---|---|
@@ -225,7 +225,7 @@ Rows: 692
 | note | TEXT | 0 |
 
 ## Research_Log
-Rows: 41
+Rows: 42
 
 | name | type | pk |
 |---|---|---|
@@ -239,7 +239,7 @@ Rows: 41
 | limitations | TEXT | 0 |
 
 ## Research_Questions
-Rows: 25
+Rows: 27
 
 | name | type | pk |
 |---|---|---|
@@ -264,7 +264,7 @@ Rows: 4
 | value | TEXT | 0 |
 
 ## Sources
-Rows: 49
+Rows: 51
 
 | name | type | pk |
 |---|---|---|
@@ -302,7 +302,7 @@ Rows: 9
 Foreign keys: section_id → Document_Sections
 
 ## Witness_Incidents
-Rows: 91
+Rows: 95
 
 | name | type | pk |
 |---|---|---|
@@ -312,7 +312,7 @@ Rows: 91
 Foreign keys: incident_id → Incidents; witness_id → Witnesses
 
 ## Witnesses
-Rows: 86
+Rows: 90
 
 | name | type | pk |
 |---|---|---|

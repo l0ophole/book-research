@@ -323,5 +323,31 @@
   "verification_criteria": "Primary text of the report",
   "status": "NOT_STARTED",
   "next_action": "Look for AARO Malmstrom release"
+ },
+ {
+  "question_id": "RQ026",
+  "question": "What were the \"satellite alerts\" at F.E. Warren in 1980-81, and do they match any documented concealment-from-satellite procedure?",
+  "priority": "LOW",
+  "related_entities": "INC069;EXP042;CLM137",
+  "existing_evidence": "DeSisto statement",
+  "missing_evidence": "Directives, blotters, other witnesses",
+  "potential_sources": "AFHRA; 90th SMW history",
+  "recommended_methods": "Search wing history 1980-81",
+  "verification_criteria": "Directive or record found",
+  "status": "NOT_STARTED",
+  "next_action": "Read 90th SMW history"
+ },
+ {
+  "question_id": "RQ027",
+  "question": "Can the 1982 Byelokoroviche incident be dated, located and tied to a primary Soviet record, and what did the sky look like to the witnesses?",
+  "priority": "HIGH",
+  "related_entities": "INC071;EXP043;EVD091;EVD092",
+  "existing_evidence": "TV interviews; INF MOU base type; sky data",
+  "missing_evidence": "KGB/Institute 22 file; witness azimuths; air-base exercise records",
+  "potential_sources": "ABC; Russian archives",
+  "recommended_methods": "Find transcript and file; test Moon/Venus/flare",
+  "verification_criteria": "Primary record found",
+  "status": "NOT_STARTED",
+  "next_action": "Locate ABC transcript"
  }
 ]

@@ -362,5 +362,21 @@
  {
   "witness_id": "WIT086",
   "incident_id": "INC019"
+ },
+ {
+  "witness_id": "WIT087",
+  "incident_id": "INC069"
+ },
+ {
+  "witness_id": "WIT088",
+  "incident_id": "INC071"
+ },
+ {
+  "witness_id": "WIT089",
+  "incident_id": "INC071"
+ },
+ {
+  "witness_id": "WIT090",
+  "incident_id": "INC073"
  }
 ]

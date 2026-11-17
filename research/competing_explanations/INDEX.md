@@ -43,3 +43,7 @@
 | EXP039 | INC020 | Conflation: Salas and Meiwald experienced a separate, minor event (UFO sighting by guards at Oscar, no outage) and Salas later merged it with the documented Echo shutdown; or Echo electrical fault only, no UFO | OPEN |
 | EXP040 | INC020 | Two separate observations were merged: Meiwald team-at-LF report (UFO seen from patrol; minor security alert) and the Salas gate object; plus missile faults electrical; both recollections 44 years later, with Salas leading the 1996 call | OPEN |
 | EXP041 | INC019 | Electrical/EMI cause only; guard report misperceived (vehicle lights, flares, cloud/low object, or humor/prank) or recollected after the fact and shaped by later discussion; Figel himself did not credit it | OPEN |
+| EXP042 | INC069 | Real satellite-overflight security measures (concealment of operations during Soviet reconnaissance satellite passes) or recall drills; unrelated lights reports from WSA guards (aircraft, stars, planets) not logged | OPEN |
+| EXP043 | INC071 | Flare drop by a nearby army unit (Platov, 2004); bright planets/Moon plus rumor and contagion; aircraft or satellite launch/reentry; later embellishment of a base alert | OPEN |
+| EXP044 | INC073 | Misidentified ordinary lights plus contagion among a night shift; aircraft/helicopter lights; flares/test; later reinterpretation | OPEN |
+| EXP045 | INC070 | Classified test activity or helicopters at an alarm-prone test range; bright misidentified lights; later folklore (Bennewitz affair) | OPEN |

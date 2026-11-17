@@ -1078,5 +1078,53 @@
   "confidence": 4,
   "section_id": "SEC073",
   "line_ref": 10099
+ },
+ {
+  "evidence_id": "EVD091",
+  "description": "Sky checks for Chapter 22-23 events (analysis/soviet_us_sky_checks.py, PyEphem; local zone assumptions in the script). (a) Byelokoroviche 4 Oct 1982 (UTC+3): at 1800 MSK Sun alt +5; Venus mag -3.8 alt 5 W-SW (sets ~1900); Jupiter -1.6 alt 13 SW; Saturn alt 10 SW; Mars +0.9 alt 14 S-SW; Moon (97%, waning) rises ENE ~1930-2000 and is up all evening. So several bright natural objects were available at dusk and a near-full Moon from ~2000; none is tested against witness azimuths (unknown). (b) Kapustin Yar 28-29 Jul 1989 22:12-01:30 (UTC+4): Moon (16-17%) below horizon until ~0100; Venus and Mars set by ~2200-2400; Saturn S alt 18 to 9; Jupiter rises ~0030 NE. No bright astronomical object accounts for a 2-hour low hovering object in the first half of the window. (c) Manzano 8 Aug 1980 2350 MDT: Moon 3% below horizon; Venus, Mars, Jupiter, Saturn all below the horizon: no astronomical explanation. (d) Katta-Kurgan Oct 1984 2345 (UTC+5): date unknown; all bright planets below horizon; the Moon is up on ~3-16 Oct, down 17-31 Oct; no resolution possible; a fireball/reentry is a candidate for a slowly descending hissing object but is not tested.",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "analysis/soviet_us_sky_checks.py",
+  "related_entities": "INC071;INC072;INC073;INC070;EXP043;EXP044;EXP045",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC089",
+  "line_ref": 17488
+ },
+ {
+  "evidence_id": "EVD092",
+  "description": "INF Treaty Memorandum of Understanding (1 Nov 1987 data; fas.org text, SRC050): 'Belokorovichi' (51 10 N 028 03 E) appears as an SS-20 missile operating base with 9 launchers (and a missile storage area), i.e. an intermediate-range base, not an ICBM base as the book says; and Kattakurgan (39 38 N 065 58 E) is listed as an SS-12 operating base with 9 missiles and 5 launchers, matching the book's figures. Kapustin Yar is listed as a test range. These are Nov 1987 figures; presence of SS-20s at Belokorovichi in Oct 1982 is plausible but not shown by this source. Popular accounts of an 'ICBM' launch sequence 'aimed at New York' are not supported by the base type.",
+  "evidence_type": "GOVERNMENT_RECORD",
+  "provenance": "SRC050",
+  "related_entities": "INC071;INC072;CLM143;CLM144",
+  "significance": "HIGH",
+  "verification_status": "VERIFIED",
+  "confidence": 4,
+  "section_id": "SEC089",
+  "line_ref": 17510
+ },
+ {
+  "evidence_id": "EVD093",
+  "description": "The book's description of the R-14: Wikipedia states the R-14 (SS-5 Skean) was withdrawn completely from Soviet service in 1984 (retired in the late 1970s except some soft sites, replaced by the RSD-10 from 1978-83), so 12 R-14s 'operational' at Kapustin Yar in 1989 is wrong; for the Cuban crisis, only 24 R-14 warheads arrived and no missiles or launchers were shipped (the missiles deployed in Cuba were R-12 / SS-4). 'RT-14' is not the designation. Kapustin Yar later hosted other missiles (INF MOU).",
+  "evidence_type": "TERTIARY_COMPARISON",
+  "provenance": "SRC051",
+  "related_entities": "INC073;CLM146",
+  "significance": "MEDIUM",
+  "verification_status": "CONTRADICTED",
+  "confidence": 1,
+  "section_id": "SEC089",
+  "line_ref": 17721
+ },
+ {
+  "evidence_id": "EVD094",
+  "description": "Chapter 22-23 evidence structure: DeSisto (INC069) reports no UFOs and Hastings's UFO inference is explicit speculation; Kirtland (INC070) rests on a real AFOSI form but from a quotation; Soviet cases (INC071-INC073) are secondhand through TV and Berliner's summaries of KGB files; I could not locate the ABC Prime Time Live transcript or the KGB files, and search results for the 1982 event mostly concern popular recirculations with conflicting place names (Usovo vs Byelokoroviche).",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "book Ch.22-23; search results",
+  "related_entities": "INC069;INC070;INC071;INC072;INC073",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC088",
+  "line_ref": 17363
  }
 ]

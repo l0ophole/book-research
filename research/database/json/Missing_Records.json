@@ -518,5 +518,45 @@
   "status": "OPEN",
   "section_id": "SEC073",
   "line_ref": 10099
+ },
+ {
+  "missing_id": "MIS053",
+  "description": "ABC Prime Time Live (Oct 1994) UFO/KGB segment transcript; History Channel Soviet UFO Secrets Revealed (2004); KGB/Institute 22 file on Byelokoroviche 4 Oct 1982",
+  "existence_status": "REFERENCED",
+  "potential_repository": "ABC News archive; Russian archives; Fund for UFO Research (Berliner)",
+  "acquisition_method": "Locate transcript; request via researchers",
+  "status": "OPEN",
+  "section_id": "SEC089",
+  "line_ref": 17488
+ },
+ {
+  "missing_id": "MIS054",
+  "description": "AFOSI report \"Kirtland AFB, 8 Aug-3 Sept 80, Alleged Sightings of Unidentified Aerial Lights in Restricted Test Range\"; Maccabee investigation",
+  "existence_status": "KNOWN",
+  "potential_repository": "NICAP/Maccabee site; AFOSI FOIA",
+  "acquisition_method": "Read full AFOSI report and Maccabee analysis",
+  "status": "OPEN",
+  "section_id": "SEC088",
+  "line_ref": 17451
+ },
+ {
+  "missing_id": "MIS055",
+  "description": "KGB file on Kapustin Yar 28 July 1989 (7 depositions, drawings, summary) and Berliner/FUFOR excerpt",
+  "existence_status": "REFERENCED",
+  "potential_repository": "Fund for UFO Research; Russian archives",
+  "acquisition_method": "Obtain Berliner report",
+  "status": "OPEN",
+  "section_id": "SEC089",
+  "line_ref": 17725
+ },
+ {
+  "missing_id": "MIS056",
+  "description": "F.E. Warren 90th SPG desk blotters 1980-81 and any base satellite-alert directives",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "AFHRA; NARA",
+  "acquisition_method": "FOIA",
+  "status": "OPEN",
+  "section_id": "SEC088",
+  "line_ref": 17379
  }
 ]

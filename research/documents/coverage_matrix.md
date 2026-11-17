@@ -91,8 +91,8 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC085 | Chapter 19 | 19. Mutilations | 14894 | 15330 | 3808 | 100.0 | FULL_READ |
 | SEC086 | Chapter 20 | 20. Like a Diamond in the Sky | 15331 | 15922 | 5875 | 100.0 | FULL_READ |
 | SEC087 | Chapter 21 | 21. Beams of Light | 15923 | 17362 | 14758 | 9.6 | PARTIAL_READ |
-| SEC088 | Chapter 22 | 22. “Satellite” Alerts | 17363 | 17485 | 1177 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC089 | Chapter 23 | 23. Back in the U.S.S.R. | 17486 | 17824 | 3186 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC088 | Chapter 22 | 22. “Satellite” Alerts | 17363 | 17485 | 1177 | 100.0 | FULL_READ |
+| SEC089 | Chapter 23 | 23. Back in the U.S.S.R. | 17486 | 17824 | 3186 | 100.0 | FULL_READ |
 | SEC090 | Chapter 24 | 24. Into the Nineties | 17825 | 18749 | 9003 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC091 | Chapter 25 | 25. Ongoing Civilian Sightings | 18750 | 18933 | 1754 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC092 | Chapter 25 | END OF POSTED MESSAGE | 18934 | 19398 | 4462 | 0.0 | PATTERN_SCAN_ONLY |

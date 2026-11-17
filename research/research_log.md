@@ -287,3 +287,10 @@
 - Result: AARO Vol I does not give a cause for Echo/Oscar; deferred to Vol II; no UAP NDAs found; EVD090
 - Limitations: Mirror copy not aaro.mil; Volume II existence unconfirmed; AARO case files not public
 
+### 42. 2026-11-16 — Read book lines 17363-17824 (Ch.22-23) in full; extracted INC069-073, CLM137-147, WIT087-090; checked INF MOU, R-14 Wikipedia, sky positions
+- Reason: Follow-up 2: Chapters 22-23 read-and-extract
+- Tool: Read; curl; PyEphem; WebSearch
+- Query/target: analysis/soviet_us_sky_checks.py
+- Result: Belokorovichi found to be an SS-20 base not ICBM; R-14 claim contradicted; Katta-Kurgan figures verified; sky checks inconclusive/negative
+- Limitations: ABC transcript, KGB files, AFOSI report not seen; time zone assumptions; no witness azimuths
+

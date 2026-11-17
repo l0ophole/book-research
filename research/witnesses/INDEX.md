@@ -88,3 +88,7 @@
 | WIT083 | Kenneth Rommel | Ex-FBI agent, director of New Mexico "Operation Animal Mutilation" (1979-80) | INVESTIGATOR | NAMED |
 | WIT084 | Gabe Valdez; Howard Burgess | NM State Police officer; investigator cited re magnetic anomaly | INVESTIGATORS | NAMED |
 | WIT086 | Col. (ret.) Eric D. Carlson | Missile Combat Crew Commander, Echo Flight, 16 Mar 1967 | YES (Echo) | NAMED |
+| WIT087 | Jay DeSisto | A1C, 90th Security Police Group (LE), F.E. Warren AFB 1980-81 | YES (recalls; no UFO) | NAMED |
+| WIT088 | Lt. Col. Vladimir Plantonev (also Plutinov) | Soviet Army officer, Byelokoroviche 1982 | YES per ABC | NAMED |
+| WIT089 | Col. Igor Chernovshev | Soviet Army officer, Byelokoroviche 1982 | YES per ABC | NAMED |
+| WIT090 | Ensign Valery N. Voloshin | Officer-on-duty, signal center, Kapustin Yar 1989 | YES per KGB file | NAMED |

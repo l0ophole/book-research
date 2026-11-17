@@ -858,5 +858,45 @@
   "notes": "Says he received no UFO reports; critic of Salas. Via SRC042; not contacted by me.",
   "section_id": null,
   "line_ref": 0
+ },
+ {
+  "witness_id": "WIT087",
+  "name": "Jay DeSisto",
+  "role": "A1C, 90th Security Police Group (LE), F.E. Warren AFB 1980-81",
+  "firsthand_status": "YES (recalls; no UFO)",
+  "identity_status": "NAMED",
+  "notes": "Statement to Hastings; says he never experienced or heard of UFOs.",
+  "section_id": "SEC088",
+  "line_ref": 17371
+ },
+ {
+  "witness_id": "WIT088",
+  "name": "Lt. Col. Vladimir Plantonev (also Plutinov)",
+  "role": "Soviet Army officer, Byelokoroviche 1982",
+  "firsthand_status": "YES per ABC",
+  "identity_status": "NAMED",
+  "notes": "Name spelling inconsistent in sources.",
+  "section_id": "SEC089",
+  "line_ref": 17507
+ },
+ {
+  "witness_id": "WIT089",
+  "name": "Col. Igor Chernovshev",
+  "role": "Soviet Army officer, Byelokoroviche 1982",
+  "firsthand_status": "YES per ABC",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC089",
+  "line_ref": 17523
+ },
+ {
+  "witness_id": "WIT090",
+  "name": "Ensign Valery N. Voloshin",
+  "role": "Officer-on-duty, signal center, Kapustin Yar 1989",
+  "firsthand_status": "YES per KGB file",
+  "identity_status": "NAMED",
+  "notes": "Deposition quoted by Berliner.",
+  "section_id": "SEC089",
+  "line_ref": 17745
  }
 ]

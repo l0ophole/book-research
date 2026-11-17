@@ -250,3 +250,23 @@
 - **Status:** NOT_STARTED
 - **Next action:** Look for AARO Malmstrom release
 
+## RQ026 [LOW] — What were the "satellite alerts" at F.E. Warren in 1980-81, and do they match any documented concealment-from-satellite procedure?
+- **Related:** INC069;EXP042;CLM137
+- **Existing evidence:** DeSisto statement
+- **Missing evidence:** Directives, blotters, other witnesses
+- **Potential sources:** AFHRA; 90th SMW history
+- **Methods:** Search wing history 1980-81
+- **Verification criteria:** Directive or record found
+- **Status:** NOT_STARTED
+- **Next action:** Read 90th SMW history
+
+## RQ027 [HIGH] — Can the 1982 Byelokoroviche incident be dated, located and tied to a primary Soviet record, and what did the sky look like to the witnesses?
+- **Related:** INC071;EXP043;EVD091;EVD092
+- **Existing evidence:** TV interviews; INF MOU base type; sky data
+- **Missing evidence:** KGB/Institute 22 file; witness azimuths; air-base exercise records
+- **Potential sources:** ABC; Russian archives
+- **Methods:** Find transcript and file; test Moon/Venus/flare
+- **Verification criteria:** Primary record found
+- **Status:** NOT_STARTED
+- **Next action:** Locate ABC transcript
+

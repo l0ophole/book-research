@@ -71,3 +71,8 @@
 | INC066 | undated (interview 1988? text says 19SS) | Las Animas County, CO | LOW | UNVERIFIED | 1 | 15142 |
 | INC067 | 1978-12-late or 1979-01 early (~6-6:30 pm) | Delta-3 LF, Ellsworth AFB (Delta Flight, near Wall SD) | CRITICAL | UNVERIFIED | 1 | 15423 |
 | INC068 | 1980-05 (spring, early afternoon) | Ellsworth AFB flight line / B-52 alert pad, SD | MEDIUM | UNVERIFIED | 1 | 15753 |
+| INC069 | 1980-81 | F.E. Warren AFB, WY (WSA, base patrol) | LOW | UNVERIFIED | 1 | 17365 |
+| INC070 | 1980-08-08 2350 MDT | Kirtland AFB, Manzano WSA / Coyote Canyon, NM | MEDIUM | PARTIALLY_VERIFIED | 3 | 17451 |
+| INC071 | 1982-10-04 | Byelokoroviche (Belokorovichi), Ukrainian SSR (missile base) | HIGH | PARTIALLY_VERIFIED | 3 | 17488 |
+| INC072 | 1984-10 (day unknown) 2345 | Katta-Kurgan tactical missile base, Uzbek SSR | LOW | UNVERIFIED | 1 | 17676 |
+| INC073 | 1989-07-28 2212-0130 | Kapustin Yar (missile test range/depot), Russia | MEDIUM | PARTIALLY_VERIFIED | 3 | 17710 |
