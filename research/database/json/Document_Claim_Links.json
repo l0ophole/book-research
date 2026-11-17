@@ -1517,5 +1517,40 @@
   "document_id": "DOC001",
   "section_id": "SEC099",
   "line_ref": 23268
+ },
+ {
+  "link_id": 218,
+  "claim_id": "CLM218",
+  "document_id": "DOC001",
+  "section_id": "SEC034",
+  "line_ref": 4071
+ },
+ {
+  "link_id": 219,
+  "claim_id": "CLM219",
+  "document_id": "DOC001",
+  "section_id": "SEC034",
+  "line_ref": 4076
+ },
+ {
+  "link_id": 220,
+  "claim_id": "CLM220",
+  "document_id": "DOC001",
+  "section_id": "SEC034",
+  "line_ref": 4095
+ },
+ {
+  "link_id": 221,
+  "claim_id": "CLM221",
+  "document_id": "DOC001",
+  "section_id": "SEC034",
+  "line_ref": 4119
+ },
+ {
+  "link_id": 222,
+  "claim_id": "CLM222",
+  "document_id": "DOC001",
+  "section_id": "SEC034",
+  "line_ref": 4234
  }
 ]

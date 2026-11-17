@@ -37,7 +37,7 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC031 | Chapter 3 | Operation Plumbbob | 3403 | 3482 | 754 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC032 | Chapter 4 | 4. Meanwhile, out at Sea | 3483 | 3587 | 975 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC033 | Chapter 4 | Testing in the Pacific | 3588 | 3996 | 4174 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC034 | Chapter 4 | A Thousand Times | 3997 | 4276 | 2608 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC034 | Chapter 4 | A Thousand Times | 3997 | 4276 | 2608 | 100.0 | FULL_READ |
 | SEC035 | Chapter 4 | Tracking Unknown Targets After the Bravo Shot | 4277 | 4520 | 2280 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC036 | Chapter 4 | Disruptions | 4521 | 4678 | 1552 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC037 | Chapter 4 | Catching the Wind | 4679 | 4815 | 1187 | 0.0 | PATTERN_SCAN_ONLY |

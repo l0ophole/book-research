@@ -578,5 +578,15 @@
   "evaluation_status": "OPEN",
   "section_id": "SEC105",
   "line_ref": 23438
+ },
+ {
+  "explanation_id": "EXP059",
+  "target_entities": "INC098",
+  "explanation": "Bright fireball/meteor (fast, low-looking, yellow-orange, passing overhead), or an aircraft; the zigzags come from a Marine hearing sailors second-hand; observers on a ship at night judge altitude poorly",
+  "supporting_evidence": "Entry itself says fast, low-altitude; no radar or other corroboration in the log; Handelman suspected an aircraft",
+  "contradicting_evidence": "Several sailors reportedly saw it and described an oval, silent, orange object; the book reports zigzag motion",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC034",
+  "line_ref": 4062
  }
 ]

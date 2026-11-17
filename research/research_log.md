@@ -364,3 +364,10 @@
 - Result: 10 WA/OR/BC reports at 2120-2130 PDT, mostly brief blue-green southbound lights; Swanson entry timed 2123 with 2 s duration; EVD121
 - Limitations: No AMS/NASA/news identification found; mirror is third-party, summaries truncated; durations as submitted
 
+### 53. 2026-11-17 — Read book lines 3997-4276 (Castle/USS Curtiss section); downloaded DNA 6035F (538 pp, mirror of DOE doc 0407565) and read Table 60
+- Reason: Follow-up 1: partly read sections (Ch.3 nuclear tests)
+- Tool: Read; curl; pdftotext; PyEphem
+- Query/target: analysis/curtiss_1954_sky.py
+- Result: Deck-log entry verified; book quote is a composite; page-removal claim disputed; EVD122-123
+- Limitations: Time zone assumed; only the Castle/Curtiss section of Ch.3 read so far; DOE site history not checkable
+

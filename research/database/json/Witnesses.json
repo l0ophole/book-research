@@ -1108,5 +1108,35 @@
   "notes": "Says Navy reaction and video are from back channels and undocumented.",
   "section_id": "SEC098",
   "line_ref": 22371
+ },
+ {
+  "witness_id": "WIT112",
+  "name": "Joe Stallings",
+  "role": "Marine corporal (Q clearance), captain's orderly, USS Curtiss 1954",
+  "firsthand_status": "NO (hearsay about the sighting)",
+  "identity_status": "NAMED",
+  "notes": "Says sighting was the talk of the ship; told the entry was struck from the log.",
+  "section_id": "SEC034",
+  "line_ref": 4082
+ },
+ {
+  "witness_id": "WIT113",
+  "name": "Walter J. Handelman",
+  "role": "Ensign, Officer of the Deck, USS Curtiss 1954",
+  "firsthand_status": "PARTIAL (made the log entry; did not see the object)",
+  "identity_status": "NAMED",
+  "notes": "Recollection \"somewhat hazy\"; disputes the entry wording.",
+  "section_id": "SEC034",
+  "line_ref": 4180
+ },
+ {
+  "witness_id": "WIT114",
+  "name": "Gene Pratt; David Matsler; Paul Morigeau",
+  "role": "Marines aboard USS Curtiss 1954",
+  "firsthand_status": "NO (Pratt and Matsler heard nothing)",
+  "identity_status": "NAMED",
+  "notes": "Pratt and Matsler were orderlies to the captain and admiral.",
+  "section_id": "SEC034",
+  "line_ref": 4140
  }
 ]

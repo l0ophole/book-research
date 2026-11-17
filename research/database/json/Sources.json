@@ -1186,5 +1186,23 @@
   "reliability_notes": "Third-party mirror of a self-report database; summaries truncated; dates and durations are as submitted.",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC067",
+  "title": "Operation CASTLE (CASTLE Series, 1954), DNA 6035F, Defense Nuclear Agency, 538 pp (copy of DOE OHP document 0407565 on nuclearsecrecy.com)",
+  "author": "Defense Nuclear Agency (E. J. Martin and R. H. Rowland)",
+  "organization": "DNA; mirror at minddfiles.nuclearsecrecy.com",
+  "pub_date": "1982 (declassified)",
+  "source_type": "Official historical report (PDF)",
+  "classification": "PRIMARY",
+  "url": "https://minddfiles.nuclearsecrecy.com/0407565.pdf",
+  "document_identifier": "DNA 6035F",
+  "pages_sections": "Table 60 (printed p.340-341)",
+  "access_date": "2026-11-17",
+  "related_entities": "INC098;EVD122",
+  "extracted_information": "Table 60 lists the Curtiss operations by shot with source \"USS Curtiss (AV-4) Deck log\" and includes the 2305 7 April luminous-object entry in the KOON row.",
+  "reliability_notes": "Mirror of the official report; Table 60 is a DNA summary of the deck log, not a verbatim transcription.",
+  "verification_status": "VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

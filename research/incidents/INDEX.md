@@ -100,3 +100,4 @@
 | INC095 | 1986-04-26 (~3 h after explosion) | Chernobyl Nuclear Power Station, Soviet Ukraine | LOW | UNVERIFIED | 1 | 23438 |
 | INC096 | 2004-07-20 ~2215 MST | Palo Verde Nuclear Generating Station, AZ | LOW | UNVERIFIED | 1 | 23465 |
 | INC097 | 2008-05-19 ~1220 | Surry Nuclear Power Station, VA | LOW | UNVERIFIED | 1 | 23494 |
+| INC098 | 1954-04-07 2305 (Koon shot day), Marshall Islands | USS Curtiss (AV-4), en route Bikini to Enewetak, Operation Castle | MEDIUM | PARTIALLY_VERIFIED | 3 | 3997 |

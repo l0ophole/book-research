@@ -68,3 +68,4 @@
 | SRC064 | Brief Chronology of START II; START II treaty page | SECONDARY | OPENED | PARTIALLY_VERIFIED | https://www.armscontrol.org/factsheets/start2chron |
 | SRC065 | 1984 Hudson Valley UFO sightings (summary via search); NICAP Indian Point directory page | TERTIARY | OPENED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings |
 | SRC066 | NUFORC database records (mirror in a public GitHub dataset), entries dated 4/22/98 | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://raw.githubusercontent.com/DataHerb/nuforc-ufo-records/master/dataset/nuforc_ufo_records.csv |
+| SRC067 | Operation CASTLE (CASTLE Series, 1954), DNA 6035F, Defense Nuclear Agency, 538 pp (copy of DOE OHP document 0407565 on nuclearsecrecy.com) | PRIMARY | EXAMINED | VERIFIED | https://minddfiles.nuclearsecrecy.com/0407565.pdf |

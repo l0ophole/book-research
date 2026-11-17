@@ -2602,5 +2602,65 @@
   "quotation": "",
   "section_id": "SEC099",
   "line_ref": 23268
+ },
+ {
+  "claim_id": "CLM218",
+  "claim_text": "USS Curtiss deck log, 7 Apr 1954, 2305: an unidentified luminous object passed over the ship bow to stern, yellowish-orange, at a high rate of speed and low altitude (found by Broudy 1998, Wilson 2000 in DNA 6035F p.341).",
+  "attribution": "DNA 6035F via Hastings",
+  "claim_type": "DOCUMENT",
+  "importance": "HIGH",
+  "verification_status": "VERIFIED",
+  "confidence": 4,
+  "quotation": "",
+  "section_id": "SEC034",
+  "line_ref": 4071
+ },
+ {
+  "claim_id": "CLM219",
+  "claim_text": "The book's quotation of the deck log ('7 April ... at 0408 on station in operating area BH 35-40-L; ... at 1138 anchored berth N-6 ... at 2305 an unidentified luminous object ...') is the log text.",
+  "attribution": "Hastings",
+  "claim_type": "QUOTATION",
+  "importance": "MEDIUM",
+  "verification_status": "DISPUTED",
+  "confidence": 2,
+  "quotation": "",
+  "section_id": "SEC034",
+  "line_ref": 4076
+ },
+ {
+  "claim_id": "CLM220",
+  "claim_text": "Eyewitnesses said the object zigzagged after passing astern; a Marine (Stallings) heard this secondhand; Kramer's 1952 (Ivy) sighting aboard the Curtiss had zigzags too, so the two are 'independent'.",
+  "attribution": "Stallings, Kramer via Hastings",
+  "claim_type": "HEARSAY",
+  "importance": "MEDIUM",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "quotation": "",
+  "section_id": "SEC034",
+  "line_ref": 4095
+ },
+ {
+  "claim_id": "CLM221",
+  "claim_text": "The Curtiss's captain ordered the UFO reference struck from the log to avoid embarrassment, per an unnamed officer told to Stallings.",
+  "attribution": "Stallings via Hastings",
+  "claim_type": "HEARSAY",
+  "importance": "MEDIUM",
+  "verification_status": "CONTRADICTED",
+  "confidence": 1,
+  "quotation": "",
+  "section_id": "SEC034",
+  "line_ref": 4119
+ },
+ {
+  "claim_id": "CLM222",
+  "claim_text": "After the sighting was publicized online, pages 301-350 of DNA 6035F (including p.341) were removed from the DOE Marshall Islands collection, so the sighting 'can no longer be accessed'.",
+  "attribution": "Hastings",
+  "claim_type": "ALLEGATION",
+  "importance": "HIGH",
+  "verification_status": "DISPUTED",
+  "confidence": 2,
+  "quotation": "",
+  "section_id": "SEC034",
+  "line_ref": 4234
  }
 ]

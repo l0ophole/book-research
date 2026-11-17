@@ -113,3 +113,6 @@
 | WIT109 | Brian Junkin | Civilian, Poulsbo WA | YES | NAMED |
 | WIT110 | Chuck Martin and son Gabe | Civilians, Poulsbo WA | YES (first light); Gabe saw second | NAMED |
 | WIT111 | Peter Davenport | Director, NUFORC | N/A (recorder; relayed hearsay) | NAMED |
+| WIT112 | Joe Stallings | Marine corporal (Q clearance), captain's orderly, USS Curtiss 1954 | NO (hearsay about the sighting) | NAMED |
+| WIT113 | Walter J. Handelman | Ensign, Officer of the Deck, USS Curtiss 1954 | PARTIAL (made the log entry; did not see the object) | NAMED |
+| WIT114 | Gene Pratt; David Matsler; Paul Morigeau | Marines aboard USS Curtiss 1954 | NO (Pratt and Matsler heard nothing) | NAMED |
