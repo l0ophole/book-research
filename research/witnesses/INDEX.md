@@ -92,3 +92,13 @@
 | WIT088 | Lt. Col. Vladimir Plantonev (also Plutinov) | Soviet Army officer, Byelokoroviche 1982 | YES per ABC | NAMED |
 | WIT089 | Col. Igor Chernovshev | Soviet Army officer, Byelokoroviche 1982 | YES per ABC | NAMED |
 | WIT090 | Ensign Valery N. Voloshin | Officer-on-duty, signal center, Kapustin Yar 1989 | YES per KGB file | NAMED |
+| WIT091 | SSgt Joseph M. Brown | 343rd Missile Security Squadron, Malmstrom 1992 | YES | NAMED |
+| WIT092 | TSgt Jeff Goodrich | Missile Handling team chief, Malmstrom; MUFON field investigator | YES (INC077); took reports for INC076, INC078 | NAMED |
+| WIT093 | A1C Michael R. Reager | Vehicle controller, 44th FMMS, Ellsworth | YES | NAMED |
+| WIT094 | A1C Jason H. Berrier | Minuteman EMT technician, 44th FMMS | YES | NAMED |
+| WIT095 | "John Blake" (pseudonym) | Launch commander, 319th MS, F.E. Warren 1993-97 | NO (mostly hearsay) | ANONYMOUS |
+| WIT096 | Ryan Riewer | Civilian farm resident, Conrad MT | YES | NAMED |
+| WIT097 | Patrick Ortiz | Civilian, Santa Fe NM (video) | YES | NAMED |
+| WIT098 | Patricia Hoyt | Freelance writer (Florida) | YES | NAMED |
+| WIT099 | Fife Symington | Former Arizona governor | YES | NAMED |
+| WIT100 | "Gene" (pseudonym) | Electrical engineer, Los Lunas NM | YES | ANONYMOUS |

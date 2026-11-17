@@ -362,5 +362,31 @@
   "verification_criteria": "Primary source text",
   "status": "NOT_STARTED",
   "next_action": "Count identified vs unidentified among the 59 cases"
+ },
+ {
+  "question_id": "RQ029",
+  "question": "Does the Ortiz video (Santa Fe, 21 Jul 1996) match Venus/Mars rising ENE at ~0310?",
+  "priority": "MEDIUM",
+  "related_entities": "INC082;EVD104;EXP048",
+  "existing_evidence": "Sky computation",
+  "missing_evidence": "Video, azimuth data",
+  "potential_sources": "Santa Fe New Mexican; local TV",
+  "recommended_methods": "Find the video or article; compare azimuth and colour behavior",
+  "verification_criteria": "Direction and timing match",
+  "status": "NOT_STARTED",
+  "next_action": "Locate 23 Jul 1996 article"
+ },
+ {
+  "question_id": "RQ030",
+  "question": "Can the dates of Brown (spring 1992) and Riewer (11 Dec 2006) be fixed so sky objects can be tested?",
+  "priority": "LOW",
+  "related_entities": "INC074;INC087;EVD104",
+  "existing_evidence": "Rough dates",
+  "missing_evidence": "Squadron logs; NUFORC post time",
+  "potential_sources": "Malmstrom SP logs; NUFORC",
+  "recommended_methods": "Get NUFORC post time and Brown text",
+  "verification_criteria": "Time and direction known",
+  "status": "NOT_STARTED",
+  "next_action": "Find original posts"
  }
 ]

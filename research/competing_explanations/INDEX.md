@@ -47,3 +47,10 @@
 | EXP043 | INC071 | Flare drop by a nearby army unit (Platov, 2004); bright planets/Moon plus rumor and contagion; aircraft or satellite launch/reentry; later embellishment of a base alert | OPEN |
 | EXP044 | INC073 | Misidentified ordinary lights plus contagion among a night shift; aircraft/helicopter lights; flares/test; later reinterpretation | OPEN |
 | EXP045 | INC070 | Classified test activity or helicopters at an alarm-prone test range; bright misidentified lights; later folklore (Bennewitz affair) | OPEN |
+| EXP046 | INC074 | Bright planets at dawn (Venus rising in the east ~0500-0530 and Jupiter low in the west in March), autokinesis and stress; helicopters; aircraft | OPEN |
+| EXP047 | INC077 | Flock of birds or high aircraft formation glinting in sun; balloons; ice-crystal optics | OPEN |
+| EXP048 | INC082 | Venus (m-4.5) rising ~0310 in the ENE with Mars nearby, scintillation/colour changes (Ortiz); Jupiter in the SSE evening for the campers; aircraft, meteors | OPEN |
+| EXP049 | INC076 | Meteor fireballs (night of 19 Jan 1995) for the green fireball; low aircraft/helicopter lights for the first object | OPEN |
+| EXP050 | INC086 | First group (~2000): aircraft in formation (Operation Snowbird A-10s, per Wikipedia); second group (~2200): flares dropped by A-10s on the Goldwater range (Luke AFB, 1997) | OPEN |
+| EXP051 | INC087 | Moon, Saturn and bright stars rising in the east (EVD104; observation time not given); aircraft; farmers misperceiving distance; predation/scavenging for the cattle | OPEN |
+| EXP052 | INC078 | Aircraft formation (Ellsworth hosts B-1B bombers) seen below fog/low cloud; reflections | OPEN |

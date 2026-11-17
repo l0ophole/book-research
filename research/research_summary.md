@@ -243,3 +243,13 @@ Compared Chapter 13's Condon claims with the NCAS online edition of the Report (
 ## Follow-up 21: Tally of the 59 Condon case studies — v1.21.0
 
 Read the stated conclusion of each of the 59 case studies in the NCAS online Condon Report and classified them (EVD102; `analysis/condon_59_cases_tally.csv`): **explained 25 (42%), unexplained 10 (17%), inconclusive/not probative 18 (31%), hoax/no event/psychological 6 (10%)**. The book's "nearly 30% … unknown or unexplained" is therefore not reproduced by a strict count (17%); it is close to the inconclusive share, and unexplained plus inconclusive is 47%. Three of the unexplained cases (2, 46, 47) are described by project staff in strong terms (EVD103), which supports the book's point that the Summary understates the residue, though not any extraterrestrial inference. Limits: subjective, single-reader classification from conclusion passages; counts could shift by a few cases under a different rule.
+
+## Follow-up 22: Chapters 24–25 read in full — v1.22.0
+
+Read lines 17825–19398 (Ch.24 "Into the Nineties" and Ch.25 "Ongoing Civilian Sightings" with its posted-message and Phoenix/Conrad sections). Coverage is now 46.6% of lines (52 sections FULL_READ). Extracted 15 incidents (INC074–INC088), 10 witnesses, 15 claims. Key findings:
+- Every item is single-source or hearsay; none cites a log, blotter or radar record; several are NUFORC postings with arbitrary dates (EVD107).
+- Sky checks (EVD104): bright planets were available for Brown's dawn sighting (Venus rising E ~0500–0530, Jupiter low W in March) but date and direction are unknown; **Venus rising ENE ~0310 fits Ortiz's 3-hour Santa Fe video** (not seen); no planet can be the five triangles at 75° (Goodrich) and none matches Reager/Berrier's formation.
+- The 19 Jan 1995 green fireball was reported in the press as a meteor (SRC057), supporting the book's own meteor reading; the first India Flight object is unexplained, and the time of the fireball (after midnight vs ~2000) is unresolved.
+- Phoenix: the flare explanation applies only to the ~2200 lights, consistent with the book (EVD106); I could not check Symington's date for the Larry King statement.
+- Mills's own data point (CLM151) cuts against the thesis: no unexplained whole-flight shutdown at Malmstrom in the previous 5–10 years, and none after the 1993 event.
+Limits: snippets only for the newspaper and Wikipedia items; no primary records; observation times unknown for several events.

@@ -1006,5 +1006,41 @@
   "reliability_notes": "Secondary history by a UFO-community historian.",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC057",
+  "title": "Fireball a meteor, experts say",
+  "author": "Spokesman-Review",
+  "organization": "The Spokesman-Review (Spokane)",
+  "pub_date": "1995-01-21",
+  "source_type": "Newspaper article (via search snippet)",
+  "classification": "SECONDARY",
+  "url": "https://www.spokesman.com/stories/1995/jan/21/fireball-a-meteor-experts-say/",
+  "document_identifier": "",
+  "pages_sections": "",
+  "access_date": "2026-11-17",
+  "related_entities": "INC076;CLM154;EVD105",
+  "extracted_information": "A large brilliant-green fireball crossed the Northwest on Thursday night; astronomers said probably a massive meteor; seen from Idaho, Oregon and Montana.",
+  "reliability_notes": "Only the search snippet read, not the full article; no Great Falls Tribune, Bigfork witness or Webb found.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "OPENED"
+ },
+ {
+  "source_id": "SRC058",
+  "title": "Phoenix Lights",
+  "author": "Wikipedia contributors",
+  "organization": "Wikipedia",
+  "pub_date": "accessed 2026-11-17",
+  "source_type": "Encyclopedic article (search snippets)",
+  "classification": "TERTIARY",
+  "url": "https://en.wikipedia.org/wiki/Phoenix_Lights",
+  "document_identifier": "",
+  "pages_sections": "",
+  "access_date": "2026-11-17",
+  "related_entities": "INC086;EXP050;EVD106",
+  "extracted_information": "Two events; second group = flares from a four-A-10 flight (LUU-2B/B) at the Goldwater range; first group tied to Operation Snowbird A-10s per snippets; critics note months-late confirmation.",
+  "reliability_notes": "Tertiary; snippets only.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "OPENED"
  }
 ]

@@ -60,3 +60,6 @@ Existence terms: KNOWN = confirmed to exist (cited or seen) but not yet obtained
 | MIS054 | AFOSI report "Kirtland AFB, 8 Aug-3 Sept 80, Alleged Sightings of Unidentified Aerial Lights in Restricted Test Range"; Maccabee investigation | KNOWN | NICAP/Maccabee site; AFOSI FOIA | Read full AFOSI report and Maccabee analysis | OPEN |
 | MIS055 | KGB file on Kapustin Yar 28 July 1989 (7 depositions, drawings, summary) and Berliner/FUFOR excerpt | REFERENCED | Fund for UFO Research; Russian archives | Obtain Berliner report | OPEN |
 | MIS056 | F.E. Warren 90th SPG desk blotters 1980-81 and any base satellite-alert directives | SUSPECTED | AFHRA; NARA | FOIA | OPEN |
+| MIS057 | Goodrich MUFON reports (1992 Ellsworth, 19/20 Jan 1995 India Flight, 2 Feb 1996 Great Falls) and Brown's original web account (site gone) | KNOWN | MUFON files; Wayback Machine; Hastings | Request via MUFON/Hastings | OPEN |
+| MIS058 | Santa Fe New Mexican 23 Jul 1996 article and Ortiz video; Albuquerque TV broadcast | KNOWN | New Mexico newspaper archives; local TV station | Search archives | OPEN |
+| MIS059 | AP 12 Nov 2006 article on the Valier cow; Pondera County Sheriff report; NUFORC Riewer post (12 Dec 2006) | KNOWN | AP archive; NUFORC; Sheriff | Retrieve texts | OPEN |

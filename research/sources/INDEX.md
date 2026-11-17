@@ -58,3 +58,5 @@
 | SRC054 | Scientific Study of Unidentified Flying Objects (the Condon Report), 1968 - NCAS Internet edition | PRIMARY | EXAMINED | VERIFIED | https://files.ncas.org/condon/index.html |
 | SRC055 | Flying Saucer Fiasco (LOOK, 14 May 1968, John G. Fuller) - Sign Historical Group transcription | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://www.project1947.com/shg/articles/fiasco.html |
 | SRC056 | The Condon Study chapter, in D. McCarthy (Sign Historical Group) history of NICAP/UFO controversy | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://www.project1947.com/shg/mccarthy/chap03.html |
+| SRC057 | Fireball a meteor, experts say | SECONDARY | OPENED | PARTIALLY_VERIFIED | https://www.spokesman.com/stories/1995/jan/21/fireball-a-meteor-experts-say/ |
+| SRC058 | Phoenix Lights | TERTIARY | OPENED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/Phoenix_Lights |

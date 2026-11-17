@@ -558,5 +558,35 @@
   "status": "OPEN",
   "section_id": "SEC088",
   "line_ref": 17379
+ },
+ {
+  "missing_id": "MIS057",
+  "description": "Goodrich MUFON reports (1992 Ellsworth, 19/20 Jan 1995 India Flight, 2 Feb 1996 Great Falls) and Brown's original web account (site gone)",
+  "existence_status": "KNOWN",
+  "potential_repository": "MUFON files; Wayback Machine; Hastings",
+  "acquisition_method": "Request via MUFON/Hastings",
+  "status": "OPEN",
+  "section_id": "SEC090",
+  "line_ref": 18272
+ },
+ {
+  "missing_id": "MIS058",
+  "description": "Santa Fe New Mexican 23 Jul 1996 article and Ortiz video; Albuquerque TV broadcast",
+  "existence_status": "KNOWN",
+  "potential_repository": "New Mexico newspaper archives; local TV station",
+  "acquisition_method": "Search archives",
+  "status": "OPEN",
+  "section_id": "SEC091",
+  "line_ref": 18781
+ },
+ {
+  "missing_id": "MIS059",
+  "description": "AP 12 Nov 2006 article on the Valier cow; Pondera County Sheriff report; NUFORC Riewer post (12 Dec 2006)",
+  "existence_status": "KNOWN",
+  "potential_repository": "AP archive; NUFORC; Sheriff",
+  "acquisition_method": "Retrieve texts",
+  "status": "OPEN",
+  "section_id": "SEC092",
+  "line_ref": 19356
  }
 ]

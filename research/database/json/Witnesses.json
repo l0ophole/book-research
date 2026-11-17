@@ -898,5 +898,105 @@
   "notes": "Deposition quoted by Berliner.",
   "section_id": "SEC089",
   "line_ref": 17745
+ },
+ {
+  "witness_id": "WIT091",
+  "name": "SSgt Joseph M. Brown",
+  "role": "343rd Missile Security Squadron, Malmstrom 1992",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Posted account online (site gone); interviewed Apr 2003.",
+  "section_id": "SEC090",
+  "line_ref": 17832
+ },
+ {
+  "witness_id": "WIT092",
+  "name": "TSgt Jeff Goodrich",
+  "role": "Missile Handling team chief, Malmstrom; MUFON field investigator",
+  "firsthand_status": "YES (INC077); took reports for INC076, INC078",
+  "identity_status": "NAMED",
+  "notes": "Uses MUFON forms; interested investigator.",
+  "section_id": "SEC090",
+  "line_ref": 18258
+ },
+ {
+  "witness_id": "WIT093",
+  "name": "A1C Michael R. Reager",
+  "role": "Vehicle controller, 44th FMMS, Ellsworth",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC090",
+  "line_ref": 18444
+ },
+ {
+  "witness_id": "WIT094",
+  "name": "A1C Jason H. Berrier",
+  "role": "Minuteman EMT technician, 44th FMMS",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC090",
+  "line_ref": 18445
+ },
+ {
+  "witness_id": "WIT095",
+  "name": "\"John Blake\" (pseudonym)",
+  "role": "Launch commander, 319th MS, F.E. Warren 1993-97",
+  "firsthand_status": "NO (mostly hearsay)",
+  "identity_status": "ANONYMOUS",
+  "notes": "Identity withheld at witness request.",
+  "section_id": "SEC090",
+  "line_ref": 18522
+ },
+ {
+  "witness_id": "WIT096",
+  "name": "Ryan Riewer",
+  "role": "Civilian farm resident, Conrad MT",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Student at U. Montana; NUFORC post and phone interview.",
+  "section_id": "SEC092",
+  "line_ref": 19248
+ },
+ {
+  "witness_id": "WIT097",
+  "name": "Patrick Ortiz",
+  "role": "Civilian, Santa Fe NM (video)",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Quoted from Santa Fe New Mexican via Hastings.",
+  "section_id": "SEC091",
+  "line_ref": 18781
+ },
+ {
+  "witness_id": "WIT098",
+  "name": "Patricia Hoyt",
+  "role": "Freelance writer (Florida)",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Online post.",
+  "section_id": "SEC091",
+  "line_ref": 18800
+ },
+ {
+  "witness_id": "WIT099",
+  "name": "Fife Symington",
+  "role": "Former Arizona governor",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Statements via Hastings of Larry King Live (date claimed 13 Jul 2007).",
+  "section_id": "SEC092",
+  "line_ref": 18958
+ },
+ {
+  "witness_id": "WIT100",
+  "name": "\"Gene\" (pseudonym)",
+  "role": "Electrical engineer, Los Lunas NM",
+  "firsthand_status": "YES",
+  "identity_status": "ANONYMOUS",
+  "notes": "Colleague of Hastings; pseudonym.",
+  "section_id": "SEC091",
+  "line_ref": 18859
  }
 ]

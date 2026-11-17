@@ -280,3 +280,23 @@
 - **Status:** NOT_STARTED
 - **Next action:** Count identified vs unidentified among the 59 cases
 
+## RQ029 [MEDIUM] — Does the Ortiz video (Santa Fe, 21 Jul 1996) match Venus/Mars rising ENE at ~0310?
+- **Related:** INC082;EVD104;EXP048
+- **Existing evidence:** Sky computation
+- **Missing evidence:** Video, azimuth data
+- **Potential sources:** Santa Fe New Mexican; local TV
+- **Methods:** Find the video or article; compare azimuth and colour behavior
+- **Verification criteria:** Direction and timing match
+- **Status:** NOT_STARTED
+- **Next action:** Locate 23 Jul 1996 article
+
+## RQ030 [LOW] — Can the dates of Brown (spring 1992) and Riewer (11 Dec 2006) be fixed so sky objects can be tested?
+- **Related:** INC074;INC087;EVD104
+- **Existing evidence:** Rough dates
+- **Missing evidence:** Squadron logs; NUFORC post time
+- **Potential sources:** Malmstrom SP logs; NUFORC
+- **Methods:** Get NUFORC post time and Brown text
+- **Verification criteria:** Time and direction known
+- **Status:** NOT_STARTED
+- **Next action:** Find original posts
+

@@ -76,3 +76,18 @@
 | INC071 | 1982-10-04 | Byelokoroviche (Belokorovichi), Ukrainian SSR (missile base) | HIGH | PARTIALLY_VERIFIED | 3 | 17488 |
 | INC072 | 1984-10 (day unknown) 2345 | Katta-Kurgan tactical missile base, Uzbek SSR | LOW | UNVERIFIED | 1 | 17676 |
 | INC073 | 1989-07-28 2212-0130 | Kapustin Yar (missile test range/depot), Russia | MEDIUM | PARTIALLY_VERIFIED | 3 | 17710 |
+| INC074 | 1992-03/04 (Brown: "March or April"), ~0430-0700 | Alpha Flight LF A-03 near Monarch, MT (Malmstrom) | MEDIUM | UNVERIFIED | 1 | 17843 |
+| INC075 | 1993-01/02 (Mills: early winter 1993) | Roads near Monarch/Belt and Malmstrom flight line, MT | LOW | UNVERIFIED | 1 | 18009 |
+| INC076 | 1995-01-19/20 ~2000 or ~0000 | India Flight LF I-04, Malmstrom (Goodrich MUFON report) | MEDIUM | PARTIALLY_VERIFIED | 3 | 18354 |
+| INC077 | 1996-02-02 ~1045 MST | Great Falls MT (seen from Missile Roll Transfer Bldg, Malmstrom) | MEDIUM | UNVERIFIED | 1 | 18258 |
+| INC078 | 1992-10-27 ~2350 | Ellsworth AFB, SD (44th FMMS hangar) | LOW | UNVERIFIED | 1 | 18442 |
+| INC079 | 1993-97 (anonymous, secondhand) | F.E. Warren AFB, WY (Bravo-02 and other LFs) | LOW | UNVERIFIED | 1 | 18522 |
+| INC080 | 1994-06-15? (arbitrary NUFORC date) 2345 | F.E. Warren AFB, WY (chow hall) | LOW | UNVERIFIED | 1 | 18632 |
+| INC081 | 2001-10-15? (approximate) ~0300 | Romeo LCF, F.E. Warren AFB (Chugwater, WY) | LOW | UNVERIFIED | 1 | 18691 |
+| INC082 | 1996-07-20/21 | Jemez Mountains NM (near Los Alamos) and Santa Fe NM | LOW | UNVERIFIED | 1 | 18756 |
+| INC083 | 1983-05 (Memorial Day weekend) | Near Los Alamos NM | LOW | UNVERIFIED | 1 | 18800 |
+| INC084 | 1998-01-29 (just after sunset) | Los Lunas NM (near Kirtland AFB complex) | LOW | UNVERIFIED | 1 | 18859 |
+| INC085 | 1986-09-16 ~1800 | Savannah River Plant, SC (New Ellenton) | LOW | UNVERIFIED | 1 | 18909 |
+| INC086 | 1997-03-13 ~1855-2200 MST | Nevada-Arizona (Phoenix) | MEDIUM | PARTIALLY_VERIFIED | 3 | 18950 |
+| INC087 | 2006-12-07 and 2006-12-11 (plus Oct-Nov 2006 mutilations) | Conrad, Pondera County, MT (near Papa LCF and LFs S-40 and Q-15) | MEDIUM | UNVERIFIED | 1 | 19239 |
+| INC088 | 2001 (date not recorded) | Placitas, NM (author's home) | LOW | UNVERIFIED | 1 | 18842 |

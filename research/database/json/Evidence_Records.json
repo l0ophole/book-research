@@ -1234,5 +1234,53 @@
   "confidence": 3,
   "section_id": "SEC078",
   "line_ref": 11659
+ },
+ {
+  "evidence_id": "EVD104",
+  "description": "Sky checks for Ch.24-25 events (analysis/ch24_25_sky_checks.py, PyEphem). (a) Brown, Monarch MT, 15 Mar-25 Apr 1992 at 0430/0630: Venus (m-3.8) below the horizon at 0430 but up in the east by ~0500-0530 and 5-15 deg altitude by 0630; Jupiter (m-2.3) low in the west at 0430 in mid/late March (8-17 deg), set by April; Mars/Saturn in the SE. So bright planets were available at the start and during the dawn phase; the sighting date and direction are not given. (b) Reager/Berrier, Ellsworth, 27 Oct 1992 2350 MST: Moon (7%) and Venus below horizon, Mars (m-0.1) alt 24 in the east, Saturn set: no astronomical match for a lighted formation. (c) Goodrich, Great Falls, 2 Feb 1996 1045 MST: Sun alt 21; Venus alt 13 ESE, Jupiter 19 S, Mars 19, Saturn 12: nothing near 75 deg, so planets are excluded. (d) Los Alamos area 20-21 Jul 1996: Jupiter (m-2.5) 22-28 deg SSE during the evening; at 0300 MDT Venus (m-4.5) just rising ENE (alt -4 az 64), Mars close by, Saturn alt 39: an object first seen at 'about 3 a.m.' hovering for 3+ hours in the ENE with colour changes matches Venus/scintillation, but I did not see the video. (e) Conrad MT: 7 Dec 2006 2230: Moon (88%) alt 29 E; Saturn rising alt 4 E; fast-turning light is not astronomical. 11 Dec: observation time not given; after 2200 Saturn rose ENE, and a 54% Moon rose ~2400 in the east, with Capella, Aldebaran, Sirius, Betelgeuse up. The Dec 11 description (stationary ~30 min, blue/red/white) is compatible with a rising bright body plus scintillation, but cannot be tested without a time.",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "analysis/ch24_25_sky_checks.py",
+  "related_entities": "INC074;INC077;INC078;INC082;INC087;EXP046;EXP047;EXP048;EXP051;EXP052",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC090",
+  "line_ref": 17843
+ },
+ {
+  "evidence_id": "EVD105",
+  "description": "Fireball of 19 Jan 1995: the Spokesman-Review (21 Jan 1995) reports a brilliant-green fireball over the Northwest on Thursday night (19 Jan) judged a meteor; this supports Webb's natural explanation for the fireball. Not found: the Great Falls Tribune and AP items, the Bigfork witness, Walter Webb's study; an Air Force fireball release of 23 Jan 1995 concerns a satellite detection at 1017 GMT on 18 Jan, which does not match an 2000 local sighting on 19 Jan. The technician's after-midnight timing vs ~2000 in the press remains unresolved, so the fireball may or may not have been seen from India Flight.",
+  "evidence_type": "TERTIARY_COMPARISON",
+  "provenance": "SRC057",
+  "related_entities": "INC076;CLM154",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC090",
+  "line_ref": 18393
+ },
+ {
+  "evidence_id": "EVD106",
+  "description": "Phoenix Lights: the search snippets of Wikipedia (SRC058) support the book's central point that the flare explanation applies to the ~2200 lights over the Goldwater range and was not issued until months later. They describe the earlier V-shaped formation as tied to Operation Snowbird A-10s (not the book's reading). I did not locate Air Force records or the Symington interview; news items (Mar 2007) report his disclosure earlier than the book's 13 Jul 2007 Larry King date, which I could not check.",
+  "evidence_type": "TERTIARY_COMPARISON",
+  "provenance": "SRC058; news snippets",
+  "related_entities": "INC086;CLM159;CLM160",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC092",
+  "line_ref": 18950
+ },
+ {
+  "evidence_id": "EVD107",
+  "description": "Evidence structure of Ch.24-25: all fifteen items are single-source or hearsay; most rest on witnesses self-selected through Hastings's web appeals and MUFON forms; none cites a log, blotter, or radar record. Several are NUFORC postings with arbitrary dates (INC080, INC081). Two items contain data that cut against the book's thesis: Mills's MDAS comment (CLM151) that no unexplained whole-flight shutdowns occurred in 5-10 years before 1992, and the 1993 Malmstrom event produced no missile outages (Mills also doubts a whole-flight shutdown in 1992). The chapter's conclusion ('strongly support a continuing UFO presence') is interpretation not supported by documents.",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "book Ch.24-25",
+  "related_entities": "INC074;INC075;INC076;INC077;INC078;INC079;INC080;INC081;INC082;INC083;INC084;INC085;INC086;INC087;CLM162",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC090",
+  "line_ref": 17825
  }
 ]

@@ -315,3 +315,10 @@
 - Result: 10 unexplained (17%), 18 inconclusive (31%), 25 explained (42%), 6 hoax/no-event/psych (10%); EVD102-103
 - Limitations: Subjective classification, single reader; conclusions only; case counts could shift by a few
 
+### 46. 2026-11-17 — Read book lines 17825-19398 (Ch.24-25 incl. posted-message sections) in full; extracted INC074-INC088; sky checks; searches for the Jan 1995 fireball, Phoenix Lights, Valier cow AP article
+- Reason: Follow-up 1: Chapters 24-25
+- Tool: Read; PyEphem; WebSearch
+- Query/target: analysis/ch24_25_sky_checks.py
+- Result: Extracted 15 incidents, 10 witnesses, 15 claims; Venus fits Ortiz timing; Jan 1995 fireball matches a news meteor report; Goodrich triangles exclude planets
+- Limitations: Snippets only for Spokesman and Wikipedia; no primary records; times unknown for several events
+
