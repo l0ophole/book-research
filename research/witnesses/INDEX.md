@@ -102,3 +102,10 @@
 | WIT098 | Patricia Hoyt | Freelance writer (Florida) | YES | NAMED |
 | WIT099 | Fife Symington | Former Arizona governor | YES | NAMED |
 | WIT100 | "Gene" (pseudonym) | Electrical engineer, Los Lunas NM | YES | ANONYMOUS |
+| WIT101 | Chester ("Chet") Lytle (d. 2004) | AEC manager; engineer, Manhattan Project | NO (hearsay from Blanchard) | NAMED |
+| WIT102 | Brig. Gen. Arthur E. Exon (d. 2005) | Lt Col at AFIT, Wright Field 1947; later Wright-Patterson commander | NO (hearsay) | NAMED |
+| WIT103 | Walter G. Haut (d. 15 Dec 2005) | 1st Lt, Public Information Officer, Roswell AAF | PARTIAL (wrote the press release; affidavit claims saw craft/bodies) | NAMED |
+| WIT104 | Maj. Jesse A. Marcel Sr. | Intelligence officer, Roswell AAF | YES (debris) | NAMED |
+| WIT105 | Victor Marchetti | Former CIA officer; author | NO (rumors) | NAMED |
+| WIT106 | W. Todd Zechel (d. 2006) | Founder CAUS; FOIA litigant vs CIA | N/A (researcher) | NAMED |
+| WIT107 | Sen. Barry Goldwater | U.S. Senator; USAF Reserve Major General | NO (denied access) | NAMED |

@@ -14,9 +14,9 @@
 ## Section coverage summary
 | coverage_status | n | words |
 |---|---|---|
-| FULL_READ | 52 | 99099 |
+| FULL_READ | 55 | 116501 |
 | PARSED_PROGRAMMATICALLY | 1 | 3057 |
 | PARTIAL_READ | 8 | 41696 |
-| PATTERN_SCAN_ONLY | 46 | 78859 |
+| PATTERN_SCAN_ONLY | 43 | 61457 |
 
-Lines read verbatim: **46.6%** of 24,203.
+Lines read verbatim: **54.6%** of 24,203.

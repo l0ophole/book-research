@@ -998,5 +998,75 @@
   "notes": "Colleague of Hastings; pseudonym.",
   "section_id": "SEC091",
   "line_ref": 18859
+ },
+ {
+  "witness_id": "WIT101",
+  "name": "Chester (\"Chet\") Lytle (d. 2004)",
+  "role": "AEC manager; engineer, Manhattan Project",
+  "firsthand_status": "NO (hearsay from Blanchard)",
+  "identity_status": "NAMED",
+  "notes": "Said Gen. Blanchard told him on a 1953 flight that Roswell was an alien craft with four bodies.",
+  "section_id": "SEC094",
+  "line_ref": 20447
+ },
+ {
+  "witness_id": "WIT102",
+  "name": "Brig. Gen. Arthur E. Exon (d. 2005)",
+  "role": "Lt Col at AFIT, Wright Field 1947; later Wright-Patterson commander",
+  "firsthand_status": "NO (hearsay)",
+  "identity_status": "NAMED",
+  "notes": "Interviewed by Kevin Randle 1990/91/94.",
+  "section_id": "SEC094",
+  "line_ref": 20576
+ },
+ {
+  "witness_id": "WIT103",
+  "name": "Walter G. Haut (d. 15 Dec 2005)",
+  "role": "1st Lt, Public Information Officer, Roswell AAF",
+  "firsthand_status": "PARTIAL (wrote the press release; affidavit claims saw craft/bodies)",
+  "identity_status": "NAMED",
+  "notes": "Sealed 2002 affidavit prepared by Carey and Schmitt; dementia questioned.",
+  "section_id": "SEC094",
+  "line_ref": 21033
+ },
+ {
+  "witness_id": "WIT104",
+  "name": "Maj. Jesse A. Marcel Sr.",
+  "role": "Intelligence officer, Roswell AAF",
+  "firsthand_status": "YES (debris)",
+  "identity_status": "NAMED",
+  "notes": "Interviewed by Friedman late 1970s; died 1986.",
+  "section_id": "SEC094",
+  "line_ref": 20946
+ },
+ {
+  "witness_id": "WIT105",
+  "name": "Victor Marchetti",
+  "role": "Former CIA officer; author",
+  "firsthand_status": "NO (rumors)",
+  "identity_status": "NAMED",
+  "notes": "Second Look May 1979 article; said he had heard rumors only.",
+  "section_id": "SEC093",
+  "line_ref": 19419
+ },
+ {
+  "witness_id": "WIT106",
+  "name": "W. Todd Zechel (d. 2006)",
+  "role": "Founder CAUS; FOIA litigant vs CIA",
+  "firsthand_status": "N/A (researcher)",
+  "identity_status": "NAMED",
+  "notes": "Tape-recorded sources without consent (per Hastings); described as controversial.",
+  "section_id": "SEC093",
+  "line_ref": 19576
+ },
+ {
+  "witness_id": "WIT107",
+  "name": "Sen. Barry Goldwater",
+  "role": "U.S. Senator; USAF Reserve Major General",
+  "firsthand_status": "NO (denied access)",
+  "identity_status": "NAMED",
+  "notes": "Letters to Lee Graham; Larry King radio 1988 per Hastings.",
+  "section_id": "SEC094",
+  "line_ref": 20683
  }
 ]

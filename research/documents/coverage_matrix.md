@@ -96,9 +96,9 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC090 | Chapter 24 | 24. Into the Nineties | 17825 | 18749 | 9003 | 100.0 | FULL_READ |
 | SEC091 | Chapter 25 | 25. Ongoing Civilian Sightings | 18750 | 18933 | 1754 | 100.0 | FULL_READ |
 | SEC092 | Chapter 25 | END OF POSTED MESSAGE | 18934 | 19398 | 4462 | 100.0 | FULL_READ |
-| SEC093 | Chapter 26 | 26. The Agency | 19399 | 20195 | 7278 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC094 | Chapter 27 | 27. Roswell | 20196 | 21089 | 8111 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC095 | Chapter 27 | 2002 SEALED AFFIDAVIT OF WALTER G. HAUT | 21090 | 21326 | 2013 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC093 | Chapter 26 | 26. The Agency | 19399 | 20195 | 7278 | 100.0 | FULL_READ |
+| SEC094 | Chapter 27 | 27. Roswell | 20196 | 21089 | 8111 | 100.0 | FULL_READ |
+| SEC095 | Chapter 27 | 2002 SEALED AFFIDAVIT OF WALTER G. HAUT | 21090 | 21326 | 2013 | 100.0 | FULL_READ |
 | SEC096 | Chapter 28 | 28. Warped and Hyper | 21327 | 21932 | 5263 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC097 | Chapter 29 | 29. Lucky, So Far | 21933 | 22313 | 3520 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC098 | Chapter 30 | 30. Buzzing Bangor | 22314 | 22920 | 6047 | 0.0 | PATTERN_SCAN_ONLY |

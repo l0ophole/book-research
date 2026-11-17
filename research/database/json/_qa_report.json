@@ -3,22 +3,22 @@
   "Schema_Info": 4,
   "Documents": 1,
   "Document_Sections": 107,
-  "Incidents": 89,
-  "Claims": 162,
-  "Witnesses": 100,
-  "Witness_Incidents": 107,
+  "Incidents": 90,
+  "Claims": 186,
+  "Witnesses": 107,
+  "Witness_Incidents": 114,
   "Government_Documents": 17,
   "Technical_Evidence": 9,
-  "Sources": 58,
+  "Sources": 60,
   "References": 358,
-  "Competing_Explanations": 52,
-  "Evidence_Records": 107,
-  "Missing_Records": 59,
-  "Research_Questions": 30,
-  "Relationships": 828,
-  "Document_Claim_Links": 162,
-  "Research_Log": 46,
-  "Pattern_Scan_Leads": 103,
+  "Competing_Explanations": 55,
+  "Evidence_Records": 112,
+  "Missing_Records": 64,
+  "Research_Questions": 33,
+  "Relationships": 873,
+  "Document_Claim_Links": 186,
+  "Research_Log": 47,
+  "Pattern_Scan_Leads": 91,
   "Name_Mentions": 196
  },
  "qa": [
@@ -36,7 +36,7 @@
   ],
   [
    "sections_FULL_READ",
-   52
+   55
   ],
   [
    "sections_PARSED_PROGRAMMATICALLY",
@@ -48,11 +48,11 @@
   ],
   [
    "sections_PATTERN_SCAN_ONLY",
-   46
+   43
   ],
   [
    "lines_read_pct",
-   46.6
+   54.6
   ],
   [
    "duplicate_witness_names",
@@ -80,7 +80,7 @@
   ],
   [
    "relationships",
-   828
+   873
   ]
  ]
 }

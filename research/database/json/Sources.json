@@ -1042,5 +1042,41 @@
   "reliability_notes": "Tertiary; snippets only.",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "OPENED"
+ },
+ {
+  "source_id": "SRC059",
+  "title": "Ex-C.I.A. Chief Wants UFO Probe (Bulkley Griffin, 1 Jun 1960) - ufopedia transcription",
+  "author": "Bulkley Griffin",
+  "organization": "Worcester Evening Gazette (via ufopedia.pages.dev)",
+  "pub_date": "1960-06-01",
+  "source_type": "Newspaper article (transcribed)",
+  "classification": "SECONDARY",
+  "url": "https://ufopedia.pages.dev/raw/articles/hillenkoetter-1960-worcester-gazette",
+  "document_identifier": "",
+  "pages_sections": "",
+  "access_date": "2026-11-17",
+  "related_entities": "CLM163;CLM164;EVD108",
+  "extracted_information": "Includes the line that the Air Force has silenced its personnel; says Hillenkoetter went further than a February statement; Wikipedia says he left NICAP board in 1962.",
+  "reliability_notes": "Transcription via aggregator; not seen in a scan; NYT 28 Feb 1960 article not found.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "OPENED"
+ },
+ {
+  "source_id": "SRC060",
+  "title": "William H. Blanchard; Citizens Against UFO Secrecy; Twining memo (search snippets)",
+  "author": "Wikipedia contributors; Project 1947; NSA",
+  "organization": "Wikipedia; project1947.com",
+  "pub_date": "accessed 2026-11-17",
+  "source_type": "Mixed tertiary/secondary snippets",
+  "classification": "TERTIARY",
+  "url": "https://en.wikipedia.org/wiki/William_H._Blanchard",
+  "document_identifier": "",
+  "pages_sections": "",
+  "access_date": "2026-11-17",
+  "related_entities": "CLM174;CLM179;CLM168;CLM185;EVD109;EVD110;EVD111",
+  "extracted_information": "Blanchard commanded Roswell AAF from 23 Aug 1946 and died 31 May 1966; CAUS v. NSA (Civil Action 80-1562) dismissed 18 Nov 1980 on an NSA affidavit (239 documents); Twining memo of 23 Sep 1947 marked SECRET.",
+  "reliability_notes": "Search snippets only; no primary NSA affidavit opened (403).",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "OPENED"
  }
 ]

@@ -63,3 +63,8 @@ Existence terms: KNOWN = confirmed to exist (cited or seen) but not yet obtained
 | MIS057 | Goodrich MUFON reports (1992 Ellsworth, 19/20 Jan 1995 India Flight, 2 Feb 1996 Great Falls) and Brown's original web account (site gone) | KNOWN | MUFON files; Wayback Machine; Hastings | Request via MUFON/Hastings | OPEN |
 | MIS058 | Santa Fe New Mexican 23 Jul 1996 article and Ortiz video; Albuquerque TV broadcast | KNOWN | New Mexico newspaper archives; local TV station | Search archives | OPEN |
 | MIS059 | AP 12 Nov 2006 article on the Valier cow; Pondera County Sheriff report; NUFORC Riewer post (12 Dec 2006) | KNOWN | AP archive; NUFORC; Sheriff | Retrieve texts | OPEN |
+| MIS060 | New York Times 28 Feb 1960 (Hillenkoetter statement); Worcester Gazette original; CIA documents on the Special Study Group | KNOWN | NYT archive; CIA Reading Room | Retrieve original issues | OPEN |
+| MIS061 | NSA Yeates affidavit and CAUS v. NSA exhibits; CIA-origin NSA files; Friedman FOIA releases | KNOWN | NSA FOIA reading room; Friedman archive | Open NSA PDF; request files | OPEN |
+| MIS062 | Doleman 2002 Roswell excavation report; UNM follow-up soil tests | KNOWN | UNM Office of Contract Archeology; Sci Fi Channel | Request report | OPEN |
+| MIS063 | Marchetti, "How the CIA Views the UFO Phenomenon" (Second Look, May 1979); Goldwater letters to Lee Graham (1979, 1981); Larry King radio transcript (1988) | KNOWN | CUFOS; Graham archive; Reagan/Goldwater collections | Obtain texts | OPEN |
+| MIS064 | Haut 2000 Connors/Balthauser interview audio and 2002 affidavit original; Carey/Schmitt records of the preparation | KNOWN | Connors/Balthauser; Roswell Museum | Request audio | OPEN |

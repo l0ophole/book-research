@@ -1282,5 +1282,65 @@
   "confidence": 3,
   "section_id": "SEC090",
   "line_ref": 17825
+ },
+ {
+  "evidence_id": "EVD108",
+  "description": "AARO Vol. I (SRC049; primary) against Ch.26-27: (a) CIA involvement predates the Robertson Panel: a CIA Special Study Group (1952) and Chadwell's December 1952 briefing of the DCI ('sightings ... in the vicinity of major U.S. defense installations are of such nature that they are not attributable to natural phenomena or known types of aerial vehicles'). So the CIA's 1976 letter that its only involvement was the Robertson Panel was incomplete (supports CLM166). (b) The Robertson Panel recommended debunking and monitoring UFO groups, but unanimously found no evidence of a threat or extraterrestrial origin and noted the complete lack of recovered 'hardware' (supports CLM170). (c) AARO cites a declassified CIA assessment that more than half of UFO reports investigated in the 1950s-60s were assessed to be U.S. reconnaissance flights (U-2 at 60,000 ft lit by the sun at dusk), which supports Haines's claim (CLM169) that Hastings called ridiculous. (d) Roswell: AARO accepts the USAF 1995 and 1997 reports and GAO's 1995 audit: debris consistent with a Project Mogul balloon; bodies claims conflated with test dummies, a 1956 KC-97 accident and a 1959 balloon mishap. (e) Big Sur: AARO could not recover the film but correlated time and place with an ABM test. The Hillenkoetter quote I traced to a 1 Jun 1960 Worcester Gazette piece (SRC059), not the NYT of 28 Feb 1960 given by the book.",
+  "evidence_type": "GOVERNMENT_RECORD",
+  "provenance": "SRC049; SRC059",
+  "related_entities": "CLM163;CLM166;CLM169;CLM170;CLM172;INC089;INC025",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC093",
+  "line_ref": 19399
+ },
+ {
+  "evidence_id": "EVD109",
+  "description": "Lytle-Blanchard (CLM179): the claim is a single-source recollection (Lytle, d. 2004) of a 1953 conversation with Blanchard (d. 31 May 1966), so it can neither be tested against Blanchard nor corroborated. Wikipedia confirms Blanchard commanded Roswell AAF from 23 Aug 1946 and was a general later; I did not confirm his 1953 post (Eighth Air Force deputy director of operations) or Eielson visit. Hastings states the account is unsupported by documents or other witnesses.",
+  "evidence_type": "TERTIARY_COMPARISON",
+  "provenance": "SRC060",
+  "related_entities": "CLM179;WIT101",
+  "significance": "MEDIUM",
+  "verification_status": "INSUFFICIENT_EVIDENCE",
+  "confidence": 1,
+  "section_id": "SEC094",
+  "line_ref": 20466
+ },
+ {
+  "evidence_id": "EVD110",
+  "description": "CAUS v. NSA: the Yeates affidavit and court order (18 Nov 1980) concern 239 NSA-identified documents withheld on SIGINT grounds (secondary sources); I found no source for the book's '23 CIA files, some TS codeword' or Friedman's four documents, and the NSA affidavit could not be opened (403). Claim CLM168 stays unverified.",
+  "evidence_type": "TERTIARY_COMPARISON",
+  "provenance": "SRC060",
+  "related_entities": "CLM168",
+  "significance": "MEDIUM",
+  "verification_status": "INSUFFICIENT_EVIDENCE",
+  "confidence": 1,
+  "section_id": "SEC093",
+  "line_ref": 19655
+ },
+ {
+  "evidence_id": "EVD111",
+  "description": "Roswell sub-claims: (a) Doleman 2002 dig: search results confirm UNM OCA led the Sci Fi-funded excavation (24 bags of material reported) but I did not find the findings report, so CLM177 and 'no results announced' remain unverified. (b) Ramey memo: Rudiak reads 'victims of the wreck'; other analysts could not confirm it and Primeau proposed a different reading, so the text is disputed and the image resolution is insufficient (CLM178). (c) Twining memo: 23 Sep 1947, AMC to Schulgen, carries a SECRET marking per a Project 1947 scan snippet and says 'lack of physical evidence in the shape of crash recovered exhibits'; the argument that a SECRET memo could not mention TS material is Randle's interpretation (CLM185); a counter-reading of the 28 Oct 1947 Schulgen draft order exists. (d) Trinity/halfway claim not tested.",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "search results",
+  "related_entities": "CLM177;CLM178;CLM185;CLM176",
+  "significance": "MEDIUM",
+  "verification_status": "INSUFFICIENT_EVIDENCE",
+  "confidence": 1,
+  "section_id": "SEC094",
+  "line_ref": 20380
+ },
+ {
+  "evidence_id": "EVD112",
+  "description": "Evidence structure of Ch.26-27: Ch.26 is document-and-interpretation (CIA FOIA history, Robertson Panel, Haines) with inference that CIA must hold TS documents on nuclear-site UFOs ('almost a given'), which is not evidence; Ch.27 is explicitly not an original Roswell investigation: its 'credible sources' are hearsay (Lytle, Exon), a rumor-level admission (Marchetti), a denial of access (Goldwater), a late-life affidavit prepared by others (Haut) and the contested 1947 debris testimony; none of the five 'credible sources' (Exon, Lytle, Haut, Marchetti, Goldwater) is a first-hand witness to a craft except Haut (disputed), and Marchetti and Goldwater do not claim Roswell. The 'none knew each other' argument does not address hearsay chains or shared lore. AARO (SRC049) sides with the USAF Mogul reports.",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "book Ch.26-27; SRC049",
+  "related_entities": "INC089;CLM186;CLM183",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC093",
+  "line_ref": 19399
  }
 ]

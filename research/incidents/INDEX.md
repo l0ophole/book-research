@@ -91,3 +91,4 @@
 | INC086 | 1997-03-13 ~1855-2200 MST | Nevada-Arizona (Phoenix) | MEDIUM | PARTIALLY_VERIFIED | 3 | 18950 |
 | INC087 | 2006-12-07 and 2006-12-11 (plus Oct-Nov 2006 mutilations) | Conrad, Pondera County, MT (near Papa LCF and LFs S-40 and Q-15) | MEDIUM | UNVERIFIED | 1 | 19239 |
 | INC088 | 2001 (date not recorded) | Placitas, NM (author's home) | LOW | UNVERIFIED | 1 | 18842 |
+| INC089 | 1947-07 (debris found by ~2-3 Jul; press release 8 Jul 1947) | Roswell Army Air Field and Foster ranch area, NM (Lincoln/Chaves counties) | MEDIUM | DISPUTED | 2 | 20196 |

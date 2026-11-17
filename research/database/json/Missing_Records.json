@@ -588,5 +588,55 @@
   "status": "OPEN",
   "section_id": "SEC092",
   "line_ref": 19356
+ },
+ {
+  "missing_id": "MIS060",
+  "description": "New York Times 28 Feb 1960 (Hillenkoetter statement); Worcester Gazette original; CIA documents on the Special Study Group",
+  "existence_status": "KNOWN",
+  "potential_repository": "NYT archive; CIA Reading Room",
+  "acquisition_method": "Retrieve original issues",
+  "status": "OPEN",
+  "section_id": "SEC093",
+  "line_ref": 19402
+ },
+ {
+  "missing_id": "MIS061",
+  "description": "NSA Yeates affidavit and CAUS v. NSA exhibits; CIA-origin NSA files; Friedman FOIA releases",
+  "existence_status": "KNOWN",
+  "potential_repository": "NSA FOIA reading room; Friedman archive",
+  "acquisition_method": "Open NSA PDF; request files",
+  "status": "OPEN",
+  "section_id": "SEC093",
+  "line_ref": 19655
+ },
+ {
+  "missing_id": "MIS062",
+  "description": "Doleman 2002 Roswell excavation report; UNM follow-up soil tests",
+  "existence_status": "KNOWN",
+  "potential_repository": "UNM Office of Contract Archeology; Sci Fi Channel",
+  "acquisition_method": "Request report",
+  "status": "OPEN",
+  "section_id": "SEC094",
+  "line_ref": 20380
+ },
+ {
+  "missing_id": "MIS063",
+  "description": "Marchetti, \"How the CIA Views the UFO Phenomenon\" (Second Look, May 1979); Goldwater letters to Lee Graham (1979, 1981); Larry King radio transcript (1988)",
+  "existence_status": "KNOWN",
+  "potential_repository": "CUFOS; Graham archive; Reagan/Goldwater collections",
+  "acquisition_method": "Obtain texts",
+  "status": "OPEN",
+  "section_id": "SEC093",
+  "line_ref": 19424
+ },
+ {
+  "missing_id": "MIS064",
+  "description": "Haut 2000 Connors/Balthauser interview audio and 2002 affidavit original; Carey/Schmitt records of the preparation",
+  "existence_status": "KNOWN",
+  "potential_repository": "Connors/Balthauser; Roswell Museum",
+  "acquisition_method": "Request audio",
+  "status": "OPEN",
+  "section_id": "SEC094",
+  "line_ref": 21076
  }
 ]

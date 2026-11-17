@@ -388,5 +388,44 @@
   "verification_criteria": "Time and direction known",
   "status": "NOT_STARTED",
   "next_action": "Find original posts"
+ },
+ {
+  "question_id": "RQ031",
+  "question": "Do CIA/NSA records or the Haines/Robertson Panel documents support the claim that the CIA holds TS-level UFO documents, and what do the Yeates/CAUS filings actually list?",
+  "priority": "MEDIUM",
+  "related_entities": "CLM168;CLM167;CLM171;EVD110",
+  "existing_evidence": "Wikipedia snippets; AARO Vol I",
+  "missing_evidence": "NSA affidavit; CAUS exhibits; CIA CREST",
+  "potential_sources": "NSA; CIA Reading Room",
+  "recommended_methods": "Open the affidavit and tabulate CIA-originated items",
+  "verification_criteria": "Document counts and classifications",
+  "status": "NOT_STARTED",
+  "next_action": "Obtain the Yeates affidavit"
+ },
+ {
+  "question_id": "RQ032",
+  "question": "Where precisely were the Roswell debris field, the alleged second site and Trinity, and does \"halfway\" hold?",
+  "priority": "LOW",
+  "related_entities": "CLM176",
+  "existing_evidence": "Book statement",
+  "missing_evidence": "Coordinates of Foster ranch, Trinity, RAAF",
+  "potential_sources": "USGS; Roswell research",
+  "recommended_methods": "Compute distances/offsets",
+  "verification_criteria": "Quantified",
+  "status": "NOT_STARTED",
+  "next_action": "Get coordinates and compute"
+ },
+ {
+  "question_id": "RQ033",
+  "question": "Can Lytle-Blanchard and Exon claims be tested against career records (postings, locations, dates)?",
+  "priority": "LOW",
+  "related_entities": "CLM179;CLM180;EVD109",
+  "existing_evidence": "Wikipedia snippet on Blanchard",
+  "missing_evidence": "Blanchard and Exon service records; Eielson visit logs",
+  "potential_sources": "AFHRA; NPRC",
+  "recommended_methods": "Locate service histories",
+  "verification_criteria": "Postings consistent or not",
+  "status": "NOT_STARTED",
+  "next_action": "Search AFHRA biographies"
  }
 ]

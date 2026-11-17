@@ -1297,8 +1297,8 @@
   "line_end": 20195,
   "word_count": 7278,
   "footnote_markers": 12,
-  "pct_lines_read": 0.0,
-  "coverage_status": "PATTERN_SCAN_ONLY",
+  "pct_lines_read": 100.0,
+  "coverage_status": "FULL_READ",
   "notes": ""
  },
  {
@@ -1311,8 +1311,8 @@
   "line_end": 21089,
   "word_count": 8111,
   "footnote_markers": 15,
-  "pct_lines_read": 0.0,
-  "coverage_status": "PATTERN_SCAN_ONLY",
+  "pct_lines_read": 100.0,
+  "coverage_status": "FULL_READ",
   "notes": ""
  },
  {
@@ -1325,8 +1325,8 @@
   "line_end": 21326,
   "word_count": 2013,
   "footnote_markers": 3,
-  "pct_lines_read": 0.0,
-  "coverage_status": "PATTERN_SCAN_ONLY",
+  "pct_lines_read": 100.0,
+  "coverage_status": "FULL_READ",
   "notes": ""
  },
  {

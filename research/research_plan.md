@@ -300,3 +300,33 @@
 - **Status:** NOT_STARTED
 - **Next action:** Find original posts
 
+## RQ031 [MEDIUM] — Do CIA/NSA records or the Haines/Robertson Panel documents support the claim that the CIA holds TS-level UFO documents, and what do the Yeates/CAUS filings actually list?
+- **Related:** CLM168;CLM167;CLM171;EVD110
+- **Existing evidence:** Wikipedia snippets; AARO Vol I
+- **Missing evidence:** NSA affidavit; CAUS exhibits; CIA CREST
+- **Potential sources:** NSA; CIA Reading Room
+- **Methods:** Open the affidavit and tabulate CIA-originated items
+- **Verification criteria:** Document counts and classifications
+- **Status:** NOT_STARTED
+- **Next action:** Obtain the Yeates affidavit
+
+## RQ032 [LOW] — Where precisely were the Roswell debris field, the alleged second site and Trinity, and does "halfway" hold?
+- **Related:** CLM176
+- **Existing evidence:** Book statement
+- **Missing evidence:** Coordinates of Foster ranch, Trinity, RAAF
+- **Potential sources:** USGS; Roswell research
+- **Methods:** Compute distances/offsets
+- **Verification criteria:** Quantified
+- **Status:** NOT_STARTED
+- **Next action:** Get coordinates and compute
+
+## RQ033 [LOW] — Can Lytle-Blanchard and Exon claims be tested against career records (postings, locations, dates)?
+- **Related:** CLM179;CLM180;EVD109
+- **Existing evidence:** Wikipedia snippet on Blanchard
+- **Missing evidence:** Blanchard and Exon service records; Eielson visit logs
+- **Potential sources:** AFHRA; NPRC
+- **Methods:** Locate service histories
+- **Verification criteria:** Postings consistent or not
+- **Status:** NOT_STARTED
+- **Next action:** Search AFHRA biographies
+

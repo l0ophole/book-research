@@ -32,3 +32,6 @@
 | RQ028 | Do the book's Condon figures (91 sightings, nearly 30% unknown), the "Good God!" annotation and the "horse-whipped" quotation have primary sources? | MEDIUM | NOT_STARTED | Count identified vs unidentified among the 59 cases |
 | RQ029 | Does the Ortiz video (Santa Fe, 21 Jul 1996) match Venus/Mars rising ENE at ~0310? | MEDIUM | NOT_STARTED | Locate 23 Jul 1996 article |
 | RQ030 | Can the dates of Brown (spring 1992) and Riewer (11 Dec 2006) be fixed so sky objects can be tested? | LOW | NOT_STARTED | Find original posts |
+| RQ031 | Do CIA/NSA records or the Haines/Robertson Panel documents support the claim that the CIA holds TS-level UFO documents, and what do the Yeates/CAUS filings actually list? | MEDIUM | NOT_STARTED | Obtain the Yeates affidavit |
+| RQ032 | Where precisely were the Roswell debris field, the alleged second site and Trinity, and does "halfway" hold? | LOW | NOT_STARTED | Get coordinates and compute |
+| RQ033 | Can Lytle-Blanchard and Exon claims be tested against career records (postings, locations, dates)? | LOW | NOT_STARTED | Search AFHRA biographies |

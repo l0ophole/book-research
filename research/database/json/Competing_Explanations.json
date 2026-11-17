@@ -518,5 +518,35 @@
   "evaluation_status": "OPEN",
   "section_id": "SEC090",
   "line_ref": 18455
+ },
+ {
+  "explanation_id": "EXP053",
+  "target_entities": "INC089",
+  "explanation": "Project Mogul balloon train (NYU Flight 4) plus later conflation with other events (test dummies, 1956 KC-97 crash, 1959 balloon mishap); no recovery of aliens (USAF 1995 and 1997 reports; AARO Vol. I)",
+  "supporting_evidence": "USAF 1995/1997 reports and AARO Vol I (primary): materials consistent with Mogul; bodies reports conflated with dummies and later accidents; GAO found no July 1947 air-accident report for the site",
+  "contradicting_evidence": "Rudiak/Sparks challenge Flight 4 landing; Marcel, Haut, Proctor describe material unlike a balloon; Haut affidavit and Exon/Lytle hearsay",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC094",
+  "line_ref": 20343
+ },
+ {
+  "explanation_id": "EXP054",
+  "target_entities": "INC089",
+  "explanation": "Memory contamination and later embellishment (Haut late-life dementia per Randle; hearsay chain; 40 years of lore); affidavit prepared by researchers",
+  "supporting_evidence": "Randle says Haut was confused; Carey and Schmitt wrote the affidavit from \"hints\"; daughter says he approved it",
+  "contradicting_evidence": "Notarized and witnessed; Haut wrote the 1947 press release",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC095",
+  "line_ref": 21226
+ },
+ {
+  "explanation_id": "EXP055",
+  "target_entities": "INC025",
+  "explanation": "Misidentified routine test film (chaff/bloom artifacts) with AARO linking the claimed 1964 reentry-vehicle shoot-down to an anti-ballistic-missile test",
+  "supporting_evidence": "AARO Vol I: film not recovered; time and place correlated with an ABM test",
+  "contradicting_evidence": "Jacobs and Mansmann insist on CIA film confiscation",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC093",
+  "line_ref": 19754
  }
 ]

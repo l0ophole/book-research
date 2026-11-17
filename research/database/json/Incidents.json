@@ -1155,5 +1155,18 @@
   "section_id": "SEC091",
   "line_ref": 18842,
   "notes": ""
+ },
+ {
+  "incident_id": "INC089",
+  "date_text": "1947-07 (debris found by ~2-3 Jul; press release 8 Jul 1947)",
+  "location": "Roswell Army Air Field and Foster ranch area, NM (Lincoln/Chaves counties)",
+  "description": "Roswell: debris found by Mack Brazel, examined by Maj. Jesse Marcel, press release of a recovered 'flying disc' on 8 Jul 1947, Ramey reversal to 'weather balloon' at Fort Worth; later claims of a crashed spacecraft and bodies (Lytle, Exon, Haut affidavit). Hastings stresses an atomic-weapons link (509th BG, Trinity proximity) but says he is not a Roswell researcher.",
+  "significance": "MEDIUM",
+  "verification_status": "DISPUTED",
+  "confidence": 2,
+  "evidence_basis": "TESTIMONY_AND_DOCUMENT",
+  "section_id": "SEC094",
+  "line_ref": 20196,
+  "notes": ""
  }
 ]

@@ -54,3 +54,6 @@
 | EXP050 | INC086 | First group (~2000): aircraft in formation (Operation Snowbird A-10s, per Wikipedia); second group (~2200): flares dropped by A-10s on the Goldwater range (Luke AFB, 1997) | OPEN |
 | EXP051 | INC087 | Moon, Saturn and bright stars rising in the east (EVD104; observation time not given); aircraft; farmers misperceiving distance; predation/scavenging for the cattle | OPEN |
 | EXP052 | INC078 | Aircraft formation (Ellsworth hosts B-1B bombers) seen below fog/low cloud; reflections | OPEN |
+| EXP053 | INC089 | Project Mogul balloon train (NYU Flight 4) plus later conflation with other events (test dummies, 1956 KC-97 crash, 1959 balloon mishap); no recovery of aliens (USAF 1995 and 1997 reports; AARO Vol. I) | OPEN |
+| EXP054 | INC089 | Memory contamination and later embellishment (Haut late-life dementia per Randle; hearsay chain; 40 years of lore); affidavit prepared by researchers | OPEN |
+| EXP055 | INC025 | Misidentified routine test film (chaff/bloom artifacts) with AARO linking the claimed 1964 reentry-vehicle shoot-down to an anti-ballistic-missile test | OPEN |

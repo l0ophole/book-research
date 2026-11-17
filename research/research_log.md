@@ -322,3 +322,10 @@
 - Result: Extracted 15 incidents, 10 witnesses, 15 claims; Venus fits Ortiz timing; Jan 1995 fireball matches a news meteor report; Goodrich triangles exclude planets
 - Limitations: Snippets only for Spokesman and Wikipedia; no primary records; times unknown for several events
 
+### 47. 2026-11-17 — Read book lines 19399-21326 (Ch.26-27 incl. Haut affidavit) in full; compared with AARO Vol. I (primary text read earlier) and searches on Hillenkoetter, Blanchard, Doleman, Ramey memo, CAUS v. NSA, Twining memo, Goldwater letters
+- Reason: Follow-up 1: Chapters 26-27
+- Tool: Read; WebSearch; pdftotext
+- Query/target: AARO Vol I; search results
+- Result: Extracted INC089, WIT101-107, CLM163-186; AARO supports Robertson Panel, Special Study Group and U-2 claims and the USAF Mogul explanation; several quotes unverified
+- Limitations: NYT quote source not found (found 1 Jun 1960 Worcester Gazette); NSA affidavit blocked; no primary Roswell documents opened
+

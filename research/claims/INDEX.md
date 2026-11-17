@@ -164,3 +164,27 @@
 | CLM160 | Symington on Larry King Live (13 Jul 2007) called the craft 'from another world'. | Symington via Hastings | LOW | NOT_YET_INVESTIGATED | 0 | 18982 |
 | CLM161 | Dec 2006 Conrad MT: Riewer's lights and a 'landing' near a missile silo; an AP story (12 Nov 2006) of a cow that seemed to have fallen from the sky near Valier. | Riewer; AP via Hastings | MEDIUM | UNVERIFIED | 1 | 19250 |
 | CLM162 | Chapters 24-25 taken together 'strongly support the notion of a continuing UFO presence at U.S. (and probably Russian) ICBM sites'. | Hastings | MEDIUM | UNVERIFIED | 1 | 18722 |
+| CLM163 | Vice Adm. Hillenkoetter (ret.), NYT 28 Feb 1960: 'To hide the facts, the Air Force has silenced its personnel.' | Hillenkoetter via NYT via Hastings | MEDIUM | PARTIALLY_VERIFIED | 3 | 19402 |
+| CLM164 | Hillenkoetter later reversed himself under CIA pressure and withdrew support for hearings (per Keyhoe). | Keyhoe via Hastings | LOW | PARTIALLY_VERIFIED | 3 | 19414 |
+| CLM165 | Marchetti (Second Look, May 1979): CIA treated UFOs as a 'very sensitive activity'; at high levels there were rumors of 'little gray men' held by the Air Force at FTD. | Marchetti via Hastings | MEDIUM | NOT_YET_INVESTIGATED | 0 | 19443 |
+| CLM166 | CIA told Ground Saucer Watch in 1976 its only UFO involvement was the Robertson Panel (1953), but later released ~900-1000 documents. | Greenwood/Hastings | HIGH | PARTIALLY_VERIFIED | 3 | 19504 |
+| CLM167 | CIA attorneys told GSW's attorney ~10,000 pages existed (vs ~1,000 released), and withheld 57; CIA released only SECRET-or-lower documents. | Zechel via Hastings | MEDIUM | UNVERIFIED | 1 | 19576 |
+| CLM168 | The CIA sent the NSA 23 UFO-related files, some TOP SECRET codeword, found in a CAUS v. NSA suit; Friedman obtained four heavily censored ones. | Friedman via Hastings | MEDIUM | UNVERIFIED | 1 | 19655 |
+| CLM169 | Haines's CIA history (1997) says over half of 1950s-60s UFO reports came from U-2/OXCART flights (Hastings calls this 'patently ridiculous'). | Haines via Rodeghier via Hastings | MEDIUM | PARTIALLY_VERIFIED | 3 | 19818 |
+| CLM170 | The Robertson Panel recommended debunking, monitoring UFO groups, and psychological advice (CIA-staged). | Zechel quoting the panel | MEDIUM | VERIFIED | 4 | 19963 |
+| CLM171 | CIA took control of UFO intelligence in early 1958 via a secret NSCID; Blue Book was outside the loop for JANAP 146E/CIRVIS reports. | Zechel via Hastings | MEDIUM | UNVERIFIED | 1 | 20113 |
+| CLM172 | Big Sur (1964): Jacobs and Mansmann insist CIA agents confiscated film of a UFO shooting down a dummy warhead. | Jacobs/Mansmann via Hastings | HIGH | DISPUTED | 2 | 19754 |
+| CLM173 | FAA official John Callahan states a CIA agent confiscated radar tapes of a huge Alaska UFO in 1987. | Callahan via Hastings | LOW | NOT_YET_INVESTIGATED | 0 | 19787 |
+| CLM174 | Roswell AAF was the world's only atomic bomber base in 1947 (509th BG). | Hastings | LOW | PARTIALLY_VERIFIED | 3 | 20229 |
+| CLM175 | NYT 9 Jul 1947 headline: 'Disk Near Bomb Test Site Is Just a Weather Balloon'. | Hastings | LOW | NOT_YET_INVESTIGATED | 0 | 20245 |
+| CLM176 | The Roswell debris field lies almost exactly halfway between the Trinity site and Roswell AAF. | Hastings | LOW | NOT_YET_INVESTIGATED | 0 | 20258 |
+| CLM177 | A 2002 UNM dig (Doleman) found a localized subsurface deformation consistent with a large object striking at a low angle. | Hastings | MEDIUM | UNVERIFIED | 1 | 20389 |
+| CLM178 | Rudiak convincingly deciphered the Ramey telegram as describing the 'disc' and the 'victims'. | Rudiak via Hastings | MEDIUM | DISPUTED | 2 | 20414 |
+| CLM179 | Lytle: Gen. Blanchard told him on a 1953 flight that Roswell was an alien craft with four dead beings, later bodies were sent to Wright Field. | Lytle via Hastings | HIGH | UNVERIFIED | 1 | 20466 |
+| CLM180 | Exon (1990/91/94): told in 1947 of a recovered spacecraft and bodies at Wright Field; later saw a ~500 ft gash from the air; main wreck east of the debris field. | Exon via Randle via Hastings | HIGH | UNVERIFIED | 1 | 20591 |
+| CLM181 | Goldwater (1979, 1981 letters; Larry King radio 1988) was denied entry to a 'Blue Room' at Wright-Patterson and said the matter is 'so highly classified'. | Goldwater via Hastings | MEDIUM | NOT_YET_INVESTIGATED | 0 | 20709 |
+| CLM182 | Marcel's career was not harmed after Roswell, so he cannot have been an inept officer who mistook a balloon. | Rudiak via Hastings | MEDIUM | NOT_YET_INVESTIGATED | 0 | 20988 |
+| CLM183 | Haut's 2002 affidavit (published 2007) says he saw a 12-15 ft egg-shaped object and two small bodies in Building 84 on 8 Jul 1947. | Haut affidavit via Carey and Schmitt via Hastings | CRITICAL | DISPUTED | 2 | 21098 |
+| CLM184 | Mogul Flight No.4 (launched 4 Jun 1947) could not have landed on the Brazel ranch (Rudiak/Sparks winds-aloft analysis). | Rudiak and Sparks via Hastings | HIGH | DISPUTED | 2 | 20656 |
+| CLM185 | Twining's 23 Sep 1947 memo (SECRET) says no crash-recovered exhibits existed; this is consistent with Roswell because Twining lacked need-to-know and could not mention TS material. | Randle; Hastings | MEDIUM | UNVERIFIED | 1 | 21267 |
+| CLM186 | Exon, Lytle, Haut, Marchetti and Goldwater ('none of whom knew each other') cannot all have conspired, so the Roswell crash story is credible. | Hastings | MEDIUM | UNVERIFIED | 1 | 21313 |
