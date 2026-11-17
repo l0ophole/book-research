@@ -177,7 +177,7 @@
 | CLM173 | FAA official John Callahan states a CIA agent confiscated radar tapes of a huge Alaska UFO in 1987. | Callahan via Hastings | LOW | NOT_YET_INVESTIGATED | 0 | 19787 |
 | CLM174 | Roswell AAF was the world's only atomic bomber base in 1947 (509th BG). | Hastings | LOW | PARTIALLY_VERIFIED | 3 | 20229 |
 | CLM175 | NYT 9 Jul 1947 headline: 'Disk Near Bomb Test Site Is Just a Weather Balloon'. | Hastings | LOW | NOT_YET_INVESTIGATED | 0 | 20245 |
-| CLM176 | The Roswell debris field lies almost exactly halfway between the Trinity site and Roswell AAF. | Hastings | LOW | NOT_YET_INVESTIGATED | 0 | 20258 |
+| CLM176 | The Roswell debris field lies almost exactly halfway between the Trinity site and Roswell AAF. | Hastings | LOW | PARTIALLY_VERIFIED | 3 | 20258 |
 | CLM177 | A 2002 UNM dig (Doleman) found a localized subsurface deformation consistent with a large object striking at a low angle. | Hastings | MEDIUM | UNVERIFIED | 1 | 20389 |
 | CLM178 | Rudiak convincingly deciphered the Ramey telegram as describing the 'disc' and the 'victims'. | Rudiak via Hastings | MEDIUM | DISPUTED | 2 | 20414 |
 | CLM179 | Lytle: Gen. Blanchard told him on a 1953 flight that Roswell was an alien craft with four dead beings, later bodies were sent to Wright Field. | Lytle via Hastings | HIGH | UNVERIFIED | 1 | 20466 |

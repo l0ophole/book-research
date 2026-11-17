@@ -95,7 +95,7 @@ Rows: 1
 | access_limitations | TEXT | 0 |
 
 ## Evidence_Records
-Rows: 112
+Rows: 113
 
 | name | type | pk |
 |---|---|---|
@@ -214,7 +214,7 @@ Rows: 358
 Foreign keys: section_id → Document_Sections
 
 ## Relationships
-Rows: 873
+Rows: 875
 
 | name | type | pk |
 |---|---|---|
@@ -225,7 +225,7 @@ Rows: 873
 | note | TEXT | 0 |
 
 ## Research_Log
-Rows: 47
+Rows: 48
 
 | name | type | pk |
 |---|---|---|

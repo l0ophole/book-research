@@ -1342,5 +1342,17 @@
   "confidence": 3,
   "section_id": "SEC093",
   "line_ref": 19399
+ },
+ {
+  "evidence_id": "EVD113",
+  "description": "Roswell geometry (analysis/roswell_geometry.py; great-circle distances; Trinity Site 33.677N 106.475W, Roswell AAF 33.301N 104.531W, debris-field coordinates from Wikipedia and a BLM marker, 33.95-33.97N 105.24-105.33W, which sources say may mark a parking area, so accuracy is a few miles). Trinity-RAAF distance 115 mi. The debris field is ~64 mi from RAAF (bearing ~315 deg, i.e. NW, not 'WNW') and ~68-73 mi from Trinity: roughly equidistant, so 'halfway' is right as a distance statement, but it lies ~33-35 mi NORTH of the straight Trinity-Roswell line (the line passes through Capitan, which is ~4 mi from the midpoint). The book's 'north of Capitan, about 60 miles WNW of Roswell' is consistent with Capitan to RAAF 61.5 mi (bearing 283 deg), but the site itself is ~31 mi north of Capitan. Haut's affidavit says '75 miles NW', which fits road distance more than the ~64 mi straight line. So CLM176 is true in a loose sense; 'almost exactly halfway' overstates it as a geometric midpoint.",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "analysis/roswell_geometry.py",
+  "related_entities": "CLM176;INC089",
+  "significance": "LOW",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC094",
+  "line_ref": 20258
  }
 ]

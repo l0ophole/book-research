@@ -2105,8 +2105,8 @@
   "attribution": "Hastings",
   "claim_type": "FACT",
   "importance": "LOW",
-  "verification_status": "NOT_YET_INVESTIGATED",
-  "confidence": 0,
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
   "quotation": "",
   "section_id": "SEC094",
   "line_ref": 20258

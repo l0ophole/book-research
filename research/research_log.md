@@ -329,3 +329,10 @@
 - Result: Extracted INC089, WIT101-107, CLM163-186; AARO supports Robertson Panel, Special Study Group and U-2 claims and the USAF Mogul explanation; several quotes unverified
 - Limitations: NYT quote source not found (found 1 Jun 1960 Worcester Gazette); NSA affidavit blocked; no primary Roswell documents opened
 
+### 48. 2026-11-17 — Computed Trinity/Roswell/debris-field great-circle distances and cross-track offset
+- Reason: Follow-up 1: test the Roswell halfway claim
+- Tool: python (haversine); WebSearch for coordinates
+- Query/target: analysis/roswell_geometry.py
+- Result: Equidistant (~64 vs ~68-73 mi) but ~33 mi off the line; EVD113
+- Limitations: Debris-field coordinates are approximate (sources disagree, BLM point may be a parking area)
+
