@@ -1367,8 +1367,8 @@
   "line_end": 22920,
   "word_count": 6047,
   "footnote_markers": 21,
-  "pct_lines_read": 0.0,
-  "coverage_status": "PATTERN_SCAN_ONLY",
+  "pct_lines_read": 100.0,
+  "coverage_status": "FULL_READ",
   "notes": ""
  },
  {
@@ -1381,8 +1381,8 @@
   "line_end": 23379,
   "word_count": 4108,
   "footnote_markers": 2,
-  "pct_lines_read": 0.0,
-  "coverage_status": "PATTERN_SCAN_ONLY",
+  "pct_lines_read": 100.0,
+  "coverage_status": "FULL_READ",
   "notes": ""
  },
  {
@@ -1395,7 +1395,7 @@
   "line_end": 23387,
   "word_count": 64,
   "footnote_markers": 0,
-  "pct_lines_read": 0.0,
+  "pct_lines_read": 100.0,
   "coverage_status": "PATTERN_SCAN_ONLY",
   "notes": ""
  },
@@ -1409,7 +1409,7 @@
   "line_end": 23389,
   "word_count": 2,
   "footnote_markers": 0,
-  "pct_lines_read": 0.0,
+  "pct_lines_read": 100.0,
   "coverage_status": "PATTERN_SCAN_ONLY",
   "notes": ""
  },
@@ -1423,7 +1423,7 @@
   "line_end": 23391,
   "word_count": 2,
   "footnote_markers": 0,
-  "pct_lines_read": 0.0,
+  "pct_lines_read": 100.0,
   "coverage_status": "PATTERN_SCAN_ONLY",
   "notes": ""
  },
@@ -1437,7 +1437,7 @@
   "line_end": 23398,
   "word_count": 19,
   "footnote_markers": 0,
-  "pct_lines_read": 0.0,
+  "pct_lines_read": 100.0,
   "coverage_status": "PATTERN_SCAN_ONLY",
   "notes": ""
  },
@@ -1451,7 +1451,7 @@
   "line_end": 23400,
   "word_count": 7,
   "footnote_markers": 0,
-  "pct_lines_read": 0.0,
+  "pct_lines_read": 100.0,
   "coverage_status": "PATTERN_SCAN_ONLY",
   "notes": ""
  },
@@ -1465,7 +1465,7 @@
   "line_end": 23547,
   "word_count": 1340,
   "footnote_markers": 5,
-  "pct_lines_read": 0.0,
+  "pct_lines_read": 100.0,
   "coverage_status": "PATTERN_SCAN_ONLY",
   "notes": ""
  },

@@ -109,3 +109,7 @@
 | WIT105 | Victor Marchetti | Former CIA officer; author | NO (rumors) | NAMED |
 | WIT106 | W. Todd Zechel (d. 2006) | Founder CAUS; FOIA litigant vs CIA | N/A (researcher) | NAMED |
 | WIT107 | Sen. Barry Goldwater | U.S. Senator; USAF Reserve Major General | NO (denied access) | NAMED |
+| WIT108 | Larry Swanson | Civilian, retired Navy computer analyst, Silverdale WA | YES | NAMED |
+| WIT109 | Brian Junkin | Civilian, Poulsbo WA | YES | NAMED |
+| WIT110 | Chuck Martin and son Gabe | Civilians, Poulsbo WA | YES (first light); Gabe saw second | NAMED |
+| WIT111 | Peter Davenport | Director, NUFORC | N/A (recorder; relayed hearsay) | NAMED |

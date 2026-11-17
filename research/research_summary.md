@@ -275,3 +275,12 @@ Read lines 21327–22313 in full (coverage 58.7%; 57 sections FULL_READ). These 
 - **Ch.28 (FTL physics) is a plausibility argument, not evidence about UFOs** (EVD117). It overstates in places (EVD115): the Alcubierre metric requires negative energy density and does not "prove" earlier objections wrong; the Casimir effect does not establish the macroscopic exotic matter it needs; the 2002 "Hart et al." paper is an arXiv preprint (gr-qc is an archive category, not a journal); the journal claims for Loup's 2003 papers are unconfirmed; and the Dröscher–Häuser hyperdrive drew sceptical coverage the book omits.
 - **Ch.29 (nuclear risk)** is largely documented context. One factual slip: the Russian Duma **did** approve START II (14 Apr 2000); it never entered into force because of unmet conditions, and Russia withdrew on 14 Jun 2002 (the book is right on that date). The 1979, 1980 and 1995 false alarms are documented in outline (EVD116); the Benedict/Cirincione/Kaku/Guardian quotes were not checked.
 Limits: snippets only; no original physics papers read.
+
+## Follow-up 27: Chapters 30–31 and Appendices A–B — v1.27.0
+
+Read lines 22314–23547 in full (coverage now 63.8%; 59 sections FULL_READ). Extracted 8 incidents (INC090–INC097), 4 witnesses, 13 claims. Findings:
+- **Bangor 22 Apr 1998 (Swanson):** nothing astronomical was up in the west at 2122 PDT to explain a slow, low 100-ft disc; I found no fireball record for that date; the Navy-reaction and video claims are back-channel hearsay (EVD118).
+- **Junkin (16 Sep 2004):** Arcturus (m-0.05) stood ~21° due west, the brightest object there, a candidate for the "dancing, colour-changing" light; the fast second light is an aircraft. **Fernandina Beach (23 Jun 2001):** the witness's "fingernail crescent setting in the west" checks out (a ~9% Moon at 13° WNW), supporting the account's timing, but the object is not astronomical.
+- **Chernobyl 1986:** the setting nearly full Moon (SSW) and Mars (SE) were low and orange at ~0425, candidates for a "brass-coloured ball". **Indian Point:** other sources date the reports 14 Jun/24 Jul 1984, not 24 Jun (EVD119).
+- **Ch.31 conclusion** (extraterrestrial visitation accounts for nearly all incidents; "radar data alone" prove it) is interpretation not supported by the contemporaneous documents verified in this project; the claim that no source was ever visited by agents sits uneasily with the book's own OSI/PRP/NDA accounts (EVD120).
+Limits: web checks were search snippets; no NUFORC originals read; witness times and directions are approximate.

@@ -1150,5 +1150,23 @@
   "reliability_notes": "Snippets only.",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "OPENED"
+ },
+ {
+  "source_id": "SRC065",
+  "title": "1984 Hudson Valley UFO sightings (summary via search); NICAP Indian Point directory page",
+  "author": "Wikipedia contributors; NICAP",
+  "organization": "Wikipedia; nicap.org",
+  "pub_date": "accessed 2026-11-17",
+  "source_type": "Encyclopedic/advocacy pages (search snippets)",
+  "classification": "TERTIARY",
+  "url": "https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings",
+  "document_identifier": "",
+  "pages_sections": "",
+  "access_date": "2026-11-17",
+  "related_entities": "INC094;EVD119",
+  "extracted_information": "Most accounts date the Indian Point reports to 14 Jun and 24 Jul 1984 rather than 24 Jun; ultralight formations were a skeptical proposal that witnesses rejected; NICAP says plant systems shut down.",
+  "reliability_notes": "Snippets only.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "OPENED"
  }
 ]

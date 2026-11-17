@@ -1068,5 +1068,45 @@
   "notes": "Letters to Lee Graham; Larry King radio 1988 per Hastings.",
   "section_id": "SEC094",
   "line_ref": 20683
+ },
+ {
+  "witness_id": "WIT108",
+  "name": "Larry Swanson",
+  "role": "Civilian, retired Navy computer analyst, Silverdale WA",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Reported to NUFORC next day; interviewed by Hastings 2008.",
+  "section_id": "SEC098",
+  "line_ref": 22344
+ },
+ {
+  "witness_id": "WIT109",
+  "name": "Brian Junkin",
+  "role": "Civilian, Poulsbo WA",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Sighting 16 Sep 2004; interviewed by Hastings.",
+  "section_id": "SEC098",
+  "line_ref": 22573
+ },
+ {
+  "witness_id": "WIT110",
+  "name": "Chuck Martin and son Gabe",
+  "role": "Civilians, Poulsbo WA",
+  "firsthand_status": "YES (first light); Gabe saw second",
+  "identity_status": "NAMED",
+  "notes": "Neighbors of Junkin.",
+  "section_id": "SEC098",
+  "line_ref": 22637
+ },
+ {
+  "witness_id": "WIT111",
+  "name": "Peter Davenport",
+  "role": "Director, NUFORC",
+  "firsthand_status": "N/A (recorder; relayed hearsay)",
+  "identity_status": "NAMED",
+  "notes": "Says Navy reaction and video are from back channels and undocumented.",
+  "section_id": "SEC098",
+  "line_ref": 22371
  }
 ]

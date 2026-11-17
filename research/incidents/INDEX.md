@@ -92,3 +92,11 @@
 | INC087 | 2006-12-07 and 2006-12-11 (plus Oct-Nov 2006 mutilations) | Conrad, Pondera County, MT (near Papa LCF and LFs S-40 and Q-15) | MEDIUM | UNVERIFIED | 1 | 19239 |
 | INC088 | 2001 (date not recorded) | Placitas, NM (author's home) | LOW | UNVERIFIED | 1 | 18842 |
 | INC089 | 1947-07 (debris found by ~2-3 Jul; press release 8 Jul 1947) | Roswell Army Air Field and Foster ranch area, NM (Lincoln/Chaves counties) | MEDIUM | DISPUTED | 2 | 20196 |
+| INC090 | 1998-04-22 ~2122 PDT | NSB Bangor / Strategic Weapons Facility Pacific, WA (seen from Clear Creek Rd, Silverdale) | MEDIUM | UNVERIFIED | 1 | 22343 |
+| INC091 | 1995-09-09 to 2008 (series) | Bangor/Bremerton/Kitsap, WA (NUFORC reports) | LOW | UNVERIFIED | 1 | 22491 |
+| INC092 | 2001-06-23 to 2007-12 (series) | Kings Bay Naval Submarine Base area, GA/FL (NUFORC reports) | LOW | UNVERIFIED | 1 | 22824 |
+| INC093 | 1967-09-13 ~2300 | Yankee Atomic Power Plant, Haddam Neck, CT | LOW | UNVERIFIED | 1 | 23416 |
+| INC094 | 1984-06-24? (other sources: 14 Jun and 24 Jul 1984) ~2230 | Indian Point Nuclear Power Plant, Buchanan/Peekskill, NY | LOW | UNVERIFIED | 1 | 23425 |
+| INC095 | 1986-04-26 (~3 h after explosion) | Chernobyl Nuclear Power Station, Soviet Ukraine | LOW | UNVERIFIED | 1 | 23438 |
+| INC096 | 2004-07-20 ~2215 MST | Palo Verde Nuclear Generating Station, AZ | LOW | UNVERIFIED | 1 | 23465 |
+| INC097 | 2008-05-19 ~1220 | Surry Nuclear Power Station, VA | LOW | UNVERIFIED | 1 | 23494 |

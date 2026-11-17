@@ -350,3 +350,10 @@
 - Result: No incidents; several physics claims overstated; START II statement partly wrong; false alarms documented in outline
 - Limitations: Snippets only; physics quotes not read from the original papers
 
+### 51. 2026-11-17 — Read book lines 22314-23547 (Ch.30, Ch.31, App. A-B) in full; extracted INC090-INC097, CLM205-CLM217; sky checks; searches on the 22 Apr 1998 event and Indian Point
+- Reason: Follow-up 1: Chapters 30-31 and Appendix B
+- Tool: Read; PyEphem; WebSearch
+- Query/target: analysis/ch30_31_sky_checks.py
+- Result: Swanson disc not astronomical; Junkin light matches Arcturus candidate; Fernandina crescent Moon supports account timing; Indian Point date conflict; Ch.31 conclusion not supported by documents
+- Limitations: Snippets only for web checks; times and directions approximate; no NUFORC original entries read
+

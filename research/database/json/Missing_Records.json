@@ -638,5 +638,15 @@
   "status": "OPEN",
   "section_id": "SEC094",
   "line_ref": 21076
+ },
+ {
+  "missing_id": "MIS065",
+  "description": "NUFORC original reports for the Bangor/Kitsap and Kings Bay series, Palo Verde and Surry; Swanson 2008 interview notes; Navy/Whidbey Island operations records for 22 Apr 1998; Aldrich FOIA reply",
+  "existence_status": "KNOWN",
+  "potential_repository": "NUFORC; Navy FOIA; Aldrich",
+  "acquisition_method": "Retrieve NUFORC database entries; request FOIA reply",
+  "status": "OPEN",
+  "section_id": "SEC098",
+  "line_ref": 22343
  }
 ]

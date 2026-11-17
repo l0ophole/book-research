@@ -101,13 +101,13 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC095 | Chapter 27 | 2002 SEALED AFFIDAVIT OF WALTER G. HAUT | 21090 | 21326 | 2013 | 100.0 | FULL_READ |
 | SEC096 | Chapter 28 | 28. Warped and Hyper | 21327 | 21932 | 5263 | 100.0 | FULL_READ |
 | SEC097 | Chapter 29 | 29. Lucky, So Far | 21933 | 22313 | 3520 | 100.0 | FULL_READ |
-| SEC098 | Chapter 30 | 30. Buzzing Bangor | 22314 | 22920 | 6047 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC099 | Chapter 31 | 31. Things Gone By, Things to Come | 22921 | 23379 | 4108 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC100 | Appendix A | Appendix A: Contact the Author | 23380 | 23387 | 64 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC101 | Appendix A | ufohastings.com | 23388 | 23389 | 2 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC102 | Appendix A | or | 23390 | 23391 | 2 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC103 | Appendix A | hastings444@atr.net | 23392 | 23398 | 19 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC104 | Appendix B | Appendix B: UFO Sightings at Commercial | 23399 | 23400 | 7 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC105 | Appendix B | Nuclear Power Plants | 23401 | 23547 | 1340 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC098 | Chapter 30 | 30. Buzzing Bangor | 22314 | 22920 | 6047 | 100.0 | FULL_READ |
+| SEC099 | Chapter 31 | 31. Things Gone By, Things to Come | 22921 | 23379 | 4108 | 100.0 | FULL_READ |
+| SEC100 | Appendix A | Appendix A: Contact the Author | 23380 | 23387 | 64 | 100.0 | PATTERN_SCAN_ONLY |
+| SEC101 | Appendix A | ufohastings.com | 23388 | 23389 | 2 | 100.0 | PATTERN_SCAN_ONLY |
+| SEC102 | Appendix A | or | 23390 | 23391 | 2 | 100.0 | PATTERN_SCAN_ONLY |
+| SEC103 | Appendix A | hastings444@atr.net | 23392 | 23398 | 19 | 100.0 | PATTERN_SCAN_ONLY |
+| SEC104 | Appendix B | Appendix B: UFO Sightings at Commercial | 23399 | 23400 | 7 | 100.0 | PATTERN_SCAN_ONLY |
+| SEC105 | Appendix B | Nuclear Power Plants | 23401 | 23547 | 1340 | 100.0 | PATTERN_SCAN_ONLY |
 | SEC106 | References | References | 23548 | 24184 | 3057 | 0.0 | PARSED_PROGRAMMATICALLY |
 | SEC107 | References | About the Author | 24185 | 24203 | 123 | 0.0 | PATTERN_SCAN_ONLY |

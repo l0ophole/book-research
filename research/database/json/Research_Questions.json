@@ -427,5 +427,18 @@
   "verification_criteria": "Postings consistent or not",
   "status": "NOT_STARTED",
   "next_action": "Search AFHRA biographies"
+ },
+ {
+  "question_id": "RQ034",
+  "question": "Was there a bolide or other known event on the evening of 22 Apr 1998 (green flash reports on King 5 at 2115) that explains the fast object, and can Swanson's slow disc be separated from it?",
+  "priority": "MEDIUM",
+  "related_entities": "INC090;EXP056;EVD118",
+  "existing_evidence": "Hastings account; Davenport synopsis",
+  "missing_evidence": "AMS/NUFORC fireball logs; King 5 broadcast; Whidbey operations",
+  "potential_sources": "AMS; NUFORC; King 5",
+  "recommended_methods": "Search AMS 1998 archive and NUFORC 22 Apr 1998 entries",
+  "verification_criteria": "Event identified or excluded",
+  "status": "NOT_STARTED",
+  "next_action": "Check AMS and NUFORC archives"
  }
 ]
