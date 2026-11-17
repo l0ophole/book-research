@@ -64,3 +64,5 @@
 | SRC060 | William H. Blanchard; Citizens Against UFO Secrecy; Twining memo (search snippets) | TERTIARY | OPENED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/William_H._Blanchard |
 | SRC061 | Affidavit of Eugene F. Yeates (public), Citizens Against Unidentified Flying Objects Secrecy v. NSA, Civil Action 80-1562, 30 Sep 1980 | PRIMARY | EXAMINED | VERIFIED | https://www.ufoscans.com/affadavit-yeates/ |
 | SRC062 | In camera affidavit of Eugene F. Yeates (TOP SECRET UMBRA, declassified), CAUS v. NSA | PRIMARY | EXAMINED | VERIFIED | https://www.ufoscans.com/in-camera-affadavit-yeates/ |
+| SRC063 | Alcubierre drive (summary via search); arXiv gr-qc/0207109 (Hart et al., 2002) | TERTIARY | OPENED | PARTIALLY_VERIFIED | https://arxiv.org/abs/gr-qc/0207109 |
+| SRC064 | Brief Chronology of START II; START II treaty page | SECONDARY | OPENED | PARTIALLY_VERIFIED | https://www.armscontrol.org/factsheets/start2chron |

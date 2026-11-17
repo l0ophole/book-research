@@ -343,3 +343,10 @@
 - Result: 239 total, 79 referred, 156 COMINT + 4 non-COMINT; CIA referrals ~19 docs; no "23"; no Friedman four; EVD114
 - Limitations: OCR text noisy; counts read by me; third-party host; in camera affidavit only skimmed
 
+### 50. 2026-11-17 — Read book lines 21327-22313 (Ch.28-29) in full; extracted CLM187-CLM204; searched Alcubierre/Casimir/Van Den Broeck, the Hart et al. preprint, Droscher-Hauser, START II chronology and nuclear false alarms
+- Reason: Follow-up 1: Chapters 28-29
+- Tool: Read; WebSearch
+- Query/target: n/a
+- Result: No incidents; several physics claims overstated; START II statement partly wrong; false alarms documented in outline
+- Limitations: Snippets only; physics quotes not read from the original papers
+

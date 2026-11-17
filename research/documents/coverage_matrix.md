@@ -99,8 +99,8 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC093 | Chapter 26 | 26. The Agency | 19399 | 20195 | 7278 | 100.0 | FULL_READ |
 | SEC094 | Chapter 27 | 27. Roswell | 20196 | 21089 | 8111 | 100.0 | FULL_READ |
 | SEC095 | Chapter 27 | 2002 SEALED AFFIDAVIT OF WALTER G. HAUT | 21090 | 21326 | 2013 | 100.0 | FULL_READ |
-| SEC096 | Chapter 28 | 28. Warped and Hyper | 21327 | 21932 | 5263 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC097 | Chapter 29 | 29. Lucky, So Far | 21933 | 22313 | 3520 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC096 | Chapter 28 | 28. Warped and Hyper | 21327 | 21932 | 5263 | 100.0 | FULL_READ |
+| SEC097 | Chapter 29 | 29. Lucky, So Far | 21933 | 22313 | 3520 | 100.0 | FULL_READ |
 | SEC098 | Chapter 30 | 30. Buzzing Bangor | 22314 | 22920 | 6047 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC099 | Chapter 31 | 31. Things Gone By, Things to Come | 22921 | 23379 | 4108 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC100 | Appendix A | Appendix A: Contact the Author | 23380 | 23387 | 64 | 0.0 | PATTERN_SCAN_ONLY |

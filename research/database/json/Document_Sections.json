@@ -1339,8 +1339,8 @@
   "line_end": 21932,
   "word_count": 5263,
   "footnote_markers": 16,
-  "pct_lines_read": 0.0,
-  "coverage_status": "PATTERN_SCAN_ONLY",
+  "pct_lines_read": 100.0,
+  "coverage_status": "FULL_READ",
   "notes": ""
  },
  {
@@ -1353,8 +1353,8 @@
   "line_end": 22313,
   "word_count": 3520,
   "footnote_markers": 11,
-  "pct_lines_read": 0.0,
-  "coverage_status": "PATTERN_SCAN_ONLY",
+  "pct_lines_read": 100.0,
+  "coverage_status": "FULL_READ",
   "notes": ""
  },
  {

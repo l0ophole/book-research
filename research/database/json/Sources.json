@@ -1114,5 +1114,41 @@
   "reliability_notes": "OCR noisy and partly illegible; I read only fragments.",
   "verification_status": "VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC063",
+  "title": "Alcubierre drive (summary via search); arXiv gr-qc/0207109 (Hart et al., 2002)",
+  "author": "Wikipedia contributors; C.B. Hart et al.",
+  "organization": "Wikipedia; arXiv",
+  "pub_date": "accessed 2026-11-17",
+  "source_type": "Encyclopedic article and preprint listing (search snippets)",
+  "classification": "TERTIARY",
+  "url": "https://arxiv.org/abs/gr-qc/0207109",
+  "document_identifier": "gr-qc/0207109",
+  "pages_sections": "",
+  "access_date": "2026-11-17",
+  "related_entities": "CLM188;CLM191;EVD115",
+  "extracted_information": "The Alcubierre metric requires negative energy density; Casimir effects are questioned as a source; Van Den Broeck reduces the requirement to about a solar mass in one arXiv paper; the 2002 paper is an arXiv preprint (v1 27 Jul 2002) with 13 authors; journal not confirmed.",
+  "reliability_notes": "Snippets only.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "OPENED"
+ },
+ {
+  "source_id": "SRC064",
+  "title": "Brief Chronology of START II; START II treaty page",
+  "author": "Arms Control Association; Nuclear Threat Initiative",
+  "organization": "armscontrol.org; nti.org",
+  "pub_date": "accessed 2026-11-17",
+  "source_type": "Chronology/reference pages (search snippets)",
+  "classification": "SECONDARY",
+  "url": "https://www.armscontrol.org/factsheets/start2chron",
+  "document_identifier": "",
+  "pages_sections": "",
+  "access_date": "2026-11-17",
+  "related_entities": "CLM196;EVD116",
+  "extracted_information": "Duma approved START II on 14 Apr 2000 (288-131), with conditions never met; US withdrawal from the ABM Treaty took effect 13 Jun 2002; Russia announced withdrawal from START II on 14 Jun 2002.",
+  "reliability_notes": "Snippets only.",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "OPENED"
  }
 ]
