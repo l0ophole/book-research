@@ -72,12 +72,12 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC066 | Chapter 10 | 10. Everyone Escalates | 8657 | 8833 | 1614 | 100.0 | FULL_READ |
 | SEC067 | Chapter 10 | THE LOG ENTRIES: | 8834 | 9365 | 5083 | 100.0 | FULL_READ |
 | SEC068 | Chapter 10 | Hynek Opens the Door | 9366 | 9481 | 1020 | 100.0 | FULL_READ |
-| SEC069 | Chapter 10 | Missile Shutdowns at Ellsworth AFB | 9482 | 9662 | 1617 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC070 | Chapter 10 | Another Shutdown at Malmstrom AFB | 9663 | 9714 | 449 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC071 | Chapter 10 | 12/14/03 | 9715 | 9736 | 206 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC072 | Chapter 10 | Vandenberg Again | 9737 | 9862 | 1271 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC069 | Chapter 10 | Missile Shutdowns at Ellsworth AFB | 9482 | 9662 | 1617 | 100.0 | FULL_READ |
+| SEC070 | Chapter 10 | Another Shutdown at Malmstrom AFB | 9663 | 9714 | 449 | 100.0 | FULL_READ |
+| SEC071 | Chapter 10 | 12/14/03 | 9715 | 9736 | 206 | 100.0 | FULL_READ |
+| SEC072 | Chapter 10 | Vandenberg Again | 9737 | 9862 | 1271 | 100.0 | FULL_READ |
 | SEC073 | Chapter 11 | 11. Taking Down Echo and Oscar | 9863 | 10258 | 3628 | 100.0 | FULL_READ |
-| SEC074 | Chapter 11 | Picking Up the Pieces | 10259 | 10936 | 6978 | 3.5 | PARTIAL_READ |
+| SEC074 | Chapter 11 | Picking Up the Pieces | 10259 | 10936 | 6978 | 100.0 | FULL_READ |
 | SEC075 | Chapter 11 | The Reluctant Source | 10937 | 10990 | 509 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC076 | Chapter 11 | “A Lot Like the UFO Night” | 10991 | 11025 | 321 | 0.0 | PATTERN_SCAN_ONLY |
 | SEC077 | Chapter 12 | 12. Leaving Tracks | 11026 | 11307 | 2732 | 100.0 | FULL_READ |

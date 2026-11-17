@@ -11,7 +11,7 @@ SQLite file `evidence.sqlite` is authoritative; CSV and JSON files in sibling fo
 **Provenance:** every record carrying `line_ref` points to a line number in the supplied markdown file (`f3ff02a2-hastings-2008-ufos-and-nukes.md`); the markdown has no page numbers. `section_id` joins to Document_Sections.
 
 ## Claims
-Rows: 238
+Rows: 251
 
 | name | type | pk |
 |---|---|---|
@@ -29,7 +29,7 @@ Rows: 238
 Foreign keys: section_id → Document_Sections
 
 ## Competing_Explanations
-Rows: 63
+Rows: 65
 
 | name | type | pk |
 |---|---|---|
@@ -45,7 +45,7 @@ Rows: 63
 Foreign keys: section_id → Document_Sections
 
 ## Document_Claim_Links
-Rows: 238
+Rows: 251
 
 | name | type | pk |
 |---|---|---|
@@ -95,7 +95,7 @@ Rows: 1
 | access_limitations | TEXT | 0 |
 
 ## Evidence_Records
-Rows: 128
+Rows: 130
 
 | name | type | pk |
 |---|---|---|
@@ -132,7 +132,7 @@ Rows: 17
 Foreign keys: section_id → Document_Sections
 
 ## Incidents
-Rows: 115
+Rows: 122
 
 | name | type | pk |
 |---|---|---|
@@ -151,7 +151,7 @@ Rows: 115
 Foreign keys: section_id → Document_Sections
 
 ## Missing_Records
-Rows: 67
+Rows: 68
 
 | name | type | pk |
 |---|---|---|
@@ -183,7 +183,7 @@ Rows: 196
 Foreign keys: first_section_id → Document_Sections
 
 ## Pattern_Scan_Leads
-Rows: 41
+Rows: 30
 
 | name | type | pk |
 |---|---|---|
@@ -214,7 +214,7 @@ Rows: 358
 Foreign keys: section_id → Document_Sections
 
 ## Relationships
-Rows: 989
+Rows: 1009
 
 | name | type | pk |
 |---|---|---|
@@ -225,7 +225,7 @@ Rows: 989
 | note | TEXT | 0 |
 
 ## Research_Log
-Rows: 54
+Rows: 55
 
 | name | type | pk |
 |---|---|---|
@@ -239,7 +239,7 @@ Rows: 54
 | limitations | TEXT | 0 |
 
 ## Research_Questions
-Rows: 35
+Rows: 36
 
 | name | type | pk |
 |---|---|---|
@@ -302,7 +302,7 @@ Rows: 9
 Foreign keys: section_id → Document_Sections
 
 ## Witness_Incidents
-Rows: 130
+Rows: 137
 
 | name | type | pk |
 |---|---|---|
@@ -312,7 +312,7 @@ Rows: 130
 Foreign keys: incident_id → Incidents; witness_id → Witnesses
 
 ## Witnesses
-Rows: 120
+Rows: 127
 
 | name | type | pk |
 |---|---|---|

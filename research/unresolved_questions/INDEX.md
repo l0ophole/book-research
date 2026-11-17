@@ -37,3 +37,4 @@
 | RQ033 | Can Lytle-Blanchard and Exon claims be tested against career records (postings, locations, dates)? | LOW | NOT_STARTED | Search AFHRA biographies |
 | RQ034 | Was there a bolide or other known event on the evening of 22 Apr 1998 (green flash reports on King 5 at 2115) that explains the fast object, and can Swanson's slow disc be separated from it? | MEDIUM | NOT_STARTED | Check AMS and NUFORC archives |
 | RQ035 | Does Wilson's fireball/UFO-after-test correlation survive a null model using a complete fireball/UFO report catalogue and actual fallout trajectories? | MEDIUM | NOT_STARTED | Get Wilson dataset or reconstruct from Blue Book |
+| RQ036 | Do any Malmstrom or Ellsworth records show whether Mike, Oscar or November lost missiles in March-April 1967 (or Juliet-03/05 in 1966), and can the 24/25 Mar Oscar date be tested against the 341st SMW history for Jan-Jun 1967? | CRITICAL | NOT_STARTED | Obtain full histories |

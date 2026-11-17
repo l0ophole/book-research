@@ -117,3 +117,10 @@
 | INC112 | 1953-56 (probably 1954), near the North Pole | USAF B-50 weather/sampling flight (1009th SWS) | LOW | UNVERIFIED | 1 | 4713 |
 | INC113 | 1962-03-31 to 1962-07-02 | Clinton-Sherman AFB, OK (98th Bomb Squadron) | MEDIUM | UNVERIFIED | 1 | 4830 |
 | INC114 | 1957-11-07 1946-2034 CST (and 1957-1966 series) | Pantex Plant, Amarillo, TX | LOW | PARTIALLY_VERIFIED | 3 | 4959 |
+| INC115 | 1966 (summer night) | Ellsworth AFB, SD, Launch Facilities Juliet-03 and Juliet-05 (44th SMW) | HIGH | UNVERIFIED | 1 | 9484 |
+| INC116 | 1966 early spring (Fowler); Jan 1966-Aug 1967 (Hughes) | Malmstrom AFB, MT | MEDIUM | UNVERIFIED | 1 | 9665 |
+| INC117 | 1967-02 (Clark: "99% sure") | Vandenberg AFB, CA (north end Minuteman site) | LOW | UNVERIFIED | 1 | 9737 |
+| INC118 | 1967 spring (Koertner: near 5 Apr) | Malmstrom AFB, MT, MIMS hangar | MEDIUM | UNVERIFIED | 1 | 10347 |
+| INC119 | 1967-03-16 (Echo) and 1967 summer (Bravo site) | Echo-1/Echo-2 and a Bravo site, Malmstrom | HIGH | UNVERIFIED | 1 | 10415 |
+| INC120 | 1967-03 (Jamison: Oscar night; Hastings: 24/25 Mar) and ~2 weeks later (India) | Oscar Flight and India Flight, Malmstrom | CRITICAL | UNVERIFIED | 1 | 10537 |
+| INC121 | 1967-03-16 dusk | Launch Facility E-7, Echo Flight | HIGH | UNVERIFIED | 1 | 10748 |

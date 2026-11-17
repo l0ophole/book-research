@@ -1198,5 +1198,75 @@
   "notes": "Mostly negative or hearsay contributions.",
   "section_id": "SEC030",
   "line_ref": 3269
+ },
+ {
+  "witness_id": "WIT121",
+  "name": "SSgt Albert Spodnik",
+  "role": "Missile maintenance tech, 67th SMS, Ellsworth 1966",
+  "firsthand_status": "YES (per account)",
+  "identity_status": "NAMED",
+  "notes": "Interviewed 1993; Hastings has no documents.",
+  "section_id": "SEC069",
+  "line_ref": 9490
+ },
+ {
+  "witness_id": "WIT122",
+  "name": "David Hughes",
+  "role": "Air Policeman, 341st CDS, Malmstrom 1966-67",
+  "firsthand_status": "YES (lights); NO (shutdown)",
+  "identity_status": "NAMED",
+  "notes": "Email 2003.",
+  "section_id": "SEC070",
+  "line_ref": 9683
+ },
+ {
+  "witness_id": "WIT123",
+  "name": "Leroy Clark",
+  "role": "A1C, 1381st Geodetic Survey Sq., Vandenberg 1967",
+  "firsthand_status": "NO (secondhand)",
+  "identity_status": "NAMED",
+  "notes": "Says 99% sure of Feb 1967.",
+  "section_id": "SEC072",
+  "line_ref": 9745
+ },
+ {
+  "witness_id": "WIT124",
+  "name": "Gerald Koertner",
+  "role": "A3C electrician (PASM), 341st MMS 1966-67",
+  "firsthand_status": "NO (hearsay)",
+  "identity_status": "NAMED",
+  "notes": "Memory anchored to a Corvair purchase and his birthday.",
+  "section_id": "SEC074",
+  "line_ref": 10347
+ },
+ {
+  "witness_id": "WIT125",
+  "name": "N. Henry \"Hank\" Barlow",
+  "role": "EM Team 24, 341st MMS 1966-67",
+  "firsthand_status": "PARTIAL (restarts; secondhand UFO)",
+  "identity_status": "NAMED",
+  "notes": "Interviewed by Hastings; Echo timeline told to him at Echo-1.",
+  "section_id": "SEC074",
+  "line_ref": 10415
+ },
+ {
+  "witness_id": "WIT126",
+  "name": "1st Lt Robert C. Jamison",
+  "role": "Combat Targeting Team Commander, 341st MMS 1967",
+  "firsthand_status": "YES (restarts), NO (UFOs)",
+  "identity_status": "NAMED",
+  "notes": "Interviews 1992 and 2004; says he never saw a UFO.",
+  "section_id": "SEC074",
+  "line_ref": 10537
+ },
+ {
+  "witness_id": "WIT127",
+  "name": "\"Mr. X\" (Echo E-7 team member)",
+  "role": "Minuteman technician (triple qualified)",
+  "firsthand_status": "YES (per Salas)",
+  "identity_status": "ANONYMOUS",
+  "notes": "Identity withheld by Salas.",
+  "section_id": "SEC074",
+  "line_ref": 10748
  }
 ]

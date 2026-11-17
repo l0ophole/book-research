@@ -301,3 +301,11 @@ Read lines 2756–3996 and 4277–5058 (coverage now 73.3%; 74 sections FULL_REA
 - **Hasty's Bravo radar targets:** DNA 6035F confirms RAF Canberras sampled at Kwajalein and one was lost en route, but lists VIKING as the code name of VIP aircraft and the Canberras as "Eager Beaver", contradicting the book's reading; Hasty's targets remain unexplained and weakly documented (EVD126).
 - **Everything else** (Harris's gun-camera briefing, the B-50 disc, Kramer, Marquez) is recalled testimony decades later, anonymous or secondhand; absent log entries are explained by assumed censorship, which makes the claims unfalsifiable (EVD128).
 Limits: Ruppelt quotes (Mainbrace, Ivy) not verified (Gutenberg/sacred-texts unavailable); shot dates for the base rate are from memory; Blue Book files not seen.
+
+## Follow-up 31: the remaining Minuteman sections (9482–9862, 10283–10936) — v1.31.0
+
+Read the previously skipped Minuteman material (coverage now 77.5%; 79 sections FULL_READ): Ellsworth 1966 (Spodnik), Fowler's 1966 Malmstrom claim and Hughes, Vandenberg 1967 (Clark), and the Malmstrom spring-1967 maintenance and targeting accounts (Koertner, Barlow, Jamison, Salas's "Mr. X"). 7 incidents (INC115–INC121), 7 witnesses, 13 claims. Findings (EVD129–EVD130):
+- **Timelines undercut causation:** Barlow's Echo-2 "ring of lights" camper incident and Mr. X's E-7 sighting both came after the 0845 shutdown in the wing history; Barlow's "nothing on VRSA" conflicts with the history's channels 9 and 12; Mr. X's "Channel 11" matches neither.
+- **Oscar rests on memory:** Jamison, Koertner and Meiwald each recall an Oscar event, but the wing history records none, Evans recalls none for 16 March, and Salas, Jamison and Klotz disagree on date and number; Jamison saw no UFO and signed no NDA. The Belt sighting (24 Mar 1967) is documented in Blue Book and the Tribune (per search results) and fits Jamison's overheard radio chatter, but not any missile outage.
+- **Ellsworth 1966, Fowler 1966, Vandenberg 1967:** single-source or secondhand, no documents.
+Limits: Belt details from search snippets; no records for any new account.

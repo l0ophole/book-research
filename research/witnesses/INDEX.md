@@ -122,3 +122,10 @@
 | WIT118 | Olin H. Hasty | Airborne radar operator, 77th SRS RB-36, Castle 1954 | YES (radar) | NAMED |
 | WIT119 | "John Harris" (pseudonym) | A1C ECM technician, 98th BS, Clinton-Sherman AFB 1962 | YES (film screening) | ANONYMOUS |
 | WIT120 | Fred Foss; Robert Ball; Frank Potts; Mike Kerrigan; Capt. Grover Rawlings; Cdr Robert McCurley | Veterans of Teapot, Castle, Sandstone and Ivy | MIXED | NAMED |
+| WIT121 | SSgt Albert Spodnik | Missile maintenance tech, 67th SMS, Ellsworth 1966 | YES (per account) | NAMED |
+| WIT122 | David Hughes | Air Policeman, 341st CDS, Malmstrom 1966-67 | YES (lights); NO (shutdown) | NAMED |
+| WIT123 | Leroy Clark | A1C, 1381st Geodetic Survey Sq., Vandenberg 1967 | NO (secondhand) | NAMED |
+| WIT124 | Gerald Koertner | A3C electrician (PASM), 341st MMS 1966-67 | NO (hearsay) | NAMED |
+| WIT125 | N. Henry "Hank" Barlow | EM Team 24, 341st MMS 1966-67 | PARTIAL (restarts; secondhand UFO) | NAMED |
+| WIT126 | 1st Lt Robert C. Jamison | Combat Targeting Team Commander, 341st MMS 1967 | YES (restarts), NO (UFOs) | NAMED |
+| WIT127 | "Mr. X" (Echo E-7 team member) | Minuteman technician (triple qualified) | YES (per Salas) | ANONYMOUS |

@@ -453,5 +453,18 @@
   "verification_criteria": "Significant excess over random expectation",
   "status": "NOT_STARTED",
   "next_action": "Get Wilson dataset or reconstruct from Blue Book"
+ },
+ {
+  "question_id": "RQ036",
+  "question": "Do any Malmstrom or Ellsworth records show whether Mike, Oscar or November lost missiles in March-April 1967 (or Juliet-03/05 in 1966), and can the 24/25 Mar Oscar date be tested against the 341st SMW history for Jan-Jun 1967?",
+  "priority": "CRITICAL",
+  "related_entities": "INC120;INC118;INC115;EXP064",
+  "existing_evidence": "Testimony from Jamison, Koertner, Meiwald; Salas affidavit date",
+  "missing_evidence": "Wing history Jan-Mar and Apr-Jun 1967; job-control logs; telexes",
+  "potential_sources": "AFHRA; NARA",
+  "recommended_methods": "Request full wing histories and the SAC telex",
+  "verification_criteria": "Documented second shutdown or none",
+  "status": "NOT_STARTED",
+  "next_action": "Obtain full histories"
  }
 ]

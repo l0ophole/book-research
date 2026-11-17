@@ -378,3 +378,10 @@
 - Result: Extracted INC099-INC114, CLM223-CLM238; base rate 9-17% of days; Jupiter fits Marquez; VIKING code-name conflict with DNA 6035F
 - Limitations: Shot dates from memory; Ruppelt quotes unverified (Gutenberg/sacred-texts blocked); Wilson data not available
 
+### 55. 2026-11-17 — Read book lines 9482-9862 and 10283-10936 in full (Ellsworth 1966, Fowler 1966, Vandenberg 1967, Malmstrom spring 1967 maintenance/targeting accounts); cross-checked with SRC002 and Belt record
+- Reason: Follow-up 1: remaining unread/partly read sections (priority: Minuteman material)
+- Tool: Read; WebSearch; Read prior records
+- Query/target: n/a
+- Result: Extracted INC115-INC121, CLM239-CLM251; Barlow timeline after 0845; VRSA channel mismatch; Belt documented but no outage record
+- Limitations: No documents for any of the new accounts; Belt details from search snippets
+

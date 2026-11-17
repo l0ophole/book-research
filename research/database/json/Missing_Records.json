@@ -668,5 +668,15 @@
   "status": "OPEN",
   "section_id": "SEC033",
   "line_ref": 3889
+ },
+ {
+  "missing_id": "MIS068",
+  "description": "Fowler papers (Barry Greenwood) on the 1966 Malmstrom ten-missile shutdown; Ellsworth Juliet Flight logs, J-03/J-05 power failure reports and any helicopter flight log (summer 1966); Vandenberg security blotter Feb 1967",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "CUFOS/Greenwood; AFHRA; NARA",
+  "acquisition_method": "FOIA/AFHRA search",
+  "status": "OPEN",
+  "section_id": "SEC070",
+  "line_ref": 9665
  }
 ]
