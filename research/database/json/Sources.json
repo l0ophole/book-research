@@ -1078,5 +1078,41 @@
   "reliability_notes": "Search snippets only; no primary NSA affidavit opened (403).",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "OPENED"
+ },
+ {
+  "source_id": "SRC061",
+  "title": "Affidavit of Eugene F. Yeates (public), Citizens Against Unidentified Flying Objects Secrecy v. NSA, Civil Action 80-1562, 30 Sep 1980",
+  "author": "Eugene F. Yeates, NSA Chief, Office of Policy",
+  "organization": "NSA (released 3 Nov 2004, FOIA case 44543); copy at ufoscans.com",
+  "pub_date": "1980-09-30",
+  "source_type": "Court affidavit (OCR of scan)",
+  "classification": "PRIMARY",
+  "url": "https://www.ufoscans.com/affadavit-yeates/",
+  "document_identifier": "CA 80-1562",
+  "pages_sections": "14 pp; paras 3-7, 20",
+  "access_date": "2026-11-17",
+  "related_entities": "CLM168;EVD114",
+  "extracted_information": "NSA received four CIA referrals of NSA documents located in the GSW v. CIA litigation; 239 documents located in NSA files, 79 referred to other agencies; four non-COMINT records, rest SIGINT/COMINT products withheld under Exemptions 1 and 3.",
+  "reliability_notes": "OCR of a scan is noisy; counts read from the OCR text; the copy is hosted by a third-party archive.",
+  "verification_status": "VERIFIED",
+  "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC062",
+  "title": "In camera affidavit of Eugene F. Yeates (TOP SECRET UMBRA, declassified), CAUS v. NSA",
+  "author": "Eugene F. Yeates",
+  "organization": "NSA; copy at ufoscans.com",
+  "pub_date": "1980",
+  "source_type": "Court affidavit (OCR of scan, 21 pp)",
+  "classification": "PRIMARY",
+  "url": "https://www.ufoscans.com/in-camera-affadavit-yeates/",
+  "document_identifier": "CA 80-1562",
+  "pages_sections": "21 pp",
+  "access_date": "2026-11-17",
+  "related_entities": "CLM168;EVD114",
+  "extracted_information": "Categorizes the withheld COMINT reports (e.g., radar operators reporting objects; communications reacting to unidentified flying objects; reports some NSA analysts consider fictitious) and explains the TOP SECRET UMBRA classification.",
+  "reliability_notes": "OCR noisy and partly illegible; I read only fragments.",
+  "verification_status": "VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

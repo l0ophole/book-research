@@ -478,5 +478,15 @@
   "query": "analysis/roswell_geometry.py",
   "result": "Equidistant (~64 vs ~68-73 mi) but ~33 mi off the line; EVD113",
   "limitations": "Debris-field coordinates are approximate (sources disagree, BLM point may be a parking area)"
+ },
+ {
+  "log_id": 49,
+  "log_date": "2026-11-17",
+  "action": "Downloaded the public and in camera Yeates affidavits (ufoscans copies of NSA releases) and read the relevant paragraphs from OCR",
+  "reason": "Follow-up 1: test the \"23 CIA files\" claim",
+  "tool": "curl; pdftotext",
+  "query": "ufoscans.com/raw/NSA UFO",
+  "result": "239 total, 79 referred, 156 COMINT + 4 non-COMINT; CIA referrals ~19 docs; no \"23\"; no Friedman four; EVD114",
+  "limitations": "OCR text noisy; counts read by me; third-party host; in camera affidavit only skimmed"
  }
 ]

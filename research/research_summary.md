@@ -264,3 +264,7 @@ Limits: no primary Roswell document opened; NSA affidavit blocked; several quote
 ## Follow-up 24: Roswell "halfway" claim — v1.24.0
 
 Computed great-circle distances (EVD113). The debris field is ~64 mi from Roswell AAF (bearing NW) and ~68–73 mi from Trinity, so the book's "almost exactly halfway" is right as a statement of distances, but the site lies ~33–35 mi **north** of the straight Trinity–Roswell line (which runs through Capitan). Claim CLM176 is therefore PARTIALLY_VERIFIED. Limits: sources disagree on the debris-field coordinates (a BLM marker may be a parking area), so figures are good to a few miles.
+
+## Follow-up 25: The NSA affidavits in CAUS v. NSA — v1.25.0
+
+Obtained and read the public and in camera Yeates affidavits (SRC061, SRC062; EVD114). NSA located 239 documents; 79 belonged to other agencies; of the remaining 160, 156 were COMINT reports (TOP SECRET UMBRA, withheld) and 4 were non-COMINT. NSA received **four CIA referrals** of NSA documents found in the GSW v. CIA suit (15 + 3 + 1, ≈19 by my reading). So the book's "23 CIA files, some TS codeword" is right in kind but not in count, and I found nothing on Friedman's four censored documents. The withheld reports are foreign signals intelligence (e.g., radar operators' reports; some judged fictitious by NSA analysts), which does not support the inference that they concern UFOs at U.S. nuclear sites. Limits: OCR of scans, counts read by me; in camera affidavit only skimmed; third-party host.

@@ -169,7 +169,7 @@
 | CLM165 | Marchetti (Second Look, May 1979): CIA treated UFOs as a 'very sensitive activity'; at high levels there were rumors of 'little gray men' held by the Air Force at FTD. | Marchetti via Hastings | MEDIUM | NOT_YET_INVESTIGATED | 0 | 19443 |
 | CLM166 | CIA told Ground Saucer Watch in 1976 its only UFO involvement was the Robertson Panel (1953), but later released ~900-1000 documents. | Greenwood/Hastings | HIGH | PARTIALLY_VERIFIED | 3 | 19504 |
 | CLM167 | CIA attorneys told GSW's attorney ~10,000 pages existed (vs ~1,000 released), and withheld 57; CIA released only SECRET-or-lower documents. | Zechel via Hastings | MEDIUM | UNVERIFIED | 1 | 19576 |
-| CLM168 | The CIA sent the NSA 23 UFO-related files, some TOP SECRET codeword, found in a CAUS v. NSA suit; Friedman obtained four heavily censored ones. | Friedman via Hastings | MEDIUM | UNVERIFIED | 1 | 19655 |
+| CLM168 | The CIA sent the NSA 23 UFO-related files, some TOP SECRET codeword, found in a CAUS v. NSA suit; Friedman obtained four heavily censored ones. | Friedman via Hastings | MEDIUM | PARTIALLY_VERIFIED | 3 | 19655 |
 | CLM169 | Haines's CIA history (1997) says over half of 1950s-60s UFO reports came from U-2/OXCART flights (Hastings calls this 'patently ridiculous'). | Haines via Rodeghier via Hastings | MEDIUM | PARTIALLY_VERIFIED | 3 | 19818 |
 | CLM170 | The Robertson Panel recommended debunking, monitoring UFO groups, and psychological advice (CIA-staged). | Zechel quoting the panel | MEDIUM | VERIFIED | 4 | 19963 |
 | CLM171 | CIA took control of UFO intelligence in early 1958 via a secret NSCID; Blue Book was outside the loop for JANAP 146E/CIRVIS reports. | Zechel via Hastings | MEDIUM | UNVERIFIED | 1 | 20113 |

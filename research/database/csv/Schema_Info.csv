@@ -1,5 +1,5 @@
 key,value
-schema_version,1.24.0
+schema_version,1.25.0
 generated,2026-11-15
 confidence_scale,"0=not investigated;1=single/unsupported or unverified;2=disputed or conflicting;3=partially verified (secondary/transcribed support);4=verified against original primary record;5=independently corroborated by multiple primary records. Confidence is about documentary support for the account, not witness sincerity."
 authoritative_store,SQLite; CSV/JSON/Markdown generated from it

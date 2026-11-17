@@ -62,3 +62,5 @@
 | SRC058 | Phoenix Lights | TERTIARY | OPENED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/Phoenix_Lights |
 | SRC059 | Ex-C.I.A. Chief Wants UFO Probe (Bulkley Griffin, 1 Jun 1960) - ufopedia transcription | SECONDARY | OPENED | PARTIALLY_VERIFIED | https://ufopedia.pages.dev/raw/articles/hillenkoetter-1960-worcester-gazette |
 | SRC060 | William H. Blanchard; Citizens Against UFO Secrecy; Twining memo (search snippets) | TERTIARY | OPENED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/William_H._Blanchard |
+| SRC061 | Affidavit of Eugene F. Yeates (public), Citizens Against Unidentified Flying Objects Secrecy v. NSA, Civil Action 80-1562, 30 Sep 1980 | PRIMARY | EXAMINED | VERIFIED | https://www.ufoscans.com/affadavit-yeates/ |
+| SRC062 | In camera affidavit of Eugene F. Yeates (TOP SECRET UMBRA, declassified), CAUS v. NSA | PRIMARY | EXAMINED | VERIFIED | https://www.ufoscans.com/in-camera-affadavit-yeates/ |

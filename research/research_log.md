@@ -336,3 +336,10 @@
 - Result: Equidistant (~64 vs ~68-73 mi) but ~33 mi off the line; EVD113
 - Limitations: Debris-field coordinates are approximate (sources disagree, BLM point may be a parking area)
 
+### 49. 2026-11-17 — Downloaded the public and in camera Yeates affidavits (ufoscans copies of NSA releases) and read the relevant paragraphs from OCR
+- Reason: Follow-up 1: test the "23 CIA files" claim
+- Tool: curl; pdftotext
+- Query/target: ufoscans.com/raw/NSA UFO
+- Result: 239 total, 79 referred, 156 COMINT + 4 non-COMINT; CIA referrals ~19 docs; no "23"; no Friedman four; EVD114
+- Limitations: OCR text noisy; counts read by me; third-party host; in camera affidavit only skimmed
+

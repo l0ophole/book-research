@@ -1354,5 +1354,17 @@
   "confidence": 3,
   "section_id": "SEC094",
   "line_ref": 20258
+ },
+ {
+  "evidence_id": "EVD114",
+  "description": "NSA Yeates affidavits (SRC061, SRC062; primary, OCR of scans) vs CLM168: (a) In CAUS v. NSA (CA 80-1562, 1980) NSA located 239 documents; 79 originated with other agencies and were referred; 160 NSA-originated records remained, of which 156 were COMINT reports (TOP SECRET UMBRA per the in camera affidavit, withheld under Exemptions 1 and 3) and 4 were non-COMINT (three released in large part, one withheld). (b) NSA received four separate CIA referrals of NSA documents found by the CIA in the GSW v. CIA litigation: 15 documents on 9 Nov 1978, two referrals on 4 Dec 1978 supplying 3 more, and one on 27 Jul 1979 - about 19 documents by my reading of the OCR - all withheld as classified COMINT. (c) So the book's claim that the CIA sent the NSA 23 UFO files, some TOP SECRET codeword, is supported in kind (CIA-located NSA documents, withheld as classified COMINT, UMBRA-level for the withheld reports) but not in count (19 by my reading; the number 23 does not appear in what I read) and I found nothing on Friedman obtaining four heavily censored CIA TS codeword documents; the affidavit's four non-COMINT records are a different set. (d) The in camera affidavit describes withheld reports as COMINT about foreign communications (e.g., radar operators' reports of objects, communications referring to unidentified flying objects) and says some are considered fictitious by NSA analysts - i.e., the withheld material is foreign signals intelligence rather than CIA files on U.S. nuclear-site UFOs, which bears on Hastings's inference.",
+  "evidence_type": "GOVERNMENT_RECORD",
+  "provenance": "SRC061; SRC062",
+  "related_entities": "CLM168;CLM167;CLM171",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC093",
+  "line_ref": 19655
  }
 ]
