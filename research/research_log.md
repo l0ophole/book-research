@@ -294,3 +294,10 @@
 - Result: Belokorovichi found to be an SS-20 base not ICBM; R-14 claim contradicted; Katta-Kurgan figures verified; sky checks inconclusive/negative
 - Limitations: ABC transcript, KGB files, AFOSI report not seen; time zone assumptions; no witness azimuths
 
+### 43. 2026-11-16 — Fetched Project 1947 transcriptions of LOOK 1 Jul 1952 (Moskin) and Aldrich TT #1524 article; attempted War.gov copy of the telecon (403)
+- Reason: Follow-up 4: Ch.16 claims vs primary records (63 cases; USAFE cable)
+- Tool: curl; WebSearch
+- Query/target: project1947.com
+- Result: CLM098 contradicted as worded; CLM099 supported in outline; EVD095-096
+- Limitations: Original telecon and Blue Book file lists not seen; NARA catalog not searched; Shallet letter not checked
+

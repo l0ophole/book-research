@@ -916,5 +916,41 @@
   "reliability_notes": "Tertiary.",
   "verification_status": "PARTIALLY_VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC052",
+  "title": "LOOK magazine, 1 July 1952: \"Hunt For The Flying Saucer\" (transcription)",
+  "author": "J. Robert Moskin",
+  "organization": "LOOK / Project 1947 transcription",
+  "pub_date": "1952-07-01",
+  "source_type": "Magazine article (transcribed)",
+  "classification": "SECONDARY",
+  "url": "https://project1947.com/fig/look7152.htm",
+  "document_identifier": "",
+  "pages_sections": "whole article",
+  "access_date": "2026-11-16",
+  "related_entities": "CLM098;EVD095;MIS041",
+  "extracted_information": "\"Lieutenant Ruppelt keeps 63 sightings on the top of his file ... the most detailed and most mystifying ... None of these 63 can be identified with any certainty ... pinpointed on a map ... a number of concentrations duplicated exactly the area of atomic energy installations.\" Also: reports flow from \"our vital atomic installation sites\"; Air Force had collected 800+ sightings.",
+  "reliability_notes": "Contemporary secondary; the author is a journalist, not Ruppelt; transcription of the original.",
+  "verification_status": "VERIFIED",
+  "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC053",
+  "title": "Early Top Secret UFO Document Discovered (USAFE TT #1524, 4 Nov 1948), Project 1947 - Jan Aldrich (MUFON Journal, Apr 2000, revised)",
+  "author": "Jan Aldrich",
+  "organization": "Project 1947",
+  "pub_date": "2000-04 (revised)",
+  "source_type": "Researcher article describing a declassified document",
+  "classification": "SECONDARY",
+  "url": "https://project1947.com/fig/jtt.htm",
+  "document_identifier": "TT #1524 Item #14",
+  "pages_sections": "whole article",
+  "access_date": "2026-11-16",
+  "related_entities": "CLM099;EVD096;MIS041",
+  "extracted_information": "Item #14 covers Neubiberg sightings, Swedish intelligence viewing UFOs as possibly interplanetary, and an object crashing into a Swedish lake (witness a technical expert; Swedish recovery under way). Copies went to CIA and AMC. Aldrich links the lake event to Gen. Helge Jung’s 24 Aug 1948 aerial explosion seen as a Soviet-origin guided missile (per a separate TS memo).",
+  "reliability_notes": "Researcher description; original telecon not seen by me (War.gov copy blocked, 403).",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

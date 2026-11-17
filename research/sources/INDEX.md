@@ -53,3 +53,5 @@
 | SRC049 | Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I (DOPSR-2024-0263) | PRIMARY | EXAMINED | VERIFIED | https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf |
 | SRC050 | Treaty between the US and USSR on the Elimination of Their Intermediate-Range and Shorter-Range Missiles: Memorandum of Understanding (data as of 1 Nov 1987) | PRIMARY | EXAMINED | VERIFIED | https://nuke.fas.org/control/inf/text/inf3.htm |
 | SRC051 | R-14 Chusovaya | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/R-14_Chusovaya |
+| SRC052 | LOOK magazine, 1 July 1952: "Hunt For The Flying Saucer" (transcription) | SECONDARY | EXAMINED | VERIFIED | https://project1947.com/fig/look7152.htm |
+| SRC053 | Early Top Secret UFO Document Discovered (USAFE TT #1524, 4 Nov 1948), Project 1947 - Jan Aldrich (MUFON Journal, Apr 2000, revised) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://project1947.com/fig/jtt.htm |

@@ -229,3 +229,9 @@ Read lines 17363–17824 in full (coverage now 40.1% of lines, 49 sections FULL_
 - **Katta-Kurgan (INC072):** the INF MOU confirms the book's 9 SS-12 missiles / 5 launchers (CLM144 verified); the 1984 sighting itself is unverified.
 - **Kapustin Yar 28 Jul 1989 (INC073):** no astronomical object matches the first part of the window; the book's claim of 12 operational "RT-14" missiles in 1989 and a "prominent" Cuban-crisis role is contradicted (R-14 withdrawn by 1984; no R-14s reached Cuba) (EVD093).
 Limits: tertiary/secondhand Soviet material; time-zone assumptions in sky checks; INF section headings inferred from a flattened web copy.
+
+## Follow-up 19: Chapter 16 — Ruppelt's "63 cases" and the USAFE cable — v1.19.0
+
+- **"63 cases" (CLM098, now DISPUTED):** The LOOK article (1 Jul 1952) is by J. Robert Moskin, not Ruppelt (EVD095). It says Ruppelt kept 63 of the "most detailed and most mystifying" unidentified sightings on top of his file, from pilots, ship observers, scientists and others; when mapped, "a number of concentrations duplicated exactly the area of atomic energy installations", but intelligence found no spying evidence and no other correlation. So the book's "63 cases of UFOs over nuclear installations" overstates the source. Whether that file exists in declassified Blue Book was not tested.
+- **USAFE cable (CLM099, PARTIALLY_VERIFIED):** Aldrich's own article confirms TT #1524 (4 Nov 1948), copies to CIA and AMC, and a Swedish lake object (EVD096). Context the book omits: Aldrich ties the lake event to Gen. Jung's Aug 1948 sighting of a probable Soviet-origin guided missile; most of the cable concerned Neubiberg and Swedish opinion. The original telecon was not seen (War.gov copy blocked).
+Limits: transcriptions and a researcher's article; NARA catalog not searched.

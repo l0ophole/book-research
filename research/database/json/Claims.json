@@ -1169,8 +1169,8 @@
   "attribution": "Jan Aldrich via Hastings",
   "claim_type": "DOCUMENT_REFERENCE",
   "importance": "MEDIUM",
-  "verification_status": "NOT_YET_INVESTIGATED",
-  "confidence": 0,
+  "verification_status": "DISPUTED",
+  "confidence": 2,
   "quotation": "",
   "section_id": "SEC081",
   "line_ref": 13027
@@ -1181,8 +1181,8 @@
   "attribution": "Aldrich via Hastings",
   "claim_type": "DOCUMENT_REFERENCE",
   "importance": "MEDIUM",
-  "verification_status": "NOT_YET_INVESTIGATED",
-  "confidence": 0,
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
   "quotation": "",
   "section_id": "SEC081",
   "line_ref": 13220

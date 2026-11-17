@@ -1126,5 +1126,29 @@
   "confidence": 3,
   "section_id": "SEC088",
   "line_ref": 17363
+ },
+ {
+  "evidence_id": "EVD095",
+  "description": "LOOK 1 July 1952 (SRC052) vs the book's CLM098: the article is by J. Robert Moskin, not Ruppelt; the 63 sightings are Ruppelt's 'most detailed and most mystifying' unidentified cases in general (from pilots, ship observers, a colonel, scientists, weather observers and intelligence officers), not '63 cases of UFOs over nuclear installations.' The article says that when the 63 were mapped, 'a number of concentrations duplicated exactly the area of atomic energy installations', and that intelligence found no pattern/correlation otherwise and no evidence the saucers were spying on atomic plants. So the book's (Aldrich's) wording overstates the 63 as a nuclear-site file; the true statement is that clusters coincided with AEC areas and that the 63 file is not in declassified Blue Book files (the second part I did not test).",
+  "evidence_type": "TRANSCRIPT_COMPARISON",
+  "provenance": "SRC052",
+  "related_entities": "CLM098;MIS041",
+  "significance": "HIGH",
+  "verification_status": "CONTRADICTED",
+  "confidence": 1,
+  "section_id": "SEC081",
+  "line_ref": 13027
+ },
+ {
+  "evidence_id": "EVD096",
+  "description": "USAFE TT #1524 (SRC053) vs CLM099: Aldrich's description of the cable (4 Nov 1948, USAFE A-2 to Air Force DI, copies to CIA and AMC, Swedish lake object) is confirmed in outline by his own article, which I read; the Wikipedia-style 'existence of TS UFO documents at Wright Field' inference is his, and he himself says the Estimate of the Situation is separately unconfirmed. The cable's own content was mostly Neubiberg and Swedish-opinion items; the Swedish lake object is tied by Aldrich to a likely Soviet-origin missile sighting by Gen. Jung (24 Aug 1948), a context the book omits. The original telecon was not seen by me; a War.gov copy (2026 release) was blocked. The book's quoted Saturday Evening Post/Shallet restriction (Secret only, not TS) is from Aldrich's footnote and is not tested.",
+  "evidence_type": "TERTIARY_COMPARISON",
+  "provenance": "SRC053",
+  "related_entities": "CLM099",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC081",
+  "line_ref": 13220
  }
 ]
