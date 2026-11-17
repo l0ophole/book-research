@@ -321,3 +321,12 @@ Limits: OCR noisy; excerpts only; I read perhaps a quarter of the text; I could 
 ## Follow-up 33: the rest of the wing-history scan — v1.33.0
 
 Searched and read the later volumes of the 341st SMW history excerpts (EVD134). **No other UFO, Oscar, Mike, India or Belt mention appears anywhere in the scan**; the only UFO text is the Q1 1967 sentence that rumors around Echo were "disproven". The Q3 1967 excerpt says there were no missile accidents or incidents that quarter; the Q4 excerpt records Boeing/SAMSO lightning-strike EMP tests at LF Sierra-39 (14 Nov–15 Dec 1967, completed 9 Jan 1968) and states that the adverse-power theory of the Echo incident "proved negative results"; a separate Oct 1967 control-facility battery/power incident had no determined cause ("freak"). Limits: excerpts only, OCR noisy, large parts unread — the negatives are weak.
+
+## Follow-up 34: Chapter 21 (Bentwaters/Rendlesham) and the Halt memo — v1.34.0
+
+Read the rest of Ch.21 (lines 16061–17362; coverage 82.9%) and the Halt memo itself (SRC070). 5 incidents (INC123–INC127), 4 witness records, 7 claims. Findings (EVD135–EVD136):
+- **The Halt memo places no beam or UFO at the Weapons Storage Area** and never mentions weapons; the WSA claim rests on Halt's later recollection of radio chatter, now stated as beams "near" the WSA. The memo has two objects north and one south; later interviews have three north and one south.
+- **No WSA witness saw beams:** Egercic (who controlled the radio net), Bobo (WSA tower) and Waters (ART) all deny beams at the WSA and say no one debriefed them; Thompson's "tower buzzing" is secondhand from an unnamed coworker and Bobo and Waters say the object never came over the WSA.
+- **Sky:** on the night of 27/28 Dec 1980, Deneb and Vega stood ~10° up in the north and Sirius (S-SSW) and Jupiter/Saturn (ESE-SE) were low in the south, matching the memo's "about 10 degrees off the horizon" star-like objects (I did not test the lighthouse bearing).
+- **Weapons removal and radar** are anonymous or unlogged recollections (Burris saw only a guarded C-5A; Halt calls such movements routine; the controllers disagree on direction, a right-angle turn and a visual; Eastern Radar's 28 Dec 0325 GMT log shows a flashing light and nothing on radar).
+Limits: Cosmos 749 timing from search snippets; no logs seen.

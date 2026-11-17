@@ -360,3 +360,13 @@
 - **Status:** NOT_STARTED
 - **Next action:** Obtain full histories
 
+## RQ037 [HIGH] — Do any records place a beam, light or UFO at the Bentwaters WSA in Dec 1980, and was there a weapons movement linked to it?
+- **Related:** INC123;INC124;INC127;CLM254;CLM256
+- **Existing evidence:** Halt memo; interviews
+- **Missing evidence:** Security logs; blotter; C-5A manifest; MOD files
+- **Potential sources:** NARA; USAF; UK National Archives
+- **Methods:** Request logs and MOD file DEFE 24
+- **Verification criteria:** Documented event or none
+- **Status:** NOT_STARTED
+- **Next action:** Look for the 1981 blotter and MOD DEFE files
+

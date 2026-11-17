@@ -678,5 +678,15 @@
   "status": "OPEN",
   "section_id": "SEC070",
   "line_ref": 9665
+ },
+ {
+  "missing_id": "MIS069",
+  "description": "Bentwaters WSA tower/CSC logs and desk blotter entries for 25-31 Dec 1980 (Burris prepared one); C-5A movement records Jan 1981; Eastern Radar log original; Carey/Barker tower logs",
+  "existence_status": "SUSPECTED",
+  "potential_repository": "USAF/NARA; UK National Archives (MOD files)",
+  "acquisition_method": "FOIA/MOD requests",
+  "status": "OPEN",
+  "section_id": "SEC087",
+  "line_ref": 16878
  }
 ]

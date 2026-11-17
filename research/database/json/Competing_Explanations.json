@@ -648,5 +648,15 @@
   "evaluation_status": "OPEN",
   "section_id": "SEC074",
   "line_ref": 10452
+ },
+ {
+  "explanation_id": "EXP066",
+  "target_entities": "INC123;INC124;INC125",
+  "explanation": "Stars and planets low on the horizon (Deneb, Vega N; Jupiter, Saturn ESE-SE; Sirius S-SSW), the Orford Ness lighthouse (bearing east) and its beam as the \"stream of light\" from the south, a fireball/Cosmos 749 re-entry earlier on 25/26 Dec, and a ground-level light show amplified by radio chatter and expectation",
+  "supporting_evidence": "EVD135: stars at ~10 deg in N and S at Halt's times; Halt himself describes a lighthouse at 30-40 deg to the right; Eastern Radar log shows a flashing light and nothing on radar; all WSA-tower and alarm witnesses deny beams at the WSA",
+  "contradicting_evidence": "Halt, Penniston, Burroughs, Bobo, Waters report solid or close objects; radar targets reported by Carey and Barker (unlogged, inconsistent)",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC087",
+  "line_ref": 16066
  }
 ]

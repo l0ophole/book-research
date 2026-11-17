@@ -1240,5 +1240,23 @@
   "reliability_notes": "Excerpts only (about 84 pages of five volumes); OCR errors; I read perhaps a quarter of the text; absence of Oscar or other incidents in excerpts is not conclusive.",
   "verification_status": "VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC070",
+  "title": "Halt memorandum \"Unexplained Lights\", 13 Jan 1981 (text as released under FOIA; Black Vault)",
+  "author": "Lt Col Charles I. Halt, USAF",
+  "organization": "The Black Vault; US FOIA release 1983 to R. Todd/CAUS",
+  "pub_date": "1981-01-13",
+  "source_type": "Official USAF memo to RAF/CC (one page)",
+  "classification": "PRIMARY",
+  "url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/",
+  "document_identifier": "",
+  "pages_sections": "whole memo",
+  "access_date": "2026-11-17",
+  "related_entities": "INC034;EVD135;GOV012",
+  "extracted_information": "Para 1: 27 Dec 80 ~0300L, triangular object in forest; para 2: depressions, 0.1 mR Beta/Gamma on 29 Dec; para 3: later that night a red sun-like light that broke into five, then three star-like objects, two N and one S about 10 deg above the horizon, moving in sharp angular movements with red, green and blue lights; the object to the south beamed down a stream of light from time to time. No mention of the WSA or nuclear weapons.",
+  "reliability_notes": "Official text; descriptive of witnesses' claims, not an investigation.",
+  "verification_status": "VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

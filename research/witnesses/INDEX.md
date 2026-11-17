@@ -129,3 +129,7 @@
 | WIT125 | N. Henry "Hank" Barlow | EM Team 24, 341st MMS 1966-67 | PARTIAL (restarts; secondhand UFO) | NAMED |
 | WIT126 | 1st Lt Robert C. Jamison | Combat Targeting Team Commander, 341st MMS 1967 | YES (restarts), NO (UFOs) | NAMED |
 | WIT127 | "Mr. X" (Echo E-7 team member) | Minuteman technician (triple qualified) | YES (per Salas) | ANONYMOUS |
+| WIT128 | Carl Thompson Jr. | Senior Airman, 2164th Communications Squadron, Bentwaters 1980 | NO (secondhand) | NAMED |
+| WIT129 | Rick Bobo; Robert "Charlie" Waters; Tim Egercic; Michael Christian | 81st SPS Security Police, Bentwaters 1980 | YES (Bobo, Waters); NO (Egercic: alarm monitor; Christian left before Dec 1980) | NAMED |
+| WIT130 | James H. Carey and Ivan "Ike" Barker | Air traffic controllers, 2164th Comm Sq, Bentwaters | YES (radar; Barker visual) | NAMED |
+| WIT131 | James D. "J.D." Burris | Senior Airman, 81st SPS CSC, Bentwaters 1980 | NO (blotter and C-5A hearsay); YES (1982 sighting) | NAMED |

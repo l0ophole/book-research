@@ -124,3 +124,8 @@
 | INC119 | 1967-03-16 (Echo) and 1967 summer (Bravo site) | Echo-1/Echo-2 and a Bravo site, Malmstrom | HIGH | UNVERIFIED | 1 | 10415 |
 | INC120 | 1967-03 (Jamison: Oscar night; Hastings: 24/25 Mar) and ~2 weeks later (India) | Oscar Flight and India Flight, Malmstrom | CRITICAL | UNVERIFIED | 1 | 10537 |
 | INC121 | 1967-03-16 dusk | Launch Facility E-7, Echo Flight | HIGH | UNVERIFIED | 1 | 10748 |
+| INC123 | 1980-12 (Thompson: nights of ~25-26 and ~27-28 Dec) | RAF Bentwaters WSA tower (via 2164th Comm Sq repairman Thompson) | MEDIUM | UNVERIFIED | 1 | 16244 |
+| INC124 | 1980-12 (Bobo: Halt night; Waters: "that same week") | RAF Bentwaters WSA (81st SPS D Flight) | HIGH | UNVERIFIED | 1 | 16393 |
+| INC125 | 1980-12-26 to 1981-01-01 (night; ~2200-2400 per Carey, before 0325 GMT 28 Dec per Eastern Radar) | Bentwaters air traffic control tower | HIGH | UNVERIFIED | 1 | 17110 |
+| INC126 | 1980-02 to 1982-11 (series) | RAF Bentwaters / Woodbridge, Suffolk | LOW | UNVERIFIED | 1 | 16961 |
+| INC127 | 1980-12 to 1981-01 (Burris: 1-2 weeks after the second event) | Bentwaters WSA/airfield | HIGH | UNVERIFIED | 1 | 16878 |

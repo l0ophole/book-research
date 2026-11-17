@@ -568,5 +568,15 @@
   "query": "SRC069",
   "result": "No later UFO, Oscar, Mike, India or Belt mention; Q3 no missile incidents; EMP lightning tests at Sierra-39 Nov 1967-Jan 1968; Echo cause still undetermined",
   "limitations": "OCR noisy; excerpts only; large parts unread"
+ },
+ {
+  "log_id": 58,
+  "log_date": "2026-11-17",
+  "action": "Read book lines 16061-17362 (rest of Ch.21: Halt interview, WSA witnesses, other Bentwaters sightings, radar controllers); read the Halt memo text; sky check for Halt's night; searched Rendlesham explanations",
+  "reason": "Follow-up 1: Chapter 21 and the Halt memo",
+  "tool": "Read; curl; PyEphem; WebSearch",
+  "query": "analysis/rendlesham_1980_sky.py",
+  "result": "Memo has no WSA mention; stars at ~10 deg N and S match; all WSA witnesses deny beams; weapons-removal and radar stories unlogged hearsay",
+  "limitations": "Lighthouse bearing not tested; Cosmos 749 timing from search snippets only; no logs seen"
  }
 ]

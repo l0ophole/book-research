@@ -1213,8 +1213,8 @@
   "line_end": 17362,
   "word_count": 14758,
   "footnote_markers": 9,
-  "pct_lines_read": 9.6,
-  "coverage_status": "PARTIAL_READ",
+  "pct_lines_read": 100.0,
+  "coverage_status": "FULL_READ",
   "notes": ""
  },
  {

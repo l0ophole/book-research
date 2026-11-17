@@ -1606,5 +1606,29 @@
   "confidence": 3,
   "section_id": "SEC073",
   "line_ref": 10099
+ },
+ {
+  "evidence_id": "EVD135",
+  "description": "Halt memo (SRC070) and sky (analysis/rendlesham_1980_sky.py; Woodbridge 52.09N 1.44E; times GMT). The memo says: 27 Dec 80 ~0300L first sighting; 'three star-like objects ... Two objects to the north and one to the south, all of which were about 10 degrees off the horizon ... sharp angular movements ... red, green and blue lights', and the southern object 'beamed down a stream of light from time to time' for two or three hours; it never mentions the WSA or weapons. In the interviews quoted in the book Halt has three objects north and one south, and places beams 'near the WSA'. Sky on the night of 27/28 Dec 1980 (0050-0325 GMT): Deneb stood ~9 deg in the N (az 346-13), Vega 1-11 deg in the NNE, i.e. two bright stars ~10 deg up in the north; Sirius (m-1.4) was 12-21 deg up in the SSW (az 189-226) and Jupiter (m-1.9, alt 5-26, az 99-134) with Saturn (m0.9) were rising in the ESE-SE; the 61% Moon rose in the ESE (alt 19-38). So two bright stars in the N and a bright star or planet in the S-SE at about 10 deg altitude are available at the times and altitudes the memo describes, and stars low in the sky scintillate with red, green and blue flashes; I did not test the lighthouse bearing. The first (Penniston/Burroughs) event is dated 27 Dec in the memo but 26 Dec in the book (a known discrepancy in the literature; Eastern Radar's log is dated 28 Dec 0325 GMT). A search found sources attributing a bright 25/26 Dec fireball to a Cosmos rocket re-entry, but timing varies between sources (21:07 on 25 Dec in one).",
+  "evidence_type": "GOVERNMENT_RECORD",
+  "provenance": "SRC070; analysis/rendlesham_1980_sky.py",
+  "related_entities": "INC034;INC035;INC123;INC124;INC125;EXP066;CLM054",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC087",
+  "line_ref": 16066
+ },
+ {
+  "evidence_id": "EVD136",
+  "description": "Evidence structure of the Bentwaters WSA material: (a) the only contemporaneous document (Halt memo) places no beam or UFO at the WSA; (b) the WSA claim rests on Halt's recollection of radio chatter, now stated as beams 'near' the WSA, and on unnamed airmen; (c) the three identified WSA witnesses on the relevant night (Bobo, Waters, Egercic) deny beams and say no one was debriefed; (d) Thompson's tower-buzzing story is secondhand from an unnamed coworker, and Bobo and Waters say the object never came over the WSA; (e) the weapons-removal story rests on an anonymous officer and Burris, who saw only a specially guarded C-5A and a weapons movement he did not tie to UFOs; Halt called such movements routine; (f) the radar claim is from memory 25 years later and unlogged, with disagreement over direction and a right-angle turn, and the only dated record (Eastern Radar) shows nothing observed. Hastings himself lists these inconsistencies, which makes the chapter a candid account of an unproven link.",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "book Ch.21; SRC070",
+  "related_entities": "INC123;INC124;INC125;INC127;CLM254;CLM255;CLM256",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC087",
+  "line_ref": 16243
  }
 ]

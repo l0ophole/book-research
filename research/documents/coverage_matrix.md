@@ -90,7 +90,7 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC084 | Chapter 18 | END OF NORAD LOG ENTRIES | 14121 | 14893 | 7426 | 17.1 | PARTIAL_READ |
 | SEC085 | Chapter 19 | 19. Mutilations | 14894 | 15330 | 3808 | 100.0 | FULL_READ |
 | SEC086 | Chapter 20 | 20. Like a Diamond in the Sky | 15331 | 15922 | 5875 | 100.0 | FULL_READ |
-| SEC087 | Chapter 21 | 21. Beams of Light | 15923 | 17362 | 14758 | 9.6 | PARTIAL_READ |
+| SEC087 | Chapter 21 | 21. Beams of Light | 15923 | 17362 | 14758 | 100.0 | FULL_READ |
 | SEC088 | Chapter 22 | 22. “Satellite” Alerts | 17363 | 17485 | 1177 | 100.0 | FULL_READ |
 | SEC089 | Chapter 23 | 23. Back in the U.S.S.R. | 17486 | 17824 | 3186 | 100.0 | FULL_READ |
 | SEC090 | Chapter 24 | 24. Into the Nineties | 17825 | 18749 | 9003 | 100.0 | FULL_READ |

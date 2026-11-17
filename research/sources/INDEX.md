@@ -71,3 +71,4 @@
 | SRC067 | Operation CASTLE (CASTLE Series, 1954), DNA 6035F, Defense Nuclear Agency, 538 pp (copy of DOE OHP document 0407565 on nuclearsecrecy.com) | PRIMARY | EXAMINED | VERIFIED | https://minddfiles.nuclearsecrecy.com/0407565.pdf |
 | SRC068 | Castle Series report DNA 6035F - tables of aircraft and foreign participation (same file as SRC067) | PRIMARY | EXAMINED | VERIFIED | https://minddfiles.nuclearsecrecy.com/0407565.pdf |
 | SRC069 | 341st Strategic Missile Wing histories, excerpts for 1 Jan-31 Mar 1967, 1 Apr-30 Jun 1967, 1 Jul-30 Sep 1967, 1 Oct-31 Dec 1967, 1 Jan-31 Mar 1968 (88-page FOIA release, J. Greenewald, 2001) | PRIMARY | EXAMINED | VERIFIED | http://documents.theblackvault.com/documents/ufos/malmstromufo.pdf |
+| SRC070 | Halt memorandum "Unexplained Lights", 13 Jan 1981 (text as released under FOIA; Black Vault) | PRIMARY | EXAMINED | VERIFIED | https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/ |

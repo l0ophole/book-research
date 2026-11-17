@@ -1268,5 +1268,45 @@
   "notes": "Identity withheld by Salas.",
   "section_id": "SEC074",
   "line_ref": 10748
+ },
+ {
+  "witness_id": "WIT128",
+  "name": "Carl Thompson Jr.",
+  "role": "Senior Airman, 2164th Communications Squadron, Bentwaters 1980",
+  "firsthand_status": "NO (secondhand)",
+  "identity_status": "NAMED",
+  "notes": "Halt agrees he is credible; the WSA-tower coworker is unnamed and unlocated.",
+  "section_id": "SEC087",
+  "line_ref": 16251
+ },
+ {
+  "witness_id": "WIT129",
+  "name": "Rick Bobo; Robert \"Charlie\" Waters; Tim Egercic; Michael Christian",
+  "role": "81st SPS Security Police, Bentwaters 1980",
+  "firsthand_status": "YES (Bobo, Waters); NO (Egercic: alarm monitor; Christian left before Dec 1980)",
+  "identity_status": "NAMED",
+  "notes": "All say no beams at the WSA; Bobo and Waters not debriefed.",
+  "section_id": "SEC087",
+  "line_ref": 16393
+ },
+ {
+  "witness_id": "WIT130",
+  "name": "James H. Carey and Ivan \"Ike\" Barker",
+  "role": "Air traffic controllers, 2164th Comm Sq, Bentwaters",
+  "firsthand_status": "YES (radar; Barker visual)",
+  "identity_status": "NAMED",
+  "notes": "Not logged or reported at the time; accounts differ on direction, turn and visual.",
+  "section_id": "SEC087",
+  "line_ref": 17110
+ },
+ {
+  "witness_id": "WIT131",
+  "name": "James D. \"J.D.\" Burris",
+  "role": "Senior Airman, 81st SPS CSC, Bentwaters 1980",
+  "firsthand_status": "NO (blotter and C-5A hearsay); YES (1982 sighting)",
+  "identity_status": "NAMED",
+  "notes": "",
+  "section_id": "SEC087",
+  "line_ref": 16806
  }
 ]

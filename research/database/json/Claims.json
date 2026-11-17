@@ -3034,5 +3034,89 @@
   "quotation": "",
   "section_id": "SEC073",
   "line_ref": 10099
+ },
+ {
+  "claim_id": "CLM254",
+  "claim_text": "Halt (Rayl interview; Feb 2006 call; emails): beams from the southern object came down 'near' (not into) the Bentwaters WSA, known from radio chatter; several airmen later told him they saw them but he cannot name them; he cannot comment on weapons.",
+  "attribution": "Halt via Hastings",
+  "claim_type": "INCIDENT_CLAIM",
+  "importance": "CRITICAL",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "quotation": "",
+  "section_id": "SEC087",
+  "line_ref": 16066
+ },
+ {
+  "claim_id": "CLM255",
+  "claim_text": "No WSA personnel Hastings interviewed saw beams or heard chatter about them (Egercic, Bobo, Waters), which would have been a security breach.",
+  "attribution": "Egercic, Bobo, Waters via Hastings",
+  "claim_type": "COMPARISON",
+  "importance": "CRITICAL",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "quotation": "",
+  "section_id": "SEC087",
+  "line_ref": 16739
+ },
+ {
+  "claim_id": "CLM256",
+  "claim_text": "A retired NATO weapons-security officer and Burris say two tactical nuclear weapons were removed from a bunker and flown to the U.S. for inspection after the UFO events.",
+  "attribution": "Anonymous officer; Burris via Hastings",
+  "claim_type": "HEARSAY",
+  "importance": "CRITICAL",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "quotation": "",
+  "section_id": "SEC087",
+  "line_ref": 16210
+ },
+ {
+  "claim_id": "CLM257",
+  "claim_text": "Thompson's coworker was briefed by OSI, told they had not seen anything and threatened; Bobo, Waters and Egercic say no one debriefed them.",
+  "attribution": "Thompson (secondhand); Bobo, Waters",
+  "claim_type": "SECRECY",
+  "importance": "MEDIUM",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "quotation": "",
+  "section_id": "SEC087",
+  "line_ref": 16304
+ },
+ {
+  "claim_id": "CLM258",
+  "claim_text": "Controllers Carey and Barker tracked an object crossing 120 miles of scope in 8-12 s and a visual orange sphere over the water tower; no log; Eastern Radar log shows a 0325 GMT call about a flashing light.",
+  "attribution": "Carey; Barker; Clarke via Hastings",
+  "claim_type": "INCIDENT_CLAIM",
+  "importance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "quotation": "",
+  "section_id": "SEC087",
+  "line_ref": 17128
+ },
+ {
+  "claim_id": "CLM259",
+  "claim_text": "UFO sightings preceded Dec 1980 by months at Bentwaters/Woodbridge (Feb and Jun 1980; a green object near the WSA fence), suggesting an ongoing pattern.",
+  "attribution": "Rehfeldt; Kern diary; Kern via Hastings",
+  "claim_type": "INCIDENT_CLAIM",
+  "importance": "MEDIUM",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "quotation": "",
+  "section_id": "SEC087",
+  "line_ref": 16988
+ },
+ {
+  "claim_id": "CLM260",
+  "claim_text": "All Bentwaters sources reject the lighthouse explanation as ridiculous; a false-radar-return theory is expected to be offered for the radar.",
+  "attribution": "Hastings",
+  "claim_type": "ARGUMENT",
+  "importance": "MEDIUM",
+  "verification_status": "UNVERIFIED",
+  "confidence": 1,
+  "quotation": "",
+  "section_id": "SEC087",
+  "line_ref": 17275
  }
 ]
