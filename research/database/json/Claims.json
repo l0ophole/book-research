@@ -785,8 +785,8 @@
   "attribution": "Hastings",
   "claim_type": "FACTUAL_CLAIM",
   "importance": "MEDIUM",
-  "verification_status": "UNVERIFIED",
-  "confidence": 1,
+  "verification_status": "DISPUTED",
+  "confidence": 2,
   "quotation": "",
   "section_id": "SEC078",
   "line_ref": 11688
@@ -809,8 +809,8 @@
   "attribution": "Clark/Saunders via Hastings",
   "claim_type": "ATTRIBUTED_CLAIM",
   "importance": "MEDIUM",
-  "verification_status": "UNVERIFIED",
-  "confidence": 1,
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
   "quotation": "",
   "section_id": "SEC078",
   "line_ref": 11758

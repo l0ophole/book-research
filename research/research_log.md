@@ -301,3 +301,10 @@
 - Result: CLM098 contradicted as worded; CLM099 supported in outline; EVD095-096
 - Limitations: Original telecon and Blue Book file lists not seen; NARA catalog not searched; Shallet letter not checked
 
+### 44. 2026-11-16 — Fetched NCAS online Condon Report (contents, Sec I, Sec II, Sec IV case lists), Fuller LOOK article and McCarthy chapter from Project 1947, Wikipedia page
+- Reason: Follow-up 1: Condon claims vs the Condon Report
+- Tool: curl; WebSearch
+- Query/target: files.ncas.org/condon; project1947.com
+- Result: Conclusion quote verified; Low memo and Elmira quotes verified in substance; 59 cases vs book 91; 30% and Good God/horse-whip not located; EVD097-101
+- Limitations: Did not read individual case analyses or tabulate classifications; original Low memo and newspaper not seen
+

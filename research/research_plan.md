@@ -270,3 +270,13 @@
 - **Status:** NOT_STARTED
 - **Next action:** Locate ABC transcript
 
+## RQ028 [MEDIUM] — Do the book's Condon figures (91 sightings, nearly 30% unknown), the "Good God!" annotation and the "horse-whipped" quotation have primary sources?
+- **Related:** CLM066;CLM068;CLM069;EVD097;EVD101
+- **Existing evidence:** Condon Report Sections I-II and case lists; Fuller; McCarthy
+- **Missing evidence:** Tabulation of the 59 case conclusions; Hartmann draft; Condon speeches 1969
+- **Potential sources:** Condon Report Section IV; Hartmann papers; CU Boulder archive
+- **Methods:** Tabulate the 59 cases; search for the Condon horsewhipping quote
+- **Verification criteria:** Primary source text
+- **Status:** NOT_STARTED
+- **Next action:** Count identified vs unidentified among the 59 cases
+

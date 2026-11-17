@@ -1150,5 +1150,65 @@
   "confidence": 3,
   "section_id": "SEC081",
   "line_ref": 13220
+ },
+ {
+  "evidence_id": "EVD097",
+  "description": "Condon Report (SRC054): Section I's general conclusion is quoted verbatim by the book ('nothing has come from the study of UFOs in the past 21 years that has added to scientific knowledge ... further extensive study of UFOs probably cannot be justified'). But the book's case numbers do not match the report: Section IV lists 59 case studies (1-10 predating, 11-45, 46-59 photographic); Wikipedia also says 59 and that Rothberg investigated ~100. I found no '91 sightings' and no 'nearly 30% unknown' figure in the text I read (Sections I-II, case lists) and did not tabulate each case's classification. Funding: Wikipedia gives the initial Air Force offer as $313,000; the $500,000 figure appears as Fuller's LOOK headline ('$500,000 trick'); the book's '$500,000 grant' is imprecise.",
+  "evidence_type": "TRANSCRIPT_COMPARISON",
+  "provenance": "SRC054",
+  "related_entities": "CLM065;CLM066;EVD020",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC078",
+  "line_ref": 11688
+ },
+ {
+  "evidence_id": "EVD098",
+  "description": "Low memo (9 Aug 1966): the book's quote is confirmed in substance by Fuller's article text (SRC055): 'The trick would be ... to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers trying their best to be objective, but having an almost zero expectation of finding a saucer', and the suggestion to study the 'psychology and sociology' of observers. One wording difference: the book has 'an impressive body of thick evidence', the Fuller text 'an impressive body of evidence'. Context from Wikipedia/Saunders/Hynek: Saunders said calling Low a plotter was unfair; Hynek said Low wanted Colorado to get the contract and to persuade the university administration; Craig defended the memo. I have not seen the original memo.",
+  "evidence_type": "TRANSCRIPT_COMPARISON",
+  "provenance": "SRC055; Wikipedia (SRC019)",
+  "related_entities": "CLM067",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC078",
+  "line_ref": 11701
+ },
+ {
+  "evidence_id": "EVD099",
+  "description": "Condon at Corning (Elmira Star-Gazette, 26 Jan 1967), per SRC055 and SRC056: 'It is my inclination right now to recommend that the government get out of this business. My attitude right now is that there is nothing to it, but I'm not supposed to reach a conclusion for another year.' The book (via Clark) has 'that conclusion'; the substance and 'nonsense' sense match. Omitted context: Condon wrote to Keyhoe claiming the press distorted his remarks (SRC056). Whether that is a misquote is unresolved; I did not see the newspaper itself.",
+  "evidence_type": "TRANSCRIPT_COMPARISON",
+  "provenance": "SRC055; SRC056",
+  "related_entities": "CLM068",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC078",
+  "line_ref": 11758
+ },
+ {
+  "evidence_id": "EVD100",
+  "description": "Dismissals: SRC055/SRC056 place the firing of Saunders and Levine on 8 Feb 1968 (after the Low memo reached McDonald), and say Condon gave 'incompetence' as the reason; the Saunders-reported remark is rendered 'for this you should be professionally destroyed' (via Mrs Saunders) vs the book's 'you deserve to be ruined professionally'. Accounts of how the memo reached McDonald differ (Saunders gave it to Keyhoe per the book; McDonald found a copy in the open project files per another search result). Not resolved.",
+  "evidence_type": "TRANSCRIPT_COMPARISON",
+  "provenance": "SRC055; SRC056",
+  "related_entities": "CLM068",
+  "significance": "LOW",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC078",
+  "line_ref": 11730
+ },
+ {
+  "evidence_id": "EVD101",
+  "description": "Claims not located in the sources checked: Condon's 'Good God!' on Hartmann's draft (Hartmann's views on the ETH), and Condon's recommendation that educators teaching the ET hypothesis be 'publicly horse-whipped' (book line 11980, unsourced). I did not find either in the Fuller article, the McCarthy chapter, or the Condon Report sections I read; absence is not disproof.",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "SRC055; SRC056; SRC054",
+  "related_entities": "CLM068;CLM069",
+  "significance": "LOW",
+  "verification_status": "INSUFFICIENT_EVIDENCE",
+  "confidence": 1,
+  "section_id": "SEC078",
+  "line_ref": 11785
  }
 ]

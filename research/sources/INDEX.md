@@ -55,3 +55,6 @@
 | SRC051 | R-14 Chusovaya | TERTIARY | EXAMINED | PARTIALLY_VERIFIED | https://en.wikipedia.org/wiki/R-14_Chusovaya |
 | SRC052 | LOOK magazine, 1 July 1952: "Hunt For The Flying Saucer" (transcription) | SECONDARY | EXAMINED | VERIFIED | https://project1947.com/fig/look7152.htm |
 | SRC053 | Early Top Secret UFO Document Discovered (USAFE TT #1524, 4 Nov 1948), Project 1947 - Jan Aldrich (MUFON Journal, Apr 2000, revised) | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://project1947.com/fig/jtt.htm |
+| SRC054 | Scientific Study of Unidentified Flying Objects (the Condon Report), 1968 - NCAS Internet edition | PRIMARY | EXAMINED | VERIFIED | https://files.ncas.org/condon/index.html |
+| SRC055 | Flying Saucer Fiasco (LOOK, 14 May 1968, John G. Fuller) - Sign Historical Group transcription | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://www.project1947.com/shg/articles/fiasco.html |
+| SRC056 | The Condon Study chapter, in D. McCarthy (Sign Historical Group) history of NICAP/UFO controversy | SECONDARY | EXAMINED | PARTIALLY_VERIFIED | https://www.project1947.com/shg/mccarthy/chap03.html |

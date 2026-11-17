@@ -9,15 +9,15 @@
   "Witness_Incidents": 95,
   "Government_Documents": 17,
   "Technical_Evidence": 9,
-  "Sources": 53,
+  "Sources": 56,
   "References": 358,
   "Competing_Explanations": 45,
-  "Evidence_Records": 96,
+  "Evidence_Records": 101,
   "Missing_Records": 56,
-  "Research_Questions": 27,
-  "Relationships": 739,
+  "Research_Questions": 28,
+  "Relationships": 762,
   "Document_Claim_Links": 147,
-  "Research_Log": 43,
+  "Research_Log": 44,
   "Pattern_Scan_Leads": 118,
   "Name_Mentions": 196
  },
@@ -80,7 +80,7 @@
   ],
   [
    "relationships",
-   739
+   762
   ]
  ]
 }
