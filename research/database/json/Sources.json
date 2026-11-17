@@ -1204,5 +1204,23 @@
   "reliability_notes": "Mirror of the official report; Table 60 is a DNA summary of the deck log, not a verbatim transcription.",
   "verification_status": "VERIFIED",
   "examination_level": "EXAMINED"
+ },
+ {
+  "source_id": "SRC068",
+  "title": "Castle Series report DNA 6035F - tables of aircraft and foreign participation (same file as SRC067)",
+  "author": "Defense Nuclear Agency",
+  "organization": "DNA; mirror nuclearsecrecy.com",
+  "pub_date": "1982",
+  "source_type": "Official report (PDF)",
+  "classification": "PRIMARY",
+  "url": "https://minddfiles.nuclearsecrecy.com/0407565.pdf",
+  "document_identifier": "DNA 6035F",
+  "pages_sections": "Table 13 (aircraft), foreign participation, decon section, SAR entries",
+  "access_date": "2026-11-17",
+  "related_entities": "CLM232;CLM233;EVD126",
+  "extracted_information": "Table 13 lists code name VIKING as 3 VIP aircraft and UK Canberra (2) as Eager Beaver, Kwajalein; RAF Canberras sampled all events except Union; the Bravo Canberra returned heavily contaminated; SAR for an RAF Canberra lost 23 Feb 1954.",
+  "reliability_notes": "Same mirror as SRC067; text via OCR with gaps.",
+  "verification_status": "VERIFIED",
+  "examination_level": "EXAMINED"
  }
 ]

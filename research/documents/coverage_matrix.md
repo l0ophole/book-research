@@ -29,21 +29,21 @@ Status definitions: **FULL_READ** ≥90% of the section’s lines read verbatim 
 | SEC023 | Chapter 3 | 3. Flashing Sky, Killing Wind | 2424 | 2469 | 399 | 100.0 | FULL_READ |
 | SEC024 | Chapter 3 | SQUADRON OF DISCS OVER ATOMIC TEST SITE OCTOBER 30, 1951 | 2470 | 2478 | 84 | 100.0 | FULL_READ |
 | SEC025 | Chapter 3 | THE SIGHTING | 2479 | 2553 | 789 | 100.0 | FULL_READ |
-| SEC026 | Chapter 3 | EVALUATION | 2554 | 3012 | 4322 | 44.0 | PARTIAL_READ |
-| SEC027 | Chapter 3 | Operation Tumbler-Snapper | 3013 | 3141 | 1208 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC028 | Chapter 3 | Operation Desert Rock | 3142 | 3201 | 526 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC029 | Chapter 3 | Operation Upshot-Knothole | 3202 | 3258 | 512 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC030 | Chapter 3 | Operation Teapot | 3259 | 3402 | 1331 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC031 | Chapter 3 | Operation Plumbbob | 3403 | 3482 | 754 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC032 | Chapter 4 | 4. Meanwhile, out at Sea | 3483 | 3587 | 975 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC033 | Chapter 4 | Testing in the Pacific | 3588 | 3996 | 4174 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC026 | Chapter 3 | EVALUATION | 2554 | 3012 | 4322 | 100.0 | FULL_READ |
+| SEC027 | Chapter 3 | Operation Tumbler-Snapper | 3013 | 3141 | 1208 | 100.0 | FULL_READ |
+| SEC028 | Chapter 3 | Operation Desert Rock | 3142 | 3201 | 526 | 100.0 | FULL_READ |
+| SEC029 | Chapter 3 | Operation Upshot-Knothole | 3202 | 3258 | 512 | 100.0 | FULL_READ |
+| SEC030 | Chapter 3 | Operation Teapot | 3259 | 3402 | 1331 | 100.0 | FULL_READ |
+| SEC031 | Chapter 3 | Operation Plumbbob | 3403 | 3482 | 754 | 100.0 | FULL_READ |
+| SEC032 | Chapter 4 | 4. Meanwhile, out at Sea | 3483 | 3587 | 975 | 100.0 | FULL_READ |
+| SEC033 | Chapter 4 | Testing in the Pacific | 3588 | 3996 | 4174 | 100.0 | FULL_READ |
 | SEC034 | Chapter 4 | A Thousand Times | 3997 | 4276 | 2608 | 100.0 | FULL_READ |
-| SEC035 | Chapter 4 | Tracking Unknown Targets After the Bravo Shot | 4277 | 4520 | 2280 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC036 | Chapter 4 | Disruptions | 4521 | 4678 | 1552 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC037 | Chapter 4 | Catching the Wind | 4679 | 4815 | 1187 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC038 | Chapter 5 | 5. Into the Sixties | 4816 | 4948 | 1295 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC039 | Chapter 5 | The Pantex Plant | 4949 | 5041 | 617 | 0.0 | PATTERN_SCAN_ONLY |
-| SEC040 | Chapter 5 | The Savannah River Plant | 5042 | 5058 | 180 | 0.0 | PATTERN_SCAN_ONLY |
+| SEC035 | Chapter 4 | Tracking Unknown Targets After the Bravo Shot | 4277 | 4520 | 2280 | 100.0 | FULL_READ |
+| SEC036 | Chapter 4 | Disruptions | 4521 | 4678 | 1552 | 100.0 | FULL_READ |
+| SEC037 | Chapter 4 | Catching the Wind | 4679 | 4815 | 1187 | 100.0 | FULL_READ |
+| SEC038 | Chapter 5 | 5. Into the Sixties | 4816 | 4948 | 1295 | 100.0 | FULL_READ |
+| SEC039 | Chapter 5 | The Pantex Plant | 4949 | 5041 | 617 | 100.0 | FULL_READ |
+| SEC040 | Chapter 5 | The Savannah River Plant | 5042 | 5058 | 180 | 100.0 | FULL_READ |
 | SEC041 | Chapter 6 | 6. The Crisis | 5059 | 5165 | 965 | 100.0 | FULL_READ |
 | SEC042 | Chapter 6 | Witness to a Limited Intervention? | 5166 | 5355 | 1911 | 100.0 | FULL_READ |
 | SEC043 | Chapter 7 | 7. The Arrows of Armageddon | 5356 | 5514 | 1399 | 100.0 | FULL_READ |

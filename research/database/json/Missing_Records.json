@@ -648,5 +648,25 @@
   "status": "OPEN",
   "section_id": "SEC098",
   "line_ref": 22343
+ },
+ {
+  "missing_id": "MIS066",
+  "description": "Wilson fireball-fallout dataset and any published methodology; Blue Book files for Lake Mead 2 Apr 1952, Savannah River 10 May 1952, Angel Peak 16 Jul 1957; Task Group 132.3 Ivy history p.95-96",
+  "existence_status": "KNOWN",
+  "potential_repository": "Wilson; NARA Blue Book (RG 341); NTPR",
+  "acquisition_method": "Ask Wilson for data; retrieve Blue Book and Ivy history",
+  "status": "OPEN",
+  "section_id": "SEC026",
+  "line_ref": 2796
+ },
+ {
+  "missing_id": "MIS067",
+  "description": "USS Fletcher (DD-445) deck logs Oct 1952; USS Curtiss Ivy deck logs",
+  "existence_status": "KNOWN",
+  "potential_repository": "NARA",
+  "acquisition_method": "Retrieve logs and read the 24-28 Oct 1952 watches",
+  "status": "OPEN",
+  "section_id": "SEC033",
+  "line_ref": 3889
  }
 ]

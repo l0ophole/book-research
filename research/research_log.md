@@ -371,3 +371,10 @@
 - Result: Deck-log entry verified; book quote is a composite; page-removal claim disputed; EVD122-123
 - Limitations: Time zone assumed; only the Castle/Curtiss section of Ch.3 read so far; DOE site history not checkable
 
+### 54. 2026-11-17 — Read book lines 2756-3996 and 4277-5058 (Ch.3 test-site sightings, Ch.4, Ch.5 start) in full; checked DNA 6035F aircraft tables; base-rate and sky calculations; Ruppelt search
+- Reason: Follow-up 1: continue the atomic-tests chapter
+- Tool: Read; pdftotext; PyEphem; WebSearch
+- Query/target: analysis/nts_window_base_rate.py; ivy_1952_sky.py
+- Result: Extracted INC099-INC114, CLM223-CLM238; base rate 9-17% of days; Jupiter fits Marquez; VIKING code-name conflict with DNA 6035F
+- Limitations: Shot dates from memory; Ruppelt quotes unverified (Gutenberg/sacred-texts blocked); Wilson data not available
+

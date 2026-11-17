@@ -1474,5 +1474,65 @@
   "confidence": 3,
   "section_id": "SEC034",
   "line_ref": 4071
+ },
+ {
+  "evidence_id": "EVD124",
+  "description": "Base-rate test of the fallout-fireball correlation (analysis/nts_window_base_rate.py; Nevada shot dates 1951-1955 from my memory of the published list, not re-verified): the fraction of days within 0-3, 0-5, 0-7 and 0-10 days after any shot is 8.9%, 12.4%, 14.6% and 16.9% of 1,826 days (Jan 1951-Dec 1955; Plumbbob 1957 not included); 15.5% of days lie inside a series window. So a fireball report is a priori fairly likely to fall within about ten days of some shot, and nationwide fallout spreading over days widens the match further. The 1948-51 NM green-fireball outbreak predates all Nevada atmospheric tests (first 27 Jan 1951), and the book itself says fireballs were seen at Los Alamos and Sandia where no fallout fell. The book states that three pages of examples were cut and others selected ('how many examples would convincingly substantiate the point'), and Wilson's study is unpublished with no fireball catalogue or null model, so the correlation is not demonstrated (CLM223 disputed).",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "analysis/nts_window_base_rate.py",
+  "related_entities": "INC099;CLM223;CLM224;EXP060",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC026",
+  "line_ref": 2756
+ },
+ {
+  "evidence_id": "EVD125",
+  "description": "Ivy 1952 sky (analysis/ivy_1952_sky.py; Bikini/Eniwetok 11.5N 162.3E, UTC+12 assumed): at ~0400 local on 25-27 Oct 1952 Jupiter (m-2.7) stood at altitude ~59-61 deg, az ~282 (west), the only bright planet up; Venus, Mars, Saturn and Moon were below the horizon; Sirius (alt ~52 SE) and Capella (alt 55 N) were the brightest stars. Jupiter's steady non-twinkling light and constant relative bearing on a steady course fit Marquez's description of a light 'pacing' the ship, though he put it 40-45 deg up; the apparent descent/stop/rise is not astronomical. For Kramer's evening (~2100) Mars was alt 29 SW, Jupiter alt 17 ENE and the 30-52% Moon alt 26-50 SW. Dates are Marquez/Kramer estimates (5-7 days before Mike on 1 Nov), so the match is suggestive only.",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "analysis/ivy_1952_sky.py",
+  "related_entities": "INC108;EXP061",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC033",
+  "line_ref": 3716
+ },
+ {
+  "evidence_id": "EVD126",
+  "description": "Hasty/Canberra claim against DNA 6035F (SRC068): the report confirms the RAF Canberra samplers were based at Kwajalein, sampled all events except Union, one was lost en route (SAR for an RAF Canberra bomber lost 23 Feb 1954), and the Bravo Canberra was heavily contaminated and returned to base. But Table 13 lists the code name VIKING as 'VIP aircraft' (3 aircraft) and the Canberras as 'Eager Beaver', so Hastings's statement that the Canberras were code-named VIKING with orbit altitudes of 9,000-12,000 ft appears to rest on a different document or a mix-up (I could not check the 'H-Hour Aircraft Flight Plans' he cites). The report does not mention targets above 60,000 ft. The RAF Canberra's ceiling (record 63,668 ft in May 1953) is above Hasty's 'normal 49,000 ft', so a high Canberra cannot be entirely excluded; the report also says two Canberras were assigned, so 'only one' flew at Bravo is consistent with the loss. Hasty's targets remain unexplained but weakly documented.",
+  "evidence_type": "GOVERNMENT_RECORD",
+  "provenance": "SRC068",
+  "related_entities": "INC109;CLM232;CLM233;EXP062",
+  "significance": "MEDIUM",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC035",
+  "line_ref": 4279
+ },
+ {
+  "evidence_id": "EVD127",
+  "description": "Pantex 7 Nov 1957 (analysis/ivy_1952_sky.py addendum; Amarillo, 1946-2034 CST): the Moon was full (100%) rising in the ENE at 19-29 deg altitude; Venus was setting in the WSW (alt 7 to -1); Capella low in the NE (alt 15-22), Vega and Altair W-WSW; no planet or star is due north. The reporters' light 'in almost a northerly direction' and 'green, low in the northern horizon' are not bright planets. The date falls four to five days after the 2-3 Nov 1957 Levelland, TX wave, ~110 miles away (general background; not rechecked), a period of heightened expectation.",
+  "evidence_type": "ANALYST_CALCULATION",
+  "provenance": "analysis/ivy_1952_sky.py",
+  "related_entities": "INC114;EXP063",
+  "significance": "LOW",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC039",
+  "line_ref": 4959
+ },
+ {
+  "evidence_id": "EVD128",
+  "description": "Evidence structure of the Ch.3-5 sections read here: the testable parts are (a) Wilson's fireball-fallout correlation (EVD124), (b) Ruppelt quotations (the Los Alamos passage appears in Ruppelt's chapter 4 per Wikipedia; I could not open the book text and did not verify the Mainbrace and Ivy quotes), (c) DNA 6035F items (EVD122, EVD126), and (d) a 1957 Blue Book radar report (not seen). Everything else is testimony recalled 50 years later, anonymous or secondhand (Harris, the 1009th SWS sergeant, Stancil's affidavit not presented), or NUFORC postings. Hastings repeatedly notes that the sailors' sightings left no log entry and that no one else came forward, and explains the absence by security censorship, which makes the claims unfalsifiable.",
+  "evidence_type": "ANALYST_ASSESSMENT",
+  "provenance": "book Ch.3-5 read; SRC067",
+  "related_entities": "INC099;INC108;INC109;INC113;INC114",
+  "significance": "HIGH",
+  "verification_status": "PARTIALLY_VERIFIED",
+  "confidence": 3,
+  "section_id": "SEC026",
+  "line_ref": 2756
  }
 ]

@@ -1138,5 +1138,65 @@
   "notes": "Pratt and Matsler were orderlies to the captain and admiral.",
   "section_id": "SEC034",
   "line_ref": 4140
+ },
+ {
+  "witness_id": "WIT115",
+  "name": "Dan Wilson",
+  "role": "UFO researcher; source of the fallout-fireball correlation and Castle log finds",
+  "firsthand_status": "N/A (researcher)",
+  "identity_status": "NAMED",
+  "notes": "Independent researcher; also found DNA 6035F entries.",
+  "section_id": "SEC026",
+  "line_ref": 2804
+ },
+ {
+  "witness_id": "WIT116",
+  "name": "Tom Kramer",
+  "role": "Radioman seaman, USS Curtiss, Operation Ivy 1952",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Interviewed 2005; later electrical engineer.",
+  "section_id": "SEC033",
+  "line_ref": 3718
+ },
+ {
+  "witness_id": "WIT117",
+  "name": "Abelardo \"Abe\" Marquez",
+  "role": "Seaman apprentice/lookout, USS Fletcher, Ivy 1952",
+  "firsthand_status": "YES",
+  "identity_status": "NAMED",
+  "notes": "Posted at Atomic Veterans History Project 2007.",
+  "section_id": "SEC033",
+  "line_ref": 3770
+ },
+ {
+  "witness_id": "WIT118",
+  "name": "Olin H. Hasty",
+  "role": "Airborne radar operator, 77th SRS RB-36, Castle 1954",
+  "firsthand_status": "YES (radar)",
+  "identity_status": "NAMED",
+  "notes": "Posted at Atomic Veterans History Project.",
+  "section_id": "SEC035",
+  "line_ref": 4279
+ },
+ {
+  "witness_id": "WIT119",
+  "name": "\"John Harris\" (pseudonym)",
+  "role": "A1C ECM technician, 98th BS, Clinton-Sherman AFB 1962",
+  "firsthand_status": "YES (film screening)",
+  "identity_status": "ANONYMOUS",
+  "notes": "Identity withheld.",
+  "section_id": "SEC038",
+  "line_ref": 4830
+ },
+ {
+  "witness_id": "WIT120",
+  "name": "Fred Foss; Robert Ball; Frank Potts; Mike Kerrigan; Capt. Grover Rawlings; Cdr Robert McCurley",
+  "role": "Veterans of Teapot, Castle, Sandstone and Ivy",
+  "firsthand_status": "MIXED",
+  "identity_status": "NAMED",
+  "notes": "Mostly negative or hearsay contributions.",
+  "section_id": "SEC030",
+  "line_ref": 3269
  }
 ]

@@ -588,5 +588,45 @@
   "evaluation_status": "OPEN",
   "section_id": "SEC034",
   "line_ref": 4062
+ },
+ {
+  "explanation_id": "EXP060",
+  "target_entities": "INC099",
+  "explanation": "Chance and base rate: with 5-6 test series and ~45 shots, 9-17% of days in 1951-1955 fall within 3-10 days of a shot, and fallout spread across the whole U.S.; meteors (including a very active 1948-51 green-fireball period over NM predating Nevada tests) and observer expectation after publicity",
+  "supporting_evidence": "Base-rate calculation (EVD124); fireballs reported at Los Alamos and Sandia before 1951 where no fallout existed (Wilson himself notes this)",
+  "contradicting_evidence": "Wilson claims regional match of fallout trajectories and reports; no systematic data published",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC026",
+  "line_ref": 2796
+ },
+ {
+  "explanation_id": "EXP061",
+  "target_entities": "INC108",
+  "explanation": "Jupiter (m-2.7) was high in the west at ~0400 local (alt ~60, az ~282) and the brightest steady object up (Marquez); Moon/Mars/Jupiter or stars at the evening time for Kramer; autokinesis and perspective on a ship; no radar contact",
+  "supporting_evidence": "EVD125: Jupiter fits Marquez (not twinkling), fixed relative bearing on a steady course, though Marquez put it 40-45 deg up",
+  "contradicting_evidence": "Marquez saw it descend and rise; Kramer saw zigzags; crews found it odd",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC033",
+  "line_ref": 3778
+ },
+ {
+  "explanation_id": "EXP062",
+  "target_entities": "INC109",
+  "explanation": "Anomalous radar returns (weather or ionized cloud, as the Ivy history says) or the British Canberra at a higher altitude than planned; Hasty may be misremembering altitude",
+  "supporting_evidence": "DNA 6035F: RAF Canberra samplers at Kwajalein; code name for Canberras is Eager Beaver and VIKING was VIP aircraft (EVD126)",
+  "contradicting_evidence": "Hasty insists on multiple aircraft targets above 60,000 ft visible to pilots",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC035",
+  "line_ref": 4306
+ },
+ {
+  "explanation_id": "EXP063",
+  "target_entities": "INC114",
+  "explanation": "Expectation after the Levelland wave of 2-3 Nov 1957, bright full Moon rising in the ENE (alt 19-29), Venus and bright stars low; aircraft; guards at a high-security site primed for intruders",
+  "supporting_evidence": "EVD127: full Moon rising ENE and Venus setting WSW during the guards half hour",
+  "contradicting_evidence": "Three objects 50 ft up; patrolman saw a light; reporters saw red and green lights low in the north",
+  "evaluation_status": "OPEN",
+  "section_id": "SEC039",
+  "line_ref": 4959
  }
 ]

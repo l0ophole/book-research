@@ -116,3 +116,9 @@
 | WIT112 | Joe Stallings | Marine corporal (Q clearance), captain's orderly, USS Curtiss 1954 | NO (hearsay about the sighting) | NAMED |
 | WIT113 | Walter J. Handelman | Ensign, Officer of the Deck, USS Curtiss 1954 | PARTIAL (made the log entry; did not see the object) | NAMED |
 | WIT114 | Gene Pratt; David Matsler; Paul Morigeau | Marines aboard USS Curtiss 1954 | NO (Pratt and Matsler heard nothing) | NAMED |
+| WIT115 | Dan Wilson | UFO researcher; source of the fallout-fireball correlation and Castle log finds | N/A (researcher) | NAMED |
+| WIT116 | Tom Kramer | Radioman seaman, USS Curtiss, Operation Ivy 1952 | YES | NAMED |
+| WIT117 | Abelardo "Abe" Marquez | Seaman apprentice/lookout, USS Fletcher, Ivy 1952 | YES | NAMED |
+| WIT118 | Olin H. Hasty | Airborne radar operator, 77th SRS RB-36, Castle 1954 | YES (radar) | NAMED |
+| WIT119 | "John Harris" (pseudonym) | A1C ECM technician, 98th BS, Clinton-Sherman AFB 1962 | YES (film screening) | ANONYMOUS |
+| WIT120 | Fred Foss; Robert Ball; Frank Potts; Mike Kerrigan; Capt. Grover Rawlings; Cdr Robert McCurley | Veterans of Teapot, Castle, Sandstone and Ivy | MIXED | NAMED |

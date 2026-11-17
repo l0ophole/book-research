@@ -1552,5 +1552,117 @@
   "document_id": "DOC001",
   "section_id": "SEC034",
   "line_ref": 4234
+ },
+ {
+  "link_id": 223,
+  "claim_id": "CLM223",
+  "document_id": "DOC001",
+  "section_id": "SEC026",
+  "line_ref": 2796
+ },
+ {
+  "link_id": 224,
+  "claim_id": "CLM224",
+  "document_id": "DOC001",
+  "section_id": "SEC026",
+  "line_ref": 2999
+ },
+ {
+  "link_id": 225,
+  "claim_id": "CLM225",
+  "document_id": "DOC001",
+  "section_id": "SEC026",
+  "line_ref": 2868
+ },
+ {
+  "link_id": 226,
+  "claim_id": "CLM226",
+  "document_id": "DOC001",
+  "section_id": "SEC026",
+  "line_ref": 2917
+ },
+ {
+  "link_id": 227,
+  "claim_id": "CLM227",
+  "document_id": "DOC001",
+  "section_id": "SEC032",
+  "line_ref": 3516
+ },
+ {
+  "link_id": 228,
+  "claim_id": "CLM228",
+  "document_id": "DOC001",
+  "section_id": "SEC033",
+  "line_ref": 3688
+ },
+ {
+  "link_id": 229,
+  "claim_id": "CLM229",
+  "document_id": "DOC001",
+  "section_id": "SEC033",
+  "line_ref": 3735
+ },
+ {
+  "link_id": 230,
+  "claim_id": "CLM230",
+  "document_id": "DOC001",
+  "section_id": "SEC033",
+  "line_ref": 3778
+ },
+ {
+  "link_id": 231,
+  "claim_id": "CLM231",
+  "document_id": "DOC001",
+  "section_id": "SEC033",
+  "line_ref": 3962
+ },
+ {
+  "link_id": 232,
+  "claim_id": "CLM232",
+  "document_id": "DOC001",
+  "section_id": "SEC035",
+  "line_ref": 4306
+ },
+ {
+  "link_id": 233,
+  "claim_id": "CLM233",
+  "document_id": "DOC001",
+  "section_id": "SEC035",
+  "line_ref": 4335
+ },
+ {
+  "link_id": 234,
+  "claim_id": "CLM234",
+  "document_id": "DOC001",
+  "section_id": "SEC036",
+  "line_ref": 4574
+ },
+ {
+  "link_id": 235,
+  "claim_id": "CLM235",
+  "document_id": "DOC001",
+  "section_id": "SEC037",
+  "line_ref": 4736
+ },
+ {
+  "link_id": 236,
+  "claim_id": "CLM236",
+  "document_id": "DOC001",
+  "section_id": "SEC038",
+  "line_ref": 4841
+ },
+ {
+  "link_id": 237,
+  "claim_id": "CLM237",
+  "document_id": "DOC001",
+  "section_id": "SEC039",
+  "line_ref": 4959
+ },
+ {
+  "link_id": 238,
+  "claim_id": "CLM238",
+  "document_id": "DOC001",
+  "section_id": "SEC031",
+  "line_ref": 3417
  }
 ]

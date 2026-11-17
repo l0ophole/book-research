@@ -340,3 +340,13 @@
 - **Status:** NOT_STARTED
 - **Next action:** Check AMS and NUFORC archives
 
+## RQ035 [MEDIUM] — Does Wilson's fireball/UFO-after-test correlation survive a null model using a complete fireball/UFO report catalogue and actual fallout trajectories?
+- **Related:** INC099;EVD124;CLM223
+- **Existing evidence:** Base-rate calculation; examples in the book
+- **Missing evidence:** Complete report catalogue 1948-1957; AEC fallout maps; random-date controls
+- **Potential sources:** Blue Book; AMS; NNSA/OHP
+- **Methods:** Build catalogue; test hit rates against randomized shot dates
+- **Verification criteria:** Significant excess over random expectation
+- **Status:** NOT_STARTED
+- **Next action:** Get Wilson dataset or reconstruct from Blue Book
+

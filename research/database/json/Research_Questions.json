@@ -440,5 +440,18 @@
   "verification_criteria": "Event identified or excluded",
   "status": "NOT_STARTED",
   "next_action": "Check AMS and NUFORC archives"
+ },
+ {
+  "question_id": "RQ035",
+  "question": "Does Wilson's fireball/UFO-after-test correlation survive a null model using a complete fireball/UFO report catalogue and actual fallout trajectories?",
+  "priority": "MEDIUM",
+  "related_entities": "INC099;EVD124;CLM223",
+  "existing_evidence": "Base-rate calculation; examples in the book",
+  "missing_evidence": "Complete report catalogue 1948-1957; AEC fallout maps; random-date controls",
+  "potential_sources": "Blue Book; AMS; NNSA/OHP",
+  "recommended_methods": "Build catalogue; test hit rates against randomized shot dates",
+  "verification_criteria": "Significant excess over random expectation",
+  "status": "NOT_STARTED",
+  "next_action": "Get Wilson dataset or reconstruct from Blue Book"
  }
 ]

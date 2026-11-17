@@ -36,3 +36,4 @@
 | RQ032 | Where precisely were the Roswell debris field, the alleged second site and Trinity, and does "halfway" hold? | LOW | NOT_STARTED | Get coordinates and compute |
 | RQ033 | Can Lytle-Blanchard and Exon claims be tested against career records (postings, locations, dates)? | LOW | NOT_STARTED | Search AFHRA biographies |
 | RQ034 | Was there a bolide or other known event on the evening of 22 Apr 1998 (green flash reports on King 5 at 2115) that explains the fast object, and can Swanson's slow disc be separated from it? | MEDIUM | NOT_STARTED | Check AMS and NUFORC archives |
+| RQ035 | Does Wilson's fireball/UFO-after-test correlation survive a null model using a complete fireball/UFO report catalogue and actual fallout trajectories? | MEDIUM | NOT_STARTED | Get Wilson dataset or reconstruct from Blue Book |

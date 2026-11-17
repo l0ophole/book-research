@@ -101,3 +101,19 @@
 | INC096 | 2004-07-20 ~2215 MST | Palo Verde Nuclear Generating Station, AZ | LOW | UNVERIFIED | 1 | 23465 |
 | INC097 | 2008-05-19 ~1220 | Surry Nuclear Power Station, VA | LOW | UNVERIFIED | 1 | 23494 |
 | INC098 | 1954-04-07 2305 (Koon shot day), Marshall Islands | USS Curtiss (AV-4), en route Bikini to Enewetak, Operation Castle | MEDIUM | PARTIALLY_VERIFIED | 3 | 3997 |
+| INC099 | 1951-11-01 to 1951-11-20 (Buster-Jangle); also 1952-55 series | Southwestern/Midwestern U.S. (Nevada fallout paths) | MEDIUM | PARTIALLY_VERIFIED | 3 | 2756 |
+| INC100 | 1952-04-02 0900 | Lake Mead, NV | LOW | PARTIALLY_VERIFIED | 3 | 3027 |
+| INC101 | 1952-04-17 1205 | Nellis AFB, NV (test-site vicinity) | LOW | UNVERIFIED | 1 | 3049 |
+| INC102 | 1952-05-01 to 1952-05-10 | Albuquerque/Sandia, NM and Savannah River Plant, SC | MEDIUM | PARTIALLY_VERIFIED | 3 | 3075 |
+| INC103 | 1953-05-21 | Prescott, AZ | LOW | UNVERIFIED | 1 | 3211 |
+| INC104 | 1955-03 to 1955-04-25 | NM, TX, Iowa/Nebraska (Teapot period) | LOW | PARTIALLY_VERIFIED | 3 | 3269 |
+| INC105 | 1957-07-16 1356-1358 PST | Angel Peak radar site (865th ACWRON), NV | MEDIUM | UNVERIFIED | 1 | 3405 |
+| INC106 | 1957-10-10 ~0400 MST | Utah-Colorado border | LOW | PARTIALLY_VERIFIED | 3 | 3448 |
+| INC107 | 1952-09-13 to 1952-09-21 | North Sea (Operation Mainbrace) | LOW | PARTIALLY_VERIFIED | 3 | 3483 |
+| INC108 | 1952-10-25 to 1952-10-27 (est.) | USS Curtiss and USS Fletcher, Operation Ivy, Marshall Islands | LOW | UNVERIFIED | 1 | 3716 |
+| INC109 | 1954-03-01 (Castle Bravo) | Over Bikini area, aboard RB-36 controller aircraft | MEDIUM | PARTIALLY_VERIFIED | 3 | 4279 |
+| INC110 | 1954-04 (Castle period), 1400 | Kwajalein, Marshall Islands | LOW | UNVERIFIED | 1 | 4483 |
+| INC111 | 1948? (Sandstone), 1952-11-01 (Mike), 1954-03 (Bravo) | USS Mt. McKinley (Sandstone transit), USS Estes (Ivy, Castle) | LOW | PARTIALLY_VERIFIED | 3 | 4529 |
+| INC112 | 1953-56 (probably 1954), near the North Pole | USAF B-50 weather/sampling flight (1009th SWS) | LOW | UNVERIFIED | 1 | 4713 |
+| INC113 | 1962-03-31 to 1962-07-02 | Clinton-Sherman AFB, OK (98th Bomb Squadron) | MEDIUM | UNVERIFIED | 1 | 4830 |
+| INC114 | 1957-11-07 1946-2034 CST (and 1957-1966 series) | Pantex Plant, Amarillo, TX | LOW | PARTIALLY_VERIFIED | 3 | 4959 |
